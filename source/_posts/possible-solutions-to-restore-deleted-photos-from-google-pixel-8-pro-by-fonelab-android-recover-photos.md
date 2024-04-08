@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted photos from Google Pixel 8 Pro.
-date: 2024-04-02T23:51:26.402Z
+date: 2024-04-07T02:23:58.893Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -32,12 +32,12 @@ A highly recommended Google Pixel 8 Pro photos recovery program to 100% restore 
 <div class="atpl-post-description-part-3">
 <div class="tpl-content-sub-paragraph-content">
   <p>
-    To restore photos from Google Pixel 8 Pro ,you need to download this free <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" target="_blank" rel="noopener"><strong>Android Data Recovery</strong></a> to restore Android data without backup, which covers how to recover deleted photos on Google Pixel 8 Pro , and how to restore photos, videos from Google Pixel 8 Pro device after rooting.
+    To restore photos from Google Pixel 8 Pro ,you need to download this free <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" ><strong>Android Data Recovery</strong></a> to restore Android data without backup, which covers how to recover deleted photos on Google Pixel 8 Pro , and how to restore photos, videos from Google Pixel 8 Pro device after rooting.
   </p>
 </div>
 <div class="tpl-content-sub-paragraph-content">
   <p>
-    <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" target="_blank" rel="noopener"><strong>Android Data Recovery</strong></a> not only can help you to recover lost photos from Google Pixel 8 Pro , Google Pixel 8 Pro memory card or SIM Card, but also allows you restore photos, text messages, videos and other lost data on Android device, this data recovery for Android works well with Samsung, HTC, Motorola, LG, Sony and more other Android devices.
+    <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" ><strong>Android Data Recovery</strong></a> not only can help you to recover lost photos from Google Pixel 8 Pro , Google Pixel 8 Pro memory card or SIM Card, but also allows you restore photos, text messages, videos and other lost data on Android device, this data recovery for Android works well with Samsung, HTC, Motorola, LG, Sony and more other Android devices.
   </p>
 </div>
 </div>
@@ -51,7 +51,7 @@ A highly recommended Google Pixel 8 Pro photos recovery program to 100% restore 
   <span class="atpl-step-part-style">Part 1. Possible solutions to restore deleted photos from Google Pixel 8 Pro. (on macOS)</span>
 </div>  
 <span class="atpl-stepstyle-a"><span>Step 1: </span></span> <strong>Download and launch the Android Data Recovery on Mac</strong>
-Download and install the <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" target="_blank" rel="noopener">Android Data Recovery</a> on your Mac computer, when you open it, a dialog box will pop up to remind you whether to register, purchase or free try.
+Download and install the <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" >Android Data Recovery</a> on your Mac computer, when you open it, a dialog box will pop up to remind you whether to register, purchase or free try.
 <br>
 <img src="https://tools.techidaily.com/images/apps/aiseesoft/android-data-recovery/mac-free-try.png" class="atpl-imgstyle" alt="android data recovery free try" /><br>
 <span class="atpl-stepstyle-a"><span>Step 2: </span></span> <strong>Connection</strong>
@@ -74,7 +74,7 @@ When the scanning is finished, all types of files will be listed in categories o
   <span class="atpl-step-part-style">Part 2. Possible solutions to restore deleted photos from Google Pixel 8 Pro. (on Windows)</span>
 </div>
 <span class="atpl-stepstyle-a"><span>Step 1: </span></span> <strong>Download and launch the Android Data Recovery</strong>
-Download and install the <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" target="_blank" rel="noopener">Android Data Recovery</a> on your Windows computer.
+Download and install the <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" >Android Data Recovery</a> on your Windows computer.
 <br>
 <img src="https://tools.techidaily.com/images/apps/aiseesoft/android-data-recovery/win-start-interface.png"  class="atpl-imgstyle" alt="android data recovery windows" /><br>
 <span class="atpl-stepstyle-a"><span>Step 2: </span></span> <strong>Connection</strong>

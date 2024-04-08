@@ -1,7 +1,7 @@
 ---
 title: Recover your photos after Redmi Note 12 Pro+ 5G has been deleted.
-date: 2024-03-09 17:49:38
-updated: 2024-03-10 22:51:32
+date: 2024-04-07T02:24:00.002Z
+updated: 2024-04-08T02:24:00.002Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -59,7 +59,7 @@ If you are unlucky to mistakenly delete some photos from your Xiaomi Redmi Note 
 </div>  
 
 <span class="atpl-stepstyle-a"><span>Step 1: </span></span> <strong>Download and launch the Android Data Recovery on Mac</strong>
-Download and install the <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" target="_blank" rel="noopener">Android Data Recovery</a> on your Mac computer, when you open it, a dialog box will pop up to remind you whether to register, purchase or free try.
+Download and install the <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" >Android Data Recovery</a> on your Mac computer, when you open it, a dialog box will pop up to remind you whether to register, purchase or free try.
 
 <img src="https://tools.techidaily.com/images/apps/aiseesoft/android-data-recovery/mac-free-try.png" class="atpl-imgstyle" alt="android data recovery free try" />
 
@@ -87,7 +87,7 @@ When the scanning is finished, all types of files will be listed in categories o
 </div>
 
 <span class="atpl-stepstyle-a"><span>Step 1: </span></span> <strong>Download and launch the Android Data Recovery</strong>
-Download and install the <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" target="_blank" rel="noopener">Android Data Recovery</a> on your Windows computer.
+Download and install the <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" >Android Data Recovery</a> on your Windows computer.
 <img src="https://tools.techidaily.com/images/apps/aiseesoft/android-data-recovery/win-start-interface.png"  class="atpl-imgstyle" alt="android data recovery windows" />
 
 <span class="atpl-stepstyle-a"><span>Step 2: </span></span> <strong>Connection</strong>

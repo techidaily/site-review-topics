@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted contacts from Infinix Smart 8.
-date: 2024-04-02T23:51:26.268Z
+date: 2024-04-07T02:23:58.675Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -35,7 +35,7 @@ A highly recommended Infinix Smart 8 contacts recovery program to 100% restore l
 </div>
 <div class="tpl-content-sub-paragraph-content">
   <p>
-    An excellent program is required for the task - <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" target="_blank" rel="noopener"><strong>Android Data Recovery</strong></a> (Win/Mac). It is easy to manage as you can recover lost, deleted, or formatted contacts on Android phones through only several clicks. Before you make the recovery, the program allows you to preview all the contacts information, such as name, phone number, email address, company address and so on, so that you can choose what you want and restore them selectively. The restored contacts can be saved in the format of HTML or TXT. And the best Android Contacts Recovery is compatible with nearly all brands of smartphone with Android system, including HTC, Samsung, Motorola, Sony, ZTE, LG, Huawei and so on.
+    An excellent program is required for the task - <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" ><strong>Android Data Recovery</strong></a> (Win/Mac). It is easy to manage as you can recover lost, deleted, or formatted contacts on Android phones through only several clicks. Before you make the recovery, the program allows you to preview all the contacts information, such as name, phone number, email address, company address and so on, so that you can choose what you want and restore them selectively. The restored contacts can be saved in the format of HTML or TXT. And the best Android Contacts Recovery is compatible with nearly all brands of smartphone with Android system, including HTC, Samsung, Motorola, Sony, ZTE, LG, Huawei and so on.
   </p>
 </div>
 </div>
@@ -49,7 +49,7 @@ A highly recommended Infinix Smart 8 contacts recovery program to 100% restore l
   <span class="atpl-step-part-style">Part 1. Possible solutions to restore deleted contacts from Infinix Smart 8. (on macOS)</span>
 </div>  
 <span class="atpl-stepstyle-a"><span>Step 1: </span></span> <strong>Download and launch the Android Data Recovery on Mac</strong>
-Download and install the <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" target="_blank" rel="noopener">Android Data Recovery</a> on your Mac computer, when you open it, a dialog box will pop up to remind you whether to register, purchase or free try.
+Download and install the <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" >Android Data Recovery</a> on your Mac computer, when you open it, a dialog box will pop up to remind you whether to register, purchase or free try.
 <br>
 <img src="https://tools.techidaily.com/images/apps/aiseesoft/android-data-recovery/mac-free-try.png" class="atpl-imgstyle" alt="android data recovery free try" /><br>
 <span class="atpl-stepstyle-a"><span>Step 2: </span></span> <strong>Connection</strong>
@@ -72,7 +72,7 @@ When the scanning is finished, all types of files will be listed in categories o
   <span class="atpl-step-part-style">Part 2. Possible solutions to restore deleted contacts from Infinix Smart 8. (on Windows)</span>
 </div>
 <span class="atpl-stepstyle-a"><span>Step 1: </span></span> <strong>Download and launch the Android Data Recovery</strong>
-Download and install the <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" target="_blank" rel="noopener">Android Data Recovery</a> on your Windows computer.
+Download and install the <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" >Android Data Recovery</a> on your Windows computer.
 <br>
 <img src="https://tools.techidaily.com/images/apps/aiseesoft/android-data-recovery/win-start-interface.png"  class="atpl-imgstyle" alt="android data recovery windows" /><br>
 <span class="atpl-stepstyle-a"><span>Step 2: </span></span> <strong>Connection</strong>
