@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Galaxy F54 5G
-date: 2024-04-07T22:08:58.329Z
+date: 2024-04-09T01:56:14.651Z
 tags: 
   - hevc video
   - hevc android

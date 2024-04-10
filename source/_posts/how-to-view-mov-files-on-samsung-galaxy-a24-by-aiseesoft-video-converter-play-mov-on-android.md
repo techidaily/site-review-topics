@@ -1,6 +1,6 @@
 ---
 title: How to view MOV files on Samsung Galaxy A24 ?
-date: 2024-04-07T22:08:58.181Z
+date: 2024-04-09T01:56:14.535Z
 tags: 
   - mov video
   - mov android

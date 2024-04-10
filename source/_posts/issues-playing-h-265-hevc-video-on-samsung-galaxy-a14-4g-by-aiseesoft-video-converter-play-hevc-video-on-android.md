@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Samsung Galaxy A14 4G
-date: 2024-04-07T22:08:58.348Z
+date: 2024-04-09T01:56:14.692Z
 tags: 
   - hevc video
   - hevc android

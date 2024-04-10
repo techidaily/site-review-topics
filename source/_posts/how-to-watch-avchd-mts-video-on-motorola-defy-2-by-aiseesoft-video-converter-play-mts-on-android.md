@@ -1,6 +1,6 @@
 ---
 title: How to watch AVCHD MTS video on Motorola Defy 2?
-date: 2024-04-07T22:08:58.206Z
+date: 2024-04-09T01:56:14.581Z
 tags: 
   - mts video
   - mts android

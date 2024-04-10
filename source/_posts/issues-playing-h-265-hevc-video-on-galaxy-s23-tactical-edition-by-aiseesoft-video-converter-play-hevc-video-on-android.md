@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Galaxy S23 Tactical Edition
-date: 2024-04-07T22:08:58.332Z
+date: 2024-04-09T01:56:14.654Z
 tags: 
   - hevc video
   - hevc android

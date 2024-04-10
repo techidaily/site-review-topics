@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Nova Y91
-date: 2024-04-07T22:08:58.344Z
+date: 2024-04-09T01:56:14.684Z
 tags: 
   - hevc video
   - hevc android

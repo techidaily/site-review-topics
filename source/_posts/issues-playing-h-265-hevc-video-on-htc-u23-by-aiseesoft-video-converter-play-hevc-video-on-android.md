@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on HTC U23
-date: 2024-04-07T22:08:58.336Z
+date: 2024-04-09T01:56:14.659Z
 tags: 
   - hevc video
   - hevc android

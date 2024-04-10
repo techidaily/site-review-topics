@@ -1,6 +1,6 @@
 ---
 title: How to watch AVCHD MTS video on Redmi Note 13 Pro+ 5G?
-date: 2024-04-07T22:08:58.217Z
+date: 2024-04-09T01:56:14.591Z
 tags: 
   - mts video
   - mts android

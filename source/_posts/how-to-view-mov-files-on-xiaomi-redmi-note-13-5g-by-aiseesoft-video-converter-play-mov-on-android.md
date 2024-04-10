@@ -1,6 +1,6 @@
 ---
 title: How to view MOV files on Xiaomi Redmi Note 13 5G ?
-date: 2024-04-07T22:08:58.186Z
+date: 2024-04-09T01:56:14.567Z
 tags: 
   - mov video
   - mov android

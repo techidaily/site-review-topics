@@ -1,7 +1,7 @@
 ---
 title: How to watch AVCHD MTS video on Xiaomi Redmi Note 12R?
-date: 2024-04-07T22:08:58.291Z
-updated: 2024-04-08T22:08:58.291Z
+date: 2024-04-09T01:56:14.612Z
+updated: 2024-04-10T01:56:14.612Z
 tags: 
   - mts video
   - mts android

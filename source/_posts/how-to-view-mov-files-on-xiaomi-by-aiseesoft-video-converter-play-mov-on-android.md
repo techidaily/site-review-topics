@@ -1,6 +1,6 @@
 ---
 title: How to view MOV files on Xiaomi ?
-date: 2024-04-07T22:08:58.184Z
+date: 2024-04-09T01:56:14.564Z
 tags: 
   - mov video
   - mov android

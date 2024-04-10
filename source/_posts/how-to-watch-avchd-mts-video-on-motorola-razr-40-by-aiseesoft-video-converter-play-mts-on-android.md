@@ -1,6 +1,6 @@
 ---
 title: How to watch AVCHD MTS video on Motorola Razr 40?
-date: 2024-04-07T22:08:58.213Z
+date: 2024-04-09T01:56:14.588Z
 tags: 
   - mts video
   - mts android

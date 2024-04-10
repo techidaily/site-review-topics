@@ -1,6 +1,6 @@
 ---
 title: How to view MOV files on Sony Xperia 10 V ?
-date: 2024-04-07T22:08:58.183Z
+date: 2024-04-09T01:56:14.556Z
 tags: 
   - mov video
   - mov android

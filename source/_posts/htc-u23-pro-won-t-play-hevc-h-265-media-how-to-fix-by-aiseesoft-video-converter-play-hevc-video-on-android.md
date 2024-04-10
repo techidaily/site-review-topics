@@ -1,6 +1,6 @@
 ---
 title: HTC U23 Pro won’t play HEVC H.265 media, how to fix? 
-date: 2024-04-07T22:08:58.298Z
+date: 2024-04-09T01:56:14.620Z
 tags: 
   - hevc video
   - hevc android

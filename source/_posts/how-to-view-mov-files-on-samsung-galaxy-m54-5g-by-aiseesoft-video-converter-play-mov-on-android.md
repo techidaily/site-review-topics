@@ -1,6 +1,6 @@
 ---
 title: How to view MOV files on Samsung Galaxy M54 5G ?
-date: 2024-04-07T22:08:58.182Z
+date: 2024-04-09T01:56:14.553Z
 tags: 
   - mov video
   - mov android

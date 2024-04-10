@@ -1,6 +1,6 @@
 ---
 title: How to view MOV files on Galaxy Z Flip 5 ?
-date: 2024-04-07T22:08:58.172Z
+date: 2024-04-09T01:56:14.448Z
 tags: 
   - mov video
   - mov android

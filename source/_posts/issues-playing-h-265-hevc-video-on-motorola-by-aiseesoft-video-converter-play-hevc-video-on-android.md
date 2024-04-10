@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Motorola
-date: 2024-04-07T22:08:58.339Z
+date: 2024-04-09T01:56:14.662Z
 tags: 
   - hevc video
   - hevc android

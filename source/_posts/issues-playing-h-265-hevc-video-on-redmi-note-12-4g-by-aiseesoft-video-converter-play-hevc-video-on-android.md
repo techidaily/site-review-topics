@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Redmi Note 12 4G
-date: 2024-04-07T22:08:58.346Z
+date: 2024-04-09T01:56:14.690Z
 tags: 
   - hevc video
   - hevc android

@@ -1,6 +1,6 @@
 ---
 title: How to watch AVCHD MTS video on Xperia 5 V?
-date: 2024-04-07T22:08:58.293Z
+date: 2024-04-09T01:56:14.613Z
 tags: 
   - mts video
   - mts android

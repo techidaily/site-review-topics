@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Civi 3 Disney 100th Anniversary Edition
-date: 2024-04-07T22:08:58.325Z
+date: 2024-04-09T01:56:14.646Z
 tags: 
   - hevc video
   - hevc android

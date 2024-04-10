@@ -1,6 +1,6 @@
 ---
 title: How to watch AVCHD MTS video on Galaxy F34 5G?
-date: 2024-04-07T22:08:58.189Z
+date: 2024-04-09T01:56:14.571Z
 tags: 
   - mts video
   - mts android

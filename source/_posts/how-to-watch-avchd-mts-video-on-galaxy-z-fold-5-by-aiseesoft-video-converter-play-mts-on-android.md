@@ -1,6 +1,6 @@
 ---
 title: How to watch AVCHD MTS video on Galaxy Z Fold 5?
-date: 2024-04-07T22:08:58.191Z
+date: 2024-04-09T01:56:14.573Z
 tags: 
   - mts video
   - mts android

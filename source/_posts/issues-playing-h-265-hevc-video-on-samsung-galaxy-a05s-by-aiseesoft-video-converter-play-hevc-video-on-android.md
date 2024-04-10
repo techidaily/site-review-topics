@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Samsung Galaxy A05s
-date: 2024-04-07T22:08:58.347Z
+date: 2024-04-09T01:56:14.691Z
 tags: 
   - hevc video
   - hevc android

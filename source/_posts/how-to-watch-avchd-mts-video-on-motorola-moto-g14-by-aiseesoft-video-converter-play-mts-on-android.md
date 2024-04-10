@@ -1,6 +1,6 @@
 ---
 title: How to watch AVCHD MTS video on Motorola Moto G14?
-date: 2024-04-07T22:08:58.211Z
+date: 2024-04-09T01:56:14.585Z
 tags: 
   - mts video
   - mts android

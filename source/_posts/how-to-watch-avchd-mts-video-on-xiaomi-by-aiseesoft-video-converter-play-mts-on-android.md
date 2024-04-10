@@ -1,7 +1,7 @@
 ---
 title: How to watch AVCHD MTS video on Xiaomi ?
-date: 2024-04-07T22:08:58.284Z
-updated: 2024-04-08T22:08:58.284Z
+date: 2024-04-09T01:56:14.604Z
+updated: 2024-04-10T01:56:14.604Z
 tags: 
   - mts video
   - mts android

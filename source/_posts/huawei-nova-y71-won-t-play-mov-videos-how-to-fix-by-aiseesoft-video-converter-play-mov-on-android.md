@@ -1,6 +1,6 @@
 ---
 title: Huawei Nova Y71 won't play MOV videos, how to fix ?
-date: 2024-04-07T22:08:58.308Z
+date: 2024-04-09T01:56:14.624Z
 tags: 
   - mov video
   - mov android

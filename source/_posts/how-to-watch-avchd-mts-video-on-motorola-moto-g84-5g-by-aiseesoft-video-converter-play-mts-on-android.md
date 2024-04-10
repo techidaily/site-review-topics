@@ -1,6 +1,6 @@
 ---
 title: How to watch AVCHD MTS video on Motorola Moto G84 5G?
-date: 2024-04-07T22:08:58.212Z
+date: 2024-04-09T01:56:14.587Z
 tags: 
   - mts video
   - mts android

@@ -1,6 +1,6 @@
 ---
 title: How to view MOV files on Huawei  ?
-date: 2024-04-07T22:08:58.175Z
+date: 2024-04-09T01:56:14.460Z
 tags: 
   - mov video
   - mov android

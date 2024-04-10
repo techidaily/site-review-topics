@@ -1,6 +1,6 @@
 ---
 title: How to watch AVCHD MTS video on Huawei ?
-date: 2024-04-07T22:08:58.193Z
+date: 2024-04-09T01:56:14.576Z
 tags: 
   - mts video
   - mts android

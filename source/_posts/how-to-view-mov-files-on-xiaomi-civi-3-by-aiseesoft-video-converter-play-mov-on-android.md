@@ -1,7 +1,7 @@
 ---
 title: How to view MOV files on Xiaomi Civi 3 ?
-date: 2024-04-07T22:08:58.185Z
-updated: 2024-04-08T22:08:58.185Z
+date: 2024-04-09T01:56:14.565Z
+updated: 2024-04-10T01:56:14.565Z
 tags: 
   - mov video
   - mov android

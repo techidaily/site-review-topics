@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Motorola Moto G14
-date: 2024-04-07T22:08:58.343Z
+date: 2024-04-09T01:56:14.682Z
 tags: 
   - hevc video
   - hevc android

@@ -1,6 +1,6 @@
 ---
 title: How to view MOV files on Motorola G24 Power ?
-date: 2024-04-07T22:08:58.177Z
+date: 2024-04-09T01:56:14.480Z
 tags: 
   - mov video
   - mov android

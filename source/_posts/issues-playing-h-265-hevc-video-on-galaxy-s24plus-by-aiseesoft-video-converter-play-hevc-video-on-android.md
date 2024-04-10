@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Galaxy S24+
-date: 2024-04-07T22:08:58.334Z
+date: 2024-04-09T01:56:14.657Z
 tags: 
   - hevc video
   - hevc android

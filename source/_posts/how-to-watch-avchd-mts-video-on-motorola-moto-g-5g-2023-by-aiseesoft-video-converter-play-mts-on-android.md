@@ -1,6 +1,6 @@
 ---
 title: How to watch AVCHD MTS video on Motorola Moto G 5G (2023)?
-date: 2024-04-07T22:08:58.209Z
+date: 2024-04-09T01:56:14.584Z
 tags: 
   - mts video
   - mts android

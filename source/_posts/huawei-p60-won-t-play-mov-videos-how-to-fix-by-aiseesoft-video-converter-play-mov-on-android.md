@@ -1,6 +1,6 @@
 ---
 title: Huawei P60 won't play MOV videos, how to fix ?
-date: 2024-04-07T22:08:58.313Z
+date: 2024-04-09T01:56:14.629Z
 tags: 
   - mov video
   - mov android

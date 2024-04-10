@@ -1,4 +1,4 @@
-Sitemap: https://review-topics.techidaily.com/sitemap.txt
+Sitemap: https://review-topics.techidaily.com/sitemap.xml
 User-agent: Googlebot
 Disallow:
 

@@ -1,6 +1,6 @@
 ---
 title: HTC U23 Pro can’t play AVCHD .mts video
-date: 2024-04-07T22:08:58.297Z
+date: 2024-04-09T01:56:14.619Z
 tags: 
   - mts video
   - mts android

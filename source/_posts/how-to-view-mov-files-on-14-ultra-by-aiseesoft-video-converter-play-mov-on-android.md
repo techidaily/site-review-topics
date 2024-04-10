@@ -1,7 +1,7 @@
 ---
 title: How to view MOV files on 14 Ultra ?
-date: 2024-04-07T22:08:58.088Z
-updated: 2024-04-08T22:08:58.088Z
+date: 2024-04-09T01:56:14.415Z
+updated: 2024-04-10T01:56:14.415Z
 tags: 
   - mov video
   - mov android

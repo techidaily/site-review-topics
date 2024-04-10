@@ -1,6 +1,6 @@
 ---
 title: HTC can’t play AVCHD .mts video
-date: 2024-04-07T22:08:58.295Z
+date: 2024-04-09T01:56:14.616Z
 tags: 
   - mts video
   - mts android

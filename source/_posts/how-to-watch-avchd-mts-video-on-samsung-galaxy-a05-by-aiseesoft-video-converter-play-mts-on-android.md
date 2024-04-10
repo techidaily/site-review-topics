@@ -1,6 +1,6 @@
 ---
 title: How to watch AVCHD MTS video on Samsung Galaxy A05?
-date: 2024-04-07T22:08:58.218Z
+date: 2024-04-09T01:56:14.593Z
 tags: 
   - mts video
   - mts android

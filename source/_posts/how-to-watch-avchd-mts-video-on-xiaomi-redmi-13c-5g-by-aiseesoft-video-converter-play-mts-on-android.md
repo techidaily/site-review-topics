@@ -1,6 +1,6 @@
 ---
 title: How to watch AVCHD MTS video on Xiaomi Redmi 13C 5G?
-date: 2024-04-07T22:08:58.286Z
+date: 2024-04-09T01:56:14.606Z
 tags: 
   - mts video
   - mts android

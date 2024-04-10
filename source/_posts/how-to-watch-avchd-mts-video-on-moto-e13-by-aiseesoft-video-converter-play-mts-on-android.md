@@ -1,7 +1,7 @@
 ---
 title: How to watch AVCHD MTS video on Moto E13?
-date: 2024-04-07T22:08:58.202Z
-updated: 2024-04-08T22:08:58.202Z
+date: 2024-04-09T01:56:14.577Z
+updated: 2024-04-10T01:56:14.577Z
 tags: 
   - mts video
   - mts android
