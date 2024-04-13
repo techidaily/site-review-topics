@@ -1,6 +1,6 @@
 ---
 title: HTC U23 can't play MP4 video files
-date: 2024-04-09T01:56:14.618Z
+date: 2024-04-12T01:35:51.822Z
 tags: 
   - mp4 video
   - mp4 android
@@ -162,3 +162,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/" ><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-recover-apple-iphone-xs-max-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/" ><u>How To Recover Apple iPhone XS Max Data From iCloud? | Dr.fone</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

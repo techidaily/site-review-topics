@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Samsung Galaxy A05s
-date: 2024-04-09T01:56:14.691Z
+date: 2024-04-12T01:35:51.956Z
 tags: 
   - hevc video
   - hevc android
@@ -159,3 +159,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-xiaomi-civi-3-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>In 2024, 2 Ways to Transfer Text Messages from Xiaomi Civi 3 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-y78-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>Play Store Not Working On Vivo Y78 5G? 8 Solutions Inside | Dr.fone</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

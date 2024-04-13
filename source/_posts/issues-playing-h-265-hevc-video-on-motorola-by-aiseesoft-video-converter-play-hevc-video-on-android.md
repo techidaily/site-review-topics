@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Motorola
-date: 2024-04-09T01:56:14.662Z
+date: 2024-04-12T01:35:51.946Z
 tags: 
   - hevc video
   - hevc android
@@ -180,3 +180,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-motorola-razr-40-drfone-by-drfone-virtual-android/" ><u>Here are Some of the Best Pokemon Discord Servers to Join On Motorola Razr 40 | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-xiaomi-13-ultra-by-drfone-android/" ><u>In 2024, Universal Unlock Pattern for Xiaomi 13 Ultra</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Moto G24
-date: 2024-04-09T01:56:14.662Z
+date: 2024-04-12T01:35:51.945Z
 tags: 
   - hevc video
   - hevc android
@@ -153,3 +153,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-12-mini-parental-restrictions-withwithout-password-by-drfone-ios/" ><u>Disabling Apple iPhone 12 mini Parental Restrictions With/Without Password</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-edge-2023-phone-without-any-data-loss-by-drfone-android/" ><u>In 2024, How to Unlock Motorola Edge 2023 Phone without Any Data Loss</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

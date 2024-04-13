@@ -1,6 +1,6 @@
 ---
 title: How to view MOV files on Sony Xperia 10 V ?
-date: 2024-04-09T01:56:14.556Z
+date: 2024-04-12T01:35:51.756Z
 tags: 
   - mov video
   - mov android
@@ -148,3 +148,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-xiaomi-13t-pro-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/" ><u>Play HEVC H.265 on Xiaomi 13T Pro, is it possible?</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6s-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/" ><u>How To Transfer WhatsApp From iPhone 6s to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

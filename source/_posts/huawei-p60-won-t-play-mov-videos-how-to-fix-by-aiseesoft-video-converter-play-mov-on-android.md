@@ -1,6 +1,6 @@
 ---
 title: Huawei P60 won't play MOV videos, how to fix ?
-date: 2024-04-09T01:56:14.629Z
+date: 2024-04-12T01:35:51.834Z
 tags: 
   - mov video
   - mov android
@@ -161,3 +161,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/" ><u>In 2024, Best Anti Tracker Software For Samsung Galaxy A34 5G | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/calls-on-vivo-y78plus-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>Calls on Vivo Y78+ Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Civi 3 Disney 100th Anniversary Edition
-date: 2024-04-09T01:56:14.646Z
+date: 2024-04-12T01:35:51.898Z
 tags: 
   - hevc video
   - hevc android
@@ -173,3 +173,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-won-t-play-on-itel-p40plus-by-stellar-video-repair-mobile-video-repair/" ><u>Solved  Bad and Corrupt Videos that won't Play on Itel P40+</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-6s-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/" ><u>Unlocking iPhone 6s Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

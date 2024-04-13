@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Huawei 
-date: 2024-04-09T01:56:14.660Z
+date: 2024-04-12T01:35:51.944Z
 tags: 
   - hevc video
   - hevc android
@@ -158,3 +158,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/" ><u>Can I use iTools gpx file to catch the rare Pokemon On Apple iPhone SE (2022) | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-vivo-y02t-drfone-by-drfone-virtual-android/" ><u>How to Change Location On Facebook Dating for your Vivo Y02T | Dr.fone</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

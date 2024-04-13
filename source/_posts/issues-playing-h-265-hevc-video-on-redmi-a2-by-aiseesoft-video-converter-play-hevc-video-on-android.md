@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Redmi A2
-date: 2024-04-09T01:56:14.686Z
+date: 2024-04-12T01:35:51.954Z
 tags: 
   - hevc video
   - hevc android
@@ -172,3 +172,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-reno-9a-by-fonelab-android-recover-music/" ><u>How to restore wiped music on Reno 9A</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>How To Fix Unresponsive Touch Screen on Itel P40+ | Dr.fone</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

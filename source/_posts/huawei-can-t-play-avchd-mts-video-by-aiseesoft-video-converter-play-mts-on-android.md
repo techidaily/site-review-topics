@@ -1,6 +1,6 @@
 ---
 title: Huawei  can’t play AVCHD .mts video
-date: 2024-04-09T01:56:14.623Z
+date: 2024-04-12T01:35:51.828Z
 tags: 
   - mts video
   - mts android
@@ -172,3 +172,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-zte-axon-40-lite-drfone-by-drfone-reset-android-reset-android/" ><u>Three Solutions to Hard Reset ZTE Axon 40 Lite? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-a-oneplus-11-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/" ><u>How to Reset a OnePlus 11 5G Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

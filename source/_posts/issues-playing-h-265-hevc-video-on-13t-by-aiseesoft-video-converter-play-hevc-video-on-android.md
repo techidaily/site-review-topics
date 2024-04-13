@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on 13T
-date: 2024-04-09T01:56:14.645Z
+date: 2024-04-12T01:35:51.891Z
 tags: 
   - hevc video
   - hevc android
@@ -166,3 +166,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-honor-x8b-by-fonelab-android-recover-call-logs/" ><u>How To  Restore Missing Call Logs from Honor X8b</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-narzo-60-5g-location-settings-drfone-by-drfone-virtual/" ><u>In 2024, Easy Ways to Manage Your Realme Narzo 60 5G Location Settings | Dr.fone</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

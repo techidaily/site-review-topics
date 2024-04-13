@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Moto G 5G (2023)
-date: 2024-04-09T01:56:14.661Z
+date: 2024-04-12T01:35:51.945Z
 tags: 
   - hevc video
   - hevc android
@@ -165,3 +165,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-samsung-galaxy-z-flip-5-activity-drfone-by-drfone-virtual-android/" ><u>In 2024, 2 Ways to Monitor Samsung Galaxy Z Flip 5 Activity | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-samsung-galaxy-m14-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/" ><u>In 2024, Best 3 Samsung Galaxy M14 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

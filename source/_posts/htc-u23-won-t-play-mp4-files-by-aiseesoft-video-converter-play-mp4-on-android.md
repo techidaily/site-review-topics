@@ -1,6 +1,6 @@
 ---
 title: HTC U23 won’t play MP4 files
-date: 2024-04-09T01:56:14.621Z
+date: 2024-04-12T01:35:51.826Z
 tags: 
   - mp4 video
   - mp4 android
@@ -156,3 +156,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-tecno-spark-10c-look-no-further-drfone-by-drfone-virtual-android/" ><u>Looking For A Location Changer On Tecno Spark 10C? Look No Further | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-vivo-v27-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>How to Fix Android App Not Installed Error on Vivo V27 Pro Quickly? | Dr.fone</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

@@ -1,6 +1,6 @@
 ---
 title: How to watch AVCHD MTS video on Huawei P60?
-date: 2024-04-09T01:56:14.576Z
+date: 2024-04-12T01:35:51.770Z
 tags: 
   - mts video
   - mts android
@@ -128,3 +128,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://review-topics.techidaily.com/htc-u23-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/" ><u>HTC U23 won’t play MP4 files</u></a></li>
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-infinix-by-fonelab-android-recover-contacts/" ><u>Possible solutions to restore deleted contacts from Infinix .</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

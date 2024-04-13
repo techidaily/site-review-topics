@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Motorola Moto G73 5G
-date: 2024-04-09T01:56:14.683Z
+date: 2024-04-12T01:35:51.952Z
 tags: 
   - hevc video
   - hevc android
@@ -159,3 +159,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-redmi-a2-by-drfone-android/" ><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Xiaomi Redmi A2</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-c300-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>In 2024, How to Transfer Data from Nokia C300 to Samsung Phone | Dr.fone</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

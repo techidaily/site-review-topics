@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Galaxy S23 Tactical Edition
-date: 2024-04-09T01:56:14.654Z
+date: 2024-04-12T01:35:51.925Z
 tags: 
   - hevc video
   - hevc android
@@ -173,3 +173,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-hot-40-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>Reasons for Infinix Hot 40 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-htc-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/" ><u>In 2024, Sim Unlock HTC Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

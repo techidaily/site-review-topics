@@ -1,6 +1,6 @@
 ---
 title: HTC U23 won’t play HEVC H.265 media, how to fix? 
-date: 2024-04-09T01:56:14.620Z
+date: 2024-04-12T01:35:51.825Z
 tags: 
   - hevc video
   - hevc android
@@ -158,3 +158,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-vivo-y27-4g-drfone-by-drfone-virtual-android/" ><u>In 2024, Best Anti Tracker Software For Vivo Y27 4G | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-vivo-y78plus-by-fonelab-android-recover-call-logs/" ><u>How to rescue lost call logs from Vivo Y78+</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

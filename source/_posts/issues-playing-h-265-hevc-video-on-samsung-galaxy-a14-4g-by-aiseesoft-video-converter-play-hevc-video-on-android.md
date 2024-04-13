@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Samsung Galaxy A14 4G
-date: 2024-04-09T01:56:14.692Z
+date: 2024-04-12T01:35:51.957Z
 tags: 
   - hevc video
   - hevc android
@@ -159,3 +159,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/best-fixes-for-nubia-red-magic-9-proplus-hard-reset-drfone-by-drfone-reset-android-reset-android/" ><u>Best Fixes For Nubia Red Magic 9 Pro+ Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-v30t-phone-without-google-account-by-drfone-android/" ><u>In 2024, How to Unlock Realme V30T Phone without Google Account?</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

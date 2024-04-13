@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Samsung
-date: 2024-04-09T01:56:14.691Z
+date: 2024-04-12T01:35:51.956Z
 tags: 
   - hevc video
   - hevc android
@@ -165,3 +165,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-x90s-drfone-by-drfone-virtual-android/" ><u>How to Watch Hulu Outside US On Vivo X90S | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-oppo-k11-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>Reliable User Guide to Fix Oppo K11 5G Running Slow and Freezing | Dr.fone</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

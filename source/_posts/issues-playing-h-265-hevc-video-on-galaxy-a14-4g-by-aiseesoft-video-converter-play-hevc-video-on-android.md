@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Galaxy A14 4G
-date: 2024-04-09T01:56:14.649Z
+date: 2024-04-12T01:35:51.910Z
 tags: 
   - hevc video
   - hevc android
@@ -180,3 +180,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-v-purse-drfone-by-drfone-android/" ><u>In 2024, How to Screen Mirroring Honor V Purse? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/lenovo-thinkphone-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>Lenovo ThinkPhone Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

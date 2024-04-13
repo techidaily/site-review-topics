@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Edge 40 Neo
-date: 2024-04-09T01:56:14.647Z
+date: 2024-04-12T01:35:51.899Z
 tags: 
   - hevc video
   - hevc android
@@ -170,3 +170,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/how-to-repair-apple-iphone-15-plus-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/" ><u>How To Repair Apple iPhone 15 Plus System Issues? | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-x50iplus-location-settings-drfone-by-drfone-virtual/" ><u>Easy Ways to Manage Your Honor X50i+ Location Settings | Dr.fone</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

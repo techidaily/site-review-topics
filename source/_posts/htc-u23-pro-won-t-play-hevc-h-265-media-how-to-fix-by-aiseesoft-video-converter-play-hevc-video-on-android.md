@@ -1,6 +1,6 @@
 ---
 title: HTC U23 Pro won’t play HEVC H.265 media, how to fix? 
-date: 2024-04-09T01:56:14.620Z
+date: 2024-04-12T01:35:51.824Z
 tags: 
   - hevc video
   - hevc android
@@ -177,3 +177,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-itel-s23plus-drfone-by-drfone-virtual-android/" ><u>Spoofing Life360 How to Do it on Itel S23+? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/" ><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

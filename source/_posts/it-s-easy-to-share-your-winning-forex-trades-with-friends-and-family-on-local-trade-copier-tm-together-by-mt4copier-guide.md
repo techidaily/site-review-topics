@@ -400,3 +400,8 @@ If you are looking to enable 1-click trading on Metatrader 4, all you have to do
 The one-click trading tool on MT4 is very convenient. Still, there’s an even better tool with more functionalities that can also set the lot size automatically after you choose to risk the percentage of your account balance. Check out the Trader On Chart trading panel for MT4, and you’ll never want to open another trade without it.
 
 ![](https://tools.techidaily.com/images/apps/mt4copier/how-to-enable-trading-in-mt4/4.png)
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

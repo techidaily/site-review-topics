@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on HTC U23
-date: 2024-04-09T01:56:14.659Z
+date: 2024-04-12T01:35:51.929Z
 tags: 
   - hevc video
   - hevc android
@@ -177,3 +177,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/undelete-lost-pictures-from-google-by-fonelab-android-recover-pictures/" ><u>Undelete lost pictures from Google .</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-samsung-galaxy-s23-tactical-edition-by-drfone-android/" ><u>In 2024, How to Show Wi-Fi Password on Samsung Galaxy S23 Tactical Edition</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Nova Y91
-date: 2024-04-09T01:56:14.684Z
+date: 2024-04-12T01:35:51.953Z
 tags: 
   - hevc video
   - hevc android
@@ -164,3 +164,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-xiaomi-14-ultra-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>Android Screen Stuck General Xiaomi 14 Ultra Partly Screen Unresponsive | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-xiaomi-redmi-13c-phone-now-with-these-tips-by-drfone-android/" ><u>In 2024, Pattern Locks Are Unsafe Secure Your Xiaomi Redmi 13C Phone Now with These Tips</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

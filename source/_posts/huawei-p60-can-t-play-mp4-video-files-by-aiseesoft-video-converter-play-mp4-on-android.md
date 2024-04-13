@@ -1,6 +1,6 @@
 ---
 title: Huawei P60 can't play MP4 video files
-date: 2024-04-09T01:56:14.628Z
+date: 2024-04-12T01:35:51.833Z
 tags: 
   - mp4 video
   - mp4 android
@@ -165,3 +165,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-asus-rog-phone-7-ultimate-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>How to Transfer Data After Switching From Asus ROG Phone 7 Ultimate to Latest Samsung | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/" ><u>How To Transfer WhatsApp From Apple iPhone 11 Pro to other iPhone 11 devices? | Dr.fone</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

@@ -1,7 +1,7 @@
 ---
 title: HTC can't play MP4 video files
-date: 2024-04-09T01:56:14.617Z
-updated: 2024-04-10T01:56:14.617Z
+date: 2024-04-12T01:35:51.821Z
+updated: 2024-04-13T01:35:51.821Z
 tags: 
   - mp4 video
   - mp4 android
@@ -179,3 +179,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/complete-tutorial-for-nokia-c110-hard-reset-drfone-by-drfone-reset-android-reset-android/" ><u>Complete Tutorial for Nokia C110 Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-se-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/" ><u>How To Recover iPhone SE Data From iCloud? | Dr.fone</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

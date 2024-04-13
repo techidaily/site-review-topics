@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Motorola Edge+ (2023)
-date: 2024-04-09T01:56:14.678Z
+date: 2024-04-12T01:35:51.948Z
 tags: 
   - hevc video
   - hevc android
@@ -156,3 +156,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-21-by-fonelab-android-recover-video/" ><u>Easy steps to recover deleted videos from 21</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-screen-mirroring-apple-iphone-13-pro-max-to-tv-or-pc-drfone-by-drfone-ios/" ><u>How Screen Mirroring Apple iPhone 13 Pro Max to TV or PC? | Dr.fone</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>
