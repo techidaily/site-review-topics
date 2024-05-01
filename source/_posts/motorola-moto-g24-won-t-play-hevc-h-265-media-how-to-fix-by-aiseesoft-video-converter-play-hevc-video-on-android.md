@@ -1,6 +1,6 @@
 ---
 title: Motorola Moto G24 won’t play HEVC H.265 media, how to fix? 
-date: 2024-04-12T01:36:33.349Z
+date: 2024-04-29T22:45:02.485Z
 tags: 
   - hevc video
   - hevc android
@@ -192,3 +192,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-apple-iphone-12-pro-max-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your Apple iPhone 12 Pro Max From Your Apple ID</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-rtf-file-using-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Electronically Sign a .rtf file Using DigiSigner</u></a></li>
 </ul></div>
+

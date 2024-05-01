@@ -1,6 +1,6 @@
 ---
 title: Motorola Edge 40 won’t play HEVC H.265 media, how to fix? 
-date: 2024-04-12T01:36:28.781Z
+date: 2024-04-29T22:45:02.442Z
 tags: 
   - hevc video
   - hevc android
@@ -163,3 +163,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-infinix-zero-30-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Infinix Zero 30 5G Phone</u></a></li>
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-honor-magic-5-pro-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Honor Magic 5 Pro Wont Charge | Dr.fone</u></a></li>
 </ul></div>
+

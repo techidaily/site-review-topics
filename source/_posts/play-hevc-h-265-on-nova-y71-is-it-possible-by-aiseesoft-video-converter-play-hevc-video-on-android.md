@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Nova Y71, is it possible?
-date: 2024-04-12T01:37:09.754Z
+date: 2024-04-29T22:45:02.735Z
 tags: 
   - hevc video
   - hevc android
@@ -192,3 +192,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-x-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone X</u></a></li>
 <li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-15-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone 15 | Stellar</u></a></li>
 </ul></div>
+

@@ -1,6 +1,6 @@
 ---
 title: Motorola Edge+ (2023) won’t play HEVC H.265 media, how to fix? 
-date: 2024-04-12T01:36:29.065Z
+date: 2024-04-29T22:45:02.444Z
 tags: 
   - hevc video
   - hevc android
@@ -202,3 +202,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Poco F5 5G | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Honor X7b? | Dr.fone</u></a></li>
 </ul></div>
+

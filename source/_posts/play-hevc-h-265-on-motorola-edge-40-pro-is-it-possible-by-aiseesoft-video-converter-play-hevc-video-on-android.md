@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Motorola Edge 40 Pro, is it possible?
-date: 2024-04-12T01:37:08.210Z
+date: 2024-04-29T22:45:02.726Z
 tags: 
   - hevc video
   - hevc android
@@ -193,3 +193,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-play-7t-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor Play 7T to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
+

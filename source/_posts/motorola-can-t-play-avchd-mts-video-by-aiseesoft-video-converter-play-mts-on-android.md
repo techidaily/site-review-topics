@@ -1,6 +1,6 @@
 ---
 title: Motorola  can’t play AVCHD .mts video
-date: 2024-04-12T01:36:26.528Z
+date: 2024-04-29T22:45:02.427Z
 tags: 
   - mts video
   - mts android
@@ -167,3 +167,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-tecno-pova-6-pro-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Tecno Pova 6 Pro 5G PC | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-oppo-reno-11-pro-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Oppo Reno 11 Pro 5G Devices</u></a></li>
 </ul></div>
+

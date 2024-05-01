@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Motorola , is it possible?
-date: 2024-04-12T01:37:08.632Z
+date: 2024-04-29T22:45:02.729Z
 tags: 
   - hevc video
   - hevc android
@@ -169,3 +169,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-v-purse-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor V Purse | Dr.fone</u></a></li>
 </ul></div>
+

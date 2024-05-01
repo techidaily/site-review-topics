@@ -1,6 +1,6 @@
 ---
 title: MKV stutters on 14 Pro and stops randomly
-date: 2024-04-12T01:36:16.680Z
+date: 2024-04-29T22:45:02.333Z
 tags: 
   - mkv video
   - mkv android
@@ -213,3 +213,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-infinix-hot-30-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Infinix Hot 30 5G to Protect Your Individual Information</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-apple-iphone-se-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From Apple iPhone SE without Password?</u></a></li>
 </ul></div>
+

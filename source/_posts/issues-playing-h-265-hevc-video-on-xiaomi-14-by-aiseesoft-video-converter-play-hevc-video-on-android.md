@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Xiaomi 14
-date: 2024-04-12T01:35:53.388Z
+date: 2024-04-29T22:45:01.887Z
 tags: 
   - hevc video
   - hevc android
@@ -166,3 +166,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>11 Best Location Changers for Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-your-honor-magic-6-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Honor Magic 6 Pro Location on Twitter | Dr.fone</u></a></li>
 </ul></div>
+

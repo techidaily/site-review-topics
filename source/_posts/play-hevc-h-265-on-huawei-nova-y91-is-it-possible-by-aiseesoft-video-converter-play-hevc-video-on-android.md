@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Huawei Nova Y91, is it possible?
-date: 2024-04-12T01:37:07.505Z
+date: 2024-04-29T22:45:02.723Z
 tags: 
   - hevc video
   - hevc android
@@ -207,3 +207,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-y100a-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo Y100A</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Vivo Y36? | Dr.fone</u></a></li>
 </ul></div>
+

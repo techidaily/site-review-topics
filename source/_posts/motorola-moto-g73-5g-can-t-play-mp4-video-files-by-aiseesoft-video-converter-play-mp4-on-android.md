@@ -1,6 +1,6 @@
 ---
 title: Motorola Moto G73 5G can't play MP4 video files
-date: 2024-04-12T01:36:34.329Z
+date: 2024-04-29T22:45:02.492Z
 tags: 
   - mp4 video
   - mp4 android
@@ -187,3 +187,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-note-30-vip-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Note 30 VIP Location Settings | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
 </ul></div>
+

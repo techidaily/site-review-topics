@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Huawei
-date: 2024-04-12T01:35:55.571Z
+date: 2024-04-29T22:45:01.951Z
 tags: 
   - hevc video
   - hevc android
@@ -186,3 +186,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-nokia-c210-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Nokia C210 Phones</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-tecno-pop-8-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Tecno Pop 8.</u></a></li>
 </ul></div>
+

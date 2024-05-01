@@ -1,7 +1,7 @@
 ---
 title: Issues playing MOV videos on Redmi Note 12 Pro 5G
-date: 2024-04-12T01:36:06.122Z
-updated: 2024-04-13T01:36:06.122Z
+date: 2024-04-29T22:45:02.171Z
+updated: 2024-04-30T22:45:02.171Z
 tags: 
   - mov video
   - mov android
@@ -181,3 +181,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://blog-min.techidaily.com/how-to-tecno-pova-5-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Tecno Pova 5 Get Deleted Phone Number Back with Ease and Safety</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your iPhone SE (2020)</u></a></li>
 </ul></div>
+

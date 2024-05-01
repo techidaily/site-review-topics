@@ -1,6 +1,6 @@
 ---
 title: Issues playing MOV videos on Edge 40 Neo
-date: 2024-04-12T01:36:04.679Z
+date: 2024-04-29T22:45:02.162Z
 tags: 
   - mov video
   - mov android
@@ -218,3 +218,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-8-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 8 Lock Screen</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Oppo A59 5G | Dr.fone</u></a></li>
 </ul></div>
+

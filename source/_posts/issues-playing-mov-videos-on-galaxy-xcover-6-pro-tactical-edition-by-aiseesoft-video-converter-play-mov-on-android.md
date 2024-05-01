@@ -1,6 +1,6 @@
 ---
 title: Issues playing MOV videos on Galaxy XCover 6 Pro Tactical Edition
-date: 2024-04-12T01:36:04.958Z
+date: 2024-04-29T22:45:02.164Z
 tags: 
   - mov video
   - mov android
@@ -161,3 +161,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-s18e-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo S18e Phone When You Forget the Password</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Vivo G2 | Dr.fone</u></a></li>
 </ul></div>
+

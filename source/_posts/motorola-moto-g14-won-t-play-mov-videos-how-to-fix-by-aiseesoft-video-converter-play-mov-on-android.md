@@ -1,6 +1,6 @@
 ---
 title: Motorola Moto G14 won't play MOV videos, how to fix ?
-date: 2024-04-12T01:36:32.929Z
+date: 2024-04-29T22:45:02.482Z
 tags: 
   - mov video
   - mov android
@@ -161,3 +161,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Nubia Z50 Ultra | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
 </ul></div>
+

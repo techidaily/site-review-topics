@@ -1,6 +1,6 @@
 ---
 title: MOV playback issues on Redmi Note 12 Pro 4G
-date: 2024-04-12T01:36:44.290Z
+date: 2024-04-29T22:45:02.561Z
 tags: 
   - mov video
   - mov android
@@ -213,3 +213,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-oppo-k11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Oppo K11 5G | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-3-ways-to-unlock-your-apple-iphone-8-plus-for-free-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Your Apple iPhone 8 Plus for Free</u></a></li>
 </ul></div>
+

@@ -1,6 +1,6 @@
 ---
 title: MP4 won't play on my Sony Xperia 10 V
-date: 2024-04-12T01:36:59.510Z
+date: 2024-04-29T22:45:02.678Z
 tags: 
   - mp4 video
   - mp4 android
@@ -203,3 +203,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 14 Plus | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-motorola-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Motorola FRP Locks</u></a></li>
 </ul></div>
+

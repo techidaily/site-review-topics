@@ -1,6 +1,6 @@
 ---
 title: Motorola won’t play MP4 files
-date: 2024-04-12T01:36:37.017Z
+date: 2024-04-29T22:45:02.511Z
 tags: 
   - mp4 video
   - mp4 android
@@ -198,3 +198,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-8-plus-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 8 Plus to the Previous iOS Version? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-magic-5-lite-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor Magic 5 Lite to PC? | Dr.fone</u></a></li>
 </ul></div>
+

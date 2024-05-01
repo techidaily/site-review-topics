@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Samsung Galaxy F34 5G
-date: 2024-04-12T01:35:52.136Z
+date: 2024-04-29T22:45:01.878Z
 tags: 
   - hevc video
   - hevc android
@@ -165,3 +165,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Oppo Reno 9A | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Vivo Y17s | Dr.fone</u></a></li>
 </ul></div>
+

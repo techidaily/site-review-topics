@@ -1,6 +1,6 @@
 ---
 title: MOV to Sony Xperia 1 V converter-convert .mov files for Sony Xperia 1 V
-date: 2024-04-12T01:36:49.365Z
+date: 2024-04-29T22:45:02.601Z
 tags: 
   - mov video
   - mov android
@@ -168,3 +168,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-11-pro-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 11 Pro</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-9-xiaomi-redmi-k70e-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Xiaomi Redmi K70E Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
+

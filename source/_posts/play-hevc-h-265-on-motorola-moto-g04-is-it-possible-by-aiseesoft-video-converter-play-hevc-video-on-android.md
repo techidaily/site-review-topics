@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Motorola Moto G04, is it possible?
-date: 2024-04-12T01:37:08.912Z
+date: 2024-04-29T22:45:02.731Z
 tags: 
   - hevc video
   - hevc android
@@ -224,3 +224,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-xiaomi-redmi-k70-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Xiaomi Redmi K70 FRP</u></a></li>
 </ul></div>
+

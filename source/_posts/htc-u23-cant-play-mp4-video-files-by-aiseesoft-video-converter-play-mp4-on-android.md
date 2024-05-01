@@ -1,6 +1,6 @@
 ---
 title: HTC U23 can't play MP4 video files
-date: 2024-04-12T01:35:51.822Z
+date: 2024-04-29T22:45:01.795Z
 tags: 
   - mp4 video
   - mp4 android
@@ -168,3 +168,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
     data-ad-format="autorelaxed"
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
+

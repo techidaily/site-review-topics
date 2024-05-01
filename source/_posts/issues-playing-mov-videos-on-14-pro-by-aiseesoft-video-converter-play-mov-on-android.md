@@ -1,6 +1,6 @@
 ---
 title: Issues playing MOV videos on 14 Pro
-date: 2024-04-12T01:36:04.258Z
+date: 2024-04-29T22:45:02.159Z
 tags: 
   - mov video
   - mov android
@@ -181,3 +181,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-m14-4g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy M14 4G | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-realme-c67-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Realme C67 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
 </ul></div>
+

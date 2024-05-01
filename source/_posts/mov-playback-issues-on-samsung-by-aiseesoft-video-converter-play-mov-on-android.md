@@ -1,6 +1,6 @@
 ---
 title: MOV playback issues on Samsung 
-date: 2024-04-12T01:36:44.712Z
+date: 2024-04-29T22:45:02.565Z
 tags: 
   - mov video
   - mov android
@@ -196,3 +196,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y27s-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y27s Pattern Lock if Forgotten? 6 Ways</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-find-x6-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Find X6 Pro to BlackBerry | Dr.fone</u></a></li>
 </ul></div>
+

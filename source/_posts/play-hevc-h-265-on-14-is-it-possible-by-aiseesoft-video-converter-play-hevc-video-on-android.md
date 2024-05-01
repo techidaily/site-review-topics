@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on 14, is it possible?
-date: 2024-04-12T01:37:05.366Z
+date: 2024-04-29T22:45:02.712Z
 tags: 
   - hevc video
   - hevc android
@@ -191,3 +191,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/why-does-my-realme-narzo-60-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Realme Narzo 60 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-y78-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo Y78 5G</u></a></li>
 </ul></div>
+

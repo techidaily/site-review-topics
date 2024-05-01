@@ -1,6 +1,6 @@
 ---
 title: MOV playback issues on Redmi 13C
-date: 2024-04-12T01:36:43.957Z
+date: 2024-04-29T22:45:02.559Z
 tags: 
   - mov video
   - mov android
@@ -181,3 +181,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-x90s-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo X90S Phone When You Forget the Password</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-lava-storm-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Lava Storm 5G to iPhone | Dr.fone</u></a></li>
 </ul></div>
+

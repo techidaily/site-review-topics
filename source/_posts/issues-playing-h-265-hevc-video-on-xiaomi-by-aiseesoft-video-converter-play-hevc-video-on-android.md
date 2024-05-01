@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Xiaomi 
-date: 2024-04-12T01:35:53.679Z
+date: 2024-04-29T22:45:01.892Z
 tags: 
   - hevc video
   - hevc android
@@ -202,3 +202,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-honor-90-lite-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Honor 90 Lite without backup.</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-realme-c33-2023-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Realme C33 2023 Pattern Lock Screen</u></a></li>
 </ul></div>
+

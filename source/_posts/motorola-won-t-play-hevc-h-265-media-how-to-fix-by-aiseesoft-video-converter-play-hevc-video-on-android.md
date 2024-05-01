@@ -1,6 +1,6 @@
 ---
 title: Motorola won’t play HEVC H.265 media, how to fix?
-date: 2024-04-12T01:36:36.595Z
+date: 2024-04-29T22:45:02.509Z
 tags: 
   - hevc video
   - hevc android
@@ -183,3 +183,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
 </ul></div>
+

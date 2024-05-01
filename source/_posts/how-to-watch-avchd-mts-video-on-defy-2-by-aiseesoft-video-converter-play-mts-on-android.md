@@ -1,6 +1,6 @@
 ---
 title: How to watch AVCHD MTS video on Defy 2?
-date: 2024-04-12T01:35:51.762Z
+date: 2024-04-29T22:45:01.717Z
 tags: 
   - mts video
   - mts android
@@ -150,3 +150,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
     data-ad-format="autorelaxed"
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
+

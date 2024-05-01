@@ -1,6 +1,6 @@
 ---
 title: MOV playback issues on Huawei Nova Y91
-date: 2024-04-12T01:36:42.696Z
+date: 2024-04-29T22:45:02.550Z
 tags: 
   - mov video
   - mov android
@@ -177,3 +177,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-v30-lite-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Vivo V30 Lite 5G | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Oppo A1x 5G | Dr.fone</u></a></li>
 </ul></div>
+

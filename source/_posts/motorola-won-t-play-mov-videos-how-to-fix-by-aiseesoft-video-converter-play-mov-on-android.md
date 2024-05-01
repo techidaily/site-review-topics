@@ -1,6 +1,6 @@
 ---
 title: Motorola  won't play MOV videos, how to fix ?
-date: 2024-04-12T01:36:36.876Z
+date: 2024-04-29T22:45:02.510Z
 tags: 
   - mov video
   - mov android
@@ -193,3 +193,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-oppo-a1x-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Oppo A1x 5G Is Unlocked</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Lava Blaze Curve 5G | Dr.fone</u></a></li>
 </ul></div>
+

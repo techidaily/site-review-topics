@@ -1,6 +1,6 @@
 ---
 title: Motorola Moto G 5G (2023) won't play MOV videos, how to fix ?
-date: 2024-04-12T01:36:30.912Z
+date: 2024-04-29T22:45:02.457Z
 tags: 
   - mov video
   - mov android
@@ -178,3 +178,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Oppo A78 5G | Dr.fone</u></a></li>
 </ul></div>
+

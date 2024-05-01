@@ -1,6 +1,6 @@
 ---
 title: Issues playing MOV videos on Edge 40
-date: 2024-04-12T01:36:04.539Z
+date: 2024-04-29T22:45:02.161Z
 tags: 
   - mov video
   - mov android
@@ -174,3 +174,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/best-methods-for-nubia-red-magic-8s-proplus-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Nubia Red Magic 8S Pro+ Wont Turn On | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-realme-gt-5-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Realme GT 5 Pro Like A Pro 5 Easy Ways</u></a></li>
 </ul></div>
+

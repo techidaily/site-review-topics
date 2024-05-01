@@ -1,6 +1,6 @@
 ---
 title: Motorola G54 5G won't play MOV videos, how to fix ?
-date: 2024-04-12T01:36:30.332Z
+date: 2024-04-29T22:45:02.453Z
 tags: 
   - mov video
   - mov android
@@ -174,3 +174,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-x100-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo X100 to Outlook | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-civi-3-disney-100th-anniversary-edition-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Civi 3 Disney 100th Anniversary Edition to iPhone XS/11 | Dr.fone</u></a></li>
 </ul></div>
+

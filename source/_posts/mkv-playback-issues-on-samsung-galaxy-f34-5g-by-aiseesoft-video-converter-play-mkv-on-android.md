@@ -1,6 +1,6 @@
 ---
 title: MKV playback issues on Samsung Galaxy F34 5G
-date: 2024-04-12T01:36:14.290Z
+date: 2024-04-29T22:45:02.315Z
 tags: 
   - mkv video
   - mkv android
@@ -194,3 +194,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-12-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 12 and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-nubia-red-magic-9-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Nubia Red Magic 9 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
+

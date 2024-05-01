@@ -1,6 +1,6 @@
 ---
 title: Motorola  won’t play AVCHD .mts files
-date: 2024-04-12T01:36:36.455Z
+date: 2024-04-29T22:45:02.508Z
 tags: 
   - mts video
   - mts android
@@ -212,3 +212,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-13t-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi 13T Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-12-mini-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone 12 mini Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,6 +1,6 @@
 ---
 title: Motorola Moto G84 5G can’t play AVCHD .mts video
-date: 2024-04-12T01:36:34.751Z
+date: 2024-04-29T22:45:02.496Z
 tags: 
   - mts video
   - mts android
@@ -191,3 +191,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-oppo-reno-11-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Oppo Reno 11 5G Location By Mobile Number | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-nokia-c12-plus-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Nokia C12 Plus? </u></a></li>
 </ul></div>
+

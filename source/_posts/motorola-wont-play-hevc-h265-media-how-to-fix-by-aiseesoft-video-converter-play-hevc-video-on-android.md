@@ -1,7 +1,7 @@
 ---
 title: Motorola won’t play HEVC H.265 media, how to fix?
-date: 2024-04-12T01:36:37.296Z
-updated: 2024-04-13T01:36:37.296Z
+date: 2024-04-29T22:45:02.513Z
+updated: 2024-04-30T22:45:02.513Z
 tags: 
   - hevc video
   - hevc android
@@ -205,3 +205,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-samsung-galaxy-m34-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Samsung Galaxy M34 5G Phone</u></a></li>
 </ul></div>
+

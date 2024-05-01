@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Motorola Edge 40, is it possible?
-date: 2024-04-12T01:37:08.070Z
+date: 2024-04-29T22:45:02.726Z
 tags: 
   - hevc video
   - hevc android
@@ -159,3 +159,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-90-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor 90 | Dr.fone</u></a></li>
 </ul></div>
+

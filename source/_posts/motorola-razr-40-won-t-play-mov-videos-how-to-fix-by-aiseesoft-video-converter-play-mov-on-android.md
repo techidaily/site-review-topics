@@ -1,6 +1,6 @@
 ---
 title: Motorola Razr 40 won't play MOV videos, how to fix ?
-date: 2024-04-12T01:36:36.175Z
+date: 2024-04-29T22:45:02.506Z
 tags: 
   - mov video
   - mov android
@@ -198,3 +198,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Samsung Galaxy F04 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-vivo-s18-pro-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Vivo S18 Pro | Dr.fone</u></a></li>
 </ul></div>
+

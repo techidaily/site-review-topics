@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Razr 40 Ultra, is it possible?
-date: 2024-04-12T01:37:10.109Z
+date: 2024-04-29T22:45:02.737Z
 tags: 
   - hevc video
   - hevc android
@@ -196,3 +196,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-honor-magic-vs-2-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Honor Magic Vs 2 ? Fix It Easily | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-iphone-6s-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your iPhone 6s?</u></a></li>
 </ul></div>
+

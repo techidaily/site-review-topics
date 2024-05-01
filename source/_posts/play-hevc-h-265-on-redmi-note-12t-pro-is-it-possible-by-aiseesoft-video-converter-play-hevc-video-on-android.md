@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Redmi Note 12T Pro, is it possible?
-date: 2024-04-12T01:37:10.389Z
+date: 2024-04-29T22:45:02.739Z
 tags: 
   - hevc video
   - hevc android
@@ -203,3 +203,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y100i-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y100i Device</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/does-motorola-edge-40-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Motorola Edge 40 has native HEVC support?</u></a></li>
 </ul></div>
+

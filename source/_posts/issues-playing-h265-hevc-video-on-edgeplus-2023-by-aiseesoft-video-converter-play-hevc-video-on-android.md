@@ -1,7 +1,7 @@
 ---
 title: Issues playing H.265 HEVC video on Edge+ (2023)
-date: 2024-04-12T01:35:55.137Z
-updated: 2024-04-13T01:35:55.137Z
+date: 2024-04-29T22:45:01.903Z
+updated: 2024-04-30T22:45:01.903Z
 tags: 
   - hevc video
   - hevc android
@@ -198,3 +198,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-xiaomi-14-ultra-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Xiaomi 14 Ultra Partly Screen Unresponsive | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-realme-11-proplus-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Realme 11 Pro+?</u></a></li>
 </ul></div>
+

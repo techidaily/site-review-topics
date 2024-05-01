@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Motorola Moto G14, is it possible?
-date: 2024-04-12T01:37:09.052Z
+date: 2024-04-29T22:45:02.732Z
 tags: 
   - hevc video
   - hevc android
@@ -165,3 +165,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/vivo-y77t-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y77t Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-realme-c51-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Realme C51</u></a></li>
 </ul></div>
+

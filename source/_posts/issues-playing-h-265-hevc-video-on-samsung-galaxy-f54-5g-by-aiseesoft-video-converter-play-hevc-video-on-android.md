@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Samsung Galaxy F54 5G
-date: 2024-04-12T01:35:52.302Z
+date: 2024-04-29T22:45:01.879Z
 tags: 
   - hevc video
   - hevc android
@@ -195,3 +195,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Detect and Remove Spyware on Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-motorola-edge-2023-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Motorola Edge 2023? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
+

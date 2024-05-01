@@ -1,7 +1,7 @@
 ---
 title: Issues playing MOV videos on Xiaomi Redmi 13C
-date: 2024-04-12T01:36:07.545Z
-updated: 2024-04-13T01:36:07.545Z
+date: 2024-04-29T22:45:02.182Z
+updated: 2024-04-30T22:45:02.182Z
 tags: 
   - mov video
   - mov android
@@ -196,3 +196,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-motorola-g24-power-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Motorola G24 Power to Apple TV | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/iphone-se-2020-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone SE (2020) Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
 </ul></div>
+

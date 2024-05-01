@@ -1,6 +1,6 @@
 ---
 title: Motorola Moto G84 5G won’t play AVCHD .mts files
-date: 2024-04-12T01:36:35.171Z
+date: 2024-04-29T22:45:02.498Z
 tags: 
   - mts video
   - mts android
@@ -155,3 +155,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-itel-a05s-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Itel A05s Phone that is Locked?</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for ZTE Blade A73 5G | Dr.fone</u></a></li>
 </ul></div>
+

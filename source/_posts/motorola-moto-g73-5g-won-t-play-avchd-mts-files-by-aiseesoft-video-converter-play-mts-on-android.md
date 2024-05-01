@@ -1,6 +1,6 @@
 ---
 title: Motorola Moto G73 5G won’t play AVCHD .mts files
-date: 2024-04-12T01:36:34.469Z
+date: 2024-04-29T22:45:02.493Z
 tags: 
   - mts video
   - mts android
@@ -148,3 +148,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-vivo-y78t-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Vivo Y78t Phones with/without a PC</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Realme 12 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+

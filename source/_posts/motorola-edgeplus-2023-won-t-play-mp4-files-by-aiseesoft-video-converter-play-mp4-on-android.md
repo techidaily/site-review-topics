@@ -1,6 +1,6 @@
 ---
 title: Motorola Edge+ (2023) won’t play MP4 files
-date: 2024-04-12T01:36:29.205Z
+date: 2024-04-29T22:45:02.445Z
 tags: 
   - mp4 video
   - mp4 android
@@ -177,3 +177,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2022-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2022) with a Mask On | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-9-oppo-f25-pro-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Oppo F25 Pro 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
+

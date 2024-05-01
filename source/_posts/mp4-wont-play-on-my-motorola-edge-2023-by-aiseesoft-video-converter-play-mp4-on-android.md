@@ -1,7 +1,7 @@
 ---
 title: MP4 won't play on my Motorola Edge 2023
-date: 2024-04-12T01:37:01.492Z
-updated: 2024-04-13T01:37:01.492Z
+date: 2024-04-29T22:45:02.689Z
+updated: 2024-04-30T22:45:02.689Z
 tags: 
   - mp4 video
   - mp4 android
@@ -170,3 +170,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/in-2024-unlock-samsung-galaxy-a15-4g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Samsung Galaxy A15 4G Phone Password Without Factory Reset Full Guide Here</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-to-bypass-tecno-spark-20s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Tecno Spark 20’s lock screen pattern, PIN or password</u></a></li>
 </ul></div>
+

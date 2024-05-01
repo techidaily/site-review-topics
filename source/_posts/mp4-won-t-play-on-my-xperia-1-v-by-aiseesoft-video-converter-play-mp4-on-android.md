@@ -1,6 +1,6 @@
 ---
 title: MP4 won't play on my Xperia 1 V
-date: 2024-04-12T01:37:00.773Z
+date: 2024-04-29T22:45:02.685Z
 tags: 
   - mp4 video
   - mp4 android
@@ -162,3 +162,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-nokia-c12-pro-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Nokia C12 Pro Phone Now with These Tips</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-motorola-moto-e13-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Motorola Moto E13 – What Can I Do? | Dr.fone</u></a></li>
 </ul></div>
+

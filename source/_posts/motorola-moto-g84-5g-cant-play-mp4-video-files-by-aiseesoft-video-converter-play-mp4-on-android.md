@@ -1,7 +1,7 @@
 ---
 title: Motorola Moto G84 5G can't play MP4 video files
-date: 2024-04-12T01:36:35.032Z
-updated: 2024-04-13T01:36:35.032Z
+date: 2024-04-29T22:45:02.498Z
+updated: 2024-04-30T22:45:02.498Z
 tags: 
   - mp4 video
   - mp4 android
@@ -178,3 +178,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-lava-blaze-pro-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Lava Blaze Pro 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-15-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 15 Passcode not Working? | Dr.fone</u></a></li>
 </ul></div>
+

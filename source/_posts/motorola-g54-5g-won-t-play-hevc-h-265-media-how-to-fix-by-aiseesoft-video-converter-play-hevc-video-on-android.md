@@ -1,6 +1,6 @@
 ---
 title: Motorola G54 5G won’t play HEVC H.265 media, how to fix? 
-date: 2024-04-12T01:36:30.192Z
+date: 2024-04-29T22:45:02.452Z
 tags: 
   - hevc video
   - hevc android
@@ -177,3 +177,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-7-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 7 to iPad | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-iphone-15-by-drfone-ios/"><u>How to jailbreak iCloud locked iPhone 15</u></a></li>
 </ul></div>
+

@@ -1,6 +1,6 @@
 ---
 title: MP4 won't play on my Xiaomi Redmi 13C 5G
-date: 2024-04-12T01:37:00.352Z
+date: 2024-04-29T22:45:02.683Z
 tags: 
   - mp4 video
   - mp4 android
@@ -181,3 +181,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-realme-12-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Realme 12 5G for Parents | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
 </ul></div>
+

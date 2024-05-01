@@ -1,6 +1,6 @@
 ---
 title: Motorola Moto G34 5G won’t play HEVC H.265 media, how to fix? 
-date: 2024-04-12T01:36:33.910Z
+date: 2024-04-29T22:45:02.489Z
 tags: 
   - hevc video
   - hevc android
@@ -170,3 +170,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-top-5-oppo-a1-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Oppo A1 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
 </ul></div>
+

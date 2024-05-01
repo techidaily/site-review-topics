@@ -1,6 +1,6 @@
 ---
 title: MOV playback issues on Redmi Note 12R
-date: 2024-04-12T01:36:44.431Z
+date: 2024-04-29T22:45:02.562Z
 tags: 
   - mov video
   - mov android
@@ -183,3 +183,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Lava Storm 5G | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-nubia-z50s-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Nubia Z50S Pro Location on Skout | Dr.fone</u></a></li>
 </ul></div>
+

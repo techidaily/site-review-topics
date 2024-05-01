@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Xperia 10 V
-date: 2024-04-12T01:35:54.975Z
+date: 2024-04-29T22:45:01.902Z
 tags: 
   - hevc video
   - hevc android
@@ -218,3 +218,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Vivo Y36i | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Oppo A1x 5G | Dr.fone</u></a></li>
 </ul></div>
+

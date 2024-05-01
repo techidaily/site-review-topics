@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Motorola Moto G 5G (2023), is it possible?
-date: 2024-04-12T01:37:08.771Z
+date: 2024-04-29T22:45:02.730Z
 tags: 
   - hevc video
   - hevc android
@@ -175,3 +175,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/how-to-update-apple-iphone-11-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 11 Pro Max without iTunes? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-sony-xperia-10-v-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Sony Xperia 10 V Phone</u></a></li>
 </ul></div>
+

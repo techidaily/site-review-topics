@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Edge 2023, is it possible?
-date: 2024-04-12T01:37:05.647Z
+date: 2024-04-29T22:45:02.713Z
 tags: 
   - hevc video
   - hevc android
@@ -184,3 +184,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Lava Blaze 2 Pro | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-12-mini-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your iPhone 12 mini</u></a></li>
 </ul></div>
+

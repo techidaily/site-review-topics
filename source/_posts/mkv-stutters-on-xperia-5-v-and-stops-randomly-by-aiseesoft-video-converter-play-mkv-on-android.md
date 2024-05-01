@@ -1,6 +1,6 @@
 ---
 title: MKV stutters on Xperia 5 V and stops randomly
-date: 2024-04-12T01:36:21.544Z
+date: 2024-04-29T22:45:02.390Z
 tags: 
   - mkv video
   - mkv android
@@ -215,3 +215,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-7-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your iPhone 7</u></a></li>
 <li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-oppo-find-x7-ultra-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Oppo Find X7 Ultra Phone | Dr.fone</u></a></li>
 </ul></div>
+

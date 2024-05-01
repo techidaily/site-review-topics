@@ -1,6 +1,6 @@
 ---
 title: Issues playing MOV videos on Samsung Galaxy S23
-date: 2024-04-12T01:36:06.694Z
+date: 2024-04-29T22:45:02.175Z
 tags: 
   - mov video
   - mov android
@@ -178,3 +178,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-mini-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 mini to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-nokia-c22-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Nokia C22 Phone</u></a></li>
 </ul></div>
+

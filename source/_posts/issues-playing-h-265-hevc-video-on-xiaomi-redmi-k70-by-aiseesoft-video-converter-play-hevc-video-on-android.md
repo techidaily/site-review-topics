@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Xiaomi Redmi K70
-date: 2024-04-12T01:35:54.399Z
+date: 2024-04-29T22:45:01.897Z
 tags: 
   - hevc video
   - hevc android
@@ -207,3 +207,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-motorola-moto-g-5g-2023-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Motorola Moto G 5G (2023)? | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-moto-g84-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Motorola Moto G84 5G | Dr.fone</u></a></li>
 </ul></div>
+

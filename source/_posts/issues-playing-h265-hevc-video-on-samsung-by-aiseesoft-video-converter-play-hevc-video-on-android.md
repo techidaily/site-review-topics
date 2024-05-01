@@ -1,7 +1,7 @@
 ---
 title: Issues playing H.265 HEVC video on Samsung
-date: 2024-04-12T01:35:57.149Z
-updated: 2024-04-13T01:35:57.149Z
+date: 2024-04-29T22:45:02.048Z
+updated: 2024-04-30T22:45:02.048Z
 tags: 
   - hevc video
   - hevc android
@@ -196,3 +196,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo V29 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-infinix-hot-30-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Infinix Hot 30 5G Phone? | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,6 +1,6 @@
 ---
 title: Motorola Moto G14 can’t play AVCHD .mts video
-date: 2024-04-12T01:36:32.504Z
+date: 2024-04-29T22:45:02.479Z
 tags: 
   - mts video
   - mts android
@@ -169,3 +169,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://sim-unlock.techidaily.com/top-10-samsung-galaxy-s21-fe-5g-2023-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Samsung Galaxy S21 FE 5G (2023) Android SIM Unlock APK</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-do-honor-magic-5-pro-screen-sharing-drfone-by-drfone-android/"><u>How To Do Honor Magic 5 Pro Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Galaxy A15 5G, is it possible?
-date: 2024-04-12T01:37:06.068Z
+date: 2024-04-29T22:45:02.715Z
 tags: 
   - hevc video
   - hevc android
@@ -176,3 +176,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-oneplus-ace-2v-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any OnePlus Ace 2V Location By Mobile Number | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-lava-blaze-2-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Lava Blaze 2 Partly Screen Unresponsive | Dr.fone</u></a></li>
 </ul></div>
+

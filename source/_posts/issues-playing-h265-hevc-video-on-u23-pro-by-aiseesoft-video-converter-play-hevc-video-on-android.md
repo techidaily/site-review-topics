@@ -1,7 +1,7 @@
 ---
 title: Issues playing H.265 HEVC video on U23 Pro
-date: 2024-04-12T01:35:57.735Z
-updated: 2024-04-13T01:35:57.735Z
+date: 2024-04-29T22:45:02.076Z
+updated: 2024-04-30T22:45:02.076Z
 tags: 
   - hevc video
   - hevc android
@@ -183,3 +183,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-nokia-g310-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Nokia G310 to Other Android Devices Easily | Dr.fone</u></a></li>
 </ul></div>
+

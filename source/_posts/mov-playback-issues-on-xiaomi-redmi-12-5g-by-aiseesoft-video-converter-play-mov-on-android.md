@@ -1,6 +1,6 @@
 ---
 title: MOV playback issues on Xiaomi Redmi 12 5G
-date: 2024-04-12T01:36:45.693Z
+date: 2024-04-29T22:45:02.574Z
 tags: 
   - mov video
   - mov android
@@ -209,3 +209,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to use Pokemon Go Joystick on Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Lava Yuva 2 | Dr.fone</u></a></li>
 </ul></div>
+

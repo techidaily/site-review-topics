@@ -1,6 +1,6 @@
 ---
 title: MOV playback issues on Xiaomi 
-date: 2024-04-12T01:36:45.553Z
+date: 2024-04-29T22:45:02.573Z
 tags: 
   - mov video
   - mov android
@@ -185,3 +185,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-apple-iphone-12-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your Apple iPhone 12 Pro Max and iPad?</u></a></li>
 <li><a href="https://android-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-a54-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy A54 5G FRP Bypass Instantly</u></a></li>
 </ul></div>
+

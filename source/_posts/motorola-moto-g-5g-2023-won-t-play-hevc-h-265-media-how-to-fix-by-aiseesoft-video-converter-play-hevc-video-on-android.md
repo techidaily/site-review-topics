@@ -1,6 +1,6 @@
 ---
 title: Motorola Moto G 5G (2023) won’t play HEVC H.265 media, how to fix? 
-date: 2024-04-12T01:36:30.630Z
+date: 2024-04-29T22:45:02.455Z
 tags: 
   - hevc video
   - hevc android
@@ -183,3 +183,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a23-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A23 5G Phone with Broken Screen</u></a></li>
 <li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-poco-c55-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Poco C55 | Dr.fone</u></a></li>
 </ul></div>
+

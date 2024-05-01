@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on G54 5G
-date: 2024-04-12T01:35:55.282Z
+date: 2024-04-29T22:45:01.924Z
 tags: 
   - hevc video
   - hevc android
@@ -210,3 +210,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Realme 11 5G? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-apple-iphone-13-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your Apple iPhone 13</u></a></li>
 </ul></div>
+

@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Xiaomi Redmi Note 12 Pro 4G
-date: 2024-04-12T01:35:54.542Z
+date: 2024-04-29T22:45:01.898Z
 tags: 
   - hevc video
   - hevc android
@@ -163,3 +163,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 6s Plus? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-vivo-v27-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Vivo V27 Phone Screen?</u></a></li>
 </ul></div>
+
