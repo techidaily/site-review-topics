@@ -1,6 +1,6 @@
 ---
 title: Play MOV movies on Huawei Nova Y91, is it possible?
-date: 2024-04-29T22:45:22.630Z
+date: 2024-05-19T18:09:37.992Z
 tags: 
   - mov video
   - mov android
@@ -191,4 +191,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For OnePlus 11R | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On Apple iPhone 14 Plus?</u></a></li>
 </ul></div>
+
 

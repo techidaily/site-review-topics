@@ -1,7 +1,7 @@
 ---
 title: Online signatures for Word 2000
-date: 2024-04-29T22:58:51.013Z
-updated: 2024-04-30T22:58:51.013Z
+date: 2024-05-19T18:09:44.101Z
+updated: 2024-05-20T18:09:44.101Z
 tags: 
   - signer
   - signer online
@@ -242,4 +242,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-infinix-zero-30-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Infinix Zero 30 5G Fingerprint Not Working Solutions</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-videopad-video-editor-2023-a-detailed-review-and-recommendation/"><u>Updated 2024 Approved Videopad Video Editor 2023 A Detailed Review and Recommendation</u></a></li>
 </ul></div>
+
 

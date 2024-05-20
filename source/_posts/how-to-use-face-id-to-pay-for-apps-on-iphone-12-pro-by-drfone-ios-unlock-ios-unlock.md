@@ -1,6 +1,6 @@
 ---
 title: How to Use Face ID to Pay for Apps on iPhone 12 Pro?
-date: 2024-04-29T22:55:52.458Z
+date: 2024-05-19T18:09:42.442Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -419,4 +419,5 @@ This will start the wipe process on your iPhone remotely and your iPhone will be
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On OnePlus 11 5G | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
 </ul></div>
+
 

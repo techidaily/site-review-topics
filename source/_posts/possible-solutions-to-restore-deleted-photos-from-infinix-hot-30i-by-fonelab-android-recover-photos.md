@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted photos from Infinix Hot 30i.
-date: 2024-04-29T23:00:45.663Z
+date: 2024-05-19T18:09:44.783Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -194,4 +194,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Tecno Spark 10 4G | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-correct-video-brightness-issues-with-these-top-editing-tools/"><u>New Correct Video Brightness Issues with These Top Editing Tools</u></a></li>
 </ul></div>
+
 

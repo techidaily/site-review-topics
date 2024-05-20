@@ -1,6 +1,6 @@
 ---
 title: How to Unlock the Lock Screen on my Lava Blaze 2 5G
-date: 2024-04-29T22:52:21.184Z
+date: 2024-05-19T18:09:40.797Z
 tags: 
   - android unlock
   - android devices unlock
@@ -230,4 +230,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://techidaily.com/how-to-reset-a-vivo-y100i-power-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo Y100i Power 5G Phone That Is Locked | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-sony-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Sony without backup.</u></a></li>
 </ul></div>
+
 

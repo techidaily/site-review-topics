@@ -1,6 +1,6 @@
 ---
 title: Put and play MKV movies on Samsung Galaxy A15 5G
-date: 2024-04-29T22:46:02.371Z
+date: 2024-05-19T18:09:38.236Z
 tags: 
   - mkv video
   - mkv android
@@ -160,4 +160,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/a-guide-htc-u23-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide HTC U23 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-se-2020-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone SE (2020) Swipe-Up? Try These 11 Solutions</u></a></li>
 </ul></div>
+
 

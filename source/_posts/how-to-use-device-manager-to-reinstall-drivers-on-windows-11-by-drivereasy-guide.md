@@ -1,6 +1,6 @@
 ---
 title: How to use Device Manager to reinstall drivers on Windows 11
-date: 2024-04-29T22:55:17.877Z
+date: 2024-05-19T18:09:42.142Z
 tags: 
   - driver
   - device driver
@@ -181,4 +181,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://ai-video-editing.techidaily.com/new-easiest-fix-included-top-5-ways-to-convert-hdr-to-sdr-videos/"><u>New Easiest Fix Included! Top 5 Ways to Convert HDR to SDR Videos</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-y200e-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y200e 5G</u></a></li>
 </ul></div>
+
 

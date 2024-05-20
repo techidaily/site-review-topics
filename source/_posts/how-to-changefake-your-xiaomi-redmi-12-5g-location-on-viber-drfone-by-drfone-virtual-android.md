@@ -540,3 +540,4 @@ If you've been wondering how can I change my location on iPhone, then I am sure 
 <li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-12-mini-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 12 mini</u></a></li>
 </ul></div>
 
+

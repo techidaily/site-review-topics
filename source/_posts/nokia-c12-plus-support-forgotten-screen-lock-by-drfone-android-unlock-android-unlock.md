@@ -1,6 +1,6 @@
 ---
 title: Nokia C12 Plus support - Forgotten screen lock.
-date: 2024-04-29T22:58:26.647Z
+date: 2024-05-19T18:09:43.896Z
 tags: 
   - android unlock
   - android devices unlock
@@ -227,4 +227,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-v30-lite-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Vivo V30 Lite 5G Phone without PIN</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-samsung-galaxy-s24-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

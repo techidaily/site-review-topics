@@ -1,6 +1,6 @@
 ---
 title: How to Use Face ID make purchases on iPhone 8 Plus ?
-date: 2024-04-29T22:55:42.139Z
+date: 2024-05-19T18:09:42.369Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -416,4 +416,5 @@ This is the easiest and most effective way to reset your iPhone 8 Plus passcode.
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-oneplus-open-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of OnePlus Open Without PUK Codes</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-itel-a60s-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Itel A60s to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

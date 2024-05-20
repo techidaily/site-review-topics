@@ -1,6 +1,6 @@
 ---
 title: How to Unlock Infinix Hot 30i Phone Forgot Password
-date: 2024-04-29T22:51:17.534Z
+date: 2024-05-19T18:09:40.283Z
 tags: 
   - android unlock
   - android devices unlock
@@ -250,4 +250,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-tecno-spark-20-pro-frp-by-drfone-android/"><u>Full Guide to Bypass Tecno Spark 20 Pro FRP</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

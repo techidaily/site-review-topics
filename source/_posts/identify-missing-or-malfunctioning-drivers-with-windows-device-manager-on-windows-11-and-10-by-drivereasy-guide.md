@@ -1,6 +1,6 @@
 ---
 title: Identify missing or malfunctioning drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-04-29T22:56:38.115Z
+date: 2024-05-19T18:09:42.844Z
 tags: 
   - driver
   - device driver
@@ -165,4 +165,5 @@ There are two reasons why…
 <li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Sony Xperia 5 V | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-itel-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Itel .</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted photos from Vivo Y36.
-date: 2024-04-29T23:00:58.676Z
+date: 2024-05-19T18:09:44.850Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -179,4 +179,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-lava-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Lava</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-from-iphone-12-mini-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock from iPhone 12 mini</u></a></li>
 </ul></div>
+
 

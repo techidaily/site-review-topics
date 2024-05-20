@@ -1,6 +1,6 @@
 ---
 title: Lava Blaze 2 Pro Video Recovery - Recover Deleted Videos from Lava Blaze 2 Pro
-date: 2024-04-29T22:57:55.197Z
+date: 2024-05-19T18:09:43.648Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -214,4 +214,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-editing-video.techidaily.com/finding-the-best-gif-websites-was-never-easier/"><u>Finding the Best GIF Websites Was Never Easier</u></a></li>
 <li><a href="https://techidaily.com/how-to-soft-reset-oppo-f23-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Oppo F23 5G phone? | Dr.fone</u></a></li>
 </ul></div>
+
 

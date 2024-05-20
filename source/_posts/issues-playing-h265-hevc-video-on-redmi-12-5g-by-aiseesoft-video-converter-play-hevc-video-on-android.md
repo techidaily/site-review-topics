@@ -1,7 +1,7 @@
 ---
 title: Issues playing H.265 HEVC video on Redmi 12 5G
-date: 2024-04-29T22:45:02.017Z
-updated: 2024-04-30T22:45:02.017Z
+date: 2024-05-19T18:09:37.257Z
+updated: 2024-05-20T18:09:37.257Z
 tags: 
   - hevc video
   - hevc android
@@ -166,4 +166,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-nokia-c110-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Nokia C110 Phones</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-iphone-7-without-password-by-drfone-ios/"><u>How to Remove Apple ID from iPhone 7 without Password?</u></a></li>
 </ul></div>
+
 

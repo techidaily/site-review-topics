@@ -1,7 +1,7 @@
 ---
 title: Online signatures for .xltx files
-date: 2024-04-29T22:58:55.780Z
-updated: 2024-04-30T22:58:55.780Z
+date: 2024-05-19T18:09:44.128Z
+updated: 2024-05-20T18:09:44.128Z
 tags: 
   - signer
   - signer online
@@ -210,4 +210,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-realme-c55-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Realme C55 Screen to PC with Chromecast | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 13? | Dr.fone</u></a></li>
 </ul></div>
+
 

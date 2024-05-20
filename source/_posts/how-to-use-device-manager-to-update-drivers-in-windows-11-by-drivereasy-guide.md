@@ -1,6 +1,6 @@
 ---
 title: How to use Device Manager to update drivers in Windows 11
-date: 2024-04-29T22:55:28.792Z
+date: 2024-05-19T18:09:42.285Z
 tags: 
   - driver
   - device driver
@@ -144,4 +144,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Realme 12 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/your-complete-guide-to-reset-infinix-note-30-vip-racing-edition-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
 </ul></div>
+
 

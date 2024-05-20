@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted photos from Xiaomi Redmi 13C.
-date: 2024-04-29T23:01:00.859Z
+date: 2024-05-19T18:09:44.859Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -221,4 +221,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-se-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone SE Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-infinix-smart-8-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Infinix Smart 8 Pro Through Google Earth?</u></a></li>
 </ul></div>
+
 

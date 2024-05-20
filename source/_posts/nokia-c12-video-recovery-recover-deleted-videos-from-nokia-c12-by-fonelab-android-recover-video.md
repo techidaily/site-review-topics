@@ -1,6 +1,6 @@
 ---
 title: Nokia C12 Video Recovery - Recover Deleted Videos from Nokia C12
-date: 2024-04-29T22:58:28.169Z
+date: 2024-05-19T18:09:43.905Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -167,4 +167,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 6 Plus | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c51-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Realme C51 PIN Code/Pattern Lock/Password</u></a></li>
 </ul></div>
+
 

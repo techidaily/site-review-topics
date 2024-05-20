@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated drivers with Windows Device Manager on Windows 11 & 10 & 7
-date: 2024-04-29T22:56:56.350Z
+date: 2024-05-19T18:09:42.959Z
 tags: 
   - driver
   - device driver
@@ -229,4 +229,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-asus-rog-phone-8-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Asus ROG Phone 8 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-vivo-y17s-by-drfone-android/"><u>How to Bypass FRP on Vivo Y17s?</u></a></li>
 </ul></div>
+
 

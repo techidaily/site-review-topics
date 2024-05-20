@@ -1,6 +1,6 @@
 ---
 title: How to use Device Manager to update your drivers on Windows 11
-date: 2024-04-29T22:55:36.810Z
+date: 2024-05-19T18:09:42.334Z
 tags: 
   - driver
   - device driver
@@ -236,4 +236,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://phone-solutions.techidaily.com/fixed-microsoft-excel-2007-cannot-access-the-file-error-stellar-by-stellar-guide/"><u>Fixed Microsoft Excel 2007 Cannot Access the File Error | Stellar</u></a></li>
 <li><a href="https://techidaily.com/hard-reset-lava-yuva-2-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Lava Yuva 2 in 3 Efficient Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

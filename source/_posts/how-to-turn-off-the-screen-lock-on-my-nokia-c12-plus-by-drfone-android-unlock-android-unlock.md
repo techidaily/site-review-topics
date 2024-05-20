@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Nokia C12 Plus
-date: 2024-04-29T22:50:39.124Z
+date: 2024-05-19T18:09:39.965Z
 tags: 
   - android unlock
   - android devices unlock
@@ -251,4 +251,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://ai-video.techidaily.com/updated-best-10-hindi-video-translators-with-step-by-step-guidance/"><u>updated Best 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
 <li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-pro-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Pro without Losing Any Data? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my X50 GT
-date: 2024-04-29T22:50:47.990Z
+date: 2024-05-19T18:09:40.040Z
 tags: 
   - android unlock
   - android devices unlock
@@ -268,4 +268,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy S24 | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-play-7t-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor Play 7T to Any iOS Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

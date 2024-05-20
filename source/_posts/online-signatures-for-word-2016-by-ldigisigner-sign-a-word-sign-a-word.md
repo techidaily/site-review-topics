@@ -1,7 +1,7 @@
 ---
 title: Online signatures for Word 2016
-date: 2024-04-29T22:58:51.982Z
-updated: 2024-04-30T22:58:51.982Z
+date: 2024-05-19T18:09:44.107Z
+updated: 2024-05-20T18:09:44.107Z
 tags: 
   - signer
   - signer online
@@ -226,4 +226,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-y17s-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo Y17s Phone that is Locked?</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-apple-iphone-6-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 6 Backup Password? Heres What to Do</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Insert signature in .wbk file
-date: 2024-04-29T22:57:25.699Z
-updated: 2024-04-30T22:57:25.699Z
+date: 2024-05-19T18:09:43.332Z
+updated: 2024-05-20T18:09:43.332Z
 tags: 
   - signer
   - signer online
@@ -213,4 +213,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-v27-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo V27 Pro to Outlook | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-the-best-of-the-best-free-vob-video-editing-software/"><u>2024 Approved The Best of the Best Free VOB Video Editing Software</u></a></li>
 </ul></div>
+
 

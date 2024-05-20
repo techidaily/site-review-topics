@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Nord CE 3 5G
-date: 2024-04-29T22:50:39.694Z
+date: 2024-05-19T18:09:39.969Z
 tags: 
   - android unlock
   - android devices unlock
@@ -263,4 +263,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>5 Best Route Generator Apps You Should Try On Apple iPhone 6s Plus | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme C55 | Dr.fone</u></a></li>
 </ul></div>
+
 

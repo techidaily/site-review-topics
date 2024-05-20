@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted contacts from Vivo Y02T.
-date: 2024-04-29T23:00:10.669Z
+date: 2024-05-19T18:09:44.591Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -162,4 +162,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oppo-a18-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Oppo A18 FRP</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-sony-xperia-5-v-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Sony Xperia 5 V to iPhone 15/14/13/12 | Dr.fone</u></a></li>
 </ul></div>
+
 

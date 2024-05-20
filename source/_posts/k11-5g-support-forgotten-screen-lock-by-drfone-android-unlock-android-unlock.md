@@ -1,6 +1,6 @@
 ---
 title: K11 5G support - Forgotten screen lock.
-date: 2024-04-29T22:57:53.379Z
+date: 2024-05-19T18:09:43.637Z
 tags: 
   - android unlock
   - android devices unlock
@@ -236,4 +236,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-vivo-s17-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Vivo S17 Pro? Fixed | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-8-plus-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone 8 Plus to Excel CSV & vCard Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

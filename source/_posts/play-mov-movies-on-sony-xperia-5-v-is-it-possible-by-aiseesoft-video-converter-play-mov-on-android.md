@@ -1,6 +1,6 @@
 ---
 title: Play MOV movies on Sony Xperia 5 V, is it possible?
-date: 2024-04-29T22:45:27.943Z
+date: 2024-05-19T18:09:38.016Z
 tags: 
   - mov video
   - mov android
@@ -220,4 +220,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-erase-iphone-11-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase iPhone 11 Data Completely | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-realme-11-proplus-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Realme 11 Pro+ to Your PC/Mac | Dr.fone</u></a></li>
 </ul></div>
+
 

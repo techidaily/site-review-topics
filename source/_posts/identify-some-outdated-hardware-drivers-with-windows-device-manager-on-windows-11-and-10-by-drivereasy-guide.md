@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated hardware drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-04-29T22:56:59.613Z
+date: 2024-05-19T18:09:42.981Z
 tags: 
   - driver
   - device driver
@@ -152,4 +152,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-narzo-n55-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme Narzo N55 | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-vivo-x-flip-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Vivo X Flip in 3 Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

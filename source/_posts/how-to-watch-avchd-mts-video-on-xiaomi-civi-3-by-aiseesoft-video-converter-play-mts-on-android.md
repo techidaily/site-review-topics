@@ -1,6 +1,6 @@
 ---
 title: How to watch AVCHD MTS video on Xiaomi Civi 3?
-date: 2024-04-29T22:45:01.784Z
+date: 2024-05-19T18:09:37.102Z
 tags: 
   - mts video
   - mts android
@@ -155,4 +155,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
     data-ad-format="autorelaxed"
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
+
 

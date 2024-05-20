@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted videos from OnePlus 12
-date: 2024-04-29T23:01:40.382Z
+date: 2024-05-19T18:09:45.113Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -171,4 +171,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-13-mini-to-mac-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 13 mini to Mac? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/sim-unlock-nokia-c12-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Nokia C12 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
 </ul></div>
+
 

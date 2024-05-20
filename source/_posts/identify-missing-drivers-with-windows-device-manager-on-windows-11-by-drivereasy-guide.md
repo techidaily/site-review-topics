@@ -1,6 +1,6 @@
 ---
 title: Identify missing drivers with Windows Device Manager on Windows 11
-date: 2024-04-29T22:56:32.043Z
+date: 2024-05-19T18:09:42.807Z
 tags: 
   - driver
   - device driver
@@ -261,4 +261,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 14 Pro Max</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-xr-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone XR</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted videos from Xiaomi Redmi Note 12R
-date: 2024-04-29T23:01:53.941Z
+date: 2024-05-19T18:09:45.188Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -177,4 +177,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Oppo A18 | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-vivo-y100i-power-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Vivo Y100i Power 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

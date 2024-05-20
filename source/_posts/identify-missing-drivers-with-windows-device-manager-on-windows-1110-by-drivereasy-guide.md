@@ -1,6 +1,6 @@
 ---
 title: Identify missing drivers with Windows Device Manager on Windows 11/10
-date: 2024-04-29T22:56:32.233Z
+date: 2024-05-19T18:09:42.809Z
 tags: 
   - driver
   - device driver
@@ -214,4 +214,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-y100i-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo Y100i? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-vivo-t2-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Vivo T2 5G to iPhone Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

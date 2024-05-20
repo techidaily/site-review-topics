@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Motorola Moto G84 5G
-date: 2024-04-29T22:45:02.006Z
+date: 2024-05-19T18:09:37.256Z
 tags: 
   - hevc video
   - hevc android
@@ -188,4 +188,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-c67-4gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Realme C67 4Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2013-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2013 document with Electronic Digital Signature - (Tutorial)</u></a></li>
 </ul></div>
+
 

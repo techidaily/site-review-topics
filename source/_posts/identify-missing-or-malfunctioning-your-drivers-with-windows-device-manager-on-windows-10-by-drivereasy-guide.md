@@ -1,6 +1,6 @@
 ---
 title: Identify missing or malfunctioning your drivers with Windows Device Manager on Windows 10
-date: 2024-04-29T22:56:43.852Z
+date: 2024-05-19T18:09:42.881Z
 tags: 
   - driver
   - device driver
@@ -162,4 +162,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y36i-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y36i to Any iOS Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

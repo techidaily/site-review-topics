@@ -1,7 +1,7 @@
 ---
 title: How to Upgrade iPhone XS to the Latest iOS Version? | Dr.fone
-date: 2024-04-29T22:54:41.203Z
-updated: 2024-04-30T22:54:41.203Z
+date: 2024-05-19T18:09:41.876Z
+updated: 2024-05-20T18:09:41.876Z
 tags: 
   - ios system repair
   - iphone repair
@@ -361,4 +361,5 @@ A prompt message of completion will appear on the screen showing the successful 
 <li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-tecno-spark-10-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Tecno Spark 10 5G Back to Operation | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-overview-about-supported-iphone-video-formats-and-best-iphone-video-editor-and-converter/"><u>Updated 2024 Approved Overview About Supported iPhone Video Formats and Best iPhone Video Editor & Converter</u></a></li>
 </ul></div>
+
 

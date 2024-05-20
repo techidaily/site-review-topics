@@ -1,7 +1,7 @@
 ---
 title: Online signatures for .xlsm files
-date: 2024-04-29T22:58:54.458Z
-updated: 2024-04-30T22:58:54.458Z
+date: 2024-05-19T18:09:44.121Z
+updated: 2024-05-20T18:09:44.121Z
 tags: 
   - signer
   - signer online
@@ -208,4 +208,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-11-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From Apple iPhone 11</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-13-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 13 After Forgetting the Passcode?</u></a></li>
 </ul></div>
+
 

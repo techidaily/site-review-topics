@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Nubia Red Magic 8S Pro
-date: 2024-04-29T22:59:31.841Z
+date: 2024-05-19T18:09:44.353Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -215,4 +215,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-realme-v30t-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Realme V30T to iPhone | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-vivo-y100-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Vivo Y100 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted videos from Xiaomi 13T Pro
-date: 2024-04-29T23:01:52.818Z
+date: 2024-05-19T18:09:45.182Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -180,4 +180,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-nokia-c210-by-drfone-android/"><u>How to Bypass FRP on Nokia C210?</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-you-have-a-chromebook-and-want-to-edit-videos-but-are-not-sure-which-video-editor-works-on-chromebook-perfectly-dont-worry-here-is-a-list-of-t/"><u>2024 Approved You Have a Chromebook and Want to Edit Videos but Are Not Sure Which Video Editor Works on Chromebook Perfectly? Dont Worry, Here Is a List of the Best Video Editors for Chromebook</u></a></li>
 </ul></div>
+
 

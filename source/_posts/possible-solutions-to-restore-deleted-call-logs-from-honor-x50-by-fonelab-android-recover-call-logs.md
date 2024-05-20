@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Honor X50
-date: 2024-04-29T22:59:24.111Z
+date: 2024-05-19T18:09:44.328Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -177,4 +177,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-realme-narzo-n55-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Realme Narzo N55 Quickly? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Realme 11 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

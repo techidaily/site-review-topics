@@ -1,7 +1,7 @@
 ---
 title: How To Transfer WhatsApp From iPhone 13 mini to other iPhone 11 devices? | Dr.fone
-date: 2024-04-29T22:48:47.338Z
-updated: 2024-04-30T22:48:47.338Z
+date: 2024-05-19T18:09:39.272Z
+updated: 2024-05-20T18:09:39.272Z
 tags: 
   - transfer whatsapp
 categories:
@@ -210,4 +210,5 @@ When this process concludes, a prompt message will appear on the window of its c
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-apple-iphone-14-pro-max-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On Apple iPhone 14 Pro Max How to Bypass?</u></a></li>
 <li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone SE (2020) | Dr.fone</u></a></li>
 </ul></div>
+
 

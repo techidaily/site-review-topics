@@ -1,6 +1,6 @@
 ---
 title: MOV playback issues on Xiaomi Redmi 13C 5G
-date: 2024-04-29T22:45:02.575Z
+date: 2024-05-19T18:09:37.657Z
 tags: 
   - mov video
   - mov android
@@ -175,4 +175,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-htc-u23-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On HTC U23? Fixed | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-samsung-galaxy-s23-tactical-edition-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Samsung Galaxy S23 Tactical Edition Without PUK Codes</u></a></li>
 </ul></div>
+
 

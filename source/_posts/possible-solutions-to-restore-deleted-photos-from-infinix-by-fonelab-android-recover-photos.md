@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted photos from Infinix .
-date: 2024-04-29T23:00:45.283Z
+date: 2024-05-19T18:09:44.781Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -176,4 +176,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-honor-90-lite-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Honor 90 Lite Bypass FRP Tools for PC That Actually Work</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-samsung-galaxy-a15-4g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Samsung Galaxy A15 4G? 8 Solutions Inside | Dr.fone</u></a></li>
 </ul></div>
+
 

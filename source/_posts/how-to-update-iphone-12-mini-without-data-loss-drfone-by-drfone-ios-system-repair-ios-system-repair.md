@@ -1,7 +1,7 @@
 ---
 title: How to Update iPhone 12 mini without Data Loss? | Dr.fone
-date: 2024-04-29T22:52:41.910Z
-updated: 2024-04-30T22:52:41.910Z
+date: 2024-05-19T18:09:41.136Z
+updated: 2024-05-20T18:09:41.136Z
 tags: 
   - ios system repair
   - iphone repair
@@ -359,4 +359,5 @@ Once it is concluded, a prompt message appears on the window. You are advised to
 <li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-samsung-galaxy-m14-4g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Samsung Galaxy M14 4G FRP Bypass</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-infinix-note-30-pro-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Infinix Note 30 Pro</u></a></li>
 </ul></div>
+
 

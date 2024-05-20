@@ -1,7 +1,7 @@
 ---
 title: How To Transfer Data From iPhone 6s To Android devices? | Dr.fone
-date: 2024-04-29T22:47:26.987Z
-updated: 2024-04-30T22:47:26.987Z
+date: 2024-05-19T18:09:38.798Z
+updated: 2024-05-20T18:09:38.798Z
 tags: 
   - transfer data
 categories:
@@ -232,4 +232,5 @@ Once done, the window in the front shows the completed phone transfer. Click **O
 <li><a href="https://ios-unlock.techidaily.com/iphone-11-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 11 Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-infinix-note-30-vip-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Infinix Note 30 VIP?</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Google Pixel 8 Pro
-date: 2024-04-29T22:50:31.867Z
+date: 2024-05-19T18:09:39.921Z
 tags: 
   - android unlock
   - android devices unlock
@@ -261,4 +261,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://animation-videos.techidaily.com/updated-how-to-create-a-gif-with-sound-in-2024/"><u>Updated How to Create A GIF with Sound, In 2024</u></a></li>
 <li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo V27e? | Dr.fone</u></a></li>
 </ul></div>
+
 

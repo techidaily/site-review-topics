@@ -1,6 +1,6 @@
 ---
 title: How to Unlock Itel A60 Phone Forgot Password
-date: 2024-04-29T22:51:37.639Z
+date: 2024-05-19T18:09:40.458Z
 tags: 
   - android unlock
   - android devices unlock
@@ -232,4 +232,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://ai-vdieo-software.techidaily.com/best-neon-font-generators-create-stunning-text-in-minutes/"><u>Best Neon Font Generators Create Stunning Text in Minutes</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Does Life360 Notify When You Log Out On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Samsung Galaxy A05s
-date: 2024-04-29T22:50:44.601Z
+date: 2024-05-19T18:09:40.019Z
 tags: 
   - android unlock
   - android devices unlock
@@ -263,4 +263,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Lava Yuva 3 Pro | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-plus-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Plus To Others ios devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

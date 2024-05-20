@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted pictures from A18.
-date: 2024-04-29T23:01:02.373Z
+date: 2024-05-19T18:09:44.865Z
 tags: 
   - android data recovery
   - android devices pictures recovery
@@ -193,4 +193,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://howto.techidaily.com/why-your-vivo-y100i-power-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo Y100i Power 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-iphone-13-mini-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 13 mini After Forgetting the Passcode? | Dr.fone</u></a></li>
 </ul></div>
+
 

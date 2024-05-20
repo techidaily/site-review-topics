@@ -1,7 +1,7 @@
 ---
 title: Infinix Data Recovery – recover lost data from Infinix
-date: 2024-04-29T22:57:08.123Z
-updated: 2024-04-30T22:57:08.123Z
+date: 2024-05-19T18:09:43.062Z
+updated: 2024-05-20T18:09:43.062Z
 tags: 
   - android data recovery
   - android devices data recovery
@@ -209,4 +209,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone 14? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-f34-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy F34 5G to BlackBerry | Dr.fone</u></a></li>
 </ul></div>
+
 

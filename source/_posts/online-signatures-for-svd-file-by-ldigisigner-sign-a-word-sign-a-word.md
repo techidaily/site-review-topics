@@ -1,7 +1,7 @@
 ---
 title: Online signatures for .svd file
-date: 2024-04-29T22:58:50.259Z
-updated: 2024-04-30T22:58:50.259Z
+date: 2024-05-19T18:09:44.095Z
+updated: 2024-05-20T18:09:44.095Z
 tags: 
   - signer
   - signer online
@@ -240,4 +240,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-iphone-13-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From iPhone 13</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Realme C67 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

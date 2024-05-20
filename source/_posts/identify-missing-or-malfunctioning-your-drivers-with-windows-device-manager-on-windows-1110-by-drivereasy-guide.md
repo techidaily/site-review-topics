@@ -1,6 +1,6 @@
 ---
 title: Identify missing or malfunctioning your drivers with Windows Device Manager on Windows 11/10
-date: 2024-04-29T22:56:44.617Z
+date: 2024-05-19T18:09:42.886Z
 tags: 
   - driver
   - device driver
@@ -295,4 +295,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-9-proplus-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nubia Red Magic 9 Pro+ Phone Password Without Factory Reset?</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/facebook-video-dimensions-decoded-a-step-by-step-guide/"><u>Facebook Video Dimensions Decoded A Step-by-Step Guide</u></a></li>
 </ul></div>
+
 

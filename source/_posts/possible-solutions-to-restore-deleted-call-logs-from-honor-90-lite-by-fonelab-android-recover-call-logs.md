@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Honor 90 Lite
-date: 2024-04-29T22:59:22.784Z
+date: 2024-05-19T18:09:44.314Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -171,4 +171,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Oppo K11 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-diy-vhs-overlay-in-after-effects-for-2024/"><u>How to DIY VHS Overlay in After Effects for 2024</u></a></li>
 </ul></div>
+
 

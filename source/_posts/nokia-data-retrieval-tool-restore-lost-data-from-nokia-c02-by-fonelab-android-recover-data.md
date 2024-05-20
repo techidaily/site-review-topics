@@ -1,6 +1,6 @@
 ---
 title: Nokia Data Retrieval tool – restore lost data from Nokia C02
-date: 2024-04-29T22:58:31.006Z
+date: 2024-05-19T18:09:43.938Z
 tags: 
   - android data recovery
   - android devices data recovery
@@ -165,4 +165,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-honor-magic-vs-2-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Honor Magic Vs 2.</u></a></li>
 <li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-nokia-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Nokia on Windows</u></a></li>
 </ul></div>
+
 

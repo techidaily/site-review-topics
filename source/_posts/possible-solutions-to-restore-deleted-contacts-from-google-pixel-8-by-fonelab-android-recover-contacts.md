@@ -1,7 +1,7 @@
 ---
 title: Possible solutions to restore deleted contacts from Google Pixel 8.
-date: 2024-04-29T22:59:47.413Z
-updated: 2024-04-30T22:59:47.413Z
+date: 2024-05-19T18:09:44.458Z
+updated: 2024-05-20T18:09:44.458Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -168,4 +168,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-nokia-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Nokia</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-infinix-note-30-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Infinix Note 30</u></a></li>
 </ul></div>
+
 

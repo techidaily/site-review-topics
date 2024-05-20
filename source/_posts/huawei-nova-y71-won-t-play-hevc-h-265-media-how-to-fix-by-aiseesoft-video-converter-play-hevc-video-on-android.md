@@ -1,6 +1,6 @@
 ---
 title: Huawei Nova Y71 won’t play HEVC H.265 media, how to fix? 
-date: 2024-04-29T22:45:01.799Z
+date: 2024-05-19T18:09:37.142Z
 tags: 
   - hevc video
   - hevc android
@@ -168,4 +168,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
     data-ad-format="autorelaxed"
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
+
 

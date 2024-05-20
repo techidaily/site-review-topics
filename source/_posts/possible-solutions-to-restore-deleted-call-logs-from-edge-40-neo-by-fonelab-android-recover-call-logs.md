@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Edge 40 Neo
-date: 2024-04-29T22:59:20.123Z
+date: 2024-05-19T18:09:44.298Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -182,4 +182,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-realme-c67-4g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Realme C67 4G</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-realme-11x-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Realme 11X 5G Lock Screen Password</u></a></li>
 </ul></div>
+
 

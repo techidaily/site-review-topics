@@ -1,7 +1,7 @@
 ---
 title: Online signatures for Word 2023
-date: 2024-04-29T22:58:52.558Z
-updated: 2024-04-30T22:58:52.558Z
+date: 2024-05-19T18:09:44.110Z
+updated: 2024-05-20T18:09:44.110Z
 tags: 
   - signer
   - signer online
@@ -192,4 +192,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://android-frp.techidaily.com/easy-guide-to-oppo-k11-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Oppo K11 5G FRP Bypass With Best Methods</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-8-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone 8 Plus to Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

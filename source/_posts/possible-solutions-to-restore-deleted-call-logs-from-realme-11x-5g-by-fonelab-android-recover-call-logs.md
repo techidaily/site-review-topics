@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Realme 11X 5G
-date: 2024-04-29T22:59:35.875Z
+date: 2024-05-19T18:09:44.366Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -203,4 +203,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-editing-video.techidaily.com/how-to-create-the-best-video-collages-for-2024/"><u>How to Create The Best Video Collages for 2024</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
 </ul></div>
+
 

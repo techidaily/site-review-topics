@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted videos from Nubia Red Magic 9 Pro
-date: 2024-04-29T23:01:40.006Z
+date: 2024-05-19T18:09:45.111Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -195,4 +195,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-infinix-hot-40-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Infinix Hot 40 PC | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for ZTE Axon 40 Lite | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Oppo A2 support - Forgotten screen lock.
-date: 2024-04-29T22:58:58.087Z
+date: 2024-05-19T18:09:44.143Z
 tags: 
   - android unlock
   - android devices unlock
@@ -255,4 +255,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-poco-m6-pro-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Poco M6 Pro 5G Device</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-14-pro-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 14 Pro Without Passcode Now</u></a></li>
 </ul></div>
+
 

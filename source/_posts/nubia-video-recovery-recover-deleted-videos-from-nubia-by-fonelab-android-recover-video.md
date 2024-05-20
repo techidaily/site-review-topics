@@ -1,6 +1,6 @@
 ---
 title: Nubia Video Recovery - Recover Deleted Videos from Nubia
-date: 2024-04-29T22:58:38.156Z
+date: 2024-05-19T18:09:43.983Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -211,4 +211,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-xiaomi-14-ultra-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Xiaomi 14 Ultra Phone and Remove Locked Screen</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-combine-videos-effortlessly-best-easy-video-joiner-alternatives/"><u>New 2024 Approved Combine Videos Effortlessly Best Easy Video Joiner Alternatives</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to turn off the screen lock on my Tecno
-date: 2024-04-29T22:50:45.918Z
-updated: 2024-04-30T22:50:45.918Z
+date: 2024-05-19T18:09:40.028Z
+updated: 2024-05-20T18:09:40.028Z
 tags: 
   - android unlock
   - android devices unlock
@@ -272,4 +272,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Honor Magic 5 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-play-40c-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor Play 40C | Dr.fone</u></a></li>
 </ul></div>
+
 

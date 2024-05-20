@@ -1,7 +1,7 @@
 ---
 title: Insert signature in .doc file
-date: 2024-04-29T22:57:22.035Z
-updated: 2024-04-30T22:57:22.035Z
+date: 2024-05-19T18:09:43.313Z
+updated: 2024-05-20T18:09:43.313Z
 tags: 
   - signer
   - signer online
@@ -209,4 +209,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-lenovo-thinkphone-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Lenovo ThinkPhone to Other Android Devices Devices? | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-poco-c50-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Poco C50 | Dr.fone</u></a></li>
 </ul></div>
+
 

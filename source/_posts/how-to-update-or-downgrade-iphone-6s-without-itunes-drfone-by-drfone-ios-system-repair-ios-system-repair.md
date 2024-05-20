@@ -1,7 +1,7 @@
 ---
 title: How To Update or Downgrade iPhone 6s Without iTunes? | Dr.fone
-date: 2024-04-29T22:53:45.144Z
-updated: 2024-04-30T22:53:45.144Z
+date: 2024-05-19T18:09:41.497Z
+updated: 2024-05-20T18:09:41.497Z
 tags: 
   - ios system repair
   - iphone repair
@@ -400,4 +400,5 @@ Once it is concluded, a prompt message appears on the window. You are advised to
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-s18-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo S18 Phone Without Password?</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Honor Magic V2? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted contacts from Honor X50.
-date: 2024-04-29T22:59:49.145Z
+date: 2024-05-19T18:09:44.468Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -197,4 +197,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-honor-x7b-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Honor X7b</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-whats-next-after-movie-maker-top-6-windows-video-editors/"><u>Updated In 2024, Whats Next After Movie Maker? Top 6 Windows Video Editors</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Nokia C12 support - Turn Off Screen Lock.
-date: 2024-04-29T22:58:27.791Z
+date: 2024-05-19T18:09:43.903Z
 tags: 
   - android unlock
   - android devices unlock
@@ -217,4 +217,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-se-2020-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone SE (2020) with a Broken Screen? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Honor X7b | Dr.fone</u></a></li>
 </ul></div>
+
 

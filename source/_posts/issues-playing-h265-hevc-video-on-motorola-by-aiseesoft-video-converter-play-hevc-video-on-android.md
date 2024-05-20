@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Motorola
-date: 2024-04-29T22:45:01.988Z
+date: 2024-05-19T18:09:37.254Z
 tags: 
   - hevc video
   - hevc android
@@ -166,4 +166,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Vivo Y36? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-iphone-12-pro-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On iPhone 12 Pro without Password?</u></a></li>
 </ul></div>
+
 

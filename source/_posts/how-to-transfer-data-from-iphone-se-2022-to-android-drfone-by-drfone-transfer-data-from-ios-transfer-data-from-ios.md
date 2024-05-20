@@ -1,7 +1,7 @@
 ---
 title: How To Transfer Data From iPhone SE (2022) To Android? | Dr.fone
-date: 2024-04-29T22:47:53.505Z
-updated: 2024-04-30T22:47:53.505Z
+date: 2024-05-19T18:09:38.958Z
+updated: 2024-05-20T18:09:38.958Z
 tags: 
   - transfer data
 categories:
@@ -256,4 +256,5 @@ Once done, the window in the front shows the completed phone transfer. Click **O
 <li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-nokia-105-classic-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Nokia 105 Classic to iPhone | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/things-you-dont-know-about-nubia-red-magic-8s-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Nubia Red Magic 8S Pro Reset Code | Dr.fone</u></a></li>
 </ul></div>
+
 

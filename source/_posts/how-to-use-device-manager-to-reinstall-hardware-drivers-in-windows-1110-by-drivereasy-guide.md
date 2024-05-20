@@ -1,6 +1,6 @@
 ---
 title: How to use Device Manager to reinstall hardware drivers in Windows 11/10
-date: 2024-04-29T22:55:19.638Z
+date: 2024-05-19T18:09:42.150Z
 tags: 
   - driver
   - device driver
@@ -250,4 +250,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-6s-to-ipad-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 6s to iPad? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-itel-p55plus-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Itel P55+ to Laptop Without USB | Dr.fone</u></a></li>
 </ul></div>
+
 

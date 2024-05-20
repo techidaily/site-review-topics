@@ -1,7 +1,7 @@
 ---
 title: How To Upgrade or Downgrade iPhone 8? | Dr.fone
-date: 2024-04-29T22:55:06.758Z
-updated: 2024-04-30T22:55:06.758Z
+date: 2024-05-19T18:09:42.021Z
+updated: 2024-05-20T18:09:42.021Z
 tags: 
   - ios system repair
   - iphone repair
@@ -420,4 +420,5 @@ As the iOS is successfully downgraded on your iPhone, iPad or iPod Touch, contin
 <li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-13-mini-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 13 mini Unavailable Issue With Ease | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From iPhone 15 Plus</u></a></li>
 </ul></div>
+
 

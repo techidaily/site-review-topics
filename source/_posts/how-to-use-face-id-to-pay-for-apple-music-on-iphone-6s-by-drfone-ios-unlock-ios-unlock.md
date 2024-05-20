@@ -1,7 +1,7 @@
 ---
 title: How to Use Face ID to Pay for Apple Music on iPhone 6s
-date: 2024-04-29T22:55:46.248Z
-updated: 2024-04-30T22:55:46.248Z
+date: 2024-05-19T18:09:42.398Z
+updated: 2024-05-20T18:09:42.398Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -360,4 +360,5 @@ This will start the wipe process on your iPhone remotely and your iPhone will be
 <li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-14-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix Apple iPhone 14 Passcode not Working? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-xr21-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Nokia XR21 to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

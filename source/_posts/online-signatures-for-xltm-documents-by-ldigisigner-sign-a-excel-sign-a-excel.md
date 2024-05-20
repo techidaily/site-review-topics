@@ -1,7 +1,7 @@
 ---
 title: Online signatures for .xltm documents
-date: 2024-04-29T22:58:55.215Z
-updated: 2024-04-30T22:58:55.215Z
+date: 2024-05-19T18:09:44.125Z
+updated: 2024-05-20T18:09:44.125Z
 tags: 
   - signer
   - signer online
@@ -219,4 +219,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-v27e-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo V27e to Other Android Devices? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-no-more-reddit-roulette-reliable-filmora-discounts-here/"><u>Updated In 2024, No More Reddit Roulette Reliable Filmora Discounts Here</u></a></li>
 </ul></div>
+
 

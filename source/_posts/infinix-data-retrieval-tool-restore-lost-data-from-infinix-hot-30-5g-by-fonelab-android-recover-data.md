@@ -1,6 +1,6 @@
 ---
 title: Infinix Data Retrieval tool – restore lost data from Infinix Hot 30 5G
-date: 2024-04-29T22:57:10.268Z
+date: 2024-05-19T18:09:43.131Z
 tags: 
   - android data recovery
   - android devices data recovery
@@ -158,4 +158,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-realme-11-proplus-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Realme 11 Pro+ Screen | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-oppo-a78-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Oppo A78 5G Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated hardware drivers with Windows Device Manager in Windows 11
-date: 2024-04-29T22:56:58.251Z
+date: 2024-05-19T18:09:42.972Z
 tags: 
   - driver
   - device driver
@@ -214,4 +214,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo Y17s | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Poco M6 Pro 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

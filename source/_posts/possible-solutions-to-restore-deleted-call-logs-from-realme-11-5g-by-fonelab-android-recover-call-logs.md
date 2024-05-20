@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Realme 11 5G
-date: 2024-04-29T22:59:35.304Z
+date: 2024-05-19T18:09:44.364Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -210,4 +210,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo V27e | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-poco-m6-pro-4g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Poco M6 Pro 4G to Other Android Devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

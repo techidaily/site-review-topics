@@ -1,6 +1,6 @@
 ---
 title: Motorola Edge 40 Pro won't play MOV videos, how to fix ?
-date: 2024-04-29T22:45:02.440Z
+date: 2024-05-19T18:09:37.524Z
 tags: 
   - mov video
   - mov android
@@ -176,4 +176,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-13-pro-max-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 13 Pro Max With 7 Methods | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/best-3-htc-u23-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 HTC U23 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 </ul></div>
+
 

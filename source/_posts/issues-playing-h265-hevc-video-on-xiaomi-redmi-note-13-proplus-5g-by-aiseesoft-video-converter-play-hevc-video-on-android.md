@@ -1,7 +1,7 @@
 ---
 title: Issues playing H.265 HEVC video on Xiaomi Redmi Note 13 Pro+ 5G
-date: 2024-04-29T22:45:02.091Z
-updated: 2024-04-30T22:45:02.091Z
+date: 2024-05-19T18:09:37.267Z
+updated: 2024-05-20T18:09:37.267Z
 tags: 
   - hevc video
   - hevc android
@@ -208,4 +208,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-11-pro-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 11 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

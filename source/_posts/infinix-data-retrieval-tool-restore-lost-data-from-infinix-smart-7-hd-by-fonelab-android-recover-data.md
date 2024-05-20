@@ -1,6 +1,6 @@
 ---
 title: Infinix Data Retrieval tool – restore lost data from Infinix Smart 7 HD
-date: 2024-04-29T22:57:11.604Z
+date: 2024-05-19T18:09:43.229Z
 tags: 
   - android data recovery
   - android devices data recovery
@@ -167,4 +167,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 13 mini</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-iphone-13-mini-for-free-by-drfone-ios/"><u>How To Unlock Cricket iPhone 13 mini for Free</u></a></li>
 </ul></div>
+
 

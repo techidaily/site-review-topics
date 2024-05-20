@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Infinix Smart 7 HD
-date: 2024-04-29T22:59:25.995Z
+date: 2024-05-19T18:09:44.336Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -144,4 +144,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 without Data Loss? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Nokia C02? | Dr.fone</u></a></li>
 </ul></div>
+
 

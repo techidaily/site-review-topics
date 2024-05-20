@@ -1,6 +1,6 @@
 ---
 title: How to use Device Manager to reinstall your hardware drivers on Windows 11 & 10 & 7
-date: 2024-04-29T22:55:26.895Z
+date: 2024-05-19T18:09:42.230Z
 tags: 
   - driver
   - device driver
@@ -191,4 +191,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://techidaily.com/how-to-reset-a-lenovo-thinkphone-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Lenovo ThinkPhone Phone That Is Locked | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/is-your-realme-gt-5-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme GT 5 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 </ul></div>
+
 

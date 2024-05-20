@@ -1,7 +1,7 @@
 ---
 title: Huawei won’t play HEVC H.265 media, how to fix?
-date: 2024-04-29T22:45:01.835Z
-updated: 2024-04-30T22:45:01.835Z
+date: 2024-05-19T18:09:37.151Z
+updated: 2024-05-20T18:09:37.151Z
 tags: 
   - hevc video
   - hevc android
@@ -193,4 +193,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
     data-ad-format="autorelaxed"
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
+
 

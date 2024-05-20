@@ -1,6 +1,6 @@
 ---
 title: Infinix Hot 40i support - Forgotten screen lock.
-date: 2024-04-29T22:57:15.728Z
+date: 2024-05-19T18:09:43.275Z
 tags: 
   - android unlock
   - android devices unlock
@@ -247,4 +247,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-how-to-reach-more-users-by-using-instagram-live-shopping/"><u>Updated In 2024, How To Reach More Users by Using Instagram Live Shopping</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Xiaomi Redmi 13C | Dr.fone</u></a></li>
 </ul></div>
+
 

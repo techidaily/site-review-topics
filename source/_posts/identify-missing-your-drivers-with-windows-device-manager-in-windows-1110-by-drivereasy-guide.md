@@ -1,6 +1,6 @@
 ---
 title: Identify missing your drivers with Windows Device Manager in Windows 11/10
-date: 2024-04-29T22:56:49.297Z
+date: 2024-05-19T18:09:42.915Z
 tags: 
   - driver
   - device driver
@@ -259,4 +259,5 @@ There are two reasons why…
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-if-you-want-to-record-video-streams-on-windows-or-mac-using-ffmpeg-read-our-guide-and-learn-how-to-do-this-with-easy-step-by-step-instructions/"><u>In 2024, If You Want to Record Video Streams on Windows or Mac Using FFmpeg, Read Our Guide and Learn How to Do This with Easy Step-by-Step Instructions</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 without Losing Data? | Dr.fone</u></a></li>
 </ul></div>
+
 

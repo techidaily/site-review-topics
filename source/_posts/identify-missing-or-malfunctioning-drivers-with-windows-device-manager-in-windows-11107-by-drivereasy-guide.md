@@ -1,6 +1,6 @@
 ---
 title: Identify missing or malfunctioning drivers with Windows Device Manager in Windows 11/10/7
-date: 2024-04-29T22:56:37.128Z
+date: 2024-05-19T18:09:42.838Z
 tags: 
   - driver
   - device driver
@@ -288,4 +288,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-13-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 13</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-realme-gt-5-pro-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Realme GT 5 Pro Location | Dr.fone</u></a></li>
 </ul></div>
+
 

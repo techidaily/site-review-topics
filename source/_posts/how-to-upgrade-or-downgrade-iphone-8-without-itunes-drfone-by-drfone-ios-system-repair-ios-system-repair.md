@@ -1,7 +1,7 @@
 ---
 title: How To Upgrade or Downgrade iPhone 8 Without iTunes? | Dr.fone
-date: 2024-04-29T22:55:08.084Z
-updated: 2024-04-30T22:55:08.084Z
+date: 2024-05-19T18:09:42.028Z
+updated: 2024-05-20T18:09:42.028Z
 tags: 
   - ios system repair
   - iphone repair
@@ -476,4 +476,5 @@ As the iOS is successfully downgraded on your iPhone, iPad or iPod Touch, contin
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-lava-storm-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Lava Storm 5G online without jailbreak</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-detailed-tutorial-to-merge-videos-in-vlc-media-player/"><u>Updated Detailed Tutorial to Merge Videos in VLC Media Player</u></a></li>
 </ul></div>
+
 

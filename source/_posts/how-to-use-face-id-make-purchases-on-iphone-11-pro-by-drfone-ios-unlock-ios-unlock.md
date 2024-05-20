@@ -1,6 +1,6 @@
 ---
 title: How to Use Face ID make purchases on iPhone 11 Pro ?
-date: 2024-04-29T22:55:40.624Z
+date: 2024-05-19T18:09:42.358Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -388,4 +388,5 @@ Dr.Fone - Screen Unlock (iOS) will notify you when the process is complete.
 <li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-vivo-y17s-devices-by-drfone-android/"><u>How to Reset Gmail Password on Vivo Y17s Devices</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-apple-iphone-12-pro-max-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your Apple iPhone 12 Pro Max and iPad</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated your hardware drivers with Windows Device Manager on Windows 11
-date: 2024-04-29T22:57:06.065Z
+date: 2024-05-19T18:09:43.020Z
 tags: 
   - driver
   - device driver
@@ -138,4 +138,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://ai-video-apps.techidaily.com/unlock-your-creativity-top-10-mobile-video-editing-apps-for-2024/"><u>Unlock Your Creativity Top 10 Mobile Video Editing Apps for 2024</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-can-xiaomi-14mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Xiaomi 14Mirror Share to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

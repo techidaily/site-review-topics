@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Redmi 12
-date: 2024-04-29T22:50:43.646Z
+date: 2024-05-19T18:09:40.014Z
 tags: 
   - android unlock
   - android devices unlock
@@ -233,4 +233,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://howto.techidaily.com/app-wont-open-on-your-samsung-galaxy-a15-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Samsung Galaxy A15 5G? Here Are All Fixes | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/10-essential-aspect-ratio-resizer-tools-you-need-for-2024/"><u>10 Essential Aspect Ratio Resizer Tools You Need for 2024</u></a></li>
 </ul></div>
+
 

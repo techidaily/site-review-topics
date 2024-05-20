@@ -1,6 +1,6 @@
 ---
 title: Motorola Moto G14 won’t play HEVC H.265 media, how to fix? 
-date: 2024-04-29T22:45:02.481Z
+date: 2024-05-19T18:09:37.562Z
 tags: 
   - hevc video
   - hevc android
@@ -205,4 +205,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-13-pro-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 13 Pro Apps to New iPhone | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-realme-c67-4g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Realme C67 4G without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

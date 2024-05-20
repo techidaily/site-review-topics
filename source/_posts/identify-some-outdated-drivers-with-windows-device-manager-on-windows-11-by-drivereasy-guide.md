@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated drivers with Windows Device Manager on Windows 11
-date: 2024-04-29T22:56:56.734Z
+date: 2024-05-19T18:09:42.962Z
 tags: 
   - driver
   - device driver
@@ -193,4 +193,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://animation-videos.techidaily.com/new-adobe-rigger-is-awesome/"><u>New Adobe Rigger Is AWESOME</u></a></li>
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-x100-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo X100 | Dr.fone</u></a></li>
 </ul></div>
+
 

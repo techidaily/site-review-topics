@@ -1,7 +1,7 @@
 ---
 title: How To Transfer Data From iPhone SE (2020) To Android/iOS? | Dr.fone
-date: 2024-04-29T22:47:49.324Z
-updated: 2024-04-30T22:47:49.324Z
+date: 2024-05-19T18:09:38.935Z
+updated: 2024-05-20T18:09:38.935Z
 tags: 
   - transfer data
 categories:
@@ -255,4 +255,5 @@ Once done, the window in the front shows the completed phone transfer. Click **O
 <li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Vivo S18e? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-10-best-old-film-overlays-to-make-your-videos-look-vintage/"><u>In 2024, 10 Best Old Film Overlays to Make Your Videos Look Vintage</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to Use Face ID make purchases on iPhone SE (2020) ?
-date: 2024-04-29T22:55:42.329Z
+date: 2024-05-19T18:09:42.371Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -500,4 +500,5 @@ This is the easiest and most effective way to reset your iPhone SE (2020) passco
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-y200-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo Y200 to PC? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-a-itel-p55t-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Itel P55T Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Issues playing MOV videos on Samsung Galaxy XCover 6 Pro Tactical Edition
-date: 2024-04-29T22:45:02.177Z
+date: 2024-05-19T18:09:37.357Z
 tags: 
   - mov video
   - mov android
@@ -207,4 +207,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-itel-a60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Itel A60 | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-oneplus-nord-ce-3-lite-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your OnePlus Nord CE 3 Lite 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 

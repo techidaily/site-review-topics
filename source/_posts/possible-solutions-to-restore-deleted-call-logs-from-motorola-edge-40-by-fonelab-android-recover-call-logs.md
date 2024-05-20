@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Motorola Edge 40
-date: 2024-04-29T22:59:29.179Z
+date: 2024-05-19T18:09:44.345Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -192,4 +192,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-c51-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from C51</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for HTC U23 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

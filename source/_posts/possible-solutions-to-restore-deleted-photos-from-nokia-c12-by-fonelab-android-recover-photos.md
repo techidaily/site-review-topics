@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted photos from Nokia C12.
-date: 2024-04-29T23:00:51.097Z
+date: 2024-05-19T18:09:44.815Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -173,4 +173,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-honor-90-lite-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Honor 90 Lite Isnt Compatible | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-apple-iphone-12-pro-look-no-further-drfone-by-drfone-virtual-ios/"><u>Looking For A Location Changer On Apple iPhone 12 Pro? Look No Further | Dr.fone</u></a></li>
 </ul></div>
+
 

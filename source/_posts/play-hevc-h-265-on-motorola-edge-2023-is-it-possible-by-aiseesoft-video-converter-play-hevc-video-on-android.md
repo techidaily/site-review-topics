@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Motorola Edge 2023, is it possible?
-date: 2024-04-29T22:45:02.725Z
+date: 2024-05-19T18:09:37.850Z
 tags: 
   - hevc video
   - hevc android
@@ -169,4 +169,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-xiaomi-redmi-note-12-proplus-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Xiaomi Redmi Note 12 Pro+ 5G FRP Bypass</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-7-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Infinix Smart 7 PIN Code/Pattern Lock/Password</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Online signatures for .xlsm documents
-date: 2024-04-29T22:58:54.269Z
-updated: 2024-04-30T22:58:54.269Z
+date: 2024-05-19T18:09:44.120Z
+updated: 2024-05-20T18:09:44.120Z
 tags: 
   - signer
   - signer online
@@ -214,4 +214,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-realme-11-proplus-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Realme 11 Pro+ Phone When You Forget the Password</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-samsung-galaxy-s23-ultra-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Samsung Galaxy S23 Ultra Device SIM</u></a></li>
 </ul></div>
+
 

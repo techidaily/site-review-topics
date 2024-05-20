@@ -1,6 +1,6 @@
 ---
 title: Infinix GT 10 Pro support - Turn Off Screen Lock.
-date: 2024-04-29T22:57:12.738Z
+date: 2024-05-19T18:09:43.256Z
 tags: 
   - android unlock
   - android devices unlock
@@ -248,4 +248,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-huawei-nova-y91-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Huawei Nova Y91</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-apple-iphone-6-plus-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the Apple iPhone 6 Plus Without Previous Owner?</u></a></li>
 </ul></div>
+
 

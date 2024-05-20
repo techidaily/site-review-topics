@@ -1,6 +1,6 @@
 ---
 title: Identify missing drivers with Windows Device Manager in Windows 10
-date: 2024-04-29T22:56:29.945Z
+date: 2024-05-19T18:09:42.794Z
 tags: 
   - driver
   - device driver
@@ -246,4 +246,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://fix-guide.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Xiaomi 13T | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-14-pro-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From iPhone 14 Pro?</u></a></li>
 </ul></div>
+
 

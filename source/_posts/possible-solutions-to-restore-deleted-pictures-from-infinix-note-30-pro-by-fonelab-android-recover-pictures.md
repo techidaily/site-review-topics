@@ -1,7 +1,7 @@
 ---
 title: Possible solutions to restore deleted pictures from Infinix Note 30 Pro.
-date: 2024-04-29T23:01:08.461Z
-updated: 2024-04-30T23:01:08.461Z
+date: 2024-05-19T18:09:44.938Z
+updated: 2024-05-20T18:09:44.938Z
 tags: 
   - android data recovery
   - android devices pictures recovery
@@ -212,4 +212,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-want-to-add-a-motion-blur-effect-to-your-photos-this-step-by-step-tutorial-will-show-you-how-to-use-gimp-software-to-get-the-effect-you-want.m/"><u>2024 Approved Want to Add a Motion Blur Effect to Your Photos? This Step-by-Step Tutorial Will Show You How to Use GIMP Software to Get the Effect You Want</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On OnePlus Ace 2V? | Dr.fone</u></a></li>
 </ul></div>
+
 

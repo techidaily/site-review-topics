@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated drivers with Windows Device Manager in Windows 10
-date: 2024-04-29T22:56:54.635Z
+date: 2024-05-19T18:09:42.949Z
 tags: 
   - driver
   - device driver
@@ -170,4 +170,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2022-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2022) to other iPhone 13 devices? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Infinix Hot 40i | Dr.fone</u></a></li>
 </ul></div>
+
 

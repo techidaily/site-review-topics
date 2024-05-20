@@ -1,6 +1,6 @@
 ---
 title: Lava Data Recovery – recover lost data from Lava Blaze 2
-date: 2024-04-29T22:57:56.892Z
+date: 2024-05-19T18:09:43.658Z
 tags: 
   - android data recovery
   - android devices data recovery
@@ -175,4 +175,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-add-freeze-frame-to-your-video-from-any-device/"><u>2024 Approved How to Add Freeze Frame to Your Video From Any Device?</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-oneplus-11r-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From OnePlus 11R To iPhone 15/14/13? | Dr.fone</u></a></li>
 </ul></div>
+
 

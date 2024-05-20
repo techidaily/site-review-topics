@@ -1,6 +1,6 @@
 ---
 title: Identify missing or malfunctioning your hardware drivers with Windows Device Manager in Windows 11/10
-date: 2024-04-29T22:56:46.140Z
+date: 2024-05-19T18:09:42.896Z
 tags: 
   - driver
   - device driver
@@ -301,4 +301,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://techidaily.com/how-to-factory-reset-motorola-edgeplus-2023-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Edge+ (2023) without Losing Data | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
 </ul></div>
+
 

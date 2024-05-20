@@ -1,6 +1,6 @@
 ---
 title: Identify missing your hardware drivers with Windows Device Manager on Windows 11
-date: 2024-04-29T22:56:53.686Z
+date: 2024-05-19T18:09:42.943Z
 tags: 
   - driver
   - device driver
@@ -249,4 +249,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-htc-u23-pro-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of HTC U23 Pro on Mac</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-htc-u23-pro-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring HTC U23 Pro to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

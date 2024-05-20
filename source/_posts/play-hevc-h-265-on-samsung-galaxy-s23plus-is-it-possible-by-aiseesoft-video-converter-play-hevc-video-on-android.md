@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Samsung Galaxy S23+, is it possible?
-date: 2024-04-29T22:45:04.303Z
+date: 2024-05-19T18:09:37.879Z
 tags: 
   - hevc video
   - hevc android
@@ -224,4 +224,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-infinix-hot-40-pro-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Infinix Hot 40 Pro</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-leave-a-life360-group-on-tecno-pova-6-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Tecno Pova 6 Pro 5G Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

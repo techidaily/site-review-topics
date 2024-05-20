@@ -1,7 +1,7 @@
 ---
 title: Online signature for PDF v2.0 document
-date: 2024-04-29T22:58:46.487Z
-updated: 2024-04-30T22:58:46.487Z
+date: 2024-05-19T18:09:44.059Z
+updated: 2024-05-20T18:09:44.059Z
 tags: 
   - signer
   - signer online
@@ -143,4 +143,5 @@ When ready, click **DONE** to proceed. Our free PDF signature tool will create a
 <li><a href="https://ai-vdieo-software.techidaily.com/create-stunning-video-invitations-for-free-top-tools/"><u>Create Stunning Video Invitations for Free Top Tools</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-change-text-in-premiere-pro/"><u>In 2024, How To Change Text In Premiere Pro</u></a></li>
 </ul></div>
+
 

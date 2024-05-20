@@ -1,6 +1,6 @@
 ---
 title: Identify missing or malfunctioning your drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-04-29T22:56:44.234Z
+date: 2024-05-19T18:09:42.883Z
 tags: 
   - driver
   - device driver
@@ -257,4 +257,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-apple-iphone-8ipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked Apple iPhone 8/iPad/iPod</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-y200-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo Y200 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
+
 

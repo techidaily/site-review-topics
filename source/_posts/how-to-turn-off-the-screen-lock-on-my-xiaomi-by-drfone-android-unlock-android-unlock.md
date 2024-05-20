@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Xiaomi
-date: 2024-04-29T22:50:48.367Z
+date: 2024-05-19T18:09:40.043Z
 tags: 
   - android unlock
   - android devices unlock
@@ -248,4 +248,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-infinix-smart-8-hdwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Infinix Smart 8 HDwith/without a PC</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
 </ul></div>
+
 

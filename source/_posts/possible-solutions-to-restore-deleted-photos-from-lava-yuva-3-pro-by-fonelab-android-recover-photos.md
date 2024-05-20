@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted photos from Lava Yuva 3 Pro.
-date: 2024-04-29T23:00:48.609Z
+date: 2024-05-19T18:09:44.804Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -182,4 +182,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-infinix-smart-8-hd-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Infinix Smart 8 HD Unlock Without Password</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-xiaomi-civi-3-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Xiaomi Civi 3</u></a></li>
 </ul></div>
+
 

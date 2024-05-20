@@ -552,3 +552,4 @@ See, there's nothing complex about the WhatsApp live location not updating issue
 <li><a href="https://techidaily.com/is-your-lava-blaze-2-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Lava Blaze 2 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 </ul></div>
 
+

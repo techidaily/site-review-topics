@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated hardware drivers with Windows Device Manager in Windows 10
-date: 2024-04-29T22:56:57.679Z
+date: 2024-05-19T18:09:42.968Z
 tags: 
   - driver
   - device driver
@@ -255,4 +255,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Sony Xperia 5 V | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-xiaomi-redmi-note-13-proplus-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Xiaomi Redmi Note 13 Pro+ 5G? Tips, Tricks and Helpful Advice</u></a></li>
 </ul></div>
+
 

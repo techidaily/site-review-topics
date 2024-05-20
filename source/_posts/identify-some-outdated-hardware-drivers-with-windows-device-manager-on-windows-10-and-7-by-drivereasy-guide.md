@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated hardware drivers with Windows Device Manager on Windows 10 & 7
-date: 2024-04-29T22:56:59.039Z
+date: 2024-05-19T18:09:42.977Z
 tags: 
   - driver
   - device driver
@@ -223,4 +223,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-lava-blaze-2-pro-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Lava Blaze 2 Pro | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oneplus-11r-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring OnePlus 11R to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

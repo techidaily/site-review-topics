@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my X50i+
-date: 2024-04-29T22:50:48.178Z
+date: 2024-05-19T18:09:40.042Z
 tags: 
   - android unlock
   - android devices unlock
@@ -231,4 +231,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-infinix-smart-8-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Infinix Smart 8? Try These Fixes</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-7-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 7 with a Broken Screen?</u></a></li>
 </ul></div>
+
 

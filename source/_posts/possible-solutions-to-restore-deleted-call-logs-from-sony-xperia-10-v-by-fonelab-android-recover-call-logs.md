@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Sony Xperia 10 V
-date: 2024-04-29T22:59:39.113Z
+date: 2024-05-19T18:09:44.377Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -181,4 +181,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-vdieo-software.techidaily.com/new-free-top-10-green-screen-apps-for-androidios/"><u>New FREE Top 10 Green Screen APPs for Android/iOS</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-realme-c67-4g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Realme C67 4G</u></a></li>
 </ul></div>
+
 

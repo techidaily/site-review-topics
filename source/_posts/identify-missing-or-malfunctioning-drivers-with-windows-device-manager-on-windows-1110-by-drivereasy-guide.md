@@ -1,6 +1,6 @@
 ---
 title: Identify missing or malfunctioning drivers with Windows Device Manager on Windows 11/10
-date: 2024-04-29T22:56:38.499Z
+date: 2024-05-19T18:09:42.847Z
 tags: 
   - driver
   - device driver
@@ -156,4 +156,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-honor-magic5-ultimate-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Honor Magic5 Ultimate to iPhone | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Realme GT 5 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

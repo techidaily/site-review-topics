@@ -1,6 +1,6 @@
 ---
 title: Play MOV movies on Xiaomi 13 Ultra, is it possible?
-date: 2024-04-29T22:45:28.321Z
+date: 2024-05-19T18:09:38.018Z
 tags: 
   - mov video
   - mov android
@@ -167,4 +167,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/does-samsung-galaxy-a34-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Samsung Galaxy A34 5G Have Find My Friends? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oneplus-open-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your OnePlus Open</u></a></li>
 </ul></div>
+
 

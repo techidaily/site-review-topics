@@ -1,7 +1,7 @@
 ---
 title: How To Upgrade or Downgrade iPhone 11 Pro Without Losing Data? | Dr.fone
-date: 2024-04-29T22:54:44.451Z
-updated: 2024-04-30T22:54:44.451Z
+date: 2024-05-19T18:09:41.894Z
+updated: 2024-05-20T18:09:41.894Z
 tags: 
   - ios system repair
   - iphone repair
@@ -474,4 +474,5 @@ As the iOS is successfully downgraded on your iPhone, iPad or iPod Touch, contin
 <li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-xr-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone XR Without a Passcode</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-moto-g-5g-2023-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Moto G 5G (2023)</u></a></li>
 </ul></div>
+
 

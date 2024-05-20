@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Note 30i
-date: 2024-04-29T22:59:31.461Z
+date: 2024-05-19T18:09:44.352Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -181,4 +181,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-infinix-note-30-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Infinix Note 30 5G Wont Charge | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Realme 12+ 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Infinix Video Recovery - Recover Deleted Videos from Infinix
-date: 2024-04-29T22:57:21.073Z
+date: 2024-05-19T18:09:43.307Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -180,4 +180,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-honor-x8b-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Honor X8b to Other Android devices | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/best-green-screen-apps-for-mac-a-comprehensive-guide/"><u>Best Green Screen Apps for Mac A Comprehensive Guide</u></a></li>
 </ul></div>
+
 

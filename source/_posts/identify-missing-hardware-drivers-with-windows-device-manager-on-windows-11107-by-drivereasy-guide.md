@@ -1,6 +1,6 @@
 ---
 title: Identify missing hardware drivers with Windows Device Manager on Windows 11/10/7
-date: 2024-04-29T22:56:35.606Z
+date: 2024-05-19T18:09:42.829Z
 tags: 
   - driver
   - device driver
@@ -177,4 +177,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://techidaily.com/undelete-lost-contacts-from-nokia-c32-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Nokia C32.</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Poco X5 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

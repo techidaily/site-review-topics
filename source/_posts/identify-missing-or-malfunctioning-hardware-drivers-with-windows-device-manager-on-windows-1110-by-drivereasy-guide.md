@@ -1,6 +1,6 @@
 ---
 title: Identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11/10
-date: 2024-04-29T22:56:41.539Z
+date: 2024-05-19T18:09:42.866Z
 tags: 
   - driver
   - device driver
@@ -185,4 +185,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Motorola Edge 40 Pro | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

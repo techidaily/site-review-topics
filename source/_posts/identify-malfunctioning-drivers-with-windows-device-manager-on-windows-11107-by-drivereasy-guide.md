@@ -1,6 +1,6 @@
 ---
 title: Identify malfunctioning drivers with Windows Device Manager on Windows 11/10/7
-date: 2024-04-29T22:56:20.153Z
+date: 2024-05-19T18:09:42.693Z
 tags: 
   - driver
   - device driver
@@ -184,4 +184,5 @@ To understand why, you first have to understand what drivers actually are…
 <li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-itel-p40-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Itel P40 to Protect Your Individual Information</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-a-countdown-video/"><u>Updated How to Make a Countdown Video</u></a></li>
 </ul></div>
+
 

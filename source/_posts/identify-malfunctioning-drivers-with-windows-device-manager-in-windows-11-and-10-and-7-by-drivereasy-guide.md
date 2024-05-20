@@ -1,6 +1,6 @@
 ---
 title: Identify malfunctioning drivers with Windows Device Manager in Windows 11 & 10 & 7
-date: 2024-04-29T22:56:17.887Z
+date: 2024-05-19T18:09:42.680Z
 tags: 
   - driver
   - device driver
@@ -310,4 +310,5 @@ There are two reasons why…
 <li><a href="https://phone-solutions.techidaily.com/device-unlock-realme-gt-5-pro-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Realme GT 5 Pro</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How Can I Catch the Regional Pokémon without Traveling On Apple iPhone XR | Dr.fone</u></a></li>
 </ul></div>
+
 

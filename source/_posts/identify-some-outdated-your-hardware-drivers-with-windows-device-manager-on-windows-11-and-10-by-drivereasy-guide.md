@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated your hardware drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-04-29T22:57:05.873Z
+date: 2024-05-19T18:09:43.019Z
 tags: 
   - driver
   - device driver
@@ -261,4 +261,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on OnePlus Ace 2? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-data/"><u>The way to get back lost data from Asus ROG Phone 7 Ultimate</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Online signatures for .xls documents
-date: 2024-04-29T22:58:53.890Z
-updated: 2024-04-30T22:58:53.890Z
+date: 2024-05-19T18:09:44.117Z
+updated: 2024-05-20T18:09:44.117Z
 tags: 
   - signer
   - signer online
@@ -224,4 +224,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-lava-blaze-2-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Lava Blaze 2 5G in 3 Ways | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-reno-8t-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Reno 8T 5G to Other Android Devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

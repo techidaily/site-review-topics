@@ -1,6 +1,6 @@
 ---
 title: Lava Blaze 2 support - Forgotten screen lock.
-date: 2024-04-29T22:57:55.388Z
+date: 2024-05-19T18:09:43.649Z
 tags: 
   - android unlock
   - android devices unlock
@@ -250,4 +250,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-xiaomi-redmi-12-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Xiaomi Redmi 12 Isnt Compatible | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-play-40c-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Honor Play 40C Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
+
 

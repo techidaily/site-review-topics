@@ -1,7 +1,7 @@
 ---
 title: Online signatures for .xltx documents
-date: 2024-04-29T22:58:55.592Z
-updated: 2024-04-30T22:58:55.592Z
+date: 2024-05-19T18:09:44.127Z
+updated: 2024-05-20T18:09:44.127Z
 tags: 
   - signer
   - signer online
@@ -224,4 +224,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oneplus-nord-ce-3-lite-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on OnePlus Nord CE 3 Lite 5G Phones with/without a PC</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-kahoot-on-zoom/"><u>2024 Approved How to Use Kahoot! On Zoom</u></a></li>
 </ul></div>
+
 

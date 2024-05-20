@@ -1,6 +1,6 @@
 ---
 title: Infinix Data Retrieval tool – restore lost data from Infinix Hot 30i
-date: 2024-04-29T22:57:10.458Z
+date: 2024-05-19T18:09:43.142Z
 tags: 
   - android data recovery
   - android devices data recovery
@@ -185,4 +185,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-vivo-y55s-5g-2023-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Vivo Y55s 5G (2023)? Fixed | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Nubia Z50S Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

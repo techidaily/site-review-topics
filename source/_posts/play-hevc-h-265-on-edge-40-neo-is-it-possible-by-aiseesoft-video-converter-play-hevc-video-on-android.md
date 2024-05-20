@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Edge 40 Neo, is it possible?
-date: 2024-04-29T22:45:02.714Z
+date: 2024-05-19T18:09:37.835Z
 tags: 
   - hevc video
   - hevc android
@@ -163,4 +163,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy A25 5G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-lava-agni-2-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Lava Agni 2 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
+
 

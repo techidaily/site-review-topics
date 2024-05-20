@@ -1,6 +1,6 @@
 ---
 title: Lava Blaze 2 Pro support - Forgotten screen lock.
-date: 2024-04-29T22:57:54.814Z
+date: 2024-05-19T18:09:43.645Z
 tags: 
   - android unlock
   - android devices unlock
@@ -274,4 +274,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-motorola-moto-g84-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Motorola Moto G84 5G | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-realme-v30-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Realme V30 | Dr.fone</u></a></li>
 </ul></div>
+
 

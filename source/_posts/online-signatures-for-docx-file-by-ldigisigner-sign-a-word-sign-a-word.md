@@ -1,7 +1,7 @@
 ---
 title: Online signatures for .docx file
-date: 2024-04-29T22:58:47.795Z
-updated: 2024-04-30T22:58:47.795Z
+date: 2024-05-19T18:09:44.065Z
+updated: 2024-05-20T18:09:44.065Z
 tags: 
   - signer
   - signer online
@@ -215,4 +215,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://techidaily.com/how-to-erase-apple-iphone-xr-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone XR Data Permanently | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-iphone-video-editing-roundup-top-5-apps/"><u>New In 2024, The Ultimate iPhone Video Editing Roundup Top 5 Apps</u></a></li>
 </ul></div>
+
 

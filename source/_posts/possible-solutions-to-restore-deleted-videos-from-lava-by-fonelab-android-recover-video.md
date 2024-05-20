@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted videos from Lava
-date: 2024-04-29T23:01:35.715Z
+date: 2024-05-19T18:09:45.088Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -169,4 +169,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oppo-a38-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Oppo A38 Devices</u></a></li>
 <li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-apple-iphone-15-pro-and-browser-drfone-by-drfone-virtual-ios/"><u>Prevent Cross-Site Tracking on Apple iPhone 15 Pro and Browser | Dr.fone</u></a></li>
 </ul></div>
+
 

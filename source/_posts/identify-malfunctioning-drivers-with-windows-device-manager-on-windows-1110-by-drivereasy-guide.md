@@ -1,6 +1,6 @@
 ---
 title: Identify malfunctioning drivers with Windows Device Manager on Windows 11/10
-date: 2024-04-29T22:56:19.966Z
+date: 2024-05-19T18:09:42.692Z
 tags: 
   - driver
   - device driver
@@ -302,4 +302,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-samsung-galaxy-s24-ultra-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Samsung Galaxy S24 Ultra FRP Bypass With Best Methods</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-nokia-c32-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Nokia C32 Phone</u></a></li>
 </ul></div>
+
 

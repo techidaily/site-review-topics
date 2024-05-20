@@ -1,7 +1,7 @@
 ---
 title: How To Update or Downgrade iPhone SE (2020)? | Dr.fone
-date: 2024-04-29T22:53:49.576Z
-updated: 2024-04-30T22:53:49.576Z
+date: 2024-05-19T18:09:41.523Z
+updated: 2024-05-20T18:09:41.523Z
 tags: 
   - ios system repair
   - iphone repair
@@ -402,4 +402,5 @@ A prompt message of completion will appear on the screen showing the successful 
 <li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 11 Pro | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-honor-magic-6-pro-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Honor Magic 6 Pro Pattern Lock Screen</u></a></li>
 </ul></div>
+
 

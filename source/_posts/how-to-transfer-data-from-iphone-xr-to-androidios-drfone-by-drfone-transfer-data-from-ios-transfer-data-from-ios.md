@@ -1,7 +1,7 @@
 ---
 title: How To Transfer Data From iPhone XR To Android/iOS? | Dr.fone
-date: 2024-04-29T22:48:06.987Z
-updated: 2024-04-30T22:48:06.987Z
+date: 2024-05-19T18:09:39.052Z
+updated: 2024-05-20T18:09:39.052Z
 tags: 
   - transfer data
 categories:
@@ -234,4 +234,5 @@ Once done, the window in the front shows the completed phone transfer. Click **O
 <li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-nokia-130-music-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Nokia 130 Music | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-y100t-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Vivo Y100t? Fix Now | Dr.fone</u></a></li>
 </ul></div>
+
 

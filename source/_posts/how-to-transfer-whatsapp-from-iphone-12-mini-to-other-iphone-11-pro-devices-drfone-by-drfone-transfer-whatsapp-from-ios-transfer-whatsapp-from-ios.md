@@ -1,7 +1,7 @@
 ---
 title: How To Transfer WhatsApp From iPhone 12 mini to other iPhone 11 Pro devices? | Dr.fone
-date: 2024-04-29T22:48:32.105Z
-updated: 2024-04-30T22:48:32.105Z
+date: 2024-05-19T18:09:39.187Z
+updated: 2024-05-20T18:09:39.187Z
 tags: 
   - transfer whatsapp
 categories:
@@ -242,4 +242,5 @@ When this process concludes, a prompt message will appear on the window of its c
 <li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-infinix-note-30-pro-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Infinix Note 30 Pro? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-m6-pro-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Poco M6 Pro 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
 </ul></div>
+
 

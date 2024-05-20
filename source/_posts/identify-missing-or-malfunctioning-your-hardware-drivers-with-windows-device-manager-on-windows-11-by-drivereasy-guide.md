@@ -1,6 +1,6 @@
 ---
 title: Identify missing or malfunctioning your hardware drivers with Windows Device Manager on Windows 11
-date: 2024-04-29T22:56:47.464Z
+date: 2024-05-19T18:09:42.904Z
 tags: 
   - driver
   - device driver
@@ -137,4 +137,5 @@ To understand why, you first have to understand what drivers actually are…
 <li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-meizu-21-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Meizu 21 Pro | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-motorola-edge-40-neo-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Motorola Edge 40 Neo | Dr.fone</u></a></li>
 </ul></div>
+
 

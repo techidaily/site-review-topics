@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted videos from Oppo K11x
-date: 2024-04-29T23:01:42.653Z
+date: 2024-05-19T18:09:45.125Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -181,4 +181,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-poco-x5-pro-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Poco X5 Pro Screen | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-infinix-hot-40-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Infinix Hot 40 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

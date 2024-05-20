@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted photos from Huawei P60.
-date: 2024-04-29T23:00:45.093Z
+date: 2024-05-19T18:09:44.780Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -172,4 +172,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-s23-fe-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy S23 FE Phone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-realme-narzo-n55-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Realme Narzo N55 | Dr.fone</u></a></li>
 </ul></div>
+
 

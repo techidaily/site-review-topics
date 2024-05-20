@@ -1,6 +1,6 @@
 ---
 title: MP4 won't play on my Xiaomi Redmi 12
-date: 2024-04-29T22:45:02.682Z
+date: 2024-05-19T18:09:37.771Z
 tags: 
   - mp4 video
   - mp4 android
@@ -196,4 +196,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/undeleted-lost-videos-from-p55-by-fonelab-android-recover-video/"><u>Undeleted lost videos from P55</u></a></li>
 <li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Oppo F23 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

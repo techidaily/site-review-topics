@@ -1,6 +1,6 @@
 ---
 title: How to Unlock Honor X50i Phone Forgot Password
-date: 2024-04-29T22:51:14.210Z
+date: 2024-05-19T18:09:40.264Z
 tags: 
   - android unlock
   - android devices unlock
@@ -230,4 +230,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oneplus-12-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive OnePlus 12 Screen | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-xiaomi-redmi-note-12-proplus-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Xiaomi Redmi Note 12 Pro+ 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
+
 

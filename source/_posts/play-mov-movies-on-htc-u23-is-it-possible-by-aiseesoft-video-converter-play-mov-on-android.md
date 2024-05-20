@@ -1,6 +1,6 @@
 ---
 title: Play MOV movies on HTC U23, is it possible?
-date: 2024-04-29T22:45:22.162Z
+date: 2024-05-19T18:09:37.990Z
 tags: 
   - mov video
   - mov android
@@ -162,4 +162,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-zte-by-drfone-android/"><u>Delete Gmail Account With/Without Password On ZTE</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-how-to-translate-instagram-videos-for-global-engagement/"><u>Updated In 2024, How to Translate Instagram Videos for Global Engagement</u></a></li>
 </ul></div>
+
 

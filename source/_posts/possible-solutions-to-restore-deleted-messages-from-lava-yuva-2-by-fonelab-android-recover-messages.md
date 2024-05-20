@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted messages from Lava Yuva 2
-date: 2024-04-29T23:00:23.365Z
+date: 2024-05-19T18:09:44.659Z
 tags: 
   - android data recovery
   - android devices messages recovery
@@ -200,4 +200,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-infinix-hot-30i-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Infinix Hot 30i</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-xiaomi-redmi-note-12-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Xiaomi Redmi Note 12 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
+
 

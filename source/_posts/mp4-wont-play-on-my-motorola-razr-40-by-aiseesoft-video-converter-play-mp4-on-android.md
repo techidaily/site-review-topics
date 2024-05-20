@@ -1,7 +1,7 @@
 ---
 title: MP4 won't play on my Motorola Razr 40
-date: 2024-04-29T22:45:02.691Z
-updated: 2024-04-30T22:45:02.691Z
+date: 2024-05-19T18:09:37.782Z
+updated: 2024-05-20T18:09:37.782Z
 tags: 
   - mp4 video
   - mp4 android
@@ -182,4 +182,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/5-solutions-for-xiaomi-redmi-13c-unlock-without-password-by-drfone-android/"><u>5 Solutions For Xiaomi Redmi 13C Unlock Without Password</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/can-you-play-mp4-on-galaxy-m34-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can you play MP4 on Galaxy M34 5G?</u></a></li>
 </ul></div>
+
 

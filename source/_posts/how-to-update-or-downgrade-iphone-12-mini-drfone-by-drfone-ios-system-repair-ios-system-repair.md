@@ -1,7 +1,7 @@
 ---
 title: How To Update or Downgrade iPhone 12 mini? | Dr.fone
-date: 2024-04-29T22:53:26.529Z
-updated: 2024-04-30T22:53:26.529Z
+date: 2024-05-19T18:09:41.394Z
+updated: 2024-05-20T18:09:41.394Z
 tags: 
   - ios system repair
   - iphone repair
@@ -472,4 +472,5 @@ A prompt message of completion will appear on the screen showing the successful 
 <li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-razr-40-ultra-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Motorola Razr 40 Ultra Device</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-reduce-the-size-of-video-files-online-in-this-article-well-share-the-top-10-free-online-video-compressors-that-you-can-use-anywhere-at-any-ti/"><u>Updated How to Reduce the Size of Video Files Online? In This Article, Well Share the Top 10 Free Online Video Compressors that You Can Use Anywhere at Any Time and on Any Device</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Note 30i
-date: 2024-04-29T22:50:40.261Z
+date: 2024-05-19T18:09:39.972Z
 tags: 
   - android unlock
   - android devices unlock
@@ -244,4 +244,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-on-iphone-15-plus-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock On iPhone 15 Plus - 4 Easy Ways</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-xiaomi-redmi-k70e-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Xiaomi Redmi K70E</u></a></li>
 </ul></div>
+
 

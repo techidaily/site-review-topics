@@ -1,6 +1,6 @@
 ---
 title: Identify malfunctioning hardware drivers with Windows Device Manager on Windows 10 & 7
-date: 2024-04-29T22:56:22.149Z
+date: 2024-05-19T18:09:42.702Z
 tags: 
   - driver
   - device driver
@@ -237,4 +237,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-from-start-to-finish-a-comprehensive-guide-to-quicktime-video-editing-on-mac/"><u>New 2024 Approved From Start to Finish A Comprehensive Guide to QuickTime Video Editing on Mac</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-8-plus-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone 8 Plus After Forgetting the Passcode? | Dr.fone</u></a></li>
 </ul></div>
+
 

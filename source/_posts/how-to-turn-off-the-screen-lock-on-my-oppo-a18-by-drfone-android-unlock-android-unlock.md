@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Oppo A18
-date: 2024-04-29T22:50:41.012Z
+date: 2024-05-19T18:09:39.997Z
 tags: 
   - android unlock
   - android devices unlock
@@ -250,4 +250,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-narzo-60-pro-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Realme Narzo 60 Pro 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-sony-xperia-10-v-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Sony Xperia 10 V Without Them Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

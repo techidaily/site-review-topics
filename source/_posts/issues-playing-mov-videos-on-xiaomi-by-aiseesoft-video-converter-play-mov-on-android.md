@@ -1,6 +1,6 @@
 ---
 title: Issues playing MOV videos on Xiaomi 
-date: 2024-04-29T22:45:02.179Z
+date: 2024-05-19T18:09:37.359Z
 tags: 
   - mov video
   - mov android
@@ -182,4 +182,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-7-plus-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 7 Plus to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

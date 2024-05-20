@@ -1,7 +1,7 @@
 ---
 title: Lava Data Recovery – recover lost data from Lava Yuva 3 Pro
-date: 2024-04-29T22:57:57.271Z
-updated: 2024-04-30T22:57:57.271Z
+date: 2024-05-19T18:09:43.660Z
+updated: 2024-05-20T18:09:43.660Z
 tags: 
   - android data recovery
   - android devices data recovery
@@ -169,4 +169,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-se-2022-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone SE (2022) to iPhone Including iPhone 15 | Dr.fone</u></a></li>
 </ul></div>
+
 

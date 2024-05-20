@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Defy 2, is it possible?
-date: 2024-04-29T22:45:02.712Z
+date: 2024-05-19T18:09:37.833Z
 tags: 
   - hevc video
   - hevc android
@@ -166,4 +166,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-xr-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone XR After Forgetting the Passcode?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-tecno-camon-20-premier-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Tecno Camon 20 Premier 5G to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
+
 

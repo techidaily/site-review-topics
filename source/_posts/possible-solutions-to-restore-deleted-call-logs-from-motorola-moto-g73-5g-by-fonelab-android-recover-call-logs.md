@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Motorola Moto G73 5G
-date: 2024-04-29T22:59:30.129Z
+date: 2024-05-19T18:09:44.348Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -168,4 +168,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ios-unlock.techidaily.com/is-your-iphone-15-pro-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone 15 Pro in Security Lockout? Proper Ways To Unlock</u></a></li>
 <li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-redmi-note-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

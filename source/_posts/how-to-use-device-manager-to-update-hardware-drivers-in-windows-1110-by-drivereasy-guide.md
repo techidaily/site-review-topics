@@ -1,6 +1,6 @@
 ---
 title: How to use Device Manager to update hardware drivers in Windows 11/10
-date: 2024-04-29T22:55:32.246Z
+date: 2024-05-19T18:09:42.306Z
 tags: 
   - driver
   - device driver
@@ -145,4 +145,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oppo-reno-9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Oppo Reno 9A? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-lost-or-stolen-iphone-11-in-easy-steps-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Data From Lost or Stolen iPhone 11 In Easy Steps | Stellar</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Identify malfunctioning drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-04-29T22:56:19.588Z
+date: 2024-05-19T18:09:42.690Z
 tags: 
   - driver
   - device driver
@@ -204,4 +204,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/remove-oppo-lock-screen-without-password-oppo-k11-5g-by-drfone-android-unlock-android-unlock/"><u>Remove Oppo Lock Screen without Password(Oppo K11 5G)</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Insert signature in .wpd file
-date: 2024-04-29T22:57:27.919Z
-updated: 2024-04-30T22:57:27.919Z
+date: 2024-05-19T18:09:43.348Z
+updated: 2024-05-20T18:09:43.348Z
 tags: 
   - signer
   - signer online
@@ -234,4 +234,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-this-article-covers-a-lot-of-information-about-the-freeze-frame-effect-it-includes-its-power-its-usage-in-films-and-how-to-create-it-i/"><u>Updated 2024 Approved This Article Covers a Lot of Information About the Freeze-Frame Effect. It Includes Its Power, Its Usage in Films, and How to Create It in Your Videos Using Filmora. It Will Get You a Super Exciting Cinematic Effect</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-realme-gt-3-phone-by-drfone-android/"><u>How to Unlock a Network Locked Realme GT 3 Phone?</u></a></li>
 </ul></div>
+
 

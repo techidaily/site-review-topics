@@ -1,6 +1,6 @@
 ---
 title: Lava Data Retrieval tool – restore lost data from Lava Yuva 2
-date: 2024-04-29T22:57:58.218Z
+date: 2024-05-19T18:09:43.666Z
 tags: 
   - android data recovery
   - android devices data recovery
@@ -161,4 +161,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-motorola-g54-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Motorola G54 5G Devices</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-filmora-is-a-great-video-editor-that-many-users-are-making-intro-video-with-it-this-article-will-guide-you-how-to-create-an-intro-video-with-f/"><u>2024 Approved Filmora Is a Great Video Editor that Many Users Are Making Intro Video with It. This Article Will Guide You How to Create an Intro Video with Filmora</u></a></li>
 </ul></div>
+
 

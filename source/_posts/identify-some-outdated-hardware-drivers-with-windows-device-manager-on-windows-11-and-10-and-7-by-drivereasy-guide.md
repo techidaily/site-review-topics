@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated hardware drivers with Windows Device Manager on Windows 11 & 10 & 7
-date: 2024-04-29T22:56:59.423Z
+date: 2024-05-19T18:09:42.979Z
 tags: 
   - driver
   - device driver
@@ -249,4 +249,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-nokia-c12-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Nokia C12 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nubia-red-magic-8s-proplus-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nubia Red Magic 8S Pro+ to iPhone XS/11 | Dr.fone</u></a></li>
 </ul></div>
+
 

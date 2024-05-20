@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Sony Xperia 5 V
-date: 2024-04-29T22:59:39.302Z
+date: 2024-05-19T18:09:44.378Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -204,4 +204,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-tecno-spark-10c-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Tecno Spark 10C</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-infinix-note-30-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Infinix Note 30 FRP In 3 Different Ways</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to use Device Manager to update your drivers in Windows 11
-date: 2024-04-29T22:55:35.298Z
+date: 2024-05-19T18:09:42.324Z
 tags: 
   - driver
   - device driver
@@ -277,4 +277,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://techidaily.com/how-to-repair-apple-iphone-xs-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone XS System? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-oppo-find-x7-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Oppo Find X7 Phone When You Forget the Password</u></a></li>
 </ul></div>
+
 

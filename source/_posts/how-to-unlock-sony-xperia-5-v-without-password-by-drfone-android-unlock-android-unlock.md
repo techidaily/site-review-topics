@@ -1,6 +1,6 @@
 ---
 title: How to Unlock Sony Xperia 5 V Without Password?
-date: 2024-04-29T22:52:13.778Z
+date: 2024-05-19T18:09:40.732Z
 tags: 
   - android unlock
   - android devices unlock
@@ -244,4 +244,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-honor-90-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Honor 90 Phones with/without a PC</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Realme GT 5 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

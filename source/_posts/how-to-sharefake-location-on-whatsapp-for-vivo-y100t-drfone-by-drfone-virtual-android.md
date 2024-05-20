@@ -497,3 +497,4 @@ Remember, there are several other find my friends apps in the app store, which c
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-f04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy F04 | Dr.fone</u></a></li>
 </ul></div>
 
+

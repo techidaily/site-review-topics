@@ -1,7 +1,7 @@
 ---
 title: How to Update iPhone 12 mini without iTunes? | Dr.fone
-date: 2024-04-29T22:52:42.099Z
-updated: 2024-04-30T22:52:42.099Z
+date: 2024-05-19T18:09:41.137Z
+updated: 2024-05-20T18:09:41.137Z
 tags: 
   - ios system repair
   - iphone repair
@@ -329,4 +329,5 @@ On the next screen, you will be provided with an on-screen set of instructions t
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Apple iPhone 13? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/calls-on-lava-yuva-3-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Lava Yuva 3 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

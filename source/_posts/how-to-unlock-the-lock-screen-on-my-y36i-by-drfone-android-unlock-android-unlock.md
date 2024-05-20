@@ -1,6 +1,6 @@
 ---
 title: How to Unlock the Lock Screen on my Y36i
-date: 2024-04-29T22:52:29.299Z
+date: 2024-05-19T18:09:41.044Z
 tags: 
   - android unlock
   - android devices unlock
@@ -265,4 +265,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-oppo-find-x6-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Oppo Find X6 Pro Phone and Remove Locked Screen</u></a></li>
 <li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-a18-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo A18 | Dr.fone</u></a></li>
 </ul></div>
+
 

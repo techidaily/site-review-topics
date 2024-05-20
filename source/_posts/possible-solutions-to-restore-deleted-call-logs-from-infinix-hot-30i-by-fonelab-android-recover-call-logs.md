@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Infinix Hot 30i
-date: 2024-04-29T22:59:25.243Z
+date: 2024-05-19T18:09:44.333Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -147,4 +147,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-11-tips-to-make-product-ad-videos/"><u>Updated In 2024, 11 Tips to Make Product Ad Videos</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Nubia Z50S Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

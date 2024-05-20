@@ -1,7 +1,7 @@
 ---
 title: Insert signature in Word 2000
-date: 2024-04-29T22:57:25.889Z
-updated: 2024-04-30T22:57:25.889Z
+date: 2024-05-19T18:09:43.333Z
+updated: 2024-05-20T18:09:43.333Z
 tags: 
   - signer
   - signer online
@@ -192,4 +192,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Poco M6 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone 14 | Dr.fone</u></a></li>
 </ul></div>
+
 

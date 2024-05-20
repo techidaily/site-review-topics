@@ -1,6 +1,6 @@
 ---
 title: How to Use Face ID make purchases on iPhone XS ?
-date: 2024-04-29T22:55:42.896Z
+date: 2024-05-19T18:09:42.375Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -421,4 +421,5 @@ After a while, Dr.Fone - Screen Unlock (iOS) will notify you of a successful byp
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Sony Xperia 1 V? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-vivo-y02t-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Vivo Y02T to iPhone (13/14/15) | Dr.fone</u></a></li>
 </ul></div>
+
 

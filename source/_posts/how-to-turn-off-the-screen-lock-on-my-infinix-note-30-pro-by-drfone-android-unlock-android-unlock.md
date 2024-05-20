@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Infinix Note 30 Pro
-date: 2024-04-29T22:50:35.797Z
+date: 2024-05-19T18:09:39.945Z
 tags: 
   - android unlock
   - android devices unlock
@@ -253,4 +253,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-vivo-y77t-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Vivo Y77t Screen | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-recommended-video-background-online-changers/"><u>Updated Recommended Video Background Online Changers</u></a></li>
 </ul></div>
+
 

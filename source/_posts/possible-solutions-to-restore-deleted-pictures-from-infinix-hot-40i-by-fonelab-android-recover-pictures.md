@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted pictures from Infinix Hot 40i.
-date: 2024-04-29T23:01:08.081Z
+date: 2024-05-19T18:09:44.936Z
 tags: 
   - android data recovery
   - android devices pictures recovery
@@ -162,4 +162,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-oppo-find-x6-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Oppo Find X6 to iPhone (13/14/15) | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS to other iPhone 11 devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

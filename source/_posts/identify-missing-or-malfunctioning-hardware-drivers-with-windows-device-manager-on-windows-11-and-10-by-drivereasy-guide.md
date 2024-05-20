@@ -1,6 +1,6 @@
 ---
 title: Identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-04-29T22:56:41.160Z
+date: 2024-05-19T18:09:42.864Z
 tags: 
   - driver
   - device driver
@@ -226,4 +226,5 @@ There are two reasons why…
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-15-pro-max-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 15 Pro Max and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-oneplus-ace-3-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked OnePlus Ace 3 Back to Operation | Dr.fone</u></a></li>
 </ul></div>
+
 

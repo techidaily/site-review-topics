@@ -1,7 +1,7 @@
 ---
 title: How To Transfer Data From iPhone 6 To Android? | Dr.fone
-date: 2024-04-29T22:47:18.318Z
-updated: 2024-04-30T22:47:18.318Z
+date: 2024-05-19T18:09:38.763Z
+updated: 2024-05-20T18:09:38.763Z
 tags: 
   - transfer data
 categories:
@@ -228,4 +228,5 @@ Once done, the window in the front shows the completed phone transfer. Click **O
 <li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Vivo Y100i? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oppo-a1x-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Oppo A1x 5G in 3 Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

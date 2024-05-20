@@ -1,6 +1,6 @@
 ---
 title: Issues playing MOV videos on Xiaomi Redmi A2+
-date: 2024-04-29T22:45:02.182Z
+date: 2024-05-19T18:09:37.362Z
 tags: 
   - mov video
   - mov android
@@ -165,4 +165,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/hard-resetting-an-motorola-moto-g73-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Motorola Moto G73 5G Device Made Easy | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Lava Storm 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

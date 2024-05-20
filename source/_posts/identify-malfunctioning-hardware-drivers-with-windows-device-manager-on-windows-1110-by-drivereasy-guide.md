@@ -1,6 +1,6 @@
 ---
 title: Identify malfunctioning hardware drivers with Windows Device Manager on Windows 11/10
-date: 2024-04-29T22:56:23.112Z
+date: 2024-05-19T18:09:42.707Z
 tags: 
   - driver
   - device driver
@@ -302,4 +302,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-vivo-v27-pro-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo V27 Pro to Protect Your Individual Information</u></a></li>
 </ul></div>
+
 

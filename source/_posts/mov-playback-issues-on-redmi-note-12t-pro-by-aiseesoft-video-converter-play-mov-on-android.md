@@ -1,6 +1,6 @@
 ---
 title: MOV playback issues on Redmi Note 12T Pro
-date: 2024-04-29T22:45:02.563Z
+date: 2024-05-19T18:09:37.648Z
 tags: 
   - mov video
   - mov android
@@ -196,4 +196,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Google Pixel 8 | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo X Fold 2? | Dr.fone</u></a></li>
 </ul></div>
+
 

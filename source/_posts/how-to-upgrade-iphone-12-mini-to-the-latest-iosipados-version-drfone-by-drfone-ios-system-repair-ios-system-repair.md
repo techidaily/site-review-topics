@@ -1,7 +1,7 @@
 ---
 title: How to Upgrade iPhone 12 mini to the Latest iOS/iPadOS Version? | Dr.fone
-date: 2024-04-29T22:54:00.685Z
-updated: 2024-04-30T22:54:00.685Z
+date: 2024-05-19T18:09:41.586Z
+updated: 2024-05-20T18:09:41.586Z
 tags: 
   - ios system repair
   - iphone repair
@@ -418,4 +418,5 @@ Once it is concluded, a prompt message appears on the window. You are advised to
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-mini-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 13 mini Without Swiping Up? 6 Ways</u></a></li>
 <li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>The Best 8 VPN Hardware Devices Reviewed On Apple iPhone 14 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

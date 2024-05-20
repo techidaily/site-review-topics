@@ -1,7 +1,7 @@
 ---
 title: Lava support - Forgotten screen lock.
-date: 2024-04-29T22:57:59.560Z
-updated: 2024-04-30T22:57:59.560Z
+date: 2024-05-19T18:09:43.674Z
+updated: 2024-05-20T18:09:43.674Z
 tags: 
   - android unlock
   - android devices unlock
@@ -277,4 +277,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-apple-iphone-se-2020-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On Apple iPhone SE (2020) without Password?</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
 </ul></div>
+
 

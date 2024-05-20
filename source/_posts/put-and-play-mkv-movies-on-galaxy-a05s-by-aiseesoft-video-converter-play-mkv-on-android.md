@@ -1,6 +1,6 @@
 ---
 title: Put and play MKV movies on Galaxy A05s
-date: 2024-04-29T22:45:58.367Z
+date: 2024-05-19T18:09:38.209Z
 tags: 
   - mkv video
   - mkv android
@@ -190,4 +190,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-samsung-galaxy-a25-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Samsung Galaxy A25 5G Phone? Unlock It Now</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/online-video-editing-essentials-download-edit-and-publish-like-a-pro-for-2024/"><u>Online Video Editing Essentials Download, Edit, and Publish Like a Pro for 2024</u></a></li>
 </ul></div>
+
 

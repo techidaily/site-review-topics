@@ -1,7 +1,7 @@
 ---
 title: Online signatures for .doc file
-date: 2024-04-29T22:58:47.081Z
-updated: 2024-04-30T22:58:47.081Z
+date: 2024-05-19T18:09:44.062Z
+updated: 2024-05-20T18:09:44.062Z
 tags: 
   - signer
   - signer online
@@ -205,4 +205,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-vivo-v30-lite-5g-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Vivo V30 Lite 5G</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Meizu 21 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

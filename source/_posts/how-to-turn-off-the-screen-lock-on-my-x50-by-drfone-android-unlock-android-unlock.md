@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my X50
-date: 2024-04-29T22:50:47.801Z
+date: 2024-05-19T18:09:40.039Z
 tags: 
   - android unlock
   - android devices unlock
@@ -228,4 +228,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-honor-x9a-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Honor X9a</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-zte-nubia-z60-ultra-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on ZTE Nubia Z60 Ultra</u></a></li>
 </ul></div>
+
 

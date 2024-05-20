@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated your drivers with Windows Device Manager in Windows 11 & 10 & 7
-date: 2024-04-29T22:57:00.958Z
+date: 2024-05-19T18:09:42.989Z
 tags: 
   - driver
   - device driver
@@ -197,4 +197,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://fix-guide.techidaily.com/how-to-sharefake-location-on-whatsapp-for-vivo-s18e-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Vivo S18e | Dr.fone</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-8ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone 8/iPad? | Dr.fone</u></a></li>
 </ul></div>
+
 

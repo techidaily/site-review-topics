@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Samsung Galaxy XCover 6 Pro Tactical Edition, is it possible?
-date: 2024-04-29T22:45:10.373Z
+date: 2024-05-19T18:09:37.912Z
 tags: 
   - hevc video
   - hevc android
@@ -171,4 +171,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Realme 11 Pro+ | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Motorola Moto G 5G (2023)
-date: 2024-04-29T22:59:29.560Z
+date: 2024-05-19T18:09:44.346Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -180,4 +180,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-realme-12plus-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Realme 12+ 5G Phone Password Using Emergency Call</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-14-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 14</u></a></li>
 </ul></div>
+
 

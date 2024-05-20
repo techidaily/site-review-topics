@@ -1,7 +1,7 @@
 ---
 title: How to watch AVCHD MTS video on Samsung Galaxy S23 Tactical Edition?
-date: 2024-04-29T22:45:01.780Z
-updated: 2024-04-30T22:45:01.780Z
+date: 2024-05-19T18:09:37.097Z
+updated: 2024-05-20T18:09:37.097Z
 tags: 
   - mts video
   - mts android
@@ -158,4 +158,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
     data-ad-format="autorelaxed"
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: MP4 won't play on my Edge 40 Pro
-date: 2024-04-29T22:45:02.687Z
-updated: 2024-04-30T22:45:02.687Z
+date: 2024-05-19T18:09:37.776Z
+updated: 2024-05-20T18:09:37.776Z
 tags: 
   - mp4 video
   - mp4 android
@@ -207,4 +207,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oneplus-nord-3-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from OnePlus Nord 3 5G to Any iOS Devices | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fix-my-honor-magic-6-lite-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Honor Magic 6 Lite Location Is Wrong | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Realme 11 Pro+
-date: 2024-04-29T22:59:35.685Z
+date: 2024-05-19T18:09:44.366Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -182,4 +182,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Oppo Reno 11 5G? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Nokia 150 (2023) | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Play MOV movies on Samsung Galaxy S23, is it possible?
-date: 2024-04-29T22:45:27.183Z
+date: 2024-05-19T18:09:38.012Z
 tags: 
   - mov video
   - mov android
@@ -178,4 +178,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://apple-account.techidaily.com/how-to-remove-iphone-13-pro-device-from-icloud-by-drfone-ios/"><u>How to Remove iPhone 13 Pro Device from iCloud</u></a></li>
 <li><a href="https://ai-live-streaming.techidaily.com/searching-for-free-sports-streaming-sites-look-no-further-for-2024/"><u>Searching for Free Sports Streaming Sites? Look No Further for 2024</u></a></li>
 </ul></div>
+
 

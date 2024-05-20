@@ -1,7 +1,7 @@
 ---
 title: Online signatures for .xls files
-date: 2024-04-29T22:58:54.080Z
-updated: 2024-04-30T22:58:54.080Z
+date: 2024-05-19T18:09:44.119Z
+updated: 2024-05-20T18:09:44.119Z
 tags: 
   - signer
   - signer online
@@ -229,4 +229,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-oneplus-12r-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for OnePlus 12R</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-poco-c55-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Poco C55 to Your PC/Mac | Dr.fone</u></a></li>
 </ul></div>
+
 

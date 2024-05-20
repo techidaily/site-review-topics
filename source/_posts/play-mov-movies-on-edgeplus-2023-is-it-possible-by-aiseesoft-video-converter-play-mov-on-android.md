@@ -1,6 +1,6 @@
 ---
 title: Play MOV movies on Edge+ (2023), is it possible?
-date: 2024-04-29T22:45:20.717Z
+date: 2024-05-19T18:09:37.984Z
 tags: 
   - mov video
   - mov android
@@ -157,4 +157,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-correct-lens-distortion-with-filmora-for-2024/"><u>Updated How to Correct Lens Distortion With Filmora for 2024</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-motorola-moto-e13-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Motorola Moto E13 Phone? | Dr.fone</u></a></li>
 </ul></div>
+
 

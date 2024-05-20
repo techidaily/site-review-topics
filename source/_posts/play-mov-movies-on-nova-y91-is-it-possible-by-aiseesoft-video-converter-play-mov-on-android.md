@@ -1,6 +1,6 @@
 ---
 title: Play MOV movies on Nova Y91, is it possible?
-date: 2024-04-29T22:45:25.275Z
+date: 2024-05-19T18:09:38.002Z
 tags: 
   - mov video
   - mov android
@@ -185,4 +185,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-vivo-t2x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Vivo T2x 5G | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Oppo Find X7 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

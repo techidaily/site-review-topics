@@ -1,7 +1,7 @@
 ---
 title: How to Upgrade iPhone 12 mini without Losing Data? | Dr.fone
-date: 2024-04-29T22:54:01.640Z
-updated: 2024-04-30T22:54:01.640Z
+date: 2024-05-19T18:09:41.592Z
+updated: 2024-05-20T18:09:41.592Z
 tags: 
   - ios system repair
   - iphone repair
@@ -413,4 +413,5 @@ On the next screen, you will be provided with an on-screen set of instructions t
 <li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-reno-11f-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo Reno 11F 5G Phones with/without a PC</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-nokia-c32-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Nokia C32 to Other Android Devices Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

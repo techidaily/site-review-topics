@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Lava Yuva 3 Pro
-date: 2024-04-29T22:59:28.024Z
+date: 2024-05-19T18:09:44.341Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -198,4 +198,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-realme-gt-5-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Realme GT 5 without Anyone Knowing | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Plus with/without SIM Card</u></a></li>
 </ul></div>
+
 

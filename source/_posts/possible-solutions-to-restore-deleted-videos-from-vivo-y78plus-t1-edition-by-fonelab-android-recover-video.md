@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted videos from Vivo Y78+ (T1) Edition
-date: 2024-04-29T23:01:52.252Z
+date: 2024-05-19T18:09:45.179Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -183,4 +183,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-samsung-galaxy-s23-fe-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Samsung Galaxy S23 FE Phone When You Forget the Password</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-streamline-your-workflow-top-adobe-premiere-shortcuts/"><u>Updated 2024 Approved Streamline Your Workflow Top Adobe Premiere Shortcuts</u></a></li>
 </ul></div>
+
 

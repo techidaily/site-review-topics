@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated your hardware drivers with Windows Device Manager on Windows 11/10
-date: 2024-04-29T22:57:06.257Z
+date: 2024-05-19T18:09:43.021Z
 tags: 
   - driver
   - device driver
@@ -261,4 +261,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://ai-voice-clone.techidaily.com/2024-approved-descript-overdub-controlling-the-audio-in-video/"><u>2024 Approved Descript Overdub Controlling the Audio in Video</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-best-5-ai-powered-script-to-video-makers/"><u>Updated 2024 Approved Best 5 AI-Powered Script to Video Makers</u></a></li>
 </ul></div>
+
 

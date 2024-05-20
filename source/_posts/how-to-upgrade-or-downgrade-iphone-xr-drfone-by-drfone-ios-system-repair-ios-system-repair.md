@@ -1,7 +1,7 @@
 ---
 title: How To Upgrade or Downgrade iPhone XR? | Dr.fone
-date: 2024-04-29T22:55:12.508Z
-updated: 2024-04-30T22:55:12.508Z
+date: 2024-05-19T18:09:42.055Z
+updated: 2024-05-20T18:09:42.055Z
 tags: 
   - ios system repair
   - iphone repair
@@ -447,4 +447,5 @@ As the iOS is successfully downgraded on your iPhone, iPad or iPod Touch, contin
 <li><a href="https://ai-voice-clone.techidaily.com/new-a-list-of-the-top-spongebob-voice-generators-for-2024/"><u>New A List of The Top SpongeBob Voice Generators for 2024</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-keyframes-interval-everything-you-need-to-know/"><u>New In 2024, Keyframes Interval Everything You Need To Know</u></a></li>
 </ul></div>
+
 

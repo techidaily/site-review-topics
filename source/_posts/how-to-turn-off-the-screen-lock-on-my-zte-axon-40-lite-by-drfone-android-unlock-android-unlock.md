@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my ZTE Axon 40 Lite
-date: 2024-04-29T22:50:49.901Z
+date: 2024-05-19T18:09:40.052Z
 tags: 
   - android unlock
   - android devices unlock
@@ -222,4 +222,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Motorola Razr 40 | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-11-pro-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On iPhone 11 Pro?</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to use Device Manager to reinstall drivers on Windows 11/10
-date: 2024-04-29T22:55:18.069Z
+date: 2024-05-19T18:09:42.143Z
 tags: 
   - driver
   - device driver
@@ -213,4 +213,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://change-location.techidaily.com/home-button-not-working-on-itel-a60s-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Itel A60s? Here Are Real Fixes | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oneplus-12-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your OnePlus 12 Location Settings | Dr.fone</u></a></li>
 </ul></div>
+
 

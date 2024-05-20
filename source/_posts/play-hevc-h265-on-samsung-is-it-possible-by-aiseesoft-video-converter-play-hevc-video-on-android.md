@@ -1,7 +1,7 @@
 ---
 title: Play HEVC H.265 on Samsung , is it possible?
-date: 2024-04-29T22:45:10.562Z
-updated: 2024-04-30T22:45:10.562Z
+date: 2024-05-19T18:09:37.913Z
+updated: 2024-05-20T18:09:37.913Z
 tags: 
   - hevc video
   - hevc android
@@ -182,4 +182,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor Magic V2? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-s17t-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo S17t Isnt Compatible | Dr.fone</u></a></li>
 </ul></div>
+
 

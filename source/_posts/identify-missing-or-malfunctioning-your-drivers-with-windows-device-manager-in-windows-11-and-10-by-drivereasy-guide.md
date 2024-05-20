@@ -1,6 +1,6 @@
 ---
 title: Identify missing or malfunctioning your drivers with Windows Device Manager in Windows 11 & 10
-date: 2024-04-29T22:56:42.674Z
+date: 2024-05-19T18:09:42.873Z
 tags: 
   - driver
   - device driver
@@ -247,4 +247,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-y100-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo Y100 5G? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-can-infinix-note-30mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Infinix Note 30Mirror Share to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

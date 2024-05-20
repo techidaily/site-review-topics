@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Infinix Smart 8 HD
-date: 2024-04-29T22:59:26.371Z
+date: 2024-05-19T18:09:44.337Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -217,4 +217,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-nubia-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Nubia? Tips, Tricks and Helpful Advice</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v29-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo V29 Phone Pattern Lock without Factory Reset</u></a></li>
 </ul></div>
+
 

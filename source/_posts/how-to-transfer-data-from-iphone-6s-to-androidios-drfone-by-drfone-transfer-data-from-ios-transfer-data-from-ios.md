@@ -1,7 +1,7 @@
 ---
 title: How To Transfer Data From iPhone 6s To Android/iOS? | Dr.fone
-date: 2024-04-29T22:47:27.362Z
-updated: 2024-04-30T22:47:27.362Z
+date: 2024-05-19T18:09:38.800Z
+updated: 2024-05-20T18:09:38.800Z
 tags: 
   - transfer data
 categories:
@@ -258,4 +258,5 @@ Once done, the window in the front shows the completed phone transfer. Click **O
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-motorola-moto-e13-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Motorola Moto E13 to Another | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-realme-narzo-n53-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Realme Narzo N53 Phone and Remove Locked Screen</u></a></li>
 </ul></div>
+
 

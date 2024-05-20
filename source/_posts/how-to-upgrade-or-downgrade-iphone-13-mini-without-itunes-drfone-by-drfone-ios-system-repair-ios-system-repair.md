@@ -1,7 +1,7 @@
 ---
 title: How To Upgrade or Downgrade iPhone 13 mini Without iTunes? | Dr.fone
-date: 2024-04-29T22:54:49.951Z
-updated: 2024-04-30T22:54:49.951Z
+date: 2024-05-19T18:09:41.924Z
+updated: 2024-05-20T18:09:41.924Z
 tags: 
   - ios system repair
   - iphone repair
@@ -445,4 +445,5 @@ As the process concludes, a prompt window appears on the front showing a complet
 <li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-y200e-5g-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Y200e 5G</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-itel-p55plus-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Itel P55+ to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

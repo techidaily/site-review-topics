@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated hardware drivers with Windows Device Manager on Windows 10
-date: 2024-04-29T22:56:59.230Z
+date: 2024-05-19T18:09:42.978Z
 tags: 
   - driver
   - device driver
@@ -242,4 +242,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from Apple iPhone 11 Pro Max</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-step-by-step-to-split-clips-in-vlc/"><u>In 2024, Step by Step to Split Clips in VLC</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Put and play MKV movies on Samsung Galaxy A05
-date: 2024-04-29T22:46:02.181Z
+date: 2024-05-19T18:09:38.235Z
 tags: 
   - mkv video
   - mkv android
@@ -176,4 +176,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-oppo-find-x6-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Oppo Find X6 Without PUK Codes</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Oppo A58 4G? | Dr.fone</u></a></li>
 </ul></div>
+
 

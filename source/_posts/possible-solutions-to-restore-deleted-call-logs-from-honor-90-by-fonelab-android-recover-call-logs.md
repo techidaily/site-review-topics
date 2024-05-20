@@ -1,7 +1,7 @@
 ---
 title: Possible solutions to restore deleted call logs from Honor 90
-date: 2024-04-29T22:59:22.589Z
-updated: 2024-04-30T22:59:22.589Z
+date: 2024-05-19T18:09:44.313Z
+updated: 2024-05-20T18:09:44.313Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -186,4 +186,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Samsung Galaxy A14 4G | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-motorola-g24-power-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Motorola G24 Power without App | Dr.fone</u></a></li>
 </ul></div>
+
 

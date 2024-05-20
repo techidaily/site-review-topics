@@ -1,6 +1,6 @@
 ---
 title: Infinix Note 30 5G support - Forgotten screen lock.
-date: 2024-04-29T22:57:16.110Z
+date: 2024-05-19T18:09:43.277Z
 tags: 
   - android unlock
   - android devices unlock
@@ -250,4 +250,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-s17-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo S17 Pro Location by Number | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On OnePlus Ace 3 | Dr.fone</u></a></li>
 </ul></div>
+
 

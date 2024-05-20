@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Xiaomi Redmi Note 12T Pro, is it possible?
-date: 2024-04-29T22:45:07.903Z
+date: 2024-05-19T18:09:37.899Z
 tags: 
   - hevc video
   - hevc android
@@ -164,4 +164,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-y36i-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo Y36i Pattern Lock Screen</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-iphone-15-pro-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your iPhone 15 Pro Apple ID and Apple Pay</u></a></li>
 </ul></div>
+
 

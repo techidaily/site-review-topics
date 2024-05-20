@@ -1,7 +1,7 @@
 ---
 title: Issues playing MKV video on Samsung
-date: 2024-04-29T22:45:02.129Z
-updated: 2024-04-30T22:45:02.129Z
+date: 2024-05-19T18:09:37.313Z
+updated: 2024-05-20T18:09:37.313Z
 tags: 
   - mkv video
   - mkv android
@@ -201,4 +201,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-razr-40-ultra-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on Razr 40 Ultra</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-nokia-c110-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Nokia C110 to Other Android Devices Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

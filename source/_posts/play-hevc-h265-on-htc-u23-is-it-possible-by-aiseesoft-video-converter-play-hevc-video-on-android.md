@@ -1,7 +1,7 @@
 ---
 title: Play HEVC H.265 on HTC U23, is it possible?
-date: 2024-04-29T22:45:09.217Z
-updated: 2024-04-30T22:45:09.217Z
+date: 2024-05-19T18:09:37.905Z
+updated: 2024-05-20T18:09:37.905Z
 tags: 
   - hevc video
   - hevc android
@@ -166,4 +166,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-xiaomi-14-frp-by-drfone-android/"><u>The Updated Method to Bypass Xiaomi 14 FRP</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-6-plus-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 6 Plus Unavailable Issue With Ease | Dr.fone</u></a></li>
 </ul></div>
+
 

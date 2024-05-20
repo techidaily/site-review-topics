@@ -1,6 +1,6 @@
 ---
 title: How to use Device Manager to update drivers on Windows 11 & 10
-date: 2024-04-29T22:55:30.347Z
+date: 2024-05-19T18:09:42.293Z
 tags: 
   - driver
   - device driver
@@ -214,4 +214,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-essential-fcpx-plugins-free-and-paid-favorites-for-2024/"><u>Updated Essential FCPX Plugins Free and Paid Favorites for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Use Face ID to Pay for Apple TV+ on iPhone XS
-date: 2024-04-29T22:55:51.321Z
-updated: 2024-04-30T22:55:51.321Z
+date: 2024-05-19T18:09:42.434Z
+updated: 2024-05-20T18:09:42.434Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -425,4 +425,5 @@ This is the easiest and most effective way to reset your iPhone XS passcode. So,
 <li><a href="https://ai-voice-clone.techidaily.com/in-2024-what-are-ai-tools/"><u>In 2024, What Are AI Tools?</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Vivo Y56 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

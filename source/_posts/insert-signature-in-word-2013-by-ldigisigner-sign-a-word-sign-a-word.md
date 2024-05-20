@@ -1,7 +1,7 @@
 ---
 title: Insert signature in Word 2013
-date: 2024-04-29T22:57:26.657Z
-updated: 2024-04-30T22:57:26.657Z
+date: 2024-05-19T18:09:43.341Z
+updated: 2024-05-20T18:09:43.341Z
 tags: 
   - signer
   - signer online
@@ -224,4 +224,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ai-video-apps.techidaily.com/updated-unmarked-and-unbeatable-10-free-android-video-editors/"><u>Updated Unmarked and Unbeatable 10 Free Android Video Editors</u></a></li>
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-xiaomi-13t-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Xiaomi 13T Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

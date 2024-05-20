@@ -1,7 +1,7 @@
 ---
 title: How to Update iPhone 12 mini without Losing Anything? | Dr.fone
-date: 2024-04-29T22:52:42.477Z
-updated: 2024-04-30T22:52:42.477Z
+date: 2024-05-19T18:09:41.139Z
+updated: 2024-05-20T18:09:41.139Z
 tags: 
   - ios system repair
   - iphone repair
@@ -432,4 +432,5 @@ A prompt message of completion will appear on the screen showing the successful 
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-c53-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Realme C53 Lock Screen Password?</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-realme-c53-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Realme C53 to Protect Your Individual Information</u></a></li>
 </ul></div>
+
 

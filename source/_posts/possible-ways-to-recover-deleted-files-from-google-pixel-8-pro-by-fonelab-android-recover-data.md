@@ -1,6 +1,6 @@
 ---
 title: Possible ways to recover deleted files from Google Pixel 8 Pro
-date: 2024-04-29T23:01:58.503Z
+date: 2024-05-19T18:09:45.215Z
 tags: 
   - android data recovery
   - android devices data recovery
@@ -181,4 +181,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://howto.techidaily.com/calls-on-vivo-y27-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo Y27 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
 </ul></div>
+
 

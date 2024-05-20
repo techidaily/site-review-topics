@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted videos from Honor X50i
-date: 2024-04-29T23:01:31.164Z
+date: 2024-05-19T18:09:45.061Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -168,4 +168,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-samsung-galaxy-a14-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Samsung Galaxy A14 5G? Try These Fixes</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-final-cut-pro-meets-vhs-easy-tutorials-for-a-retro-look/"><u>2024 Approved Final Cut Pro Meets VHS Easy Tutorials for a Retro Look</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Issues playing MOV videos on Samsung Galaxy S23+
-date: 2024-04-29T22:45:02.176Z
+date: 2024-05-19T18:09:37.355Z
 tags: 
   - mov video
   - mov android
@@ -226,4 +226,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fix-guide.techidaily.com/oppo-reno-8t-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 8T Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-samsung-galaxy-s23-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

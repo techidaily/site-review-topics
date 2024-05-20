@@ -1,6 +1,6 @@
 ---
 title: Identify malfunctioning your hardware drivers with Windows Device Manager on Windows 11/10
-date: 2024-04-29T22:56:29.182Z
+date: 2024-05-19T18:09:42.790Z
 tags: 
   - driver
   - device driver
@@ -185,4 +185,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on OnePlus Open | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-15-pro-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 15 Pro without Backup | Stellar</u></a></li>
 </ul></div>
+
 

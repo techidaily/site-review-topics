@@ -1,7 +1,7 @@
 ---
 title: How To Transfer WhatsApp From iPhone 6 to Android/iOS? | Dr.fone
-date: 2024-04-29T22:49:37.211Z
-updated: 2024-04-30T22:49:37.211Z
+date: 2024-05-19T18:09:39.573Z
+updated: 2024-05-20T18:09:39.573Z
 tags: 
   - transfer whatsapp
 categories:
@@ -269,4 +269,5 @@ When this process concludes, a prompt message will appear on the window of its c
 <li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to Detect and Stop mSpy from Spying on Your Apple iPhone 6s Plus | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-2024-approved-how-to-stop-animation-from-looping-in-unity/"><u>Updated 2024 Approved How to Stop Animation From Looping in Unity</u></a></li>
 </ul></div>
+
 

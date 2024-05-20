@@ -1,6 +1,6 @@
 ---
 title: Identify missing hardware drivers with Windows Device Manager in Windows 11
-date: 2024-04-29T22:56:33.576Z
+date: 2024-05-19T18:09:42.817Z
 tags: 
   - driver
   - device driver
@@ -194,4 +194,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-vivo-v29-pro-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Vivo V29 Pro Phone?</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Oppo A1 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to use Device Manager to reinstall hardware drivers on Windows 11 & 10
-date: 2024-04-29T22:55:20.787Z
+date: 2024-05-19T18:09:42.155Z
 tags: 
   - driver
   - device driver
@@ -181,4 +181,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://techidaily.com/unlock-iphone-14-pro-max-screen-lock-without-losing-data-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 14 Pro Max screen lock without losing data</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-what-is-ai-voice-over/"><u>New 2024 Approved What Is AI Voice Over?</u></a></li>
 </ul></div>
+
 

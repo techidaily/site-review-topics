@@ -1,6 +1,6 @@
 ---
 title: Nokia C12 Pro support - Forgotten screen lock.
-date: 2024-04-29T22:58:27.220Z
+date: 2024-05-19T18:09:43.899Z
 tags: 
   - android unlock
   - android devices unlock
@@ -217,4 +217,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-poco-f5-pro-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Poco F5 Pro 5G FRP</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-apple-iphone-15-pro-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Apple iPhone 15 Pro Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
 </ul></div>
+
 

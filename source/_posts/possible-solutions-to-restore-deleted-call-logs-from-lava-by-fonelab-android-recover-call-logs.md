@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Lava
-date: 2024-04-29T22:59:27.832Z
+date: 2024-05-19T18:09:44.341Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -187,4 +187,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-editing-video.techidaily.com/new-finding-the-finest-way-to-add-subtitles-to-videos-filmora-for-2024/"><u>New Finding The Finest Way To Add Subtitles to Videos | Filmora for 2024</u></a></li>
 <li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Vivo Y56 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

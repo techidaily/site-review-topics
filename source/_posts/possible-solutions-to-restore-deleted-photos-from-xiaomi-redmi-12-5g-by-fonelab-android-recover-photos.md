@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted photos from Xiaomi Redmi 12 5G.
-date: 2024-04-29T23:01:00.671Z
+date: 2024-05-19T18:09:44.858Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -168,4 +168,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-100-pro-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor 100 Pro Photos  An Easy Method Explained.</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/if-youre-wondering-how-to-employ-transition-effects-in-your-videos-to-create-your-signature-look-this-article-can-help-for-2024/"><u>If Youre Wondering How to Employ Transition Effects in Your Videos to Create Your Signature Look, This Article Can Help for 2024</u></a></li>
 </ul></div>
+
 

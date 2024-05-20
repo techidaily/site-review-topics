@@ -1,6 +1,6 @@
 ---
 title: Put and play MKV movies on Samsung Galaxy S24 Ultra
-date: 2024-04-29T22:46:02.560Z
+date: 2024-05-19T18:09:38.238Z
 tags: 
   - mkv video
   - mkv android
@@ -187,4 +187,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-nokia-c12-plus-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Nokia C12 Plus Screen to PC with Chromecast | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-7-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 7 Unavailable Issue With Ease | Dr.fone</u></a></li>
 </ul></div>
+
 

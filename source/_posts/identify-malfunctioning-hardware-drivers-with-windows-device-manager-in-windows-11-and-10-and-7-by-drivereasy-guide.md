@@ -1,6 +1,6 @@
 ---
 title: Identify malfunctioning hardware drivers with Windows Device Manager in Windows 11 & 10 & 7
-date: 2024-04-29T22:56:20.905Z
+date: 2024-05-19T18:09:42.697Z
 tags: 
   - driver
   - device driver
@@ -144,4 +144,5 @@ To understand why, you first have to understand what drivers actually are…
 <li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-guide-to-video-editing-on-chromebook/"><u>New The Ultimate Guide to Video Editing on Chromebook</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-redmi-12-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Xiaomi Redmi 12 5G</u></a></li>
 </ul></div>
+
 

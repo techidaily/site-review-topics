@@ -1,6 +1,6 @@
 ---
 title: Play MKV movies on Redmi 12, is it possible?
-date: 2024-04-29T22:45:15.582Z
+date: 2024-05-19T18:09:37.955Z
 tags: 
   - mkv video
   - mkv android
@@ -183,4 +183,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-editing.techidaily.com/updated-best-capcut-templates-for-slow-motion-video-trend/"><u>Updated Best CapCut Templates for Slow Motion Video Trend</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-oppo-reno-10-proplus-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Oppo Reno 10 Pro+ 5G to Apple TV | Dr.fone</u></a></li>
 </ul></div>
+
 

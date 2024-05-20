@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted music from Vivo Y36
-date: 2024-04-29T22:45:54.887Z
+date: 2024-05-19T18:09:38.159Z
 tags: 
   - android data recovery
   - android devices music recovery
@@ -196,4 +196,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-infinix-smart-8-plus-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix Smart 8 Plus Fingerprint Lock</u></a></li>
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-asus-rog-phone-7-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Asus ROG Phone 7 Partly Screen Unresponsive | Dr.fone</u></a></li>
 </ul></div>
+
 

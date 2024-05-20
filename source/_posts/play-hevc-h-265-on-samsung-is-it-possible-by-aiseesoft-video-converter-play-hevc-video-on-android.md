@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Samsung , is it possible?
-date: 2024-04-29T22:45:05.446Z
+date: 2024-05-19T18:09:37.885Z
 tags: 
   - hevc video
   - hevc android
@@ -171,4 +171,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/solutions-to-repair-corrupt-excel-file-2016-stellar-by-stellar-guide/"><u>Solutions to Repair Corrupt Excel File 2016 | Stellar</u></a></li>
 <li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-infinix-note-30-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Infinix Note 30 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

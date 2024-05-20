@@ -1,7 +1,7 @@
 ---
 title: Online signatures for .wpd file
-date: 2024-04-29T22:58:52.942Z
-updated: 2024-04-30T22:58:52.942Z
+date: 2024-05-19T18:09:44.112Z
+updated: 2024-05-20T18:09:44.112Z
 tags: 
   - signer
   - signer online
@@ -208,4 +208,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Apple iPhone 7 Plus | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-x-flip-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo X Flip Phone</u></a></li>
 </ul></div>
+
 

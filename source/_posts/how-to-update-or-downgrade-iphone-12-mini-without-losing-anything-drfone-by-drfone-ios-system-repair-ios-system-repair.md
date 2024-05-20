@@ -1,7 +1,7 @@
 ---
 title: How To Update or Downgrade iPhone 12 mini Without Losing Anything? | Dr.fone
-date: 2024-04-29T22:53:27.096Z
-updated: 2024-04-30T22:53:27.096Z
+date: 2024-05-19T18:09:41.397Z
+updated: 2024-05-20T18:09:41.397Z
 tags: 
   - ios system repair
   - iphone repair
@@ -378,4 +378,5 @@ On the next screen, you will be provided with an on-screen set of instructions t
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-infinix-note-30-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Infinix Note 30 to Protect Your Individual Information</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-realme-c67-4g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Realme C67 4G Face Lock?</u></a></li>
 </ul></div>
+
 

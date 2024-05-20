@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Samsung Galaxy A15 5G, is it possible?
-date: 2024-04-29T22:45:02.741Z
+date: 2024-05-19T18:09:37.870Z
 tags: 
   - hevc video
   - hevc android
@@ -203,4 +203,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-xcover-7-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy XCover 7</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-vivo-s18-pro-phone-by-drfone-android/"><u>How to Reset a Locked Vivo S18 Pro Phone</u></a></li>
 </ul></div>
+
 

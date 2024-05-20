@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Xiaomi Mix Fold 3
-date: 2024-04-29T22:45:01.895Z
+date: 2024-05-19T18:09:37.239Z
 tags: 
   - hevc video
   - hevc android
@@ -202,4 +202,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Realme Narzo N55? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-poco-x5-pro-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Poco X5 Pro to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

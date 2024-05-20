@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted videos from X90S
-date: 2024-04-29T23:01:52.630Z
+date: 2024-05-19T18:09:45.181Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -205,4 +205,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-block-to-xlsx-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to add a digital signature block to .xlsx </u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Nokia C12 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

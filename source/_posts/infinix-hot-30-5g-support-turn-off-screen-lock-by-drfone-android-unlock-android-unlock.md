@@ -1,6 +1,6 @@
 ---
 title: Infinix Hot 30 5G support - Turn Off Screen Lock.
-date: 2024-04-29T22:57:13.497Z
+date: 2024-05-19T18:09:43.262Z
 tags: 
   - android unlock
   - android devices unlock
@@ -226,4 +226,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For OnePlus Nord N30 5G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-xiaomi-redmi-note-12r-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Xiaomi Redmi Note 12R to Mac? | Dr.fone</u></a></li>
 </ul></div>
+
 

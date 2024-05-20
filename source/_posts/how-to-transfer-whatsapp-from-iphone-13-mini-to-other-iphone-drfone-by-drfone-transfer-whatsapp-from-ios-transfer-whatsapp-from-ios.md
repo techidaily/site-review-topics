@@ -1,7 +1,7 @@
 ---
 title: How To Transfer WhatsApp From iPhone 13 mini to other iPhone? | Dr.fone
-date: 2024-04-29T22:48:50.373Z
-updated: 2024-04-30T22:48:50.373Z
+date: 2024-05-19T18:09:39.285Z
+updated: 2024-05-20T18:09:39.285Z
 tags: 
   - transfer whatsapp
 categories:
@@ -261,4 +261,5 @@ When this process concludes, a prompt message will appear on the window of its c
 <li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-90-pro-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Honor 90 Pro</u></a></li>
 <li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-lenovo-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Lenovo Phones with/without a PC</u></a></li>
 </ul></div>
+
 

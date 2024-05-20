@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Infinix Smart 7 HD
-date: 2024-04-29T22:50:36.178Z
+date: 2024-05-19T18:09:39.947Z
 tags: 
   - android unlock
   - android devices unlock
@@ -235,4 +235,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://techidaily.com/how-to-factory-reset-huawei-nova-y91-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Huawei Nova Y91 without Losing Data | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-15-plus-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 15 Plus using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Infinix Hot 40 support - Forgotten screen lock.
-date: 2024-04-29T22:57:14.774Z
+date: 2024-05-19T18:09:43.269Z
 tags: 
   - android unlock
   - android devices unlock
@@ -225,4 +225,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-max-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro Max to Android/iOS? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Nokia G22 | Dr.fone</u></a></li>
 </ul></div>
+
 

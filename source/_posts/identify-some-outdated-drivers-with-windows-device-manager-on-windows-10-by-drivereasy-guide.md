@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated drivers with Windows Device Manager on Windows 10
-date: 2024-04-29T22:56:56.159Z
+date: 2024-05-19T18:09:42.958Z
 tags: 
   - driver
   - device driver
@@ -219,4 +219,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://ai-video-apps.techidaily.com/updated-top-rated-video-editing-tools-for-pc-trimming/"><u>Updated Top-Rated Video Editing Tools for PC Trimming</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-vivo-y02t-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo Y02T Phone Password Using Emergency Call</u></a></li>
 </ul></div>
+
 

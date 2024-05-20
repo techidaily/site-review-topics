@@ -1,7 +1,7 @@
 ---
 title: How To Update or Downgrade iPhone XS? | Dr.fone
-date: 2024-04-29T22:53:54.462Z
-updated: 2024-04-30T22:53:54.462Z
+date: 2024-05-19T18:09:41.558Z
+updated: 2024-05-20T18:09:41.558Z
 tags: 
   - ios system repair
   - iphone repair
@@ -485,4 +485,5 @@ As the iOS is successfully downgraded on your iPhone, iPad or iPod Touch, contin
 <li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-apple-iphone-6-plus-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your Apple iPhone 6 Plus on MetroPCS</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
 </ul></div>
+
 

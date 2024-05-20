@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Infinix Smart 8
-date: 2024-04-29T22:59:26.184Z
+date: 2024-05-19T18:09:44.336Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -184,4 +184,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-iphone-13-pro-by-drfone-ios/"><u>How To Create an Apple Developer Account From iPhone 13 Pro</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-brighten-video-in-premiere-pro-step-by-step-guide/"><u>Updated How To Brighten Video In Premiere Pro | Step By Step Guide</u></a></li>
 </ul></div>
+
 

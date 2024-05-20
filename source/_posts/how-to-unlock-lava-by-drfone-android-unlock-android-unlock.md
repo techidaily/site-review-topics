@@ -1,6 +1,6 @@
 ---
 title: How to unlock Lava
-date: 2024-04-29T22:51:41.039Z
+date: 2024-05-19T18:09:40.479Z
 tags: 
   - android unlock
   - android devices unlock
@@ -220,4 +220,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-itel-a70-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Itel A70 Phone Screen?</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/updated-2024-approved-best-text-to-audio-converters-of-all-times/"><u>Updated 2024 Approved Best Text-to-Audio Converters of All Times</u></a></li>
 </ul></div>
+
 

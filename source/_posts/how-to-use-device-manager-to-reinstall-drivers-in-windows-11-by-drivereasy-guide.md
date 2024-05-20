@@ -1,6 +1,6 @@
 ---
 title: How to use Device Manager to reinstall drivers in Windows 11
-date: 2024-04-29T22:55:16.319Z
+date: 2024-05-19T18:09:42.113Z
 tags: 
   - driver
   - device driver
@@ -292,4 +292,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Oppo Reno 8T 5G | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo S17 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

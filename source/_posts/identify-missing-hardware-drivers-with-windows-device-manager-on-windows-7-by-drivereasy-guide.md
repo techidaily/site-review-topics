@@ -1,6 +1,6 @@
 ---
 title: Identify missing hardware drivers with Windows Device Manager on Windows 7
-date: 2024-04-29T22:56:35.795Z
+date: 2024-05-19T18:09:42.830Z
 tags: 
   - driver
   - device driver
@@ -240,4 +240,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://ai-editing-video.techidaily.com/5-excellent-tools-to-convert-video-to-60-fps/"><u>5 Excellent Tools To Convert Video to 60 FPS</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-motorola-moto-g34-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Motorola Moto G34 5G Is Unlocked</u></a></li>
 </ul></div>
+
 

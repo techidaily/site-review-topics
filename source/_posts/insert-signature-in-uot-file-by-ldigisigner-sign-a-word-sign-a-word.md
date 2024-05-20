@@ -1,7 +1,7 @@
 ---
 title: Insert signature in .uot file
-date: 2024-04-29T22:57:25.508Z
-updated: 2024-04-30T22:57:25.508Z
+date: 2024-05-19T18:09:43.331Z
+updated: 2024-05-20T18:09:43.331Z
 tags: 
   - signer
   - signer online
@@ -220,4 +220,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ai-video-editing.techidaily.com/how-to-record-shots-and-edit-them-using-wonderware-filmora-to-create-the-super-jump-effect-a-complete-guide-for-beginners-for-2024/"><u>How to Record Shots and Edit Them Using Wonderware Filmora to Create the Super Jump Effect? A Complete Guide for Beginners for 2024</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-realme-c33-2023-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Realme C33 2023 Face Lock?</u></a></li>
 </ul></div>
+
 

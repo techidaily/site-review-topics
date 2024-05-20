@@ -1,6 +1,6 @@
 ---
 title: Identify missing hardware drivers with Windows Device Manager in Windows 10 & 7
-date: 2024-04-29T22:56:32.820Z
+date: 2024-05-19T18:09:42.812Z
 tags: 
   - driver
   - device driver
@@ -176,4 +176,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone 15 | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-samsung-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Samsung FRP Locks</u></a></li>
 </ul></div>
+
 

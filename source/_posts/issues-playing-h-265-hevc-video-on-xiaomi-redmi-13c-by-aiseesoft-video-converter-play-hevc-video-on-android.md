@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Xiaomi Redmi 13C
-date: 2024-04-29T22:45:01.896Z
+date: 2024-05-19T18:09:37.240Z
 tags: 
   - hevc video
   - hevc android
@@ -183,4 +183,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-narzo-n55-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme Narzo N55? | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-poco-x5-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Poco X5 | Dr.fone</u></a></li>
 </ul></div>
+
 

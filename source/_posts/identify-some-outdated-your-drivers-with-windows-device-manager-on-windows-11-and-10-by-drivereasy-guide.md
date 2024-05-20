@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated your drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-04-29T22:57:02.778Z
+date: 2024-05-19T18:09:43.000Z
 tags: 
   - driver
   - device driver
@@ -225,4 +225,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-11-pro-to-ipad-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 11 Pro to iPad? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Lava Blaze Curve 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

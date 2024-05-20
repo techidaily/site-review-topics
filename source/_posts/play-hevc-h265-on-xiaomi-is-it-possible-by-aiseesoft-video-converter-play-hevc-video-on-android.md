@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Xiaomi , is it possible?
-date: 2024-04-29T22:45:11.128Z
+date: 2024-05-19T18:09:37.916Z
 tags: 
   - hevc video
   - hevc android
@@ -205,4 +205,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Honor 90 GT | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/why-your-motorola-moto-g23-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Motorola Moto G23 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
+
 

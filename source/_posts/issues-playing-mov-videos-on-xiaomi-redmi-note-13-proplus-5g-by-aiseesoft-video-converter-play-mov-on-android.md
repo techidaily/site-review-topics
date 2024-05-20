@@ -1,6 +1,6 @@
 ---
 title: Issues playing MOV videos on Xiaomi Redmi Note 13 Pro+ 5G
-date: 2024-04-29T22:45:02.184Z
+date: 2024-05-19T18:09:37.364Z
 tags: 
   - mov video
   - mov android
@@ -187,4 +187,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-iphone-15-pro-max-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect iPhone 15 Pro Max and iPad</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-a56s-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo A56s 5Gwith/without a PC</u></a></li>
 </ul></div>
+
 

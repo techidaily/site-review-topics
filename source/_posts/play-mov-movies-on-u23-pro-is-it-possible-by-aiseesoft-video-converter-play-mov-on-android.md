@@ -1,6 +1,6 @@
 ---
 title: Play MOV movies on U23 Pro, is it possible?
-date: 2024-04-29T22:45:28.133Z
+date: 2024-05-19T18:09:38.017Z
 tags: 
   - mov video
   - mov android
@@ -172,4 +172,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-edgeplus-2023-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Motorola Edge+ (2023) Device</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-vivo-y56-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Vivo Y56 5G Devices</u></a></li>
 </ul></div>
+
 

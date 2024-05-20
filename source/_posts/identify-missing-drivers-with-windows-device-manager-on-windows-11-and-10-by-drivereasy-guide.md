@@ -1,6 +1,6 @@
 ---
 title: Identify missing drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-04-29T22:56:31.854Z
+date: 2024-05-19T18:09:42.806Z
 tags: 
   - driver
   - device driver
@@ -183,4 +183,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 12 mini | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-asus-rog-phone-8-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Asus ROG Phone 8 FRP Locks</u></a></li>
 </ul></div>
+
 

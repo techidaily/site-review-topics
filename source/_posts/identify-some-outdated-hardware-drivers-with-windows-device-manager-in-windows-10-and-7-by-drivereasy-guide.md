@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated hardware drivers with Windows Device Manager in Windows 10 & 7
-date: 2024-04-29T22:56:57.491Z
+date: 2024-05-19T18:09:42.967Z
 tags: 
   - driver
   - device driver
@@ -189,4 +189,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-x7-ultra-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find X7 Ultra to Samsung Phone | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-nokia-c32-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Nokia C32 Data? | Dr.fone</u></a></li>
 </ul></div>
+
 

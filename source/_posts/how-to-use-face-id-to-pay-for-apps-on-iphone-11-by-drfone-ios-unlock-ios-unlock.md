@@ -1,6 +1,6 @@
 ---
 title: How to Use Face ID to Pay for Apps on iPhone 11?
-date: 2024-04-29T22:55:51.703Z
+date: 2024-05-19T18:09:42.436Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -313,4 +313,5 @@ Your iPhone 11 will be unlocked in a short span of time. Please note that all da
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-best-ever-ways-make-tiktok-slideshow-solved/"><u>Updated In 2024, Best Ever Ways Make Tiktok Slideshow Solved</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-vivo-x-flip-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Vivo X Flip.</u></a></li>
 </ul></div>
+
 

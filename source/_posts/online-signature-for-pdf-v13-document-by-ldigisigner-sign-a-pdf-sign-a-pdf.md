@@ -1,7 +1,7 @@
 ---
 title: Online signature for PDF v1.3 document
-date: 2024-04-29T22:58:45.541Z
-updated: 2024-04-30T22:58:45.541Z
+date: 2024-05-19T18:09:44.036Z
+updated: 2024-05-20T18:09:44.036Z
 tags: 
   - signer
   - signer online
@@ -167,4 +167,5 @@ When ready, click **DONE** to proceed. Our free PDF signature tool will create a
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Oppo A78 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-itel-p40-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Itel P40 to Roku | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Online signatures for .docx 
-date: 2024-04-29T22:58:47.604Z
-updated: 2024-04-30T22:58:47.604Z
+date: 2024-05-19T18:09:44.064Z
+updated: 2024-05-20T18:09:44.064Z
 tags: 
   - signer
   - signer online
@@ -231,4 +231,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-video-editing-app-can-inspire-your-children-to-make-short-moviesin-this-article-you-will-learn-more-about-some-best-video-editing-apps-for-kids-and-/"><u>In 2024, Video Editing App Can Inspire Your Children to Make Short Movies,in This Article, You Will Learn More About some Best Video Editing Apps for Kids and Decide Which Video Editing App Is the Right Choice</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-huawei-nova-y71-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Huawei Nova Y71 to Latest Samsung | Dr.fone</u></a></li>
 </ul></div>
+
 

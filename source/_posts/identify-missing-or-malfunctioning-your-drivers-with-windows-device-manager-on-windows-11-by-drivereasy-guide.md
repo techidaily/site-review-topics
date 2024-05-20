@@ -1,6 +1,6 @@
 ---
 title: Identify missing or malfunctioning your drivers with Windows Device Manager on Windows 11
-date: 2024-04-29T22:56:44.424Z
+date: 2024-05-19T18:09:42.884Z
 tags: 
   - driver
   - device driver
@@ -262,4 +262,5 @@ To understand why, you first have to understand what drivers actually are…
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-image-jpgpng-to-gif-converters/"><u>2024 Approved Best Image (JPG/PNG) to GIF Converters</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-find-the-best-luts-for-lightroom/"><u>Updated In 2024, Find The Best LUTs for Lightroom</u></a></li>
 </ul></div>
+
 

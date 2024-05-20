@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Motorola Moto G 5G (2023)
-date: 2024-04-29T22:50:37.880Z
+date: 2024-05-19T18:09:39.958Z
 tags: 
   - android unlock
   - android devices unlock
@@ -219,4 +219,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For HTC U23 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23-tactical-edition-phone-without-google-account-by-drfone-android/"><u>How to Unlock Samsung Galaxy S23 Tactical Edition Phone without Google Account?</u></a></li>
 </ul></div>
+
 

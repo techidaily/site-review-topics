@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Oppo K11 5G
-date: 2024-04-29T22:50:41.953Z
+date: 2024-05-19T18:09:40.003Z
 tags: 
   - android unlock
   - android devices unlock
@@ -247,4 +247,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-honor-x50i-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Honor X50i | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y27-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y27 4G? | Dr.fone</u></a></li>
 </ul></div>
+
 

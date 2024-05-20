@@ -1,6 +1,6 @@
 ---
 title: How to use Device Manager to update drivers on Windows 11
-date: 2024-04-29T22:55:30.537Z
+date: 2024-05-19T18:09:42.294Z
 tags: 
   - driver
   - device driver
@@ -306,4 +306,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Xiaomi Civi 3 | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/in-2024-12-animated-slideshow-powerpoint-templates/"><u>In 2024, 12 Animated Slideshow PowerPoint Templates</u></a></li>
 </ul></div>
+
 

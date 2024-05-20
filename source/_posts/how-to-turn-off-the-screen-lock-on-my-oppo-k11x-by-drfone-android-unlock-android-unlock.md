@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Oppo K11x
-date: 2024-04-29T22:50:42.141Z
+date: 2024-05-19T18:09:40.005Z
 tags: 
   - android unlock
   - android devices unlock
@@ -214,4 +214,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy F14 5G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oppo-a1-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Oppo A1 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

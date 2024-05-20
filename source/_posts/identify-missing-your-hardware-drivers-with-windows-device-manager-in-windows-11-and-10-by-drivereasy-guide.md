@@ -1,6 +1,6 @@
 ---
 title: Identify missing your hardware drivers with Windows Device Manager in Windows 11 & 10
-date: 2024-04-29T22:56:51.941Z
+date: 2024-05-19T18:09:42.931Z
 tags: 
   - driver
   - device driver
@@ -264,4 +264,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-11-pro-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone 11 Pro Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
 <li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
 </ul></div>
+
 

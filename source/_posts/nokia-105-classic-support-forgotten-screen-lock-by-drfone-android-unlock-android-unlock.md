@@ -1,6 +1,6 @@
 ---
 title: Nokia 105 Classic support - Forgotten screen lock.
-date: 2024-04-29T22:58:24.548Z
+date: 2024-05-19T18:09:43.883Z
 tags: 
   - android unlock
   - android devices unlock
@@ -218,4 +218,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-motorola-moto-g34-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Motorola Moto G34 5G Phone</u></a></li>
 </ul></div>
+
 

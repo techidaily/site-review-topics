@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted videos from Itel A60s
-date: 2024-04-29T23:01:33.807Z
+date: 2024-05-19T18:09:45.077Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -223,4 +223,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Google Pixel 7a | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/does-nubia-z50-ultra-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Nubia Z50 Ultra Have Find My Friends? | Dr.fone</u></a></li>
 </ul></div>
+
 

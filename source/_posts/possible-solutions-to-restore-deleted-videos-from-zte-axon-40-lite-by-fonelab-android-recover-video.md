@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted videos from ZTE Axon 40 Lite
-date: 2024-04-29T23:01:55.065Z
+date: 2024-05-19T18:09:45.195Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -195,4 +195,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-honor-x7b-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Honor X7b fingerprint</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>New Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
 </ul></div>
+
 

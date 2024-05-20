@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted contacts from Infinix Smart 8.
-date: 2024-04-29T22:59:52.756Z
+date: 2024-05-19T18:09:44.488Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -169,4 +169,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Infinix Hot 30i | Dr.fone</u></a></li>
 </ul></div>
+
 

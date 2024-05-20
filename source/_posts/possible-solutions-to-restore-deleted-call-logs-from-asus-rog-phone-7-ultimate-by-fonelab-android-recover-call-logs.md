@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Asus ROG Phone 7 Ultimate
-date: 2024-04-29T22:59:19.361Z
+date: 2024-05-19T18:09:44.294Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -205,4 +205,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-m34-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy M34 FRP Locks</u></a></li>
 <li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-realme-narzo-60x-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Realme Narzo 60x 5G on Mac?</u></a></li>
 </ul></div>
+
 

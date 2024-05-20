@@ -1,7 +1,7 @@
 ---
 title: Online signatures for .dotm file
-date: 2024-04-29T22:58:48.177Z
-updated: 2024-04-30T22:58:48.177Z
+date: 2024-05-19T18:09:44.067Z
+updated: 2024-05-20T18:09:44.067Z
 tags: 
   - signer
   - signer online
@@ -237,4 +237,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://techidaily.com/hard-reset-honor-v-purse-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor V Purse in 3 Efficient Ways | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-is-avs-video-editor-worth-it-a-comprehensive-review/"><u>Updated 2024 Approved Is AVS Video Editor Worth It? A Comprehensive Review</u></a></li>
 </ul></div>
+
 

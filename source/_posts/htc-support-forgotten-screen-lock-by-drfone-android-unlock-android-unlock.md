@@ -1,6 +1,6 @@
 ---
 title: HTC support - Forgotten screen lock.
-date: 2024-04-29T22:56:13.519Z
+date: 2024-05-19T18:09:42.653Z
 tags: 
   - android unlock
   - android devices unlock
@@ -219,4 +219,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-oneplus-12r-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from OnePlus 12R Phones with/without a PC</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oneplus-nord-ce-3-lite-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror OnePlus Nord CE 3 Lite 5G to Roku | Dr.fone</u></a></li>
 </ul></div>
+
 

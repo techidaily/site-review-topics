@@ -1,6 +1,6 @@
 ---
 title: MOV playback issues on Razr 40
-date: 2024-04-29T22:45:02.558Z
+date: 2024-05-19T18:09:37.642Z
 tags: 
   - mov video
   - mov android
@@ -184,4 +184,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-htc-u23-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to HTC U23 FRP Bypass Instantly</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-nokia-xr21-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Nokia XR21 Without Volume Buttons | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Motorola Edge 40 Neo won't play MOV videos, how to fix ?
-date: 2024-04-29T22:45:02.436Z
+date: 2024-05-19T18:09:37.519Z
 tags: 
   - mov video
   - mov android
@@ -203,4 +203,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-v29-pro-by-drfone-android/"><u>Full Guide to Unlock Your Vivo V29 Pro</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Oppo Reno 8T 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

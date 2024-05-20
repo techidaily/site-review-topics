@@ -1,6 +1,6 @@
 ---
 title: Nokia C12 support - Forgotten screen lock.
-date: 2024-04-29T22:58:27.601Z
+date: 2024-05-19T18:09:43.902Z
 tags: 
   - android unlock
   - android devices unlock
@@ -232,4 +232,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://ai-video-apps.techidaily.com/updated-create-stunning-videos-anywhere-top-mobile-editors-for-iphone-and-android-for-2024/"><u>Updated Create Stunning Videos Anywhere Top Mobile Editors for iPhone and Android for 2024</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-this-article-presents-the-guide-to-using-magic-effects-for-creating-competent-films-with-step-by-step-instructions-and-filmoras-grow-and-win-program/"><u>Updated This Article Presents the Guide to Using Magic Effects for Creating Competent Films with Step-by-Step Instructions and Filmoras Grow and Win Program Contest</u></a></li>
 </ul></div>
+
 

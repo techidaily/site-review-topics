@@ -1,7 +1,7 @@
 ---
 title: Possible solutions to restore deleted call logs from Huawei P60
-date: 2024-04-29T22:59:24.864Z
-updated: 2024-04-30T22:59:24.864Z
+date: 2024-05-19T18:09:44.331Z
+updated: 2024-05-20T18:09:44.331Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -167,4 +167,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-iphone-se-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from iPhone SE iCloud Activation Lock Bypass</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-xiaomi-redmi-12-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Xiaomi Redmi 12 5G Location Settings | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Insert signature in Excel
-date: 2024-04-29T22:57:23.426Z
-updated: 2024-04-30T22:57:23.426Z
+date: 2024-05-19T18:09:43.321Z
+updated: 2024-05-20T18:09:43.321Z
 tags: 
   - signer
   - signer online
@@ -202,4 +202,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-6s-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone 6s | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Tecno Phantom V Flip? | Dr.fone</u></a></li>
 </ul></div>
+
 

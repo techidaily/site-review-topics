@@ -1,7 +1,7 @@
 ---
 title: Insert signature in .docm file
-date: 2024-04-29T22:57:22.242Z
-updated: 2024-04-30T22:57:22.242Z
+date: 2024-05-19T18:09:43.314Z
+updated: 2024-05-20T18:09:43.314Z
 tags: 
   - signer
   - signer online
@@ -211,4 +211,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-nokia-c12-plus-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Nokia C12 Plus Screen | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-g310-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Nokia G310 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Yuva 3
-date: 2024-04-29T22:59:43.414Z
+date: 2024-05-19T18:09:44.435Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -191,4 +191,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-vdieo-software.techidaily.com/new-chromecast-local-media-a-comprehensive-guide-for-streaming-videos-on-any-device/"><u>New Chromecast Local Media A Comprehensive Guide for Streaming Videos on Any Device</u></a></li>
 <li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-14-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On iPhone 14</u></a></li>
 </ul></div>
+
 

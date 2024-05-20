@@ -1,7 +1,7 @@
 ---
 title: Online signatures for Excel
-date: 2024-04-29T22:58:48.557Z
-updated: 2024-04-30T22:58:48.557Z
+date: 2024-05-19T18:09:44.069Z
+updated: 2024-05-20T18:09:44.069Z
 tags: 
   - signer
   - signer online
@@ -248,4 +248,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-apple-iphone-14-plus-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Tracking Apps to Track Apple iPhone 14 Plus without Them Knowing | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-poco-x6-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Poco X6 to Roku | Dr.fone</u></a></li>
 </ul></div>
+
 

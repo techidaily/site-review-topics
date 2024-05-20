@@ -1,6 +1,6 @@
 ---
 title: Poco X5 support - Forgotten screen lock.
-date: 2024-04-29T22:59:18.013Z
+date: 2024-05-19T18:09:44.287Z
 tags: 
   - android unlock
   - android devices unlock
@@ -214,4 +214,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-crop-videos-in-windows-media-player/"><u>2024 Approved How to Crop Videos in Windows Media Player</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-infinix-hot-30i-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Infinix Hot 30i?</u></a></li>
 </ul></div>
+
 

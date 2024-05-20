@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Yuva 3
-date: 2024-04-29T22:50:49.517Z
+date: 2024-05-19T18:09:40.050Z
 tags: 
   - android unlock
   - android devices unlock
@@ -257,4 +257,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://blog-min.techidaily.com/how-to-exit-dfu-mode-on-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on iPhone 12 Pro Max? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Oppo F23 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

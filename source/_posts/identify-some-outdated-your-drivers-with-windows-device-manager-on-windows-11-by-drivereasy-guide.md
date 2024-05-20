@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated your drivers with Windows Device Manager on Windows 11
-date: 2024-04-29T22:57:02.967Z
+date: 2024-05-19T18:09:43.001Z
 tags: 
   - driver
   - device driver
@@ -198,4 +198,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-create-kinetice-typography-text-effect-in-filmora/"><u>Updated In 2024, Create Kinetice Typography Text Effect in Filmora</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-vivo-y02t-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Vivo Y02T Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 </ul></div>
+
 

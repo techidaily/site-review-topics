@@ -1,7 +1,7 @@
 ---
 title: How To Upgrade or Downgrade iPhone 12 mini? | Dr.fone
-date: 2024-04-29T22:54:45.594Z
-updated: 2024-04-30T22:54:45.594Z
+date: 2024-05-19T18:09:41.900Z
+updated: 2024-05-20T18:09:41.900Z
 tags: 
   - ios system repair
   - iphone repair
@@ -342,4 +342,5 @@ Once it is concluded, a prompt message appears on the window. You are advised to
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lava-blaze-pro-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lava Blaze Pro 5G to Other Android Devices? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-g2-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from G2</u></a></li>
 </ul></div>
+
 

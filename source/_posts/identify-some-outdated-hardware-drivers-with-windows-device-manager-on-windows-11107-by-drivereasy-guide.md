@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated hardware drivers with Windows Device Manager on Windows 11/10/7
-date: 2024-04-29T22:57:00.192Z
+date: 2024-05-19T18:09:42.984Z
 tags: 
   - driver
   - device driver
@@ -271,4 +271,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-pro-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro without Passcode or Face ID</u></a></li>
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-realme-c33-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Realme C33 2023 | Dr.fone</u></a></li>
 </ul></div>
+
 

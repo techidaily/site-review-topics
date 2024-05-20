@@ -1,7 +1,7 @@
 ---
 title: How To Update or Downgrade iPhone 12 Pro? | Dr.fone
-date: 2024-04-29T22:53:27.474Z
-updated: 2024-04-30T22:53:27.474Z
+date: 2024-05-19T18:09:41.399Z
+updated: 2024-05-20T18:09:41.399Z
 tags: 
   - ios system repair
   - iphone repair
@@ -449,4 +449,5 @@ A prompt message of completion will appear on the screen showing the successful 
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-using-the-best-templates-to-create-slow-motion-videos-on-capcut/"><u>Updated In 2024, Using the Best Templates to Create Slow Motion Videos on CapCut</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy S23 Tactical Edition</u></a></li>
 </ul></div>
+
 

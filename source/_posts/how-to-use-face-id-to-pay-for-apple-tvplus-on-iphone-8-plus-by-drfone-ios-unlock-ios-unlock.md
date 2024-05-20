@@ -1,6 +1,6 @@
 ---
 title: How to Use Face ID to Pay for Apple TV+ on iPhone 8 Plus
-date: 2024-04-29T22:55:50.752Z
+date: 2024-05-19T18:09:42.430Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -500,4 +500,5 @@ This is the easiest and most effective way to reset your iPhone 8 Plus passcode.
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-x100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo X100 | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-z-fold-5-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy Z Fold 5 by Phone Number | Dr.fone</u></a></li>
 </ul></div>
+
 

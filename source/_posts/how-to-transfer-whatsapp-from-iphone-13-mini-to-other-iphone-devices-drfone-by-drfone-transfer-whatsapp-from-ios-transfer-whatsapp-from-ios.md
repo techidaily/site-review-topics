@@ -1,7 +1,7 @@
 ---
 title: How To Transfer WhatsApp From iPhone 13 mini to other iPhone devices? | Dr.fone
-date: 2024-04-29T22:48:50.183Z
-updated: 2024-04-30T22:48:50.183Z
+date: 2024-05-19T18:09:39.284Z
+updated: 2024-05-20T18:09:39.284Z
 tags: 
   - transfer whatsapp
 categories:
@@ -236,4 +236,5 @@ When this process concludes, a prompt message will appear on the window of its c
 <li><a href="https://unlock-android.techidaily.com/how-to-change-itel-p40plus-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Itel P40+ Lock Screen Clock in Seconds</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-x8b-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from X8b</u></a></li>
 </ul></div>
+
 

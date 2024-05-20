@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Infinix Hot 40
-date: 2024-04-29T22:59:25.431Z
+date: 2024-05-19T18:09:44.333Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -127,4 +127,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Reasons why Pokémon GPS does not Work On Apple iPhone 15? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-14-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 14 Pro Without Data Loss? | Dr.fone</u></a></li>
 </ul></div>
+
 

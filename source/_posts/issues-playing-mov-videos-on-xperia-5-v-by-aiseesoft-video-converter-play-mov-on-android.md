@@ -1,6 +1,6 @@
 ---
 title: Issues playing MOV videos on Xperia 5 V
-date: 2024-04-29T22:45:02.185Z
+date: 2024-05-19T18:09:37.365Z
 tags: 
   - mov video
   - mov android
@@ -188,4 +188,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-samsung-galaxy-a54-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Samsung Galaxy A54 5G Phones</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Motorola Moto G 5G (2023)?</u></a></li>
 </ul></div>
+
 

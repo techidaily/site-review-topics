@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Vivo Y36i
-date: 2024-04-29T22:59:41.299Z
+date: 2024-05-19T18:09:44.423Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -184,4 +184,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Poco X5 Pro | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-motorola-moto-g04-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Motorola Moto G04 Phone without Any Data Loss</u></a></li>
 </ul></div>
+
 

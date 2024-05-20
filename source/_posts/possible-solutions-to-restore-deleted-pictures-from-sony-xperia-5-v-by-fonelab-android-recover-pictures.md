@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted pictures from Sony Xperia 5 V.
-date: 2024-04-29T23:01:22.553Z
+date: 2024-05-19T18:09:45.014Z
 tags: 
   - android data recovery
   - android devices pictures recovery
@@ -164,4 +164,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-xiaomi-14-ultra-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Xiaomi 14 Ultra in Minutes | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-ace-2-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus Ace 2 Pro to BlackBerry | Dr.fone</u></a></li>
 </ul></div>
+
 

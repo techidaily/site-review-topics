@@ -1,7 +1,7 @@
 ---
 title: Online signatures for .xlsx files
-date: 2024-04-29T22:58:55.027Z
-updated: 2024-04-30T22:58:55.027Z
+date: 2024-05-19T18:09:44.124Z
+updated: 2024-05-20T18:09:44.124Z
 tags: 
   - signer
   - signer online
@@ -209,4 +209,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-sony-xperia-10-v-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Sony Xperia 10 V Screen Mirroring App | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-meizu-21-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Meizu 21 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
 </ul></div>
+
 

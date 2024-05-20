@@ -1,6 +1,6 @@
 ---
 title: Itel Data Retrieval tool – restore lost data from Itel A60s
-date: 2024-04-29T22:57:49.751Z
+date: 2024-05-19T18:09:43.579Z
 tags: 
   - android data recovery
   - android devices data recovery
@@ -193,4 +193,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ios-unlock.techidaily.com/did-your-iphone-se-2022-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone SE (2022) Passcode Change Itself? Unlock It Now</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-apple-iphone-14-pro-max-by-drfone-ios/"><u>How To Factory Unlock Your Telstra Apple iPhone 14 Pro Max</u></a></li>
 </ul></div>
+
 

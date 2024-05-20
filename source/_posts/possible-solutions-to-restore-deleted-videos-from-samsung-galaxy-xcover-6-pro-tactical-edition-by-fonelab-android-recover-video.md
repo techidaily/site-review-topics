@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted videos from Samsung Galaxy XCover 6 Pro Tactical Edition
-date: 2024-04-29T23:01:47.963Z
+date: 2024-05-19T18:09:45.155Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -167,4 +167,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-asus-rog-phone-7-with-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Asus ROG Phone 7 with Video Repair Utility on Windows?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-fix-excel-formulas-not-working-properly-step-by-step-guide-by-stellar-guide/"><u>How to Fix Excel Formulas Not Working Properly | Step-by-Step Guide</u></a></li>
 </ul></div>
+
 

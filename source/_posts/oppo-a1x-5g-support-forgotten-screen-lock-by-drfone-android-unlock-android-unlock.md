@@ -1,7 +1,7 @@
 ---
 title: Oppo A1x 5G support - Forgotten screen lock.
-date: 2024-04-29T22:58:57.125Z
-updated: 2024-04-30T22:58:57.125Z
+date: 2024-05-19T18:09:44.137Z
+updated: 2024-05-20T18:09:44.137Z
 tags: 
   - android unlock
   - android devices unlock
@@ -226,4 +226,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://techidaily.com/use-device-manager-to-update-drivers-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to update drivers in Windows 11 & 10 & 7</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-color-correction-basics-s-log-footage/"><u>Updated 2024 Approved Color Correction Basics (S-LOG Footage)</u></a></li>
 </ul></div>
+
 

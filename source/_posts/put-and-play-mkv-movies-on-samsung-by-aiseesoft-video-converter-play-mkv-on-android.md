@@ -1,7 +1,7 @@
 ---
 title: Put and play MKV movies on Samsung
-date: 2024-04-29T22:46:01.991Z
-updated: 2024-04-30T22:46:01.991Z
+date: 2024-05-19T18:09:38.234Z
+updated: 2024-05-20T18:09:38.234Z
 tags: 
   - mkv video
   - mkv android
@@ -175,4 +175,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-galaxy-a54-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Galaxy A54 5G?</u></a></li>
 <li><a href="https://techidaily.com/hard-reset-lava-blaze-2-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Lava Blaze 2 Pro in 3 Efficient Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

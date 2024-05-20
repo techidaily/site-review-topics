@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Xiaomi 13T Pro, is it possible?
-date: 2024-04-29T22:45:06.017Z
+date: 2024-05-19T18:09:37.889Z
 tags: 
   - hevc video
   - hevc android
@@ -202,4 +202,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-15-pro-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 15 Pro</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-vivo-v30-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Vivo V30 to Other Android Devices Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

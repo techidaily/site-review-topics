@@ -1,6 +1,6 @@
 ---
 title: How to Use Face ID to Pay for Apps on iPhone 12?
-date: 2024-04-29T22:55:52.081Z
+date: 2024-05-19T18:09:42.439Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -391,4 +391,5 @@ In short, Apple ID Lock is about a user's account with Apple, akin to how Google
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-lava-yuva-2-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Lava Yuva 2 Pro to iPad | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-asus-rog-phone-7-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Asus ROG Phone 7 Phones</u></a></li>
 </ul></div>
+
 

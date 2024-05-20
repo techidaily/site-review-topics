@@ -1,6 +1,6 @@
 ---
 title: Infinix Data Recovery – recover lost data from Infinix Note 30
-date: 2024-04-29T22:57:08.731Z
+date: 2024-05-19T18:09:43.071Z
 tags: 
   - android data recovery
   - android devices data recovery
@@ -201,4 +201,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-honor-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Honor</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y36i-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y36i Phone Pattern Lock without Factory Reset</u></a></li>
 </ul></div>
+
 

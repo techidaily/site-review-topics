@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Infinix Note 30 5G
-date: 2024-04-29T22:59:25.619Z
+date: 2024-05-19T18:09:44.334Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -179,4 +179,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Honor 70 Lite 5G | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-sign-rtf-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .rtf file electronically</u></a></li>
 </ul></div>
+
 

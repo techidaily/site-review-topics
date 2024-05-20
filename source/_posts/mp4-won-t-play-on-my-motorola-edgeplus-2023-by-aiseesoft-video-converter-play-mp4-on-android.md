@@ -1,6 +1,6 @@
 ---
 title: MP4 won't play on my Motorola Edge+ (2023)
-date: 2024-04-29T22:45:02.668Z
+date: 2024-05-19T18:09:37.753Z
 tags: 
   - mp4 video
   - mp4 android
@@ -159,4 +159,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-oppo-a59-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Oppo A59 5G to iPhone Easily | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-realme-12-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Realme 12 5G? Tips, Tricks and Helpful Advice</u></a></li>
 </ul></div>
+
 

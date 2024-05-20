@@ -1,7 +1,7 @@
 ---
 title: Online electronic signature for PDF v2.0 document
-date: 2024-04-29T22:58:44.592Z
-updated: 2024-04-30T22:58:44.592Z
+date: 2024-05-19T18:09:44.003Z
+updated: 2024-05-20T18:09:44.003Z
 tags: 
   - signer
   - signer online
@@ -192,4 +192,5 @@ When ready, click **DONE** to proceed. Our free PDF signature tool will create a
 <li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-vivo-g2-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Vivo G2 | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-step-by-step-to-resize-video-in-davinci-resolve-for-2024/"><u>New Step by Step to Resize Video in Davinci Resolve for 2024</u></a></li>
 </ul></div>
+
 

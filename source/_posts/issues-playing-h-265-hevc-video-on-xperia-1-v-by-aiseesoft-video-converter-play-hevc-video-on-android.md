@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Xperia 1 V
-date: 2024-04-29T22:45:01.900Z
+date: 2024-05-19T18:09:37.245Z
 tags: 
   - hevc video
   - hevc android
@@ -171,4 +171,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Lava Yuva 3? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-14-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 14</u></a></li>
 </ul></div>
+
 

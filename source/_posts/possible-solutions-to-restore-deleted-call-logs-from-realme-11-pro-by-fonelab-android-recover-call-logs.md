@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Realme 11 Pro
-date: 2024-04-29T22:59:35.495Z
+date: 2024-05-19T18:09:44.365Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -181,4 +181,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo V27? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-download-windows-movie-maker-a-comprehensive-guide-to-video-editing/"><u>Updated In 2024, Download Windows Movie Maker A Comprehensive Guide to Video Editing</u></a></li>
 </ul></div>
+
 

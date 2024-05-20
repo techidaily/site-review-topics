@@ -1,6 +1,6 @@
 ---
 title: Infinix Data Retrieval tool – restore lost data from Infinix Note 30i
-date: 2024-04-29T22:57:11.413Z
+date: 2024-05-19T18:09:43.217Z
 tags: 
   - android data recovery
   - android devices data recovery
@@ -199,4 +199,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://screen-mirror.techidaily.com/how-to-do-xiaomi-redmi-note-12-4g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Xiaomi Redmi Note 12 4G Screen Sharing | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/in-2024-mastering-facebook-live-your-complete-guide-to-successful-streaming/"><u>In 2024, Mastering Facebook Live Your Complete Guide to Successful Streaming</u></a></li>
 </ul></div>
+
 

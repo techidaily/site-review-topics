@@ -562,3 +562,4 @@ In the 21<sup>st</sup> century, when the world is connected through one device, 
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-nubia-red-magic-8s-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Nubia Red Magic 8S Pro Quickly | Dr.fone</u></a></li>
 </ul></div>
 
+

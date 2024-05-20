@@ -1,6 +1,6 @@
 ---
 title: Identify malfunctioning your hardware drivers with Windows Device Manager in Windows 10
-date: 2024-04-29T22:56:26.892Z
+date: 2024-05-19T18:09:42.775Z
 tags: 
   - driver
   - device driver
@@ -290,4 +290,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-tecno-pova-5-pro-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Tecno Pova 5 Pro?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-camtasia-vs-captivate-which-to-choose/"><u>New Camtasia Vs Captivate - Which to Choose?</u></a></li>
 </ul></div>
+
 

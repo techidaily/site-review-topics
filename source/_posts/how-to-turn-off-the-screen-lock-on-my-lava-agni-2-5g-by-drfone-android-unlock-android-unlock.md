@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Lava Agni 2 5G
-date: 2024-04-29T22:50:37.312Z
+date: 2024-05-19T18:09:39.954Z
 tags: 
   - android unlock
   - android devices unlock
@@ -274,4 +274,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-y02t-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Vivo Y02T FRP Bypass Instantly</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-vivo-s17-easily-by-drfone-android/"><u>How To Unlock a Vivo S17 Easily?</u></a></li>
 </ul></div>
+
 

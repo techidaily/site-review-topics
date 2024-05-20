@@ -1,7 +1,7 @@
 ---
 title: Online signatures for .ott file
-date: 2024-04-29T22:58:49.692Z
-updated: 2024-04-30T22:58:49.692Z
+date: 2024-05-19T18:09:44.074Z
+updated: 2024-05-20T18:09:44.074Z
 tags: 
   - signer
   - signer online
@@ -197,4 +197,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ai-vdieo-software.techidaily.com/speed-up-or-slow-down-top-gif-editing-software-and-apps/"><u>Speed Up or Slow Down Top GIF Editing Software and Apps</u></a></li>
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-itel-s23plus-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Itel S23+</u></a></li>
 </ul></div>
+
 

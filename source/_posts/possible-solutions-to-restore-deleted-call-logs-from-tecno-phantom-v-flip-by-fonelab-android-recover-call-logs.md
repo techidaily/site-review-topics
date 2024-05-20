@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Tecno Phantom V Flip
-date: 2024-04-29T22:59:39.868Z
+date: 2024-05-19T18:09:44.379Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -188,4 +188,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-editing-video.techidaily.com/what-is-an-eye-zoom-transition-effect-its-a-close-up-video-effect-allowing-viewers-to-transit-to-the-next-clip-from-the-eye/"><u>What Is an Eye Zoom Transition Effect? Its a Close-Up Video Effect Allowing Viewers to Transit to the Next Clip From the Eye</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-apple-iphone-xs-max-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your Apple iPhone XS Max Is Unlocked</u></a></li>
 </ul></div>
+
 

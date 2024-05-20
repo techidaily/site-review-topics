@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted photos from Honor X7b.
-date: 2024-04-29T23:00:44.317Z
+date: 2024-05-19T18:09:44.777Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -163,4 +163,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-editing-video.techidaily.com/new-in-this-article-we-will-be-discussing-how-to-crop-a-video-on-android-but-since-most-android-devices-dont-have-this-option-you-will-need-to-do-it-externa/"><u>New In This Article, We Will Be Discussing How to Crop a Video on Android, but Since Most Android Devices Dont Have This Option, You Will Need to Do It Externally, by Downloading and Using Different Apps</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c22-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Nokia C22 Phone with Broken Screen</u></a></li>
 </ul></div>
+
 

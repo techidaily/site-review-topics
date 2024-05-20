@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-04-29T22:56:56.541Z
+date: 2024-05-19T18:09:42.960Z
 tags: 
   - driver
   - device driver
@@ -266,4 +266,5 @@ To understand why, you first have to understand what drivers actually are…
 <li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-itel-a70-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Itel A70 Phone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-15-camera-shake-preset-for-adobe-premiere-pro/"><u>In 2024, 15 Camera Shake Preset for Adobe Premiere Pro</u></a></li>
 </ul></div>
+
 

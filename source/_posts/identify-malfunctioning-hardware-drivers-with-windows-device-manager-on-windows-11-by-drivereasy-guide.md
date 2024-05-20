@@ -1,6 +1,6 @@
 ---
 title: Identify malfunctioning hardware drivers with Windows Device Manager on Windows 11
-date: 2024-04-29T22:56:22.923Z
+date: 2024-05-19T18:09:42.706Z
 tags: 
   - driver
   - device driver
@@ -267,4 +267,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Oppo Find N3 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-honor-play-7t-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Honor Play 7T.</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Issues playing MOV videos on Redmi 13C 5G
-date: 2024-04-29T22:45:02.169Z
+date: 2024-05-19T18:09:37.349Z
 tags: 
   - mov video
   - mov android
@@ -205,4 +205,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-v-purse-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor V Purse | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Oppo A79 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

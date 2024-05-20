@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Xiaomi Redmi A2+
-date: 2024-04-29T22:50:48.742Z
+date: 2024-05-19T18:09:40.045Z
 tags: 
   - android unlock
   - android devices unlock
@@ -237,4 +237,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://screen-mirror.techidaily.com/best-apple-iphone-13-mini-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>Best Apple iPhone 13 mini & iPad Screen Mirroring App | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/learning-how-to-slow-down-a-video-on-iphone-properly-for-2024/"><u>Learning How to Slow Down a Video on iPhone Properly for 2024</u></a></li>
 </ul></div>
+
 

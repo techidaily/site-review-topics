@@ -1,6 +1,6 @@
 ---
 title: Issues playing MKV video on Galaxy A05s
-date: 2024-04-29T22:45:02.107Z
+date: 2024-05-19T18:09:37.272Z
 tags: 
   - mkv video
   - mkv android
@@ -173,4 +173,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-apple-iphone-15-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your Apple iPhone 15 Pro Max and iPad?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-honor-magic-6-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Honor Magic 6 Pro on Windows??</u></a></li>
 </ul></div>
+
 

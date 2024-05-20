@@ -1,7 +1,7 @@
 ---
 title: How To Transfer Data From iPhone SE To Android? | Dr.fone
-date: 2024-04-29T22:47:57.925Z
-updated: 2024-04-30T22:47:57.925Z
+date: 2024-05-19T18:09:38.982Z
+updated: 2024-05-20T18:09:38.982Z
 tags: 
   - transfer data
 categories:
@@ -255,4 +255,5 @@ Once done, the window in the front shows the completed phone transfer. Click **O
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-change-video-thumbnail-on-google-drive/"><u>New How to Change Video Thumbnail on Google Drive</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Tecno Phantom V Flip | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Realme Narzo 60 5G
-date: 2024-04-29T22:59:37.198Z
+date: 2024-05-19T18:09:44.371Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -198,4 +198,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://techidaily.com/undelete-lost-music-from-honor-by-fonelab-android-recover-music/"><u>Undelete lost music from Honor</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-7-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 7 | Dr.fone</u></a></li>
 </ul></div>
+
 

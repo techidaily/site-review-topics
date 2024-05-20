@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted photos from Itel P40+.
-date: 2024-04-29T23:00:47.475Z
+date: 2024-05-19T18:09:44.797Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -200,4 +200,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-lava-yuva-2-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Lava Yuva 2 Location Settings | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-honor-x7b-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Honor X7b | Dr.fone</u></a></li>
 </ul></div>
+
 

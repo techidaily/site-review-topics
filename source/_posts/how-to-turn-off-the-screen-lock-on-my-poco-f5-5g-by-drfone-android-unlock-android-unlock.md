@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Poco F5 5G
-date: 2024-04-29T22:50:42.517Z
+date: 2024-05-19T18:09:40.007Z
 tags: 
   - android unlock
   - android devices unlock
@@ -250,4 +250,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-iphone-13-mini-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On iPhone 13 mini without Password?</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-motorola-moto-g24-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Motorola Moto G24</u></a></li>
 </ul></div>
+
 

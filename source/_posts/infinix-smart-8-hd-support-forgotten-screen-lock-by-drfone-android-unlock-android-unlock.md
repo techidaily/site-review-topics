@@ -1,6 +1,6 @@
 ---
 title: Infinix Smart 8 HD support - Forgotten screen lock.
-date: 2024-04-29T22:57:19.558Z
+date: 2024-05-19T18:09:43.298Z
 tags: 
   - android unlock
   - android devices unlock
@@ -213,4 +213,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-elevate-your-designs-with-feather-shapes-in-after-effects/"><u>Updated In 2024, Elevate Your Designs with Feather Shapes in After Effects</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-vivo-s18-pro-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Vivo S18 Pro for Streaming | Dr.fone</u></a></li>
 </ul></div>
+
 

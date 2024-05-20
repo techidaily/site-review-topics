@@ -1,6 +1,6 @@
 ---
 title: How to use Device Manager to update hardware drivers in Windows 11 & 10
-date: 2024-04-29T22:55:31.867Z
+date: 2024-05-19T18:09:42.304Z
 tags: 
   - driver
   - device driver
@@ -291,4 +291,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://ai-video-editing.techidaily.com/7-solutions-cut-video-for-instagram-on-mac-for-2024/"><u>7 Solutions Cut Video For Instagram On Mac for 2024</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-samsung-galaxy-z-fold-5-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Samsung Galaxy Z Fold 5</u></a></li>
 </ul></div>
+
 

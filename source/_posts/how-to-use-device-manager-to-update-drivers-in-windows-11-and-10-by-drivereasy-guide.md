@@ -1,6 +1,6 @@
 ---
 title: How to use Device Manager to update drivers in Windows 11 & 10
-date: 2024-04-29T22:55:28.600Z
+date: 2024-05-19T18:09:42.284Z
 tags: 
   - driver
   - device driver
@@ -288,4 +288,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://fake-location.techidaily.com/how-to-fix-oneplus-open-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix OnePlus Open Find My Friends No Location Found? | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-how-to-make-whiteboard-animation-videos-for-2024/"><u>New How to Make Whiteboard Animation Videos for 2024</u></a></li>
 </ul></div>
+
 

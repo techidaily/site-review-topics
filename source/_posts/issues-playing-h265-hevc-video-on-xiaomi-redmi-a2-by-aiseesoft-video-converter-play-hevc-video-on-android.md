@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Xiaomi Redmi A2
-date: 2024-04-29T22:45:02.081Z
+date: 2024-05-19T18:09:37.265Z
 tags: 
   - hevc video
   - hevc android
@@ -219,4 +219,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-samsung-galaxy-a14-4g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Samsung Galaxy A14 4G to Protect Your Individual Information</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>3 Smart and Simple Ways to Change Home Address on Apple iPhone 14 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

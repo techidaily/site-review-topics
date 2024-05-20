@@ -1,6 +1,6 @@
 ---
 title: How to Use Face ID to Pay for Apps on iPhone 15 Pro Max?
-date: 2024-04-29T22:55:53.780Z
+date: 2024-05-19T18:09:42.451Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -387,4 +387,5 @@ In short, Apple ID Lock is about a user's account with Apple, akin to how Google
 <li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 11 Pro? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-a-complete-guideline-to-better-use-quicktime-player/"><u>Updated In 2024, A Complete Guideline To Better Use QuickTime Player</u></a></li>
 </ul></div>
+
 

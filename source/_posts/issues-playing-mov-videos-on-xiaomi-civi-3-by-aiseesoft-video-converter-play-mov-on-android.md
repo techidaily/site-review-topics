@@ -1,6 +1,6 @@
 ---
 title: Issues playing MOV videos on Xiaomi Civi 3
-date: 2024-04-29T22:45:02.180Z
+date: 2024-05-19T18:09:37.360Z
 tags: 
   - mov video
   - mov android
@@ -205,4 +205,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-oneplus-11r-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from OnePlus 11R to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-moto-g73-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Moto G73 5G Phones with/without a PC</u></a></li>
 </ul></div>
+
 

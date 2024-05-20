@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated hardware drivers with Windows Device Manager in Windows 11/10
-date: 2024-04-29T22:56:58.462Z
+date: 2024-05-19T18:09:42.973Z
 tags: 
   - driver
   - device driver
@@ -211,4 +211,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-nubia-z50-ultra-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Nubia Z50 Ultra Phone Password Using Emergency Call</u></a></li>
 </ul></div>
+
 

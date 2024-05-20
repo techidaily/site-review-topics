@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted videos from Tecno Spark 20
-date: 2024-04-29T23:01:48.901Z
+date: 2024-05-19T18:09:45.160Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -188,4 +188,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-12-mini-5-ways-to-get-into-a-locked-iphone-12-mini-by-drfone-ios/"><u>Locked Out of iPhone 12 mini? 5 Ways to get into a Locked iPhone 12 mini</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-narzo-60-pro-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Realme Narzo 60 Pro 5G Phone that is Locked?</u></a></li>
 </ul></div>
+
 

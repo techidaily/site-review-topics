@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Samsung Galaxy A25 5G, is it possible?
-date: 2024-04-29T22:45:02.944Z
+date: 2024-05-19T18:09:37.872Z
 tags: 
   - hevc video
   - hevc android
@@ -177,4 +177,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Vivo Y78 5G | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-nokia-150-2023-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Nokia 150 (2023) | Dr.fone</u></a></li>
 </ul></div>
+
 

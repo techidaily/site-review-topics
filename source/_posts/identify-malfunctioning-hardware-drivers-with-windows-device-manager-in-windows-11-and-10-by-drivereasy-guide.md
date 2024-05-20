@@ -1,6 +1,6 @@
 ---
 title: Identify malfunctioning hardware drivers with Windows Device Manager in Windows 11 & 10
-date: 2024-04-29T22:56:21.093Z
+date: 2024-05-19T18:09:42.698Z
 tags: 
   - driver
   - device driver
@@ -242,4 +242,5 @@ There are two reasons why…
 <li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-vivo-v30-lite-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Vivo V30 Lite 5G | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-apple-iphone-xs-max-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On Apple iPhone XS Max? Find the Best Solution Here</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Identify missing or malfunctioning hardware drivers with Windows Device Manager in Windows 11
-date: 2024-04-29T22:56:39.832Z
+date: 2024-05-19T18:09:42.855Z
 tags: 
   - driver
   - device driver
@@ -271,4 +271,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-oppo-f23-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Oppo F23 5G Location By Mobile Number | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-iphone-6s-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from iPhone 6s</u></a></li>
 </ul></div>
+
 

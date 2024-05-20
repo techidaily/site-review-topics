@@ -1,6 +1,6 @@
 ---
 title: How to Unlock the Lock Screen on my Lava Blaze Pro 5G
-date: 2024-04-29T22:52:21.750Z
+date: 2024-05-19T18:09:40.801Z
 tags: 
   - android unlock
   - android devices unlock
@@ -273,4 +273,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-galaxy-s24-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Galaxy S24</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-s18-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo S18 by Phone Number | Dr.fone</u></a></li>
 </ul></div>
+
 

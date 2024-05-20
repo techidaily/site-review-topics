@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Xiaomi Redmi Note 12R, is it possible?
-date: 2024-04-29T22:45:07.716Z
+date: 2024-05-19T18:09:37.898Z
 tags: 
   - hevc video
   - hevc android
@@ -165,4 +165,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-hatsune-miku-ai-voice-generators-for-all-times/"><u>Updated 2024 Approved Best Hatsune Miku AI Voice Generators for All Times</u></a></li>
 <li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Possible solutions to restore deleted call logs from Vivo Y77t
-date: 2024-04-29T22:59:41.678Z
-updated: 2024-04-30T22:59:41.678Z
+date: 2024-05-19T18:09:44.425Z
+updated: 2024-05-20T18:09:44.425Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -168,4 +168,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-create-one-click-video-reverse-effect-in-filmora/"><u>Updated In 2024, How to Create One Click Video Reverse Effect in Filmora</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-ways-to-make-canva-collages/"><u>In 2024, Ways to Make Canva Collages</u></a></li>
 </ul></div>
+
 

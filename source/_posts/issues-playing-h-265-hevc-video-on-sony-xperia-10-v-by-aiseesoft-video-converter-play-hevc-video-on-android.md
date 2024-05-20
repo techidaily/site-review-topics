@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Sony Xperia 10 V
-date: 2024-04-29T22:45:01.885Z
+date: 2024-05-19T18:09:37.233Z
 tags: 
   - hevc video
   - hevc android
@@ -170,4 +170,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-iphone-11-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 11 Passcode Easily Video Inside | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Oppo A79 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

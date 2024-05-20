@@ -1,6 +1,6 @@
 ---
 title: HTC U23 Pro support - Forgotten screen lock.
-date: 2024-04-29T22:56:14.274Z
+date: 2024-05-19T18:09:42.664Z
 tags: 
   - android unlock
   - android devices unlock
@@ -228,4 +228,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://fix-guide.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Vivo Y36i | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-easy-guide-to-apply-slow-zoom-effects-to-videos-for-2024/"><u>Updated Easy Guide to Apply Slow Zoom Effects to Videos for 2024</u></a></li>
 </ul></div>
+
 

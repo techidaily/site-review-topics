@@ -1,7 +1,7 @@
 ---
 title: How To Transfer Data From iPhone 13 mini To Android devices? | Dr.fone
-date: 2024-04-29T22:46:27.302Z
-updated: 2024-04-30T22:46:27.302Z
+date: 2024-05-19T18:09:38.455Z
+updated: 2024-05-20T18:09:38.455Z
 tags: 
   - transfer data
 categories:
@@ -301,4 +301,5 @@ Once done, the window in the front shows the completed phone transfer. Click **O
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y100i-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y100i Pattern Lock if Forgotten? 6 Ways</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-vivo-y100i-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Vivo Y100i Lock Screen Clock in Seconds</u></a></li>
 </ul></div>
+
 

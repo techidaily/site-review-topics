@@ -1,6 +1,6 @@
 ---
 title: MOV playback issues on HTC 
-date: 2024-04-29T22:45:02.548Z
+date: 2024-05-19T18:09:37.632Z
 tags: 
   - mov video
   - mov android
@@ -174,4 +174,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-m34-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy M34</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/unlock-realme-12-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Realme 12 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
+
 

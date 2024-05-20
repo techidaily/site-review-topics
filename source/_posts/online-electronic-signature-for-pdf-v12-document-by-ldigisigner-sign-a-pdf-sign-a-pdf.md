@@ -1,7 +1,7 @@
 ---
 title: Online electronic signature for PDF v1.2 document
-date: 2024-04-29T22:58:43.459Z
-updated: 2024-04-30T22:58:43.459Z
+date: 2024-05-19T18:09:43.999Z
+updated: 2024-05-20T18:09:43.999Z
 tags: 
   - signer
   - signer online
@@ -155,4 +155,5 @@ When ready, click **DONE** to proceed. Our free PDF signature tool will create a
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-tecno-camon-20-premier-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Tecno Camon 20 Premier 5G to PC? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-y100-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo Y100 FRP Bypass Everything You Need to Know</u></a></li>
 </ul></div>
+
 

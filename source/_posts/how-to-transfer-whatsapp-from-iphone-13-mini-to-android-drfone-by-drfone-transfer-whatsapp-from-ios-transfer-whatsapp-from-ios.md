@@ -1,7 +1,7 @@
 ---
 title: How To Transfer WhatsApp From iPhone 13 mini to Android? | Dr.fone
-date: 2024-04-29T22:48:46.953Z
-updated: 2024-04-30T22:48:46.953Z
+date: 2024-05-19T18:09:39.270Z
+updated: 2024-05-20T18:09:39.270Z
 tags: 
   - transfer whatsapp
 categories:
@@ -268,4 +268,5 @@ When this process concludes, a prompt message will appear on the window of its c
 <li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-vivo-g2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Vivo G2 | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oppo-f25-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Oppo F25 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

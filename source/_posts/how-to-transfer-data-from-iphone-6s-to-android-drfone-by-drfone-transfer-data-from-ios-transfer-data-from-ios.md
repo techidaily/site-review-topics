@@ -1,7 +1,7 @@
 ---
 title: How To Transfer Data From iPhone 6s To Android? | Dr.fone
-date: 2024-04-29T22:47:27.174Z
-updated: 2024-04-30T22:47:27.174Z
+date: 2024-05-19T18:09:38.799Z
+updated: 2024-05-20T18:09:38.799Z
 tags: 
   - transfer data
 categories:
@@ -235,4 +235,5 @@ Once done, the window in the front shows the completed phone transfer. Click **O
 <li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-a05-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy A05 | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-xs-max-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone XS Max when Phone is Broken? | Dr.fone</u></a></li>
 </ul></div>
+
 

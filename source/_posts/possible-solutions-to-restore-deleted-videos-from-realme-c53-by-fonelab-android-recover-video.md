@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted videos from Realme C53
-date: 2024-04-29T23:01:45.474Z
+date: 2024-05-19T18:09:45.141Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -172,4 +172,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Honor Magic V2? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-poco-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Poco?</u></a></li>
 </ul></div>
+
 

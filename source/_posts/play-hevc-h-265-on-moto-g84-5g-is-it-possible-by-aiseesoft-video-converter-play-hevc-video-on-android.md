@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Moto G84 5G, is it possible?
-date: 2024-04-29T22:45:02.724Z
+date: 2024-05-19T18:09:37.849Z
 tags: 
   - hevc video
   - hevc android
@@ -163,4 +163,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-itel-p55-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Itel P55 Devices</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-itel-p55t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Itel P55T | Dr.fone</u></a></li>
 </ul></div>
+
 

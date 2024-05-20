@@ -1,7 +1,7 @@
 ---
 title: How To Transfer WhatsApp From iPhone 12 mini to other iPhone 13 Pro devices? | Dr.fone
-date: 2024-04-29T22:48:33.254Z
-updated: 2024-04-30T22:48:33.254Z
+date: 2024-05-19T18:09:39.194Z
+updated: 2024-05-20T18:09:39.194Z
 tags: 
   - transfer whatsapp
 categories:
@@ -237,4 +237,5 @@ When this process concludes, a prompt message will appear on the window of its c
 <li><a href="https://android-unlock.techidaily.com/top-12-prominent-samsung-galaxy-f34-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Samsung Galaxy F34 5G Fingerprint Not Working Solutions</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
 </ul></div>
+
 

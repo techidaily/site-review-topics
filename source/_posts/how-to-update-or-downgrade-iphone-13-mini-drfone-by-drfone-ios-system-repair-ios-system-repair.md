@@ -1,7 +1,7 @@
 ---
 title: How To Update or Downgrade iPhone 13 mini? | Dr.fone
-date: 2024-04-29T22:53:30.407Z
-updated: 2024-04-30T22:53:30.407Z
+date: 2024-05-19T18:09:41.415Z
+updated: 2024-05-20T18:09:41.415Z
 tags: 
   - ios system repair
   - iphone repair
@@ -417,4 +417,5 @@ Once it is concluded, a prompt message appears on the window. You are advised to
 <li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Vivo X Fold 2 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-samsung-galaxy-f15-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Samsung Galaxy F15 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 

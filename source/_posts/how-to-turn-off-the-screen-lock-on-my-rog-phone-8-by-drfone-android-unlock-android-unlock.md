@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my ROG Phone 8
-date: 2024-04-29T22:50:44.219Z
+date: 2024-05-19T18:09:40.017Z
 tags: 
   - android unlock
   - android devices unlock
@@ -238,4 +238,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-apple-iphone-11-pro-max-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From Apple iPhone 11 Pro Max? How to Fix it?</u></a></li>
 <li><a href="https://ai-live-streaming.techidaily.com/top-8-live-selling-platforms-beginners-tool-tip/"><u>Top 8 Live Selling Platforms Beginners Tool Tip</u></a></li>
 </ul></div>
+
 

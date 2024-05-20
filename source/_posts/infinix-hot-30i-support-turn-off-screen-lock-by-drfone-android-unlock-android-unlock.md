@@ -1,6 +1,6 @@
 ---
 title: Infinix Hot 30i support - Turn Off Screen Lock.
-date: 2024-04-29T22:57:14.097Z
+date: 2024-05-19T18:09:43.266Z
 tags: 
   - android unlock
   - android devices unlock
@@ -247,4 +247,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-realme-gt-neo-5-se-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Realme GT Neo 5 SE Phone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Vivo V27e | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Identify missing hardware drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-04-29T22:56:35.035Z
+date: 2024-05-19T18:09:42.825Z
 tags: 
   - driver
   - device driver
@@ -266,4 +266,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-xiaomi-redmi-note-12-4g-phone-by-drfone-android/"><u>How to Reset a Locked Xiaomi Redmi Note 12 4G Phone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-v27-pro-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo V27 Pro Phone Now with These Tips</u></a></li>
 </ul></div>
+
 

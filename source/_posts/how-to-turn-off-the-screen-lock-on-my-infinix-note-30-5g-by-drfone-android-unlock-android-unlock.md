@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Infinix Note 30 5G
-date: 2024-04-29T22:50:35.416Z
+date: 2024-05-19T18:09:39.943Z
 tags: 
   - android unlock
   - android devices unlock
@@ -248,4 +248,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-oneplus-nord-ce-3-5g-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from OnePlus Nord CE 3 5G</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, List of Pokémon Go Joysticks On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
 </ul></div>
+
 

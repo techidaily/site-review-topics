@@ -1,7 +1,7 @@
 ---
 title: Online signatures for {{ext}} files
-date: 2024-04-29T22:58:48.936Z
-updated: 2024-04-30T22:58:48.936Z
+date: 2024-05-19T18:09:44.071Z
+updated: 2024-05-20T18:09:44.071Z
 tags: 
   - signer
   - signer online
@@ -196,4 +196,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-sony-xperia-10-v-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Sony Xperia 10 V</u></a></li>
 <li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-vivo-y100-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Vivo Y100? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

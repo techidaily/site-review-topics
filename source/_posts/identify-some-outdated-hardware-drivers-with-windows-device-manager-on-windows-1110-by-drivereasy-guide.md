@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated hardware drivers with Windows Device Manager on Windows 11/10
-date: 2024-04-29T22:56:59.999Z
+date: 2024-05-19T18:09:42.983Z
 tags: 
   - driver
   - device driver
@@ -162,4 +162,5 @@ To understand why, you first have to understand what drivers actually are…
 <li><a href="https://ai-voice-clone.techidaily.com/updated-9-best-french-video-translators-online-and-download-options/"><u>Updated 9 Best French Video Translators Online and Download Options</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-infinix-hot-40i-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Infinix Hot 40i Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 </ul></div>
+
 

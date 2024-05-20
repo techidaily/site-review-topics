@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Y56 5G
-date: 2024-04-29T22:50:49.328Z
+date: 2024-05-19T18:09:40.049Z
 tags: 
   - android unlock
   - android devices unlock
@@ -214,4 +214,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Realme 11X 5G? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-xiaomi-redmi-k70-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Xiaomi Redmi K70 Pattern Lock Screen</u></a></li>
 </ul></div>
+
 

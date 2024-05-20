@@ -1,7 +1,7 @@
 ---
 title: Issues playing MOV videos on Samsung
-date: 2024-04-29T22:45:02.173Z
-updated: 2024-04-30T22:45:02.173Z
+date: 2024-05-19T18:09:37.352Z
+updated: 2024-05-20T18:09:37.352Z
 tags: 
   - mov video
   - mov android
@@ -182,4 +182,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-hardware-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>How to identify malfunctioning hardware drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-photos-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Infinix Note 30 VIP Racing Edition.</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: MP4 won't play on my Xiaomi Redmi A2+
-date: 2024-04-29T22:45:02.684Z
+date: 2024-05-19T18:09:37.773Z
 tags: 
   - mp4 video
   - mp4 android
@@ -174,4 +174,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-x-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone X to Use USB Accessories Without Passcode</u></a></li>
 <li><a href="https://howto.techidaily.com/best-methods-for-tecno-spark-10c-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Tecno Spark 10C Wont Turn On | Dr.fone</u></a></li>
 </ul></div>
+
 

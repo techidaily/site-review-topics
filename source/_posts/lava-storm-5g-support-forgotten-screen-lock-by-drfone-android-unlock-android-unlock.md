@@ -1,7 +1,7 @@
 ---
 title: Lava Storm 5G support - Forgotten screen lock.
-date: 2024-04-29T22:57:58.786Z
-updated: 2024-04-30T22:57:58.786Z
+date: 2024-05-19T18:09:43.669Z
+updated: 2024-05-20T18:09:43.669Z
 tags: 
   - android unlock
   - android devices unlock
@@ -222,4 +222,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-xs-max-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone XS Max Password? Learn the Best Methods To Unlock</u></a></li>
 <li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Infinix Smart 7 | Dr.fone</u></a></li>
 </ul></div>
+
 

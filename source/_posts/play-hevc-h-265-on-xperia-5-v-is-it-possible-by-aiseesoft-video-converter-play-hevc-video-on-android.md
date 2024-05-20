@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Xperia 5 V, is it possible?
-date: 2024-04-29T22:45:08.279Z
+date: 2024-05-19T18:09:37.901Z
 tags: 
   - hevc video
   - hevc android
@@ -167,4 +167,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-infinix-gt-10-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Infinix GT 10 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-iphone-x-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On iPhone X? Heres the Best Fixes</u></a></li>
 </ul></div>
+
 

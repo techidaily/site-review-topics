@@ -1,7 +1,7 @@
 ---
 title: Infinix Note 30i support - Turn Off Screen Lock.
-date: 2024-04-29T22:57:18.585Z
-updated: 2024-04-30T22:57:18.585Z
+date: 2024-05-19T18:09:43.292Z
+updated: 2024-05-20T18:09:43.292Z
 tags: 
   - android unlock
   - android devices unlock
@@ -225,4 +225,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://techidaily.com/different-methods-for-resetting-google-pixel-7a-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Google Pixel 7a Phones with Screen Locked and Not | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-contacts-from-apple-iphone-14-pro-max-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Contacts from Apple iPhone 14 Pro Max to iPhone Quickly | Dr.fone</u></a></li>
 </ul></div>
+
 

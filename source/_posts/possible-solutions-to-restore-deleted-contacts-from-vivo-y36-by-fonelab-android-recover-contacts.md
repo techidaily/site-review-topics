@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted contacts from Vivo Y36.
-date: 2024-04-29T23:00:11.237Z
+date: 2024-05-19T18:09:44.594Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -167,4 +167,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro Max To Other iPhone 15 devices? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-want-to-make-a-fun-and-cinematic-video-with-an-introductory-text-title-learn-the-stages-of-editing-with-filmora-for-this-effect-here/"><u>In 2024, Want to Make a Fun and Cinematic Video with an Introductory Text Title? Learn the Stages of Editing with Filmora for This Effect Here</u></a></li>
 </ul></div>
+
 

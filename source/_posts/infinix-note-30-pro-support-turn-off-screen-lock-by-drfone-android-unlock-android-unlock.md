@@ -1,6 +1,6 @@
 ---
 title: Infinix Note 30 Pro support - Turn Off Screen Lock.
-date: 2024-04-29T22:57:16.869Z
+date: 2024-05-19T18:09:43.282Z
 tags: 
   - android unlock
   - android devices unlock
@@ -256,4 +256,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-pop-7-pro-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Pop 7 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

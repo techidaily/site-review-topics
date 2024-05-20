@@ -1,7 +1,7 @@
 ---
 title: Possible solutions to restore deleted pictures from Y100.
-date: 2024-04-29T23:01:26.603Z
-updated: 2024-04-30T23:01:26.603Z
+date: 2024-05-19T18:09:45.035Z
+updated: 2024-05-20T18:09:45.035Z
 tags: 
   - android data recovery
   - android devices pictures recovery
@@ -181,4 +181,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-se-2022-to-other-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone SE (2022) to Other iPhone? | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-apple-iphone-12-pro-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About Apple iPhone 12 Pro Activation Lock</u></a></li>
 </ul></div>
+
 

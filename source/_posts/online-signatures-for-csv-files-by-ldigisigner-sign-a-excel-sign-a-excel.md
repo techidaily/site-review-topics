@@ -1,7 +1,7 @@
 ---
 title: Online signatures for .csv files
-date: 2024-04-29T22:58:46.889Z
-updated: 2024-04-30T22:58:46.889Z
+date: 2024-05-19T18:09:44.061Z
+updated: 2024-05-20T18:09:44.061Z
 tags: 
   - signer
   - signer online
@@ -220,4 +220,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Nokia C210 | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-nokia-g42-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Nokia G42 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

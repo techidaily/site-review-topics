@@ -1,6 +1,6 @@
 ---
 title: Nubia Red Magic 8S Pro support - Forgotten screen lock.
-date: 2024-04-29T22:58:36.444Z
+date: 2024-05-19T18:09:43.976Z
 tags: 
   - android unlock
   - android devices unlock
@@ -243,4 +243,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-sony-xperia-5-v-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Sony Xperia 5 V is off? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Oppo Find X6? | Dr.fone</u></a></li>
 </ul></div>
+
 

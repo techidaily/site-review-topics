@@ -1,6 +1,6 @@
 ---
 title: Infinix Smart 8 HD support - Turn Off Screen Lock.
-date: 2024-04-29T22:57:19.747Z
+date: 2024-05-19T18:09:43.299Z
 tags: 
   - android unlock
   - android devices unlock
@@ -273,4 +273,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-poco-c51-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Poco C51 Screen | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Vivo V30 Lite 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

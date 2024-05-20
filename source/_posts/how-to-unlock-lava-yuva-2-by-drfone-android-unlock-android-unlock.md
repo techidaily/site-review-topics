@@ -1,6 +1,6 @@
 ---
 title: How to unlock Lava Yuva 2
-date: 2024-04-29T22:51:41.416Z
+date: 2024-05-19T18:09:40.481Z
 tags: 
   - android unlock
   - android devices unlock
@@ -229,4 +229,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-oppo-reno-10-proplus-5g-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Oppo Reno 10 Pro+ 5G.</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-11-pro-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 11 Pro? Learn All 4 Methods | Dr.fone</u></a></li>
 </ul></div>
+
 

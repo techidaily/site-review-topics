@@ -1,7 +1,7 @@
 ---
 title: How To Upgrade or Downgrade iPhone SE Without Losing Anything? | Dr.fone
-date: 2024-04-29T22:55:11.174Z
-updated: 2024-04-30T22:55:11.174Z
+date: 2024-05-19T18:09:42.049Z
+updated: 2024-05-20T18:09:42.049Z
 tags: 
   - ios system repair
   - iphone repair
@@ -443,4 +443,5 @@ A prompt message of completion will appear on the screen showing the successful 
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Plus With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/unlock-your-itels-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Itels Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
+
 

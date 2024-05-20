@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Honor 100
-date: 2024-04-29T22:59:22.390Z
+date: 2024-05-19T18:09:44.312Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -194,4 +194,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-y78-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo Y78 5G Through Google Earth?</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-make-your-mark-16-top-rated-free-video-makers-for-aspiring-filmmakers/"><u>In 2024, Make Your Mark 16 Top-Rated Free Video Makers for Aspiring Filmmakers</u></a></li>
 </ul></div>
+
 

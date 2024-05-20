@@ -1,6 +1,6 @@
 ---
 title: How to Use Face ID make purchases on iPhone 13 ?
-date: 2024-04-29T22:55:40.814Z
+date: 2024-05-19T18:09:42.359Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -390,4 +390,5 @@ This will start the wipe process on your iPhone remotely and your iPhone will be
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-12-pro-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 12 Pro with iTunes | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/resolve-compile-error-in-hidden-module-in-excel-causes-and-solutions-by-stellar-guide/"><u>Resolve Compile Error in Hidden Module in Excel Causes & Solutions</u></a></li>
 </ul></div>
+
 

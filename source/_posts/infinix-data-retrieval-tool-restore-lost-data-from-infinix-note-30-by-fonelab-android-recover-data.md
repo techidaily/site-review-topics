@@ -1,6 +1,6 @@
 ---
 title: Infinix Data Retrieval tool – restore lost data from Infinix Note 30
-date: 2024-04-29T22:57:10.840Z
+date: 2024-05-19T18:09:43.175Z
 tags: 
   - android data recovery
   - android devices data recovery
@@ -173,4 +173,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-samsung-galaxy-a14-4g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Samsung Galaxy A14 4G Phones</u></a></li>
 </ul></div>
+
 

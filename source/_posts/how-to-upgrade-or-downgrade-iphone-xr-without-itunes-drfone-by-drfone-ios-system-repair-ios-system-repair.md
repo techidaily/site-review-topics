@@ -1,7 +1,7 @@
 ---
 title: How To Upgrade or Downgrade iPhone XR Without iTunes? | Dr.fone
-date: 2024-04-29T22:55:12.888Z
-updated: 2024-04-30T22:55:12.888Z
+date: 2024-05-19T18:09:42.057Z
+updated: 2024-05-20T18:09:42.057Z
 tags: 
   - ios system repair
   - iphone repair
@@ -471,4 +471,5 @@ As the iOS is successfully downgraded on your iPhone, iPad or iPod Touch, contin
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-motorola-moto-g23-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Motorola Moto G23 Phone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-tecno-pova-6-pro-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Tecno Pova 6 Pro 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
 </ul></div>
+
 

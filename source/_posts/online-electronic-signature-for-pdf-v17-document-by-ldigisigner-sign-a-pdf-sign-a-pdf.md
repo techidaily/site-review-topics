@@ -1,7 +1,7 @@
 ---
 title: Online electronic signature for PDF v1.7 document
-date: 2024-04-29T22:58:44.404Z
-updated: 2024-04-30T22:58:44.404Z
+date: 2024-05-19T18:09:44.003Z
+updated: 2024-05-20T18:09:44.003Z
 tags: 
   - signer
   - signer online
@@ -165,4 +165,5 @@ When ready, click **DONE** to proceed. Our free PDF signature tool will create a
 <li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 12 | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-step-by-step-to-cut-a-video-in-quicktime/"><u>Updated Step by Step to Cut a Video in QuickTime</u></a></li>
 </ul></div>
+
 

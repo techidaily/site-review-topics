@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted videos from Honor X8b
-date: 2024-04-29T23:01:31.541Z
+date: 2024-05-19T18:09:45.063Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -209,4 +209,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Vivo S18 Pro | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
 </ul></div>
+
 

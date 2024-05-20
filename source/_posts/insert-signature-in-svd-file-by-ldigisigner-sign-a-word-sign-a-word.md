@@ -1,7 +1,7 @@
 ---
 title: Insert signature in .svd file
-date: 2024-04-29T22:57:25.121Z
-updated: 2024-04-30T22:57:25.121Z
+date: 2024-05-19T18:09:43.329Z
+updated: 2024-05-20T18:09:43.329Z
 tags: 
   - signer
   - signer online
@@ -192,4 +192,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Apple iPhone 14 Pro? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Vivo Y36i | Dr.fone</u></a></li>
 </ul></div>
+
 

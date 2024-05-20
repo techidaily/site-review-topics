@@ -1,7 +1,7 @@
 ---
 title: How to Upgrade iPhone 13 mini without Losing Any Data? | Dr.fone
-date: 2024-04-29T22:54:06.665Z
-updated: 2024-04-30T22:54:06.665Z
+date: 2024-05-19T18:09:41.680Z
+updated: 2024-05-20T18:09:41.680Z
 tags: 
   - ios system repair
   - iphone repair
@@ -377,4 +377,5 @@ A prompt message of completion will appear on the screen showing the successful 
 <li><a href="https://techidaily.com/how-to-reset-apple-iphone-12-mini-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 12 mini Without iTunes? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-add-the-popular-video-text-effects-to-your-video-for-2024/"><u>How to Add the Popular Video Text Effects to Your Video for 2024</u></a></li>
 </ul></div>
+
 

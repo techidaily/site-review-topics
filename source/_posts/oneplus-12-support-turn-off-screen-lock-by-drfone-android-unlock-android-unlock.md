@@ -1,7 +1,7 @@
 ---
 title: OnePlus 12 support - Turn Off Screen Lock.
-date: 2024-04-29T22:58:39.663Z
-updated: 2024-04-30T22:58:39.663Z
+date: 2024-05-19T18:09:43.988Z
+updated: 2024-05-20T18:09:43.988Z
 tags: 
   - android unlock
   - android devices unlock
@@ -231,4 +231,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Oppo Find X6 Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/best-7-whiteboard-explainer-videos-to-inspire-you-for-2024/"><u>Best 7 Whiteboard Explainer Videos to Inspire You for 2024</u></a></li>
 </ul></div>
+
 

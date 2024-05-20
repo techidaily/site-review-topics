@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Google Pixel 7a
-date: 2024-04-29T22:50:31.678Z
+date: 2024-05-19T18:09:39.920Z
 tags: 
   - android unlock
   - android devices unlock
@@ -244,4 +244,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-tecno-spark-10-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Tecno Spark 10 5G to Latest Samsung | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-pop-8-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Tecno Pop 8 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

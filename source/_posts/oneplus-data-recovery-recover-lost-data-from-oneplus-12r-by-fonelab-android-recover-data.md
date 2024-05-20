@@ -1,7 +1,7 @@
 ---
 title: OnePlus Data Recovery – recover lost data from OnePlus 12R
-date: 2024-04-29T22:58:40.796Z
-updated: 2024-04-30T22:58:40.796Z
+date: 2024-05-19T18:09:43.991Z
+updated: 2024-05-20T18:09:43.991Z
 tags: 
   - android data recovery
   - android devices data recovery
@@ -198,4 +198,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-13c-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi Redmi 13C Phone Pattern Lock without Factory Reset</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-huawei-p60-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Huawei P60 | Dr.fone</u></a></li>
 </ul></div>
+
 

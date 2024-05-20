@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated drivers with Windows Device Manager in Windows 11
-date: 2024-04-29T22:56:55.209Z
+date: 2024-05-19T18:09:42.952Z
 tags: 
   - driver
   - device driver
@@ -176,4 +176,5 @@ To understand why, you first have to understand what drivers actually are…
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-final-cut-pro-mastery-top-tutorials-and-beyond/"><u>New 2024 Approved Final Cut Pro Mastery Top Tutorials and Beyond</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-poco-c51-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Poco C51 | Dr.fone</u></a></li>
 </ul></div>
+
 

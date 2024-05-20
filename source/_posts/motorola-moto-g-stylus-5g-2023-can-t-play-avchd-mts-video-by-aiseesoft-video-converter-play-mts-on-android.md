@@ -1,6 +1,6 @@
 ---
 title: Motorola Moto G Stylus 5G (2023) can’t play AVCHD .mts video
-date: 2024-04-29T22:45:02.463Z
+date: 2024-05-19T18:09:37.553Z
 tags: 
   - mts video
   - mts android
@@ -182,4 +182,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-tecno-pova-5-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Tecno Pova 5 to iPhone Easily | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Samsung Galaxy S24+? | Dr.fone</u></a></li>
 </ul></div>
+
 

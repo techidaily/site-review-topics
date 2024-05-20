@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted videos from Honor 90 Lite
-date: 2024-04-29T23:01:30.207Z
+date: 2024-05-19T18:09:45.056Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -199,4 +199,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://phone-solutions.techidaily.com/factory-reset-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset iPhone 14 | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-s23-fe-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy S23 FE</u></a></li>
 </ul></div>
+
 

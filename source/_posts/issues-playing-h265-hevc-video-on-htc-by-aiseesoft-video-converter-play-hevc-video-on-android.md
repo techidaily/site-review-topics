@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on HTC
-date: 2024-04-29T22:45:01.939Z
+date: 2024-05-19T18:09:37.249Z
 tags: 
   - hevc video
   - hevc android
@@ -195,4 +195,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-y100a-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo Y100A | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-realme-11-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Realme 11 Pro Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

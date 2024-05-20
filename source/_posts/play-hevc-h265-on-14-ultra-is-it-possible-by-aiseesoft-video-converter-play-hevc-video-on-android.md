@@ -1,7 +1,7 @@
 ---
 title: Play HEVC H.265 on 14 Ultra, is it possible?
-date: 2024-04-29T22:45:08.654Z
-updated: 2024-04-30T22:45:08.654Z
+date: 2024-05-19T18:09:37.903Z
+updated: 2024-05-20T18:09:37.903Z
 tags: 
   - hevc video
   - hevc android
@@ -176,4 +176,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-lava-yuva-3-pro-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Lava Yuva 3 Pro</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-15-pro-max-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone 15 Pro Max i Do? Get Answers here</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to Unlock Lava Yuva 2 Without Password?
-date: 2024-04-29T22:51:41.603Z
+date: 2024-05-19T18:09:40.482Z
 tags: 
   - android unlock
   - android devices unlock
@@ -248,4 +248,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://ai-video-apps.techidaily.com/updated-reaction-video-made-easy-tips-and-tricks-using-filmora-for-2024/"><u>Updated Reaction Video Made Easy Tips and Tricks Using Filmora for 2024</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30i-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Infinix Note 30i Phone Without Password?</u></a></li>
 </ul></div>
+
 

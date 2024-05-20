@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted contacts from Infinix GT 10 Pro.
-date: 2024-04-29T22:59:51.430Z
+date: 2024-05-19T18:09:44.481Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -169,4 +169,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oneplus-ace-2-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from OnePlus Ace 2 FRP Bypass</u></a></li>
 <li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone SE (2020)? | Dr.fone</u></a></li>
 </ul></div>
+
 

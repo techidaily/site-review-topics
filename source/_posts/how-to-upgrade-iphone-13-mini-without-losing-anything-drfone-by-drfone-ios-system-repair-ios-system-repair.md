@@ -1,7 +1,7 @@
 ---
 title: How to Upgrade iPhone 13 mini without Losing Anything? | Dr.fone
-date: 2024-04-29T22:54:06.857Z
-updated: 2024-04-30T22:54:06.857Z
+date: 2024-05-19T18:09:41.681Z
+updated: 2024-05-20T18:09:41.681Z
 tags: 
   - ios system repair
   - iphone repair
@@ -395,4 +395,5 @@ Once it is concluded, a prompt message appears on the window. You are advised to
 <li><a href="https://location-social.techidaily.com/in-2024-does-vivo-y27-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo Y27 5G Have Find My Friends? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-asus-rog-phone-7-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Asus ROG Phone 7 without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

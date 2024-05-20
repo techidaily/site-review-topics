@@ -1,6 +1,6 @@
 ---
 title: How to use Device Manager to update your hardware drivers on Windows 11
-date: 2024-04-29T22:55:39.864Z
+date: 2024-05-19T18:09:42.353Z
 tags: 
   - driver
   - device driver
@@ -182,4 +182,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On HTC U23 Pro? | Dr.fone</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/in-2024-3-ways-to-track-apple-iphone-8-plus-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Track Apple iPhone 8 Plus without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

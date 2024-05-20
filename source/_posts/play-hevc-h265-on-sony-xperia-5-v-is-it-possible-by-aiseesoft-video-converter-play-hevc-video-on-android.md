@@ -1,7 +1,7 @@
 ---
 title: Play HEVC H.265 on Sony Xperia 5 V, is it possible?
-date: 2024-04-29T22:45:10.751Z
-updated: 2024-04-30T22:45:10.751Z
+date: 2024-05-19T18:09:37.914Z
+updated: 2024-05-20T18:09:37.914Z
 tags: 
   - hevc video
   - hevc android
@@ -194,4 +194,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://bypass-frp.techidaily.com/honor-play-7t-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Honor Play 7T ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Xiaomi Civi 3? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Xiaomi 13 Ultra
-date: 2024-04-29T22:59:42.057Z
+date: 2024-05-19T18:09:44.427Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -170,4 +170,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-poco-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Poco .</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-field-to-a-word-2003-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature field to a Word 2003</u></a></li>
 </ul></div>
+
 

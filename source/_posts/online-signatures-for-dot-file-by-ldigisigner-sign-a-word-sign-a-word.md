@@ -1,7 +1,7 @@
 ---
 title: Online signatures for .dot file
-date: 2024-04-29T22:58:47.986Z
-updated: 2024-04-30T22:58:47.986Z
+date: 2024-05-19T18:09:44.066Z
+updated: 2024-05-20T18:09:44.066Z
 tags: 
   - signer
   - signer online
@@ -218,4 +218,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-fcp-safety-net-saving-and-backing-up-your-projects/"><u>The Ultimate FCP Safety Net Saving and Backing Up Your Projects</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-iphone-8-plus-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile iPhone 8 Plus online without SIM Card?</u></a></li>
 </ul></div>
+
 

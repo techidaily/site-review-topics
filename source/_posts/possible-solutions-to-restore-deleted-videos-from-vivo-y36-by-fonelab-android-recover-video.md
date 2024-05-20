@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted videos from Vivo Y36
-date: 2024-04-29T23:01:51.725Z
+date: 2024-05-19T18:09:45.176Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -158,4 +158,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-v29-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo V29 Pro Quickly | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/authentication-error-occurred-on-vivo-y02t-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Vivo Y02T? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

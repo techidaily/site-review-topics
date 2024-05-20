@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from HTC U23
-date: 2024-04-29T22:59:24.488Z
+date: 2024-05-19T18:09:44.330Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -212,4 +212,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-samsung-galaxy-xcover-6-pro-tactical-edition-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Samsung Galaxy XCover 6 Pro Tactical Edition Phone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-apple-iphone-15-pro-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Apple iPhone 15 Pro Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Update iPhone XS without iTunes? | Dr.fone
-date: 2024-04-29T22:53:22.735Z
-updated: 2024-04-30T22:53:22.735Z
+date: 2024-05-19T18:09:41.373Z
+updated: 2024-05-20T18:09:41.373Z
 tags: 
   - ios system repair
   - iphone repair
@@ -419,4 +419,5 @@ On the next screen, you will be provided with an on-screen set of instructions t
 <li><a href="https://techidaily.com/remove-xperia-10-v-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Xperia 10 V unlock screen</u></a></li>
 <li><a href="https://ai-live-streaming.techidaily.com/cant-watch-mlb-matches-get-free-mlb-streaming-options-now/"><u>Cant Watch MLB Matches? Get Free MLB Streaming Options Now</u></a></li>
 </ul></div>
+
 

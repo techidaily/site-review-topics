@@ -1,6 +1,6 @@
 ---
 title: Identify missing hardware drivers with Windows Device Manager in Windows 11/10/7
-date: 2024-04-29T22:56:33.955Z
+date: 2024-05-19T18:09:42.819Z
 tags: 
   - driver
   - device driver
@@ -194,4 +194,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-spark-go-2024-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Spark Go (2024) using Video Repair Utility on Windows?</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-xiaomi-redmi-note-12-4g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Xiaomi Redmi Note 12 4G without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

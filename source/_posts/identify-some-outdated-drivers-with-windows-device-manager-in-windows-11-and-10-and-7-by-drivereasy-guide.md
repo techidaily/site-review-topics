@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated drivers with Windows Device Manager in Windows 11 & 10 & 7
-date: 2024-04-29T22:56:54.828Z
+date: 2024-05-19T18:09:42.950Z
 tags: 
   - driver
   - device driver
@@ -284,4 +284,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-xs-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone XS to Android | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-zte-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on ZTE</u></a></li>
 </ul></div>
+
 

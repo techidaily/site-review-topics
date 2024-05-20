@@ -1,7 +1,7 @@
 ---
 title: Possible solutions to restore deleted call logs from Honor
-date: 2024-04-29T22:59:23.163Z
-updated: 2024-04-30T22:59:23.163Z
+date: 2024-05-19T18:09:44.316Z
+updated: 2024-05-20T18:09:44.316Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -200,4 +200,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Samsung Galaxy A14 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/the-ultimate-guide-to-using-ar-emoji-stickers-in-your-videos-for-2024/"><u>The Ultimate Guide to Using AR Emoji Stickers in Your Videos for 2024</u></a></li>
 </ul></div>
+
 

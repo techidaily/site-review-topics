@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted photos from Vivo Y36i.
-date: 2024-04-29T23:00:58.867Z
+date: 2024-05-19T18:09:44.851Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -185,4 +185,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-vdieo-software.techidaily.com/new-s-most-popular-video-editing-software-for-mac-users/"><u>New S Most Popular Video Editing Software for Mac Users</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-zero-30-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Zero 30 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
 </ul></div>
+
 

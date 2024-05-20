@@ -1,6 +1,6 @@
 ---
 title: How to Unlock the Lock Screen on my 12
-date: 2024-04-29T22:52:16.246Z
+date: 2024-05-19T18:09:40.768Z
 tags: 
   - android unlock
   - android devices unlock
@@ -218,4 +218,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://location-social.techidaily.com/does-vivo-s17-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo S17 Pro Have Find My Friends? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-samsung-galaxy-f34-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Samsung Galaxy F34 5G Through Google Earth?</u></a></li>
 </ul></div>
+
 

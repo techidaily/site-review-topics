@@ -481,3 +481,4 @@ Remember, there are several other find my friends apps in the app store, which c
 <li><a href="https://phone-solutions.techidaily.com/can-t-open-mov-files-on-samsung-galaxy-xcover-7-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't open MOV files on Samsung Galaxy XCover 7</u></a></li>
 </ul></div>
 
+

@@ -1,6 +1,6 @@
 ---
 title: How to Unlock Tecno Spark 20C Phone Forgot Password
-date: 2024-04-29T22:52:15.867Z
+date: 2024-05-19T18:09:40.766Z
 tags: 
   - android unlock
   - android devices unlock
@@ -259,4 +259,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-realme-c51-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Realme C51</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme 11 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Infinix Note 30
-date: 2024-04-29T22:50:35.606Z
+date: 2024-05-19T18:09:39.944Z
 tags: 
   - android unlock
   - android devices unlock
@@ -225,4 +225,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-oppo-find-x7-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Oppo Find X7 for Parents | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/hard-reset-honor-magic-6-lite-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor Magic 6 Lite in 3 Efficient Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

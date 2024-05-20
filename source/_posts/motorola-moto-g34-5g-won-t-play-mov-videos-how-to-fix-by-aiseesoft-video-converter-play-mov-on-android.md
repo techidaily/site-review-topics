@@ -1,6 +1,6 @@
 ---
 title: Motorola Moto G34 5G won't play MOV videos, how to fix ?
-date: 2024-04-29T22:45:02.491Z
+date: 2024-05-19T18:09:37.572Z
 tags: 
   - mov video
   - mov android
@@ -203,4 +203,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/how-to-change-vivo-y36i-lock-screen-password-by-drfone-android/"><u>How To Change Vivo Y36i Lock Screen Password?</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-infinix-hot-40-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Infinix Hot 40 Pro</u></a></li>
 </ul></div>
+
 

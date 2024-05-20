@@ -1,7 +1,7 @@
 ---
 title: How to Use Face ID to Pay for Apple TV+ on iPhone 12 mini
-date: 2024-04-29T22:55:48.142Z
-updated: 2024-04-30T22:55:48.142Z
+date: 2024-05-19T18:09:42.412Z
+updated: 2024-05-20T18:09:42.412Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -444,4 +444,5 @@ This will start the wipe process on your iPhone remotely and your iPhone will be
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-realme-12-proplus-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Realme 12 Pro+ 5G to Mac? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-samsung-galaxy-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Samsung Galaxy S23+? | Dr.fone</u></a></li>
 </ul></div>
+
 

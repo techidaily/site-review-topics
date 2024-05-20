@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated your hardware drivers with Windows Device Manager in Windows 11 & 10
-date: 2024-04-29T22:57:04.337Z
+date: 2024-05-19T18:09:43.009Z
 tags: 
   - driver
   - device driver
@@ -270,4 +270,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone 13 Pro Max</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-vivo-y36i-to-mac-drfone-by-drfone-android/"><u>How to Mirror Vivo Y36i to Mac? | Dr.fone</u></a></li>
 </ul></div>
+
 

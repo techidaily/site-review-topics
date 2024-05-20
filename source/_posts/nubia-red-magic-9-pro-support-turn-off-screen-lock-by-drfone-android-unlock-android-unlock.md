@@ -1,6 +1,6 @@
 ---
 title: Nubia Red Magic 9 Pro support - Turn Off Screen Lock.
-date: 2024-04-29T22:58:37.026Z
+date: 2024-05-19T18:09:43.978Z
 tags: 
   - android unlock
   - android devices unlock
@@ -239,4 +239,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Tecno Phantom V Flip? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-apple-iphone-15-plus-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your Apple iPhone 15 Plus? How to Fix</u></a></li>
 </ul></div>
+
 

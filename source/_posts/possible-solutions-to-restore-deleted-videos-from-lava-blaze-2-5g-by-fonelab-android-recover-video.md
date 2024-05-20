@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted videos from Lava Blaze 2 5G
-date: 2024-04-29T23:01:35.313Z
+date: 2024-05-19T18:09:45.085Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -185,4 +185,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-xiaomi-13t-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Xiaomi 13T?</u></a></li>
 <li><a href="https://techidaily.com/things-you-dont-know-about-vivo-v30-lite-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo V30 Lite 5G Reset Code | Dr.fone</u></a></li>
 </ul></div>
+
 

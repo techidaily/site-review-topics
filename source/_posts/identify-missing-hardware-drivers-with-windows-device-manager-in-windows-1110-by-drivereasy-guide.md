@@ -1,6 +1,6 @@
 ---
 title: Identify missing hardware drivers with Windows Device Manager in Windows 11/10
-date: 2024-04-29T22:56:33.765Z
+date: 2024-05-19T18:09:42.818Z
 tags: 
   - driver
   - device driver
@@ -233,4 +233,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-oppo-k11-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Oppo K11 5G to Another | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/things-you-dont-know-about-realme-c67-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Realme C67 5G Reset Code | Dr.fone</u></a></li>
 </ul></div>
+
 

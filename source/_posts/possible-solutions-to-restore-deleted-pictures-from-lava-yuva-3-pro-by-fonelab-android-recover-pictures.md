@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted pictures from Lava Yuva 3 Pro.
-date: 2024-04-29T23:01:10.571Z
+date: 2024-05-19T18:09:44.949Z
 tags: 
   - android data recovery
   - android devices pictures recovery
@@ -172,4 +172,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-xiaomi-redmi-note-13-proplus-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Xiaomi Redmi Note 13 Pro+ 5G to Latest Samsung | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-how-to-create-inspiring-motivational-videos-using-ai-explore-tools-like-midjourney-runway-gen2-chat-gpt-and-filmora-ai-for-seamless-content-cr/"><u>In 2024, Learn How to Create Inspiring Motivational Videos Using AI. Explore Tools Like Midjourney, Runway Gen2, Chat-GPT, and Filmora AI for Seamless Content Creation. Start Your Journey</u></a></li>
 </ul></div>
+
 

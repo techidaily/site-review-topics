@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from GT 5
-date: 2024-04-29T22:59:22.201Z
+date: 2024-05-19T18:09:44.311Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -176,4 +176,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-lenovo-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Lenovo Device</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oneplus-nord-3-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your OnePlus Nord 3 5G Phone? Unlock It Now</u></a></li>
 </ul></div>
+
 

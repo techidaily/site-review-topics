@@ -1,6 +1,6 @@
 ---
 title: Itel support - Forgotten screen lock.
-date: 2024-04-29T22:57:52.624Z
+date: 2024-05-19T18:09:43.632Z
 tags: 
   - android unlock
   - android devices unlock
@@ -256,4 +256,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-iphone-11-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from iPhone 11 Pro Max iCloud Activation Lock Bypass</u></a></li>
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oppo-f25-pro-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Oppo F25 Pro 5G Wont Charge | Dr.fone</u></a></li>
 </ul></div>
+
 

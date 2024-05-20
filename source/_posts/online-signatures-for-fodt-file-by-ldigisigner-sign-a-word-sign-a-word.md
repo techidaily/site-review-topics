@@ -1,7 +1,7 @@
 ---
 title: Online signatures for .fodt file
-date: 2024-04-29T22:58:49.124Z
-updated: 2024-04-30T22:58:49.124Z
+date: 2024-05-19T18:09:44.072Z
+updated: 2024-05-20T18:09:44.072Z
 tags: 
   - signer
   - signer online
@@ -220,4 +220,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-apple-iphone-8-in-3-ways-drfone-by-drfone-virtual-ios/"><u>In 2024, Edit and Send Fake Location on Telegram For your Apple iPhone 8 in 3 Ways | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
 </ul></div>
+
 

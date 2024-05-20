@@ -1,7 +1,7 @@
 ---
 title: How To Update or Downgrade iPhone 12 Without iTunes? | Dr.fone
-date: 2024-04-29T22:53:29.650Z
-updated: 2024-04-30T22:53:29.650Z
+date: 2024-05-19T18:09:41.412Z
+updated: 2024-05-20T18:09:41.412Z
 tags: 
   - ios system repair
   - iphone repair
@@ -376,4 +376,5 @@ Once it is concluded, a prompt message appears on the window. You are advised to
 <li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oppo-reno-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Oppo Reno 8T | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-oppo-reno-8t-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Oppo Reno 8T 5G</u></a></li>
 </ul></div>
+
 

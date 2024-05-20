@@ -1,7 +1,7 @@
 ---
 title: Insert signature in .dot file
-date: 2024-04-29T22:57:22.828Z
-updated: 2024-04-30T22:57:22.828Z
+date: 2024-05-19T18:09:43.317Z
+updated: 2024-05-20T18:09:43.317Z
 tags: 
   - signer
   - signer online
@@ -238,4 +238,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Oppo A38 | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Oppo Find X7 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

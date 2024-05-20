@@ -1,6 +1,6 @@
 ---
 title: Infinix Data Retrieval tool – restore lost data from Infinix Smart 8 HD
-date: 2024-04-29T22:57:11.793Z
+date: 2024-05-19T18:09:43.247Z
 tags: 
   - android data recovery
   - android devices data recovery
@@ -158,4 +158,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-honor-x9a-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Honor X9a to Enjoy More Fun | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-s18e-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Vivo S18e Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: MOV playback issues on Xiaomi Redmi Note 13 5G
-date: 2024-04-29T22:45:02.577Z
+date: 2024-05-19T18:09:37.658Z
 tags: 
   - mov video
   - mov android
@@ -192,4 +192,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-realme-c53-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Realme C53 Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-x100-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo X100</u></a></li>
 </ul></div>
+
 

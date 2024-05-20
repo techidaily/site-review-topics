@@ -1,7 +1,7 @@
 ---
 title: Insert signature in .dotm file
-date: 2024-04-29T22:57:23.029Z
-updated: 2024-04-30T22:57:23.029Z
+date: 2024-05-19T18:09:43.318Z
+updated: 2024-05-20T18:09:43.319Z
 tags: 
   - signer
   - signer online
@@ -238,4 +238,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-infinix-hot-30-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Infinix Hot 30 5G to PC- Detailed Steps | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location on Apple iPhone SE (2022) | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Update or Downgrade iPhone 8 Plus? | Dr.fone
-date: 2024-04-29T22:53:47.851Z
-updated: 2024-04-30T22:53:47.851Z
+date: 2024-05-19T18:09:41.513Z
+updated: 2024-05-20T18:09:41.513Z
 tags: 
   - ios system repair
   - iphone repair
@@ -390,4 +390,5 @@ On the next screen, you will be provided with an on-screen set of instructions t
 <li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-14-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 14 System Issues? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a60s-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Itel A60s Phone Pattern Lock without Factory Reset</u></a></li>
 </ul></div>
+
 

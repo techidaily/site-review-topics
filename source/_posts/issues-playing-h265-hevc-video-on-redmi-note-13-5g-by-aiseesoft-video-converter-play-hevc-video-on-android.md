@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Redmi Note 13 5G
-date: 2024-04-29T22:45:02.037Z
+date: 2024-05-19T18:09:37.259Z
 tags: 
   - hevc video
   - hevc android
@@ -164,4 +164,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Huawei P60 | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-13-pro-max-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone 13 Pro Max Passcode without a Computer</u></a></li>
 </ul></div>
+
 

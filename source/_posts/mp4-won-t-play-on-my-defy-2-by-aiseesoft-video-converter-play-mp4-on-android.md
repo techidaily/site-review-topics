@@ -1,6 +1,6 @@
 ---
 title: MP4 won't play on my Defy 2
-date: 2024-04-29T22:45:02.645Z
+date: 2024-05-19T18:09:37.742Z
 tags: 
   - mp4 video
   - mp4 android
@@ -205,4 +205,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-nokia-105-classic-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Nokia 105 Classic to PC- Detailed Steps | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-realme-c55-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Realme C55 Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
+
 

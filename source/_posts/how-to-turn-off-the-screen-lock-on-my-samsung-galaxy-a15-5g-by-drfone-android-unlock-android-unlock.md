@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Samsung Galaxy A15 5G
-date: 2024-04-29T22:50:44.978Z
+date: 2024-05-19T18:09:40.022Z
 tags: 
   - android unlock
   - android devices unlock
@@ -228,4 +228,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://ios-location-track.techidaily.com/ways-to-stop-parent-tracking-your-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Ways to stop parent tracking your Apple iPhone 12 Pro | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-x-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone X When You Forget the Passcode?</u></a></li>
 </ul></div>
+
 

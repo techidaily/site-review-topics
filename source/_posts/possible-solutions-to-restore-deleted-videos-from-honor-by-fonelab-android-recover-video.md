@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted videos from Honor
-date: 2024-04-29T23:01:30.405Z
+date: 2024-05-19T18:09:45.057Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -160,4 +160,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-mini-by-drfone-ios/"><u>How to Unlock iPhone 13 mini?</u></a></li>
 <li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-samsung-galaxy-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Samsung Galaxy A05s? | Dr.fone</u></a></li>
 </ul></div>
+
 

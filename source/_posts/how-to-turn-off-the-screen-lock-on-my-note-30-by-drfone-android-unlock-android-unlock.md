@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Note 30
-date: 2024-04-29T22:50:39.883Z
+date: 2024-05-19T18:09:39.970Z
 tags: 
   - android unlock
   - android devices unlock
@@ -265,4 +265,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-methods-on-how-to-speed-up-video-on-splice/"><u>2024 Approved Methods on How to Speed Up Video on Splice</u></a></li>
 </ul></div>
+
 

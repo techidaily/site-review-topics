@@ -1,6 +1,6 @@
 ---
 title: Identify missing or malfunctioning your hardware drivers with Windows Device Manager in Windows 11 & 10
-date: 2024-04-29T22:56:45.761Z
+date: 2024-05-19T18:09:42.894Z
 tags: 
   - driver
   - device driver
@@ -248,4 +248,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-video-editing-essentials-how-to-crop-videos-using-avidemux/"><u>Updated In 2024, Video Editing Essentials How to Crop Videos Using Avidemux</u></a></li>
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-xiaomi-redmi-12-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Xiaomi Redmi 12 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
 </ul></div>
+
 

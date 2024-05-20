@@ -1,7 +1,7 @@
 ---
 title: How to Unlock the Lock Screen on my 13T
-date: 2024-04-29T22:52:16.435Z
-updated: 2024-04-30T22:52:16.435Z
+date: 2024-05-19T18:09:40.769Z
+updated: 2024-05-20T18:09:40.769Z
 tags: 
   - android unlock
   - android devices unlock
@@ -251,4 +251,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-samsung-galaxy-a34-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Samsung Galaxy A34 5G | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
 </ul></div>
+
 

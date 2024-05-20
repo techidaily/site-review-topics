@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Xiaomi , is it possible?
-date: 2024-04-29T22:45:06.773Z
+date: 2024-05-19T18:09:37.893Z
 tags: 
   - hevc video
   - hevc android
@@ -183,4 +183,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-se-2022-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone SE (2022) to iPhone 8/X/11 | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-xr-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone XR You Should Try Out</u></a></li>
 </ul></div>
+
 

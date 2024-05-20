@@ -1,6 +1,6 @@
 ---
 title: Identify missing or malfunctioning drivers with Windows Device Manager in Windows 11/10
-date: 2024-04-29T22:56:36.937Z
+date: 2024-05-19T18:09:42.837Z
 tags: 
   - driver
   - device driver
@@ -199,4 +199,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-add-fade-in-windows-video-editor/"><u>Updated 2024 Approved Add Fade in Windows Video Editor</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-11-pro-max-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 11 Pro Max Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
 </ul></div>
+
 

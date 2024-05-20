@@ -1,6 +1,6 @@
 ---
 title: How to unlock Sony Xperia 5 V
-date: 2024-04-29T22:52:13.587Z
+date: 2024-05-19T18:09:40.724Z
 tags: 
   - android unlock
   - android devices unlock
@@ -218,4 +218,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-11-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 11? Complete Guide | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-nubia-red-magic-8s-proplus-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Nubia Red Magic 8S Pro+ Back to Operation | Dr.fone</u></a></li>
 </ul></div>
+
 

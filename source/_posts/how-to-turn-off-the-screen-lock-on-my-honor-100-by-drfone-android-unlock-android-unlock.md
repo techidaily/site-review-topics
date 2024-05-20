@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Honor 100
-date: 2024-04-29T22:50:32.244Z
+date: 2024-05-19T18:09:39.923Z
 tags: 
   - android unlock
   - android devices unlock
@@ -250,4 +250,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://ai-editing-video.techidaily.com/updated-7-tips-to-create-teaching-videos/"><u>Updated 7 Tips to Create Teaching Videos</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-x7b-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor X7b to BlackBerry | Dr.fone</u></a></li>
 </ul></div>
+
 

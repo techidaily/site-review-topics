@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Itel A60s
-date: 2024-04-29T22:50:36.555Z
+date: 2024-05-19T18:09:39.950Z
 tags: 
   - android unlock
   - android devices unlock
@@ -226,4 +226,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-data-from-moto-g-stylus-2023-by-fonelab-android-recover-data/"><u>Undelete lost data from Moto G Stylus (2023)</u></a></li>
 </ul></div>
+
 

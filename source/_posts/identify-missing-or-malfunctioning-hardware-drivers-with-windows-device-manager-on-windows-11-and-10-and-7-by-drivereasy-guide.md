@@ -1,6 +1,6 @@
 ---
 title: Identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11 & 10 & 7
-date: 2024-04-29T22:56:40.971Z
+date: 2024-05-19T18:09:42.863Z
 tags: 
   - driver
   - device driver
@@ -146,4 +146,5 @@ To understand why, you first have to understand what drivers actually are…
 <li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-11-pro-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone 11 Pro Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
 <li><a href="https://howto.techidaily.com/gmail-not-working-on-lava-agni-2-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Lava Agni 2 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

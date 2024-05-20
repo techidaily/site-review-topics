@@ -1,6 +1,6 @@
 ---
 title: Infinix Note 30 5G support - Turn Off Screen Lock.
-date: 2024-04-29T22:57:16.299Z
+date: 2024-05-19T18:09:43.278Z
 tags: 
   - android unlock
   - android devices unlock
@@ -227,4 +227,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Share/Fake Location on WhatsApp for Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Vivo S17t | Dr.fone</u></a></li>
 </ul></div>
+
 

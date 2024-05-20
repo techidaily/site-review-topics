@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Infinix GT 10 Pro
-date: 2024-04-29T22:50:34.842Z
+date: 2024-05-19T18:09:39.939Z
 tags: 
   - android unlock
   - android devices unlock
@@ -250,4 +250,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-g2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo G2 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-perform-hard-reset-on-lava-yuva-3-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Lava Yuva 3 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Possible solutions to restore deleted call logs from C50
-date: 2024-04-29T22:59:19.934Z
-updated: 2024-04-30T22:59:19.934Z
+date: 2024-05-19T18:09:44.297Z
+updated: 2024-05-20T18:09:44.297Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -163,4 +163,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-itel-a60-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Itel A60 Current Location of a Mobile Number | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Oppo Find X7 | Dr.fone</u></a></li>
 </ul></div>
+
 

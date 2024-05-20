@@ -1,6 +1,6 @@
 ---
 title: How to Use Face ID to Pay for Apple TV+ on iPhone 13 mini
-date: 2024-04-29T22:55:48.709Z
+date: 2024-05-19T18:09:42.416Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -439,4 +439,5 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-realme-note-50-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Realme Note 50 Mirror Screen to PC? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-iphone-6-plus-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On iPhone 6 Plus How to Bypass?</u></a></li>
 </ul></div>
+
 

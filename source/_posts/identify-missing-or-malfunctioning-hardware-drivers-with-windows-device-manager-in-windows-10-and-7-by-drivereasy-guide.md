@@ -1,6 +1,6 @@
 ---
 title: Identify missing or malfunctioning hardware drivers with Windows Device Manager in Windows 10 & 7
-date: 2024-04-29T22:56:39.073Z
+date: 2024-05-19T18:09:42.850Z
 tags: 
   - driver
   - device driver
@@ -207,4 +207,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-ultimate-guide-to-calculating-aspect-ratios-for-photos/"><u>Updated In 2024, The Ultimate Guide to Calculating Aspect Ratios for Photos</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Realme Narzo N53? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Insert signature in .odt file
-date: 2024-04-29T22:57:24.351Z
-updated: 2024-04-30T22:57:24.351Z
+date: 2024-05-19T18:09:43.325Z
+updated: 2024-05-20T18:09:43.325Z
 tags: 
   - signer
   - signer online
@@ -216,4 +216,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Realme 10T 5G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-motorola-moto-g14-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Motorola Moto G14 to Roku | Dr.fone</u></a></li>
 </ul></div>
+
 

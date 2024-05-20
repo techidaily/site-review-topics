@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Google Pixel 8 Pro
-date: 2024-04-29T22:59:21.635Z
+date: 2024-05-19T18:09:44.308Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -199,4 +199,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-editing-video.techidaily.com/new-video-inspiration-for-birthday-slideshow/"><u>New Video Inspiration for Birthday Slideshow</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-top-things-people-know-about-wedding-slideshow/"><u>2024 Approved Top Things People Know About Wedding Slideshow</u></a></li>
 </ul></div>
+
 

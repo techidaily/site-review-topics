@@ -1,6 +1,6 @@
 ---
 title: Lava Blaze 2 5G support - Turn Off Screen Lock.
-date: 2024-04-29T22:57:54.324Z
+date: 2024-05-19T18:09:43.643Z
 tags: 
   - android unlock
   - android devices unlock
@@ -246,4 +246,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-13-pro-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your Apple iPhone 13 Pro?</u></a></li>
 <li><a href="https://howto.techidaily.com/bricked-your-oppo-k11-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Oppo K11 5G? Heres A Full Solution | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Possible solutions to restore deleted photos from Infinix Note 30i.
-date: 2024-04-29T23:00:46.806Z
-updated: 2024-04-30T23:00:46.806Z
+date: 2024-05-19T18:09:44.793Z
+updated: 2024-05-20T18:09:44.793Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -207,4 +207,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-m14-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy M14 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Upgrade or Downgrade iPhone XS? | Dr.fone
-date: 2024-04-29T22:55:13.492Z
-updated: 2024-04-30T22:55:13.492Z
+date: 2024-05-19T18:09:42.059Z
+updated: 2024-05-20T18:09:42.059Z
 tags: 
   - ios system repair
   - iphone repair
@@ -410,4 +410,5 @@ As the iOS is successfully downgraded on your iPhone, iPad or iPod Touch, contin
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Sony Xperia 1 V? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
 </ul></div>
+
 

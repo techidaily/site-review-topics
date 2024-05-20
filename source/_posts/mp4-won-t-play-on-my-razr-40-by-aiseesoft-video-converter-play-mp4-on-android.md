@@ -1,6 +1,6 @@
 ---
 title: MP4 won't play on my Razr 40
-date: 2024-04-29T22:45:02.671Z
+date: 2024-05-19T18:09:37.758Z
 tags: 
   - mp4 video
   - mp4 android
@@ -199,4 +199,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-a2-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from A2</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-redmi-note-13-pro-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Xiaomi Redmi Note 13 Pro 5G Phone</u></a></li>
 </ul></div>
+
 

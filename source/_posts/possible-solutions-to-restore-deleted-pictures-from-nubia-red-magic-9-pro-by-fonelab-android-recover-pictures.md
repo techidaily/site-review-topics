@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted pictures from Nubia Red Magic 9 Pro.
-date: 2024-04-29T23:01:14.261Z
+date: 2024-05-19T18:09:44.970Z
 tags: 
   - android data recovery
   - android devices pictures recovery
@@ -176,4 +176,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-motorola-edge-2023-phone-without-google-account-by-drfone-android/"><u>How to Unlock Motorola Edge 2023 Phone without Google Account?</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-note-30i-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Note 30i to Outlook | Dr.fone</u></a></li>
 </ul></div>
+
 

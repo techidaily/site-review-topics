@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Motorola Moto G14
-date: 2024-04-29T22:59:29.939Z
+date: 2024-05-19T18:09:44.348Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -200,4 +200,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-oppo-find-x7-by-drfone-android/"><u>Full Guide to Unlock Your Oppo Find X7</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-7-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 7 Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
 </ul></div>
+
 

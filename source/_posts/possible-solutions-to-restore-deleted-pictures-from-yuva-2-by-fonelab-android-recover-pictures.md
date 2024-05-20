@@ -1,7 +1,7 @@
 ---
 title: Possible solutions to restore deleted pictures from Yuva 2.
-date: 2024-04-29T23:01:26.795Z
-updated: 2024-04-30T23:01:26.795Z
+date: 2024-05-19T18:09:45.036Z
+updated: 2024-05-20T18:09:45.036Z
 tags: 
   - android data recovery
   - android devices pictures recovery
@@ -178,4 +178,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-editing-video.techidaily.com/new-how-windows-movie-maker-save-mp4-file/"><u>New How Windows Movie Maker Save MP4 File</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on ZTE Blade A73 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

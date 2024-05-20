@@ -1,6 +1,6 @@
 ---
 title: How to Unlock the Lock Screen on my Infinix Hot 30i
-date: 2024-04-29T22:52:19.475Z
+date: 2024-05-19T18:09:40.787Z
 tags: 
   - android unlock
   - android devices unlock
@@ -259,4 +259,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-infinix-smart-7-hd-by-fonelab-android-recover-data/"><u>How to recover lost data from Infinix Smart 7 HD?</u></a></li>
 </ul></div>
+
 

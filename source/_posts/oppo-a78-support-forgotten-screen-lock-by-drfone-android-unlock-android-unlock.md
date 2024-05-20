@@ -1,6 +1,6 @@
 ---
 title: Oppo A78 support - Forgotten screen lock.
-date: 2024-04-29T22:58:59.610Z
+date: 2024-05-19T18:09:44.152Z
 tags: 
   - android unlock
   - android devices unlock
@@ -260,4 +260,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-xs-max-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone XS Max Location without Installing Software? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-y100i-power-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo Y100i Power 5G</u></a></li>
 </ul></div>
+
 

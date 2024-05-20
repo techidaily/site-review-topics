@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted photos from ZTE Nubia Z60 Ultra.
-date: 2024-04-29T23:01:01.804Z
+date: 2024-05-19T18:09:44.863Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -165,4 +165,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-infinix-smart-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Infinix Smart 8 Pro | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XR?</u></a></li>
 </ul></div>
+
 

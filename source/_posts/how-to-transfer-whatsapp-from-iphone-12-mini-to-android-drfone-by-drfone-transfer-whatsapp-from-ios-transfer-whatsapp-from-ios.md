@@ -1,7 +1,7 @@
 ---
 title: How To Transfer WhatsApp From iPhone 12 mini to Android? | Dr.fone
-date: 2024-04-29T22:48:31.529Z
-updated: 2024-04-30T22:48:31.529Z
+date: 2024-05-19T18:09:39.183Z
+updated: 2024-05-20T18:09:39.183Z
 tags: 
   - transfer whatsapp
 categories:
@@ -238,4 +238,5 @@ When this process concludes, a prompt message will appear on the window of its c
 <li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-tecno-phantom-v-flip-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Tecno Phantom V Flip?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-some-facts-that-few-people-know-on-how-to-make-transparent-background-in-canva/"><u>New Some Facts That Few People Know on How to Make Transparent Background in Canva</u></a></li>
 </ul></div>
+
 

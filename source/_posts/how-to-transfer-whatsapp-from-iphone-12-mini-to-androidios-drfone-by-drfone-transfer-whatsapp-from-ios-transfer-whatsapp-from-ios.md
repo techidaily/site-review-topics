@@ -1,7 +1,7 @@
 ---
 title: How To Transfer WhatsApp From iPhone 12 mini to Android/iOS? | Dr.fone
-date: 2024-04-29T22:48:31.719Z
-updated: 2024-04-30T22:48:31.719Z
+date: 2024-05-19T18:09:39.184Z
+updated: 2024-05-20T18:09:39.184Z
 tags: 
   - transfer whatsapp
 categories:
@@ -219,4 +219,5 @@ When this process concludes, a prompt message will appear on the window of its c
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-infinix-smart-8-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Infinix Smart 8</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-samsung-galaxy-m14-4g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Samsung Galaxy M14 4G Location | Dr.fone</u></a></li>
 </ul></div>
+
 

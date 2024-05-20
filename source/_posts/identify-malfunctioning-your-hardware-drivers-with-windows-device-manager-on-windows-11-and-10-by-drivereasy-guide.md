@@ -1,6 +1,6 @@
 ---
 title: Identify malfunctioning your hardware drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-04-29T22:56:28.805Z
+date: 2024-05-19T18:09:42.787Z
 tags: 
   - driver
   - device driver
@@ -277,4 +277,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-6-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone 6? Learn All 4 Methods</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-transform-into-a-cartoon-16-essential-apps-for-mobile/"><u>Updated Transform Into a Cartoon 16 Essential Apps for Mobile</u></a></li>
 </ul></div>
+
 

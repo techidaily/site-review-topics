@@ -1,6 +1,6 @@
 ---
 title: Motorola support - Forgotten screen lock.
-date: 2024-04-29T22:58:15.989Z
+date: 2024-05-19T18:09:43.809Z
 tags: 
   - android unlock
   - android devices unlock
@@ -243,4 +243,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-itel-s23plus-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Itel S23+ Phone Pattern Lock</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-y100i-power-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo Y100i Power 5G to Roku | Dr.fone</u></a></li>
 </ul></div>
+
 

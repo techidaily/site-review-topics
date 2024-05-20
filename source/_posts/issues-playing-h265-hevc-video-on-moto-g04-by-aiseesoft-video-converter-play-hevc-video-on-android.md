@@ -1,7 +1,7 @@
 ---
 title: Issues playing H.265 HEVC video on Moto G04
-date: 2024-04-29T22:45:01.977Z
-updated: 2024-04-30T22:45:01.977Z
+date: 2024-05-19T18:09:37.252Z
+updated: 2024-05-20T18:09:37.252Z
 tags: 
   - hevc video
   - hevc android
@@ -182,4 +182,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-12-5g-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from 12 5G</u></a></li>
 <li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-samsung-galaxy-a15-4g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Samsung Galaxy A15 4G? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
+
 

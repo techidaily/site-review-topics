@@ -1,6 +1,6 @@
 ---
 title: How to Unlock HTC U23 Without Password?
-date: 2024-04-29T22:51:16.109Z
+date: 2024-05-19T18:09:40.275Z
 tags: 
   - android unlock
   - android devices unlock
@@ -218,4 +218,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-nubia-z50s-pro-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Nubia Z50S Pro</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-poco-f5-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Poco F5 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

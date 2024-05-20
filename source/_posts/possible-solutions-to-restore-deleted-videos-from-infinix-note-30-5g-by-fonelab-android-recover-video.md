@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted videos from Infinix Note 30 5G
-date: 2024-04-29T23:01:33.243Z
+date: 2024-05-19T18:09:45.073Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -185,4 +185,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-xiaomi-redmi-note-12t-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Xiaomi Redmi Note 12T Pro FRP Locks</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Vivo Y77t | Dr.fone</u></a></li>
 </ul></div>
+
 

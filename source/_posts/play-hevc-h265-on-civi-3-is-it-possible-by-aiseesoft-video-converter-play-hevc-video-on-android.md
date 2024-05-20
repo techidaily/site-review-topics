@@ -1,7 +1,7 @@
 ---
 title: Play HEVC H.265 on Civi 3, is it possible?
-date: 2024-04-29T22:45:08.842Z
-updated: 2024-04-30T22:45:08.842Z
+date: 2024-05-19T18:09:37.904Z
+updated: 2024-05-20T18:09:37.904Z
 tags: 
   - hevc video
   - hevc android
@@ -176,4 +176,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/unlock-locked-iphone-12-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 12 without Passcode</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/the-10-most-popular-video-aspect-ratio-editors/"><u>The 10 Most Popular Video Aspect Ratio Editors</u></a></li>
 </ul></div>
+
 

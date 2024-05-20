@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Xiaomi 14, is it possible?
-date: 2024-04-29T22:45:06.205Z
+date: 2024-05-19T18:09:37.890Z
 tags: 
   - hevc video
   - hevc android
@@ -202,4 +202,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-infinix-zero-30-5g-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Infinix Zero 30 5G?</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-6s-plus-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 6s Plus With 7 Methods | Dr.fone</u></a></li>
 </ul></div>
+
 

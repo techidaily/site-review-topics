@@ -1,7 +1,7 @@
 ---
 title: Motorola won’t play AVCHD .mts files
-date: 2024-04-29T22:45:02.512Z
-updated: 2024-04-30T22:45:02.512Z
+date: 2024-05-19T18:09:37.593Z
+updated: 2024-05-20T18:09:37.593Z
 tags: 
   - mts video
   - mts android
@@ -178,4 +178,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-oppo-a79-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Oppo A79 5G Phone Network-Ready</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-nokia-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Nokia</u></a></li>
 </ul></div>
+
 

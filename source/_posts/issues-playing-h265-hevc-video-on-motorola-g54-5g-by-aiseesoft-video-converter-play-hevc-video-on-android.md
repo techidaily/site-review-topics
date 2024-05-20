@@ -1,7 +1,7 @@
 ---
 title: Issues playing H.265 HEVC video on Motorola G54 5G
-date: 2024-04-29T22:45:02.004Z
-updated: 2024-04-30T22:45:02.004Z
+date: 2024-05-19T18:09:37.255Z
+updated: 2024-05-20T18:09:37.255Z
 tags: 
   - hevc video
   - hevc android
@@ -208,4 +208,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-nokia-g310-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Nokia G310.</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-y100t-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo Y100t</u></a></li>
 </ul></div>
+
 

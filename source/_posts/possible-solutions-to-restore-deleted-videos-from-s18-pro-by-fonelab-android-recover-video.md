@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted videos from S18 Pro
-date: 2024-04-29T23:01:46.827Z
+date: 2024-05-19T18:09:45.149Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -165,4 +165,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-xiaomi-redmi-a2-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Xiaomi Redmi A2 Pictures  An Easy Method Explained.</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 7 Plus Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

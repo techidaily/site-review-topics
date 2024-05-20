@@ -1,7 +1,7 @@
 ---
 title: Possible solutions to restore deleted videos from Infinix Hot 40i
-date: 2024-04-29T23:01:33.052Z
-updated: 2024-04-30T23:01:33.052Z
+date: 2024-05-19T18:09:45.072Z
+updated: 2024-05-20T18:09:45.072Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -213,4 +213,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-video-editing.techidaily.com/how-to-make-stunning-glitch-effect-in-photoshop-ultimate-guide/"><u>How to Make Stunning Glitch Effect in Photoshop? Ultimate Guide</u></a></li>
 <li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-vivo-s18e-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Vivo S18e ? Fix It Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

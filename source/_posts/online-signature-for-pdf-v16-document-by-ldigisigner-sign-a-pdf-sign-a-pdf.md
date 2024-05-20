@@ -1,7 +1,7 @@
 ---
 title: Online signature for PDF v1.6 document
-date: 2024-04-29T22:58:46.108Z
-updated: 2024-04-30T22:58:46.108Z
+date: 2024-05-19T18:09:44.038Z
+updated: 2024-05-20T18:09:44.038Z
 tags: 
   - signer
   - signer online
@@ -185,4 +185,5 @@ When ready, click **DONE** to proceed. Our free PDF signature tool will create a
 <li><a href="https://blog-min.techidaily.com/how-to-google-pixel-8-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Google Pixel 8 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-zte-blade-a73-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of ZTE Blade A73 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
 </ul></div>
+
 

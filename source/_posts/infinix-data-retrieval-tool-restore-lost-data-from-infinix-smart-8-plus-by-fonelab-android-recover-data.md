@@ -1,7 +1,7 @@
 ---
 title: Infinix Data Retrieval tool – restore lost data from Infinix Smart 8 Plus
-date: 2024-04-29T22:57:11.983Z
-updated: 2024-04-30T22:57:11.983Z
+date: 2024-05-19T18:09:43.249Z
+updated: 2024-05-20T18:09:43.249Z
 tags: 
   - android data recovery
   - android devices data recovery
@@ -172,4 +172,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-samsung-galaxy-m34-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Samsung Galaxy M34 5G?</u></a></li>
 <li><a href="https://techidaily.com/is-your-honor-100-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor 100 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 </ul></div>
+
 

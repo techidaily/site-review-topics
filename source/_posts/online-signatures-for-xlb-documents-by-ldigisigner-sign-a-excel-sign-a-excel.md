@@ -1,7 +1,7 @@
 ---
 title: Online signatures for .xlb documents
-date: 2024-04-29T22:58:53.513Z
-updated: 2024-04-30T22:58:53.513Z
+date: 2024-05-19T18:09:44.115Z
+updated: 2024-05-20T18:09:44.115Z
 tags: 
   - signer
   - signer online
@@ -243,4 +243,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Motorola Moto G73 5G | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-nokia-130-music-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Nokia 130 Music | Dr.fone</u></a></li>
 </ul></div>
+
 

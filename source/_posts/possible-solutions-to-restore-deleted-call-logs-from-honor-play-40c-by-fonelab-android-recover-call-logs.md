@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Honor Play 40C
-date: 2024-04-29T22:59:23.733Z
+date: 2024-05-19T18:09:44.326Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -137,4 +137,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-infinix-smart-8-plus-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Infinix Smart 8 Plus</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-add-subtitles-in-quicktime-player-in-2024/"><u>How to Add Subtitles in QuickTime Player, In 2024</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Realme Narzo 60 Pro 5G
-date: 2024-04-29T22:50:43.269Z
+date: 2024-05-19T18:09:40.011Z
 tags: 
   - android unlock
   - android devices unlock
@@ -253,4 +253,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://ai-vdieo-software.techidaily.com/new-free-online-video-production-studios-top-9-options/"><u>New Free Online Video Production Studios Top 9 Options</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-vivo-t2-pro-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Vivo T2 Pro 5G Screen Mirroring App | Dr.fone</u></a></li>
 </ul></div>
+
 

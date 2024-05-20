@@ -1,7 +1,7 @@
 ---
 title: Possible solutions to restore deleted videos from Xiaomi Redmi Note 12 Pro 5G
-date: 2024-04-29T23:01:53.754Z
-updated: 2024-04-30T23:01:53.754Z
+date: 2024-05-19T18:09:45.187Z
+updated: 2024-05-20T18:09:45.187Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -191,4 +191,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-infinix-smart-8-hd-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Infinix Smart 8 HD Device</u></a></li>
 <li><a href="https://techidaily.com/remove-the-lock-of-google-pixel-7a-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Google Pixel 7a</u></a></li>
 </ul></div>
+
 

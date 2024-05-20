@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Samsung Galaxy S23 FE
-date: 2024-04-29T22:50:45.354Z
+date: 2024-05-19T18:09:40.024Z
 tags: 
   - android unlock
   - android devices unlock
@@ -270,4 +270,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-realme-narzo-60-pro-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Realme Narzo 60 Pro 5G without Him Knowing | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-14-pro-max-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 14 Pro Max with iTunes</u></a></li>
 </ul></div>
+
 

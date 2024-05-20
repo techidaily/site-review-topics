@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted videos from Xiaomi Redmi 13C
-date: 2024-04-29T23:01:53.380Z
+date: 2024-05-19T18:09:45.185Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -186,4 +186,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-iphone-13-pro-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your iPhone 13 Pro and iPad</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-say-goodbye-to-software-top-easy-video-merger-alternatives/"><u>2024 Approved Say Goodbye to Software Top Easy Video Merger Alternatives</u></a></li>
 </ul></div>
+
 

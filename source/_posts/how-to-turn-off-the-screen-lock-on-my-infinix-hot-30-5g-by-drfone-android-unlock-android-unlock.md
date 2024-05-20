@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Infinix Hot 30 5G
-date: 2024-04-29T22:50:35.034Z
+date: 2024-05-19T18:09:39.940Z
 tags: 
   - android unlock
   - android devices unlock
@@ -260,4 +260,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-fodt-file-using-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Electronically Sign a .fodt file Using DigiSigner</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Vivo Y100i Power 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated drivers with Windows Device Manager in Windows 11/10
-date: 2024-04-29T22:56:55.399Z
+date: 2024-05-19T18:09:42.953Z
 tags: 
   - driver
   - device driver
@@ -264,4 +264,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-itel-a60frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Itel A60FRP Lock</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/tips-and-tricks-to-tell-if-your-apple-iphone-14-is-unlocked-by-drfone-ios/"><u>Tips And Tricks To Tell if Your Apple iPhone 14 Is Unlocked</u></a></li>
 </ul></div>
+
 

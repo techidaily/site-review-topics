@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Xiaomi Redmi Note 12T Pro
-date: 2024-04-29T22:45:01.899Z
+date: 2024-05-19T18:09:37.244Z
 tags: 
   - hevc video
   - hevc android
@@ -175,4 +175,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-motorola-moto-e13-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Motorola Moto E13 Phone? Unlock It Now</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-motorola-moto-g-stylus-2023-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Moto G Stylus (2023) Without the Home Button | Dr.fone</u></a></li>
 </ul></div>
+
 

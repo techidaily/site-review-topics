@@ -1,7 +1,7 @@
 ---
 title: Online electronic signature for PDF v1.6 document
-date: 2024-04-29T22:58:44.215Z
-updated: 2024-04-30T22:58:44.215Z
+date: 2024-05-19T18:09:44.001Z
+updated: 2024-05-20T18:09:44.001Z
 tags: 
   - signer
   - signer online
@@ -145,4 +145,5 @@ When ready, click **DONE** to proceed. Our free PDF signature tool will create a
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-add-subtitles-to-videos-with-kapwing/"><u>In 2024, How to Add Subtitles to Videos With Kapwing</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-when-poco-c51-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Poco C51 Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
+
 

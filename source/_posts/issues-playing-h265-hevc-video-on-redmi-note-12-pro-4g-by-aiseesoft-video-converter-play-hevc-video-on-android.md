@@ -1,7 +1,7 @@
 ---
 title: Issues playing H.265 HEVC video on Redmi Note 12 Pro 4G
-date: 2024-04-29T22:45:02.026Z
-updated: 2024-04-30T22:45:02.026Z
+date: 2024-05-19T18:09:37.258Z
+updated: 2024-05-20T18:09:37.258Z
 tags: 
   - hevc video
   - hevc android
@@ -176,4 +176,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Vivo X100? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Nokia C22 | Dr.fone</u></a></li>
 </ul></div>
+
 

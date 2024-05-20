@@ -1,6 +1,6 @@
 ---
 title: Lava support - Turn Off Screen Lock.
-date: 2024-04-29T22:57:59.754Z
+date: 2024-05-19T18:09:43.675Z
 tags: 
   - android unlock
   - android devices unlock
@@ -224,4 +224,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://ai-vdieo-software.techidaily.com/no-budget-no-problem-top-10-free-video-editing-software-for-chromebook/"><u>No Budget? No Problem! Top 10 Free Video Editing Software for Chromebook</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-contacts-from-poco-x5-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Poco X5.</u></a></li>
 </ul></div>
+
 

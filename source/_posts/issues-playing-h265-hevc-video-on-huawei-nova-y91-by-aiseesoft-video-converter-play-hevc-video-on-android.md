@@ -1,7 +1,7 @@
 ---
 title: Issues playing H.265 HEVC video on Huawei Nova Y91
-date: 2024-04-29T22:45:01.969Z
-updated: 2024-04-30T22:45:01.969Z
+date: 2024-05-19T18:09:37.251Z
+updated: 2024-05-20T18:09:37.251Z
 tags: 
   - hevc video
   - hevc android
@@ -162,4 +162,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-infinix-smart-8-hd-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Infinix Smart 8 HD</u></a></li>
 <li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-tecno-camon-20-pro-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Tecno Camon 20 Pro 5G? Here is How | Dr.fone</u></a></li>
 </ul></div>
+
 

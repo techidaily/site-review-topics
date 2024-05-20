@@ -1,6 +1,6 @@
 ---
 title: Identify missing your hardware drivers with Windows Device Manager in Windows 11/10
-date: 2024-04-29T22:56:52.319Z
+date: 2024-05-19T18:09:42.934Z
 tags: 
   - driver
   - device driver
@@ -189,4 +189,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-mts-video-editing-software-5-top-rated-options/"><u>In 2024, MTS Video Editing Software 5 Top-Rated Options</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-color-lut-in-video-how-to-color-grade-your-video/"><u>Updated In 2024, Color Lut in Video -How to Color Grade Your Video</u></a></li>
 </ul></div>
+
 

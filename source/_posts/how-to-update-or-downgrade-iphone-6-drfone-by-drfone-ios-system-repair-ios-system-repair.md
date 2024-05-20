@@ -1,7 +1,7 @@
 ---
 title: How To Update or Downgrade iPhone 6? | Dr.fone
-date: 2024-04-29T22:53:41.803Z
-updated: 2024-04-30T22:53:41.803Z
+date: 2024-05-19T18:09:41.479Z
+updated: 2024-05-20T18:09:41.479Z
 tags: 
   - ios system repair
   - iphone repair
@@ -469,4 +469,5 @@ A prompt message of completion will appear on the screen showing the successful 
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-max-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Pro Max Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-vivo-t2x-5g-with-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Vivo T2x 5G with Video Repair Utility on Windows?</u></a></li>
 </ul></div>
+
 

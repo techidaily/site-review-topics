@@ -1,7 +1,7 @@
 ---
 title: Possible solutions to restore deleted photos from Y100i Power 5G.
-date: 2024-04-29T23:01:01.048Z
-updated: 2024-04-30T23:01:01.048Z
+date: 2024-05-19T18:09:44.860Z
+updated: 2024-05-20T18:09:44.860Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -166,4 +166,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-vivo-s17-pro-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Vivo S17 Pro ? Fix It Easily | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/gmail-not-working-on-tecno-spark-10-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Tecno Spark 10 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

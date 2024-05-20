@@ -1,6 +1,6 @@
 ---
 title: How to Use Face ID make purchases on iPhone 6s ?
-date: 2024-04-29T22:55:41.950Z
+date: 2024-05-19T18:09:42.368Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -369,4 +369,5 @@ As you may be aware, using iTunes or macOS Finder allows you to backup and resto
 <li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-google-pixel-8-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Google Pixel 8 FRP Bypass Everything You Need to Know</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-the-best-of-the-best-lego-stop-motion-creators/"><u>Updated The Best of the Best Lego Stop Motion Creators</u></a></li>
 </ul></div>
+
 

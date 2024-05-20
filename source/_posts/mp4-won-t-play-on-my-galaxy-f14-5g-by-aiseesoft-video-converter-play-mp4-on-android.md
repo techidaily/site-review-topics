@@ -1,6 +1,6 @@
 ---
 title: MP4 won't play on my Galaxy F14 5G
-date: 2024-04-29T22:45:02.647Z
+date: 2024-05-19T18:09:37.744Z
 tags: 
   - mp4 video
   - mp4 android
@@ -193,4 +193,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://phone-solutions.techidaily.com/cant-play-mov-files-on-galaxy-f54-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Galaxy F54 5G</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Poco X6 | Dr.fone</u></a></li>
 </ul></div>
+
 

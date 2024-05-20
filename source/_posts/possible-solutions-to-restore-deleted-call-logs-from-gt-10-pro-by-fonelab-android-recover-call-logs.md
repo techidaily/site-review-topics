@@ -1,7 +1,7 @@
 ---
 title: Possible solutions to restore deleted call logs from GT 10 Pro
-date: 2024-04-29T22:59:22.013Z
-updated: 2024-04-30T22:59:22.013Z
+date: 2024-05-19T18:09:44.310Z
+updated: 2024-05-20T18:09:44.310Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -172,4 +172,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-best-online-photo-and-video-collage-makers/"><u>Updated In 2024, Best Online Photo and Video Collage Makers</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-nokia-c02-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Nokia C02 FRP Android 10/11/12/13</u></a></li>
 </ul></div>
+
 

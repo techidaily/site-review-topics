@@ -1,7 +1,7 @@
 ---
 title: How To Transfer Data From iPhone 13 mini To Android? | Dr.fone
-date: 2024-04-29T22:46:27.492Z
-updated: 2024-04-30T22:46:27.492Z
+date: 2024-05-19T18:09:38.456Z
+updated: 2024-05-20T18:09:38.456Z
 tags: 
   - transfer data
 categories:
@@ -252,4 +252,5 @@ Once done, the window in the front shows the completed phone transfer. Click **O
 <li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-honor-100-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Honor 100?</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Samsung Galaxy S24+ | Dr.fone</u></a></li>
 </ul></div>
+
 

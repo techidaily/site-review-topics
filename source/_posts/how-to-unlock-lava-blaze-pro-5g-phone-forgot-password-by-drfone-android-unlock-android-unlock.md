@@ -1,6 +1,6 @@
 ---
 title: How to Unlock Lava Blaze Pro 5G Phone Forgot Password
-date: 2024-04-29T22:51:40.661Z
+date: 2024-05-19T18:09:40.476Z
 tags: 
   - android unlock
   - android devices unlock
@@ -252,4 +252,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://location-social.techidaily.com/does-samsung-galaxy-a24-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Samsung Galaxy A24 Have Find My Friends? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Itel P40+? | Dr.fone</u></a></li>
 </ul></div>
+
 

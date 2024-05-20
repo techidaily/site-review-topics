@@ -1,6 +1,6 @@
 ---
 title: Identify missing or malfunctioning drivers with Windows Device Manager in Windows 11 & 10 & 7
-date: 2024-04-29T22:56:36.364Z
+date: 2024-05-19T18:09:42.833Z
 tags: 
   - driver
   - device driver
@@ -223,4 +223,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://ai-vdieo-software.techidaily.com/5-surprising-benefits-of-using-a-16x9-ratio-calculator-for-2024/"><u>5 Surprising Benefits of Using a 16X9 Ratio Calculator for 2024</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-realme-gt-5-pro-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Realme GT 5 Pro? 8 Solutions Inside | Dr.fone</u></a></li>
 </ul></div>
+
 

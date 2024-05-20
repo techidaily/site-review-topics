@@ -1,7 +1,7 @@
 ---
 title: How to Upgrade iPhone 11 without Losing Data? | Dr.fone
-date: 2024-04-29T22:54:00.306Z
-updated: 2024-04-30T22:54:00.306Z
+date: 2024-05-19T18:09:41.584Z
+updated: 2024-05-20T18:09:41.584Z
 tags: 
   - ios system repair
   - iphone repair
@@ -381,4 +381,5 @@ A prompt message of completion will appear on the screen showing the successful 
 <li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-samsung-galaxy-a15-4g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Samsung Galaxy A15 4G</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-samsung-galaxy-a05-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Samsung Galaxy A05 Through Google Earth?</u></a></li>
 </ul></div>
+
 

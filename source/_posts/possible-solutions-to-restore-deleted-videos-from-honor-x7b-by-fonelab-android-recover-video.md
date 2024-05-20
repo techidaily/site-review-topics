@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted videos from Honor X7b
-date: 2024-04-29T23:01:31.352Z
+date: 2024-05-19T18:09:45.062Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -175,4 +175,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-honor-play-7t-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Honor Play 7T Screen | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-9-lava-agni-2-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Lava Agni 2 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
+
 

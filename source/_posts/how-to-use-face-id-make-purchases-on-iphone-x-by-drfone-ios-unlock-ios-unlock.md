@@ -1,7 +1,7 @@
 ---
 title: How to Use Face ID make purchases on iPhone X ?
-date: 2024-04-29T22:55:42.707Z
-updated: 2024-04-30T22:55:42.707Z
+date: 2024-05-19T18:09:42.374Z
+updated: 2024-05-20T18:09:42.374Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -326,4 +326,5 @@ All of these will result in a locked Apple ID that users will have to reset thei
 <li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-tecno-spark-20c-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Tecno Spark 20C to iPad Easily | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-oppo-a2-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Oppo A2</u></a></li>
 </ul></div>
+
 

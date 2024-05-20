@@ -1,6 +1,6 @@
 ---
 title: Identify malfunctioning your hardware drivers with Windows Device Manager in Windows 11 & 10
-date: 2024-04-29T22:56:27.268Z
+date: 2024-05-19T18:09:42.777Z
 tags: 
   - driver
   - device driver
@@ -183,4 +183,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://iphone-transfer.techidaily.com/ultimate-guide-how-to-transfer-music-from-apple-iphone-14-plus-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>Ultimate Guide, How to Transfer Music From Apple iPhone 14 Plus to iPhone | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-if-you-want-to-color-grading-your-video-adobe-lightroom-will-be-the-right-choice-this-article-will-teach-you-how-to-use-lightroom-to-apply-color-gra/"><u>In 2024, If You Want to Color Grading Your Video, Adobe Lightroom Will Be the Right Choice. This Article Will Teach You How to Use Lightroom to Apply Color Grading to Videos with Ease</u></a></li>
 </ul></div>
+
 

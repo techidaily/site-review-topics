@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted videos from Xperia 1 V
-date: 2024-04-29T23:01:54.690Z
+date: 2024-05-19T18:09:45.193Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -214,4 +214,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-motorola-moto-e13-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Motorola Moto E13 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-x-to-ipad-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone X to iPad? | Dr.fone</u></a></li>
 </ul></div>
+
 

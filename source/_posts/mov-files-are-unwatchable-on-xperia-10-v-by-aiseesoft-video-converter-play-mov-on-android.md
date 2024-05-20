@@ -1,6 +1,6 @@
 ---
 title: MOV files are unwatchable on Xperia 10 V
-date: 2024-04-29T22:45:02.539Z
+date: 2024-05-19T18:09:37.622Z
 tags: 
   - mov video
   - mov android
@@ -168,4 +168,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-motorola-edge-40-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Motorola Edge 40 to Computer for iPhone and Android? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-infinix-note-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Infinix Note 30 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

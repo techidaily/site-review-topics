@@ -1,7 +1,7 @@
 ---
 title: Play HEVC H.265 on Samsung Galaxy A05, is it possible?
-date: 2024-04-29T22:45:09.593Z
-updated: 2024-04-30T22:45:09.593Z
+date: 2024-05-19T18:09:37.907Z
+updated: 2024-05-20T18:09:37.907Z
 tags: 
   - hevc video
   - hevc android
@@ -206,4 +206,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-plus-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s Plus to other iPhone? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Motorola Moto E13? | Dr.fone</u></a></li>
 </ul></div>
+
 

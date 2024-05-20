@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated hardware drivers with Windows Device Manager in Windows 11 & 10 & 7
-date: 2024-04-29T22:56:57.868Z
+date: 2024-05-19T18:09:42.969Z
 tags: 
   - driver
   - device driver
@@ -182,4 +182,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://ios-pokemon-go.techidaily.com/why-cant-i-install-the-ipogo-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Why cant I install the ipogo On Apple iPhone XS | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-11-pro-max-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 11 Pro Max Unavailable Issue With Ease</u></a></li>
 </ul></div>
+
 

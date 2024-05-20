@@ -1,6 +1,6 @@
 ---
 title: Identify malfunctioning hardware drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-04-29T22:56:22.733Z
+date: 2024-05-19T18:09:42.705Z
 tags: 
   - driver
   - device driver
@@ -291,4 +291,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-honor-v-purse-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Honor V Purse? Fix Now | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Transfer Data From iPhone 6s Plus To Android? | Dr.fone
-date: 2024-04-29T22:47:22.714Z
-updated: 2024-04-30T22:47:22.714Z
+date: 2024-05-19T18:09:38.781Z
+updated: 2024-05-20T18:09:38.781Z
 tags: 
   - transfer data
 categories:
@@ -230,4 +230,5 @@ Once done, the window in the front shows the completed phone transfer. Click **O
 <li><a href="https://location-social.techidaily.com/does-vivo-t2-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo T2 5G Have Find My Friends? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location On Facebook Dating for your Apple iPhone 11 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

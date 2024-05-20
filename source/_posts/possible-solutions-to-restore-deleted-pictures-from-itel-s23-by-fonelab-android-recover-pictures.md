@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted pictures from Itel S23.
-date: 2024-04-29T23:01:09.405Z
+date: 2024-05-19T18:09:44.943Z
 tags: 
   - android data recovery
   - android devices pictures recovery
@@ -159,4 +159,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y28 5G? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-vivo-x100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo X100 | Dr.fone</u></a></li>
 </ul></div>
+
 

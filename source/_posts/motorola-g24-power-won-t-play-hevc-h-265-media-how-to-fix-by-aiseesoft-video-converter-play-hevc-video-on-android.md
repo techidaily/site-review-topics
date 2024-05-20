@@ -1,6 +1,6 @@
 ---
 title: Motorola G24 Power won’t play HEVC H.265 media, how to fix?
-date: 2024-04-29T22:45:02.448Z
+date: 2024-05-19T18:09:37.532Z
 tags: 
   - hevc video
   - hevc android
@@ -175,4 +175,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-xiaomi-redmi-12-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Xiaomi Redmi 12 5G</u></a></li>
 <li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your OnePlus Nord N30 SE | Dr.fone</u></a></li>
 </ul></div>
+
 

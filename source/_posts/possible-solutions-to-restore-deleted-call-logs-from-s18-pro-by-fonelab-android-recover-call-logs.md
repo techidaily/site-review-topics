@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from S18 Pro
-date: 2024-04-29T22:59:37.764Z
+date: 2024-05-19T18:09:44.373Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -164,4 +164,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://change-location.techidaily.com/honor-x9b-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor X9b Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-a14-4g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy A14 4G Reset Code | Dr.fone</u></a></li>
 </ul></div>
+
 

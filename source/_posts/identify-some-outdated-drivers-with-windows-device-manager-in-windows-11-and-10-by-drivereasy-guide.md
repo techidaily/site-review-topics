@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated drivers with Windows Device Manager in Windows 11 & 10
-date: 2024-04-29T22:56:55.020Z
+date: 2024-05-19T18:09:42.951Z
 tags: 
   - driver
   - device driver
@@ -165,4 +165,5 @@ To understand why, you first have to understand what drivers actually are…
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-c67-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Realme C67 5G Users</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-pova-6-pro-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Pova 6 Pro 5G Activity | Dr.fone</u></a></li>
 </ul></div>
+
 

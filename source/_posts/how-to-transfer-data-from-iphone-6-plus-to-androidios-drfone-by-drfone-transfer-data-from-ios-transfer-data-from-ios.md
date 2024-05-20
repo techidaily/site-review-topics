@@ -1,7 +1,7 @@
 ---
 title: How To Transfer Data From iPhone 6 Plus To Android/iOS? | Dr.fone
-date: 2024-04-29T22:47:14.135Z
-updated: 2024-04-30T22:47:14.135Z
+date: 2024-05-19T18:09:38.741Z
+updated: 2024-05-20T18:09:38.741Z
 tags: 
   - transfer data
 categories:
@@ -249,4 +249,5 @@ Once done, the window in the front shows the completed phone transfer. Click **O
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-motorola-g24-power-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Motorola G24 Power Easily & Safely | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Lenovo ThinkPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

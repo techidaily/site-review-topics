@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted photos from Google Pixel 8 Pro.
-date: 2024-04-29T23:00:41.086Z
+date: 2024-05-19T18:09:44.763Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -203,4 +203,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-learn-about-the-iphone-lut-have-you-used-them-on-your-ios-device-use-this-article-to-get-valuable-insights-on-the-same-for-2024/"><u>Do You Want to Learn About the iPhone LUT? Have You Used Them on Your iOS Device? Use This Article to Get Valuable Insights on the Same for 2024</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

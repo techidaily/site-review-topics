@@ -1,6 +1,6 @@
 ---
 title: Oppo support - Turn Off Screen Lock.
-date: 2024-04-29T22:59:10.713Z
+date: 2024-05-19T18:09:44.234Z
 tags: 
   - android unlock
   - android devices unlock
@@ -219,4 +219,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Oppo A18? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-create-a-custom-sequence-preset-in-premiere-pro-for-2024/"><u>How to Create a Custom Sequence Preset in Premiere Pro for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Identify malfunctioning drivers with Windows Device Manager in Windows 11/10/7
-date: 2024-04-29T22:56:18.647Z
+date: 2024-05-19T18:09:42.685Z
 tags: 
   - driver
   - device driver
@@ -291,4 +291,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://ai-editing-video.techidaily.com/review-video-is-a-common-type-video-and-the-first-impression-review-is-also-included-this-article-will-show-you-what-is-first-impression-review-video-and-ho/"><u>Review Video Is a Common Type Video and the First Impression Review Is Also Included. This Article Will Show You What Is First Impression Review Video and How to Create One by Yourself</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-y27-4g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo Y27 4G to Apple TV | Dr.fone</u></a></li>
 </ul></div>
+
 

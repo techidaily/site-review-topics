@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted videos from Nokia C12 Plus
-date: 2024-04-29T23:01:39.136Z
+date: 2024-05-19T18:09:45.107Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -163,4 +163,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-tecno-pova-6-pro-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Tecno Pova 6 Pro 5G? Fix Now | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-honor-x50iplus-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Honor X50i+.</u></a></li>
 </ul></div>
+
 

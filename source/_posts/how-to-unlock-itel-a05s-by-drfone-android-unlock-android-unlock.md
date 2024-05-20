@@ -1,6 +1,6 @@
 ---
 title: How to unlock Itel A05s
-date: 2024-04-29T22:51:37.450Z
+date: 2024-05-19T18:09:40.457Z
 tags: 
   - android unlock
   - android devices unlock
@@ -216,4 +216,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-reno-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo Reno 11 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/speed-up-or-slow-down-top-gif-editing-software-and-apps/"><u>Speed Up or Slow Down Top GIF Editing Software and Apps</u></a></li>
 </ul></div>
+
 

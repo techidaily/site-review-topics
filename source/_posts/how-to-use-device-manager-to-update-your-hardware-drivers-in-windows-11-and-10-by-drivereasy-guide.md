@@ -1,6 +1,6 @@
 ---
 title: How to use Device Manager to update your hardware drivers in Windows 11 & 10
-date: 2024-04-29T22:55:38.126Z
+date: 2024-05-19T18:09:42.342Z
 tags: 
   - driver
   - device driver
@@ -249,4 +249,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://animation-videos.techidaily.com/updated-what-wikipedia-cant-tell-you-about-the-10-batman-cartoons-for-2024/"><u>Updated What Wikipedia Cant Tell You About the 10 Batman Cartoons for 2024</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/video-editing-essentials-how-to-crop-videos-using-avidemux/"><u>Video Editing Essentials How to Crop Videos Using Avidemux</u></a></li>
 </ul></div>
+
 

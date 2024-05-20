@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted photos from Smart 7 HD.
-date: 2024-04-29T23:00:56.021Z
+date: 2024-05-19T18:09:44.838Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -193,4 +193,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On HTC U23 Pro | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/guide-to-completely-erase-data-on-iphone-14-to-avoid-privacy-leak-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Guide to Completely Erase Data on iPhone 14 to Avoid Privacy Leak | Stellar</u></a></li>
 </ul></div>
+
 

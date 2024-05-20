@@ -1,6 +1,6 @@
 ---
 title: Identify malfunctioning your hardware drivers with Windows Device Manager in Windows 11
-date: 2024-04-29T22:56:27.469Z
+date: 2024-05-19T18:09:42.778Z
 tags: 
   - driver
   - device driver
@@ -173,4 +173,5 @@ To understand why, you first have to understand what drivers actually are…
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-realme-c67-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Realme C67 5G Phone Pattern Lock</u></a></li>
 <li><a href="https://tools.techidaily.com/stellar-photo-recovery/"><u>Stellar Photo Recovery</u></a></li>
 </ul></div>
+
 

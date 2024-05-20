@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Xiaomi Redmi A2+, is it possible?
-date: 2024-04-29T22:45:07.340Z
+date: 2024-05-19T18:09:37.897Z
 tags: 
   - hevc video
   - hevc android
@@ -169,4 +169,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-poco-f5-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Poco F5 5GMirror Share to PC? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-tecno-spark-20c-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Tecno Spark 20C to Your PC/Mac | Dr.fone</u></a></li>
 </ul></div>
+
 

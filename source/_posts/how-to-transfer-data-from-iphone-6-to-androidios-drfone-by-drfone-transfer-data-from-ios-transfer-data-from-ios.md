@@ -1,7 +1,7 @@
 ---
 title: How To Transfer Data From iPhone 6 To Android/iOS? | Dr.fone
-date: 2024-04-29T22:47:18.507Z
-updated: 2024-04-30T22:47:18.507Z
+date: 2024-05-19T18:09:38.763Z
+updated: 2024-05-20T18:09:38.763Z
 tags: 
   - transfer data
 categories:
@@ -231,4 +231,5 @@ Once done, the window in the front shows the completed phone transfer. Click **O
 <li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-lenovo-thinkphone-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Lenovo ThinkPhone | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-poco-c51-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Poco C51</u></a></li>
 </ul></div>
+
 

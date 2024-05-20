@@ -1,7 +1,7 @@
 ---
 title: Possible solutions to restore deleted photos from 11 Pro+.
-date: 2024-04-29T23:00:39.494Z
-updated: 2024-04-30T23:00:39.494Z
+date: 2024-05-19T18:09:44.754Z
+updated: 2024-05-20T18:09:44.754Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -159,4 +159,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-editing-video.techidaily.com/new-general-information-that-you-need-to-know-about-mkv-format/"><u>New General Information That You Need To Know About MKV Format</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-iphone-7-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From iPhone 7 in the Best Ways</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Samsung
-date: 2024-04-29T22:50:44.410Z
+date: 2024-05-19T18:09:40.018Z
 tags: 
   - android unlock
   - android devices unlock
@@ -228,4 +228,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-honor-x8b-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Honor X8b</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-motorola-edge-40-pro-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Motorola Edge 40 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

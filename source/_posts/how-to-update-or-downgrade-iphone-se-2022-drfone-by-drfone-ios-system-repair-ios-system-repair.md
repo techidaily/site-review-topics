@@ -1,7 +1,7 @@
 ---
 title: How To Update or Downgrade iPhone SE (2022)? | Dr.fone
-date: 2024-04-29T22:53:50.524Z
-updated: 2024-04-30T22:53:50.524Z
+date: 2024-05-19T18:09:41.528Z
+updated: 2024-05-20T18:09:41.528Z
 tags: 
   - ios system repair
   - iphone repair
@@ -410,4 +410,5 @@ On the next screen, you will be provided with an on-screen set of instructions t
 <li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-x100-pro-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo X100 Pro Phone Hassle-Free</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/tips-for-canva-animated-elements-for-2024/"><u>Tips for Canva Animated Elements for 2024</u></a></li>
 </ul></div>
+
 

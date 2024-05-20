@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Asus ROG Phone 8 Pro
-date: 2024-04-29T22:59:19.744Z
+date: 2024-05-19T18:09:44.296Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -185,4 +185,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-vivo-v30-lite-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Vivo V30 Lite 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-14-pro-max-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From iPhone 14 Pro Max?</u></a></li>
 </ul></div>
+
 

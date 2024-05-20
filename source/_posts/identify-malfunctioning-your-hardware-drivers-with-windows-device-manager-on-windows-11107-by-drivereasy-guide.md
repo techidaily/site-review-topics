@@ -1,6 +1,6 @@
 ---
 title: Identify malfunctioning your hardware drivers with Windows Device Manager on Windows 11/10/7
-date: 2024-04-29T22:56:29.372Z
+date: 2024-05-19T18:09:42.791Z
 tags: 
   - driver
   - device driver
@@ -189,4 +189,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-htc-u23-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from HTC U23 to New Phone | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Samsung Galaxy F34 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

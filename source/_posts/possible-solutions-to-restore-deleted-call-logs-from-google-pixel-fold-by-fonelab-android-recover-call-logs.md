@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Google Pixel Fold
-date: 2024-04-29T22:59:21.824Z
+date: 2024-05-19T18:09:44.309Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -157,4 +157,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nubia-z50s-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nubia Z50S Pro to Samsung Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

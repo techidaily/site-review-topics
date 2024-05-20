@@ -1,7 +1,7 @@
 ---
 title: Lenovo ThinkPhone support - Turn Off Screen Lock.
-date: 2024-04-29T22:58:01.472Z
-updated: 2024-04-30T22:58:01.472Z
+date: 2024-05-19T18:09:43.687Z
+updated: 2024-05-20T18:09:43.687Z
 tags: 
   - android unlock
   - android devices unlock
@@ -231,4 +231,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-nokia-c110-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Nokia C110</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Oppo A78? | Dr.fone</u></a></li>
 </ul></div>
+
 

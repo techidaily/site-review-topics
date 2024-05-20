@@ -1,6 +1,6 @@
 ---
 title: How to use Device Manager to reinstall hardware drivers on Windows 11
-date: 2024-04-29T22:55:20.977Z
+date: 2024-05-19T18:09:42.156Z
 tags: 
   - driver
   - device driver
@@ -193,4 +193,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-samsung-galaxy-a14-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Samsung Galaxy A14 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-nokia-xr21-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Nokia XR21 for Free? | Dr.fone</u></a></li>
 </ul></div>
+
 

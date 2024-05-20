@@ -1,6 +1,6 @@
 ---
 title: Identify missing or malfunctioning your hardware drivers with Windows Device Manager on Windows 11/10
-date: 2024-04-29T22:56:47.653Z
+date: 2024-05-19T18:09:42.905Z
 tags: 
   - driver
   - device driver
@@ -258,4 +258,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-zte-nubia-flip-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On ZTE Nubia Flip 5G?</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-xiaomi-redmi-note-12-pro-4g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Xiaomi Redmi Note 12 Pro 4G FRP</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to turn off the screen lock on my Spark Go (2024)
-date: 2024-04-29T22:50:45.730Z
-updated: 2024-04-30T22:50:45.730Z
+date: 2024-05-19T18:09:40.026Z
+updated: 2024-05-20T18:09:40.026Z
 tags: 
   - android unlock
   - android devices unlock
@@ -249,4 +249,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-vivo-x100-phone-by-drfone-android/"><u>How to Reset a Locked Vivo X100 Phone</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/new-2024-approved-how-to-enable-the-text-to-speech-function-on-iphone/"><u>New 2024 Approved How to Enable the Text to Speech Function on iPhone</u></a></li>
 </ul></div>
+
 

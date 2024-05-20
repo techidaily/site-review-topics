@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Samsung Galaxy S24
-date: 2024-04-29T22:45:01.882Z
+date: 2024-05-19T18:09:37.230Z
 tags: 
   - hevc video
   - hevc android
@@ -197,4 +197,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XR With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
 </ul></div>
+
 

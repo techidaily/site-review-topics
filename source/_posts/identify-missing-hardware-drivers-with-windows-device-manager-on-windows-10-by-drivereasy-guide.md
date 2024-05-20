@@ -1,6 +1,6 @@
 ---
 title: Identify missing hardware drivers with Windows Device Manager on Windows 10
-date: 2024-04-29T22:56:34.525Z
+date: 2024-05-19T18:09:42.823Z
 tags: 
   - driver
   - device driver
@@ -252,4 +252,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://techidaily.com/how-to-reset-a-nubia-z50s-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Nubia Z50S Pro Phone That Is Locked | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Vivo S17 | Dr.fone</u></a></li>
 </ul></div>
+
 

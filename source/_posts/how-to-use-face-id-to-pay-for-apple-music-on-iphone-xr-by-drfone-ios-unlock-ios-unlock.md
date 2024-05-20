@@ -1,7 +1,7 @@
 ---
 title: How to Use Face ID to Pay for Apple Music on iPhone XR
-date: 2024-04-29T22:55:47.195Z
-updated: 2024-04-30T22:55:47.195Z
+date: 2024-05-19T18:09:42.405Z
+updated: 2024-05-20T18:09:42.405Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -405,4 +405,5 @@ When the iPhone XR reboots, it will be reset to factory settings, and you can se
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-f5-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco F5 5G to Other Android Devices? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-poco-c65-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Poco C65 Phone</u></a></li>
 </ul></div>
+
 

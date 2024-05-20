@@ -1,7 +1,7 @@
 ---
 title: Recover your music after Huawei P60 has been deleted
-date: 2024-04-29T22:46:09.752Z
-updated: 2024-04-30T22:46:09.752Z
+date: 2024-05-19T18:09:38.310Z
+updated: 2024-05-20T18:09:38.310Z
 tags: 
   - android data recovery
   - android devices music recovery
@@ -204,4 +204,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-a-slow-motion-video-complete-guide/"><u>Updated How to Make a Slow Motion Video Complete Guide</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-your-apple-iphone-13-pro-display-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror your Apple iPhone 13 Pro Display? | Dr.fone</u></a></li>
 </ul></div>
+
 

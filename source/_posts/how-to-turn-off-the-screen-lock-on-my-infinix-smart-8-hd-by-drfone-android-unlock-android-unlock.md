@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Infinix Smart 8 HD
-date: 2024-04-29T22:50:36.367Z
+date: 2024-05-19T18:09:39.949Z
 tags: 
   - android unlock
   - android devices unlock
@@ -228,4 +228,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-the-ultimate-videopad-review-pros-cons-and-alternatives/"><u>2024 Approved The Ultimate Videopad Review Pros, Cons, and Alternatives</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-6s-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 6s | Dr.fone</u></a></li>
 </ul></div>
+
 

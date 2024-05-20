@@ -1,7 +1,7 @@
 ---
 title: Online signatures for .xlsx documents
-date: 2024-04-29T22:58:54.838Z
-updated: 2024-04-30T22:58:54.838Z
+date: 2024-05-19T18:09:44.123Z
+updated: 2024-05-20T18:09:44.123Z
 tags: 
   - signer
   - signer online
@@ -193,4 +193,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from Apple iPhone 11 Pro</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro Max To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

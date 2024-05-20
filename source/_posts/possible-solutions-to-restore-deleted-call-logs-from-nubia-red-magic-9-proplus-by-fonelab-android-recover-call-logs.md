@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Nubia Red Magic 9 Pro+
-date: 2024-04-29T22:59:32.031Z
+date: 2024-05-19T18:09:44.354Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -196,4 +196,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-lava-yuva-3-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Lava Yuva 3.</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-in-2024-what-is-the-meaning-of-motion-graphics/"><u>Updated In 2024, What Is the Meaning of Motion Graphics</u></a></li>
 </ul></div>
+
 

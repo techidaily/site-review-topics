@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Nova Y91
-date: 2024-04-29T22:59:31.651Z
+date: 2024-05-19T18:09:44.353Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -182,4 +182,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-honor-x9b-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Honor X9b to Protect Your Individual Information</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/6-methods-to-mirror-apple-iphone-14-to-your-windows-pc-drfone-by-drfone-ios/"><u>6 Methods to Mirror Apple iPhone 14 to your Windows PC | Dr.fone</u></a></li>
 </ul></div>
+
 

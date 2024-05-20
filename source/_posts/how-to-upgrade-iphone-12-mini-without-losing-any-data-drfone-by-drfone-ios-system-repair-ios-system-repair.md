@@ -1,7 +1,7 @@
 ---
 title: How to Upgrade iPhone 12 mini without Losing Any Data? | Dr.fone
-date: 2024-04-29T22:54:01.258Z
-updated: 2024-04-30T22:54:01.258Z
+date: 2024-05-19T18:09:41.590Z
+updated: 2024-05-20T18:09:41.590Z
 tags: 
   - ios system repair
   - iphone repair
@@ -354,4 +354,5 @@ A prompt message of completion will appear on the screen showing the successful 
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-spark-10-4g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Spark 10 4G to Outlook | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-apple-iphone-6-plus-smoothly-by-drfone-ios/"><u>How To Remove iCloud On Apple iPhone 6 Plus Smoothly</u></a></li>
 </ul></div>
+
 

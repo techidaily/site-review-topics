@@ -1,6 +1,6 @@
 ---
 title: Identify malfunctioning hardware drivers with Windows Device Manager in Windows 11/10
-date: 2024-04-29T22:56:21.469Z
+date: 2024-05-19T18:09:42.700Z
 tags: 
   - driver
   - device driver
@@ -253,4 +253,5 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 <li><a href="https://animation-videos.techidaily.com/updated-in-2024-adobe-animate-text-effects-skills-that-you-need-to-know/"><u>Updated In 2024, Adobe Animate Text Effects Skills That You Need to Know</u></a></li>
 <li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-tecno-spark-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Tecno Spark 10 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

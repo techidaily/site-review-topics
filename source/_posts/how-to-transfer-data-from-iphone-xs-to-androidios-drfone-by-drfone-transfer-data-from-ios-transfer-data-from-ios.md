@@ -1,7 +1,7 @@
 ---
 title: How To Transfer Data From iPhone XS To Android/iOS? | Dr.fone
-date: 2024-04-29T22:48:15.995Z
-updated: 2024-04-30T22:48:15.995Z
+date: 2024-05-19T18:09:39.100Z
+updated: 2024-05-20T18:09:39.100Z
 tags: 
   - transfer data
 categories:
@@ -248,4 +248,5 @@ Once done, the window in the front shows the completed phone transfer. Click **O
 <li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-infinix-hot-30-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Infinix Hot 30 5G</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Preparation to Beat Giovani in Pokemon Go For Apple iPhone 15 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Nokia C32 support - Forgotten screen lock.
-date: 2024-04-29T22:58:28.930Z
+date: 2024-05-19T18:09:43.909Z
 tags: 
   - android unlock
   - android devices unlock
@@ -264,4 +264,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-nokia-c32-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Nokia C32 | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-y100-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Y100 5G</u></a></li>
 </ul></div>
+
 

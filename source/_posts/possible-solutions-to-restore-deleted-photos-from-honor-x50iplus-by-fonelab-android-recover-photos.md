@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted photos from Honor X50i+.
-date: 2024-04-29T23:00:44.127Z
+date: 2024-05-19T18:09:44.776Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -200,4 +200,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Oppo K11x? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-meizu-21-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Meizu 21 | Dr.fone</u></a></li>
 </ul></div>
+
 

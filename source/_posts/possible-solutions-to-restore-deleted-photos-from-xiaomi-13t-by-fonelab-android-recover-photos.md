@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted photos from Xiaomi 13T.
-date: 2024-04-29T23:00:59.431Z
+date: 2024-05-19T18:09:44.853Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -210,4 +210,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-list-of-video-trimmers-for-pc-users/"><u>New In 2024, The Ultimate List of Video Trimmers for PC Users</u></a></li>
 <li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-motorola-moto-g73-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Motorola Moto G73 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
 </ul></div>
+
 

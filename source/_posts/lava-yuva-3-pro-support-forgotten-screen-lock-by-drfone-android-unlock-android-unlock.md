@@ -1,6 +1,6 @@
 ---
 title: Lava Yuva 3 Pro support - Forgotten screen lock.
-date: 2024-04-29T22:58:00.329Z
+date: 2024-05-19T18:09:43.679Z
 tags: 
   - android unlock
   - android devices unlock
@@ -221,4 +221,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-apple-iphone-14-plus-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or Apple iPhone 14 Plus without iCloud Password or Apple ID?</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-11-pro-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 11 Pro Properly</u></a></li>
 </ul></div>
+
 

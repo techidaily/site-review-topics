@@ -399,3 +399,4 @@ However, when you use Tinder +, you may feel it to be an expensive deal. On the 
 <li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-note-30-by-drfone-android-unlock-android-unlock/" ><u>How to turn off the screen lock on my Note 30</u></a></li>
 </ul></div>
 
+

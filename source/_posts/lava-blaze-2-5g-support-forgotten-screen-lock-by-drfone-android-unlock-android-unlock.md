@@ -1,6 +1,6 @@
 ---
 title: Lava Blaze 2 5G support - Forgotten screen lock.
-date: 2024-04-29T22:57:54.134Z
+date: 2024-05-19T18:09:43.642Z
 tags: 
   - android unlock
   - android devices unlock
@@ -232,4 +232,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-x-flip-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo X Flip</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-itel-p55t-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Itel P55T</u></a></li>
 </ul></div>
+
 

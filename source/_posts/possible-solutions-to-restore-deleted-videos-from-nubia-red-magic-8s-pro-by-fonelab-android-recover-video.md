@@ -1,7 +1,7 @@
 ---
 title: Possible solutions to restore deleted videos from Nubia Red Magic 8S Pro
-date: 2024-04-29T23:01:39.817Z
-updated: 2024-04-30T23:01:39.817Z
+date: 2024-05-19T18:09:45.110Z
+updated: 2024-05-20T18:09:45.110Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -169,4 +169,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-poco-c50-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Poco C50 | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y100t-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y100t Phone without PIN</u></a></li>
 </ul></div>
+
 

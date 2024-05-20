@@ -1,6 +1,6 @@
 ---
 title: How to Unlock the Lock Screen on my Tecno Spark 10C
-date: 2024-04-29T22:52:27.606Z
+date: 2024-05-19T18:09:41.035Z
 tags: 
   - android unlock
   - android devices unlock
@@ -238,4 +238,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-honor-x9b-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Honor X9b to iPhone 15/14/13/12 | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-the-ultimate-mp4-editor-for-windows-8-fast-and-user-friendly/"><u>In 2024, The Ultimate MP4 Editor for Windows 8 Fast and User-Friendly</u></a></li>
 </ul></div>
+
 

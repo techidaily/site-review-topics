@@ -1,7 +1,7 @@
 ---
 title: How To Transfer WhatsApp From iPhone 6s Plus to Android? | Dr.fone
-date: 2024-04-29T22:49:40.827Z
-updated: 2024-04-30T22:49:40.827Z
+date: 2024-05-19T18:09:39.600Z
+updated: 2024-05-20T18:09:39.600Z
 tags: 
   - transfer whatsapp
 categories:
@@ -230,4 +230,5 @@ When this process concludes, a prompt message will appear on the window of its c
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Sony Xperia 1 V | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/lock-your-vivo-v30-lite-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Vivo V30 Lite 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 </ul></div>
+
 

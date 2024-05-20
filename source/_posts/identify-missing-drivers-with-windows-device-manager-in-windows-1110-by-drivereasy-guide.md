@@ -1,6 +1,6 @@
 ---
 title: Identify missing drivers with Windows Device Manager in Windows 11/10
-date: 2024-04-29T22:56:30.707Z
+date: 2024-05-19T18:09:42.799Z
 tags: 
   - driver
   - device driver
@@ -165,4 +165,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://ai-video-editing.techidaily.com/updated-7-solutions-cut-video-for-instagram-on-mac-for-2024/"><u>Updated 7 Solutions Cut Video For Instagram On Mac for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-make-a-slow-motion-video-complete-guide-for-2024/"><u>How to Make a Slow Motion Video Complete Guide for 2024</u></a></li>
 </ul></div>
+
 

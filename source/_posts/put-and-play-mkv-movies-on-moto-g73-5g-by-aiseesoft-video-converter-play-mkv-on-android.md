@@ -1,6 +1,6 @@
 ---
 title: Put and play MKV movies on Moto G73 5G
-date: 2024-04-29T22:45:59.882Z
+date: 2024-05-19T18:09:38.216Z
 tags: 
   - mkv video
   - mkv android
@@ -202,4 +202,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-zte-nubia-flip-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change ZTE Nubia Flip 5G Lock Screen Clock in Seconds</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/10-free-online-tools-to-create-subtitles-for-your-videos-2023-update/"><u>10 Free Online Tools to Create Subtitles for Your Videos 2023 Update</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: MP4 won't play on my Sony 
-date: 2024-04-29T22:45:02.677Z
+date: 2024-05-19T18:09:37.764Z
 tags: 
   - mp4 video
   - mp4 android
@@ -164,4 +164,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo S17t? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/will-mov-files-play-on-motorola-g54-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Motorola G54 5G ?</u></a></li>
 </ul></div>
+
 

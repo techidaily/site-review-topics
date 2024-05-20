@@ -1,7 +1,7 @@
 ---
 title: Insert signature in .wpt file
-date: 2024-04-29T22:57:28.302Z
-updated: 2024-04-30T22:57:28.302Z
+date: 2024-05-19T18:09:43.350Z
+updated: 2024-05-20T18:09:43.350Z
 tags: 
   - signer
   - signer online
@@ -214,4 +214,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-3gp-video-rotation-software-top-picks/"><u>New In 2024, Free 3GP Video Rotation Software Top Picks</u></a></li>
 <li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-realme-c33-2023-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Realme C33 2023 FRP</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Xiaomi Redmi 12, is it possible?
-date: 2024-04-29T22:45:07.151Z
+date: 2024-05-19T18:09:37.895Z
 tags: 
   - hevc video
   - hevc android
@@ -218,4 +218,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-rog-phone-7-ultimate-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on ROG Phone 7 Ultimate without backup.</u></a></li>
 <li><a href="https://android-frp.techidaily.com/ultimate-guide-on-motorola-moto-g14-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Motorola Moto G14 FRP Bypass</u></a></li>
 </ul></div>
+
 

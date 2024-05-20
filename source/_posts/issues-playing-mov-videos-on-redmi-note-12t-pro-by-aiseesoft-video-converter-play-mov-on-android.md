@@ -1,6 +1,6 @@
 ---
 title: Issues playing MOV videos on Redmi Note 12T Pro
-date: 2024-04-29T22:45:02.172Z
+date: 2024-05-19T18:09:37.351Z
 tags: 
   - mov video
   - mov android
@@ -199,4 +199,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/refurbished-apple-iphone-7-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>Refurbished Apple iPhone 7 Everything You Need to Know | Dr.fone</u></a></li>
 </ul></div>
+
 

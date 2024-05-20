@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Samsung Galaxy A15 4G, is it possible?
-date: 2024-04-29T22:45:02.740Z
+date: 2024-05-19T18:09:37.869Z
 tags: 
   - hevc video
   - hevc android
@@ -162,4 +162,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Honor X50 GT? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/solutions-to-repair-corrupt-excel-file-2010-by-stellar-guide/"><u>Solutions to Repair Corrupt Excel File 2010</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Identify malfunctioning hardware drivers with Windows Device Manager in Windows 10
-date: 2024-04-29T22:56:20.718Z
+date: 2024-05-19T18:09:42.696Z
 tags: 
   - driver
   - device driver
@@ -241,4 +241,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-flip-spin-and-rotate-top-10-free-video-editing-software/"><u>2024 Approved Flip, Spin, and Rotate Top 10 Free Video Editing Software</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-realme-12-pro-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Realme 12 Pro 5G for Streaming | Dr.fone</u></a></li>
 </ul></div>
+
 

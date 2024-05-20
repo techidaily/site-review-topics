@@ -1,6 +1,6 @@
 ---
 title: Issues playing H.265 HEVC video on Xiaomi 13T
-date: 2024-04-29T22:45:01.886Z
+date: 2024-05-19T18:09:37.235Z
 tags: 
   - hevc video
   - hevc android
@@ -187,4 +187,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/how-to-perform-hard-reset-on-nokia-c110-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Nokia C110? | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-apple-iphone-x-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from Apple iPhone X iCloud Activation Lock Bypass</u></a></li>
 </ul></div>
+
 

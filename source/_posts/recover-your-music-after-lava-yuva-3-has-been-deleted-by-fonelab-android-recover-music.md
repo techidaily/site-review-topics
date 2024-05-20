@@ -1,6 +1,6 @@
 ---
 title: Recover your music after Lava Yuva 3 has been deleted
-date: 2024-04-29T22:46:12.599Z
+date: 2024-05-19T18:09:38.326Z
 tags: 
   - android data recovery
   - android devices music recovery
@@ -171,4 +171,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-galaxy-s23-tactical-edition-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Galaxy S23 Tactical Edition?</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-motorola-razr-40-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Motorola Razr 40 Without Volume Buttons | Dr.fone</u></a></li>
 </ul></div>
+
 

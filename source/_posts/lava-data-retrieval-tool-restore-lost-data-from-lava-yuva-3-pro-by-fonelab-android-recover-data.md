@@ -1,6 +1,6 @@
 ---
 title: Lava Data Retrieval tool – restore lost data from Lava Yuva 3 Pro
-date: 2024-04-29T22:57:58.407Z
+date: 2024-05-19T18:09:43.667Z
 tags: 
   - android data recovery
   - android devices data recovery
@@ -183,4 +183,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-honor-magic-6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Honor Magic 6 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-poco-f5-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Poco F5 5G to Mac? | Dr.fone</u></a></li>
 </ul></div>
+
 

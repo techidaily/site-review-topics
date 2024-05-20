@@ -1,6 +1,6 @@
 ---
 title: Infinix GT 10 Pro support - Forgotten screen lock.
-date: 2024-04-29T22:57:12.549Z
+date: 2024-05-19T18:09:43.255Z
 tags: 
   - android unlock
   - android devices unlock
@@ -232,4 +232,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://activate-lock.techidaily.com/full-guide-to-iphone-7-icloud-bypass-by-drfone-ios/"><u>Full guide to iPhone 7 iCloud Bypass</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>How to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
 </ul></div>
+
 

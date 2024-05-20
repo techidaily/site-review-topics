@@ -1,7 +1,7 @@
 ---
 title: Possible solutions to restore deleted call logs from Realme
-date: 2024-04-29T22:59:36.253Z
-updated: 2024-04-30T22:59:36.253Z
+date: 2024-05-19T18:09:44.367Z
+updated: 2024-05-20T18:09:44.367Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -215,4 +215,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-video-editing.techidaily.com/read-on-to-learn-about-opencv-object-tracking-what-it-is-and-how-to-implement-it-in-python-and-opencv-for-2024/"><u>Read on to Learn About OpenCV Object Tracking, What It Is, and How to Implement It in Python, and OpenCV for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Vivo Y28 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

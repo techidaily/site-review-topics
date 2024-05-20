@@ -1,7 +1,7 @@
 ---
 title: How to unlock Sony
-date: 2024-04-29T22:52:13.021Z
-updated: 2024-04-30T22:52:13.021Z
+date: 2024-05-19T18:09:40.707Z
+updated: 2024-05-20T18:09:40.707Z
 tags: 
   - android unlock
   - android devices unlock
@@ -232,4 +232,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-poco-f5-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Poco F5 5G to New Android? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-11-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 11</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Play MOV movies on Xperia 10 V, is it possible?
-date: 2024-04-29T22:45:30.594Z
+date: 2024-05-19T18:09:38.030Z
 tags: 
   - mov video
   - mov android
@@ -204,4 +204,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Lava Storm 5G | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Update or Downgrade iPhone XS Without iTunes? | Dr.fone
-date: 2024-04-29T22:53:55.784Z
-updated: 2024-04-30T22:53:55.784Z
+date: 2024-05-19T18:09:41.564Z
+updated: 2024-05-20T18:09:41.564Z
 tags: 
   - ios system repair
   - iphone repair
@@ -393,4 +393,5 @@ On the next screen, you will be provided with an on-screen set of instructions t
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-realme-10t-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Realme 10T 5G to New Android Phone? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-11-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone 11 to Windows PC With Ease? | Dr.fone</u></a></li>
 </ul></div>
+
 

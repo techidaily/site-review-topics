@@ -1,6 +1,6 @@
 ---
 title: Identify missing or malfunctioning drivers with Windows Device Manager on Windows 11
-date: 2024-04-29T22:56:38.306Z
+date: 2024-05-19T18:09:42.845Z
 tags: 
   - driver
   - device driver
@@ -170,4 +170,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-x-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone X to Android/iOS? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-6-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 6 Properly</u></a></li>
 </ul></div>
+
 

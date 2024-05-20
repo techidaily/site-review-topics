@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Vivo Y02T
-date: 2024-04-29T22:50:47.425Z
+date: 2024-05-19T18:09:40.037Z
 tags: 
   - android unlock
   - android devices unlock
@@ -285,4 +285,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Tecno Pop 7 Pro | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-poco-c65-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Poco C65 to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
+
 

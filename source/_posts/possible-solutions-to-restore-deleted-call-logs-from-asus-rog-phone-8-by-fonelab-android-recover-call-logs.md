@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Asus ROG Phone 8
-date: 2024-04-29T22:59:19.553Z
+date: 2024-05-19T18:09:44.295Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -147,4 +147,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-15-pro-max-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From iPhone 15 Pro Max?</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

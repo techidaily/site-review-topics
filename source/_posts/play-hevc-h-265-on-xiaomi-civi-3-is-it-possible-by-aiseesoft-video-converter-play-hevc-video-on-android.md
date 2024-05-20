@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Xiaomi Civi 3, is it possible?
-date: 2024-04-29T22:45:06.583Z
+date: 2024-05-19T18:09:37.892Z
 tags: 
   - hevc video
   - hevc android
@@ -208,4 +208,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-best-video-invitation-maker-apps-for-iphone-and-android/"><u>Updated In 2024, Best Video Invitation Maker Apps for iPhone and Android</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Tecno Pop 8? | Dr.fone</u></a></li>
 </ul></div>
+
 

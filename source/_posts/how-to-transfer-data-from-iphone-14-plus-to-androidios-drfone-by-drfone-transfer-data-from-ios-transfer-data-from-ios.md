@@ -1,7 +1,7 @@
 ---
 title: How To Transfer Data From iPhone 14 Plus To Android/iOS? | Dr.fone
-date: 2024-04-29T22:46:38.846Z
-updated: 2024-04-30T22:46:38.846Z
+date: 2024-05-19T18:09:38.556Z
+updated: 2024-05-20T18:09:38.556Z
 tags: 
   - transfer data
 categories:
@@ -255,4 +255,5 @@ Once done, the window in the front shows the completed phone transfer. Click **O
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-infinix-smart-7-hd-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Infinix Smart 7 HD?</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/f23-5g-video-recovery-recover-deleted-videos-from-f23-5g-by-fonelab-android-recover-video/"><u>F23 5G Video Recovery - Recover Deleted Videos from F23 5G</u></a></li>
 </ul></div>
+
 

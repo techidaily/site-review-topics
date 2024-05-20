@@ -1,7 +1,7 @@
 ---
 title: How To Update or Downgrade iPhone 11? | Dr.fone
-date: 2024-04-29T22:53:23.495Z
-updated: 2024-04-30T22:53:23.495Z
+date: 2024-05-19T18:09:41.377Z
+updated: 2024-05-20T18:09:41.377Z
 tags: 
   - ios system repair
   - iphone repair
@@ -404,4 +404,5 @@ On the next screen, you will be provided with an on-screen set of instructions t
 <li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-vivo-y100i-power-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Vivo Y100i Power 5G Device SIM</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 To Others ios devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

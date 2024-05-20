@@ -1,6 +1,6 @@
 ---
 title: Identify malfunctioning hardware drivers with Windows Device Manager in Windows 11
-date: 2024-04-29T22:56:21.282Z
+date: 2024-05-19T18:09:42.699Z
 tags: 
   - driver
   - device driver
@@ -231,4 +231,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://bypass-frp.techidaily.com/about-vivo-s17e-frp-bypass-by-drfone-android/"><u>About Vivo S17e FRP Bypass</u></a></li>
 <li><a href="https://howto.techidaily.com/authentication-error-occurred-on-oneplus-nord-n30-se-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on OnePlus Nord N30 SE? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

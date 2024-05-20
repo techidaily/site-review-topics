@@ -1,7 +1,7 @@
 ---
 title: Play HEVC H.265 on Motorola , is it possible?
-date: 2024-04-29T22:45:09.405Z
-updated: 2024-04-30T22:45:09.405Z
+date: 2024-05-19T18:09:37.906Z
+updated: 2024-05-20T18:09:37.906Z
 tags: 
   - hevc video
   - hevc android
@@ -217,4 +217,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>5 Best Route Generator Apps You Should Try On Apple iPhone X | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

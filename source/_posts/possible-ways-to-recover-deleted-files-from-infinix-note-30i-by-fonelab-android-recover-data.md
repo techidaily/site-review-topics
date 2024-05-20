@@ -1,6 +1,6 @@
 ---
 title: Possible ways to recover deleted files from Infinix Note 30i
-date: 2024-04-29T23:02:04.223Z
+date: 2024-05-19T18:09:45.243Z
 tags: 
   - android data recovery
   - android devices data recovery
@@ -183,4 +183,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-unlock.techidaily.com/how-to-reset-your-samsung-galaxy-s24-ultra-lock-screen-password-by-drfone-android/"><u>How to Reset your Samsung Galaxy S24 Ultra Lock Screen Password</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-x-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone X? Complete Guide | Dr.fone</u></a></li>
 </ul></div>
+
 

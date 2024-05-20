@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on U23, is it possible?
-date: 2024-04-29T22:45:05.636Z
+date: 2024-05-19T18:09:37.886Z
 tags: 
   - hevc video
   - hevc android
@@ -207,4 +207,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-samsung-galaxy-a23-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Samsung Galaxy A23 5GMirror Share to PC? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-lenovo-thinkphone-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Lenovo ThinkPhone on Windows</u></a></li>
 </ul></div>
+
 

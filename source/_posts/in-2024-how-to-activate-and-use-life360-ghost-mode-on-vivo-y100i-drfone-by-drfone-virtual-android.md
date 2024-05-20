@@ -599,3 +599,4 @@ In the 21<sup>st</sup> century, when the world is connected through one device, 
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-12-mini-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an Apple iPhone 12 mini without Apple ID?</u></a></li>
 </ul></div>
 
+

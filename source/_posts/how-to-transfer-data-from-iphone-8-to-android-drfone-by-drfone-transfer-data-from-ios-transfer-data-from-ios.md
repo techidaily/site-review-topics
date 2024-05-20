@@ -1,7 +1,7 @@
 ---
 title: How To Transfer Data From iPhone 8 To Android? | Dr.fone
-date: 2024-04-29T22:47:44.660Z
-updated: 2024-04-30T22:47:44.660Z
+date: 2024-05-19T18:09:38.905Z
+updated: 2024-05-20T18:09:38.905Z
 tags: 
   - transfer data
 categories:
@@ -230,4 +230,5 @@ Once done, the window in the front shows the completed phone transfer. Click **O
 <li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oneplus-11r-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of OnePlus 11R?</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/is-your-iphone-xs-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone XS Max in Security Lockout? Proper Ways To Unlock</u></a></li>
 </ul></div>
+
 

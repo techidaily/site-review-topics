@@ -1,7 +1,7 @@
 ---
 title: How To Transfer WhatsApp From iPhone 12 mini to other iPhone 13 devices? | Dr.fone
-date: 2024-04-29T22:48:33.062Z
-updated: 2024-04-30T22:48:33.062Z
+date: 2024-05-19T18:09:39.192Z
+updated: 2024-05-20T18:09:39.192Z
 tags: 
   - transfer whatsapp
 categories:
@@ -261,4 +261,5 @@ When this process concludes, a prompt message will appear on the window of its c
 <li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-samsung-galaxy-a54-5g-by-drfone-android/"><u>Universal Unlock Pattern for Samsung Galaxy A54 5G</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-best-10-free-ai-video-generators-with-innovativeadvanced-algorithms/"><u>New 2024 Approved Best 10 Free AI Video Generators with Innovative/Advanced Algorithms</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Identify malfunctioning drivers with Windows Device Manager in Windows 11 & 10
-date: 2024-04-29T22:56:18.079Z
+date: 2024-05-19T18:09:42.681Z
 tags: 
   - driver
   - device driver
@@ -263,4 +263,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-v29-pro-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo V29 Pro FRP Bypass</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-xs-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone XS</u></a></li>
 </ul></div>
+
 

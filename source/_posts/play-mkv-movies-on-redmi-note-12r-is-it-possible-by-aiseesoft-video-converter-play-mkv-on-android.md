@@ -1,6 +1,6 @@
 ---
 title: Play MKV movies on Redmi Note 12R, is it possible?
-date: 2024-04-29T22:45:15.958Z
+date: 2024-05-19T18:09:37.958Z
 tags: 
   - mkv video
   - mkv android
@@ -171,4 +171,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/find-out-the-best-dark-moody-luts-during-editing-for-2024/"><u>Find Out The Best Dark Moody LUTs During Editing for 2024</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-huawei-p60-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Huawei P60 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
 </ul></div>
+
 

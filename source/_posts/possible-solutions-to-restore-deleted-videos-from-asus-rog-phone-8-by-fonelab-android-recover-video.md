@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted videos from Asus ROG Phone 8
-date: 2024-04-29T23:01:27.932Z
+date: 2024-05-19T18:09:45.043Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -184,4 +184,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-xiaomi-redmi-12-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Xiaomi Redmi 12 Without Power Button | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How to Change Netflix Location to Get More Country Version On Apple iPhone XS Max | Dr.fone</u></a></li>
 </ul></div>
+
 

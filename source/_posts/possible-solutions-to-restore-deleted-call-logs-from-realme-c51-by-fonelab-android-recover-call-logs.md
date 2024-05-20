@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Realme C51
-date: 2024-04-29T22:59:36.631Z
+date: 2024-05-19T18:09:44.369Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -194,4 +194,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-stop-motion-studio-in-your-pocket-best-ios-and-android-apps/"><u>2024 Approved Stop Motion Studio in Your Pocket Best iOS and Android Apps</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-honor-x50-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Honor X50? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

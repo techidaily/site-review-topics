@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated your hardware drivers with Windows Device Manager in Windows 11
-date: 2024-04-29T22:57:04.529Z
+date: 2024-05-19T18:09:43.011Z
 tags: 
   - driver
   - device driver
@@ -201,4 +201,5 @@ And without all these drivers, none of your devices will work.
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-v30-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Vivo V30 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-vivo-s17e-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Vivo S17e Location | Dr.fone</u></a></li>
 </ul></div>
+
 

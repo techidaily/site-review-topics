@@ -1,6 +1,6 @@
 ---
 title: MOV playback issues on Redmi 13C 5G
-date: 2024-04-29T22:45:02.558Z
+date: 2024-05-19T18:09:37.642Z
 tags: 
   - mov video
   - mov android
@@ -160,4 +160,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Oppo A1 5G? | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Honor X50i | Dr.fone</u></a></li>
 </ul></div>
+
 

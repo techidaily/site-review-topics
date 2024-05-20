@@ -1,7 +1,7 @@
 ---
 title: How To Upgrade or Downgrade iPhone SE (2022)? | Dr.fone
-date: 2024-04-29T22:55:09.649Z
-updated: 2024-04-30T22:55:09.649Z
+date: 2024-05-19T18:09:42.043Z
+updated: 2024-05-20T18:09:42.043Z
 tags: 
   - ios system repair
   - iphone repair
@@ -417,4 +417,5 @@ On the next screen, you will be provided with an on-screen set of instructions t
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-honor-70-lite-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Honor 70 Lite 5G FRP In 3 Different Ways</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-a78-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of A78 using Video Repair Utility on Windows?</u></a></li>
 </ul></div>
+
 

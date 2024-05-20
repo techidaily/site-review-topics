@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Samsung Galaxy A05s, is it possible?
-date: 2024-04-29T22:45:02.740Z
+date: 2024-05-19T18:09:37.868Z
 tags: 
   - hevc video
   - hevc android
@@ -174,4 +174,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-v27-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo V27 without Them Knowing | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-vivo-y27s-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Vivo Y27s | Dr.fone</u></a></li>
 </ul></div>
+
 

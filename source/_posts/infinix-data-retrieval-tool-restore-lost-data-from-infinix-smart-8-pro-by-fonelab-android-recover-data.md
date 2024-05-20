@@ -1,6 +1,6 @@
 ---
 title: Infinix Data Retrieval tool – restore lost data from Infinix Smart 8 Pro
-date: 2024-04-29T22:57:12.172Z
+date: 2024-05-19T18:09:43.250Z
 tags: 
   - android data recovery
   - android devices data recovery
@@ -182,4 +182,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-14-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 14 After Forgetting my PIN Code?</u></a></li>
 </ul></div>
+
 

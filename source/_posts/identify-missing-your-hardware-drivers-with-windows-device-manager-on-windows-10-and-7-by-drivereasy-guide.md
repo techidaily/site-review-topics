@@ -1,6 +1,6 @@
 ---
 title: Identify missing your hardware drivers with Windows Device Manager on Windows 10 & 7
-date: 2024-04-29T22:56:52.884Z
+date: 2024-05-19T18:09:42.937Z
 tags: 
   - driver
   - device driver
@@ -288,4 +288,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-top-gif-to-mp4-converters/"><u>Updated In 2024, Top GIF to MP4 Converters</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-auto-reframe-video-editing-tools-top-picks-for-creators/"><u>2024 Approved Auto-Reframe Video Editing Tools Top Picks for Creators</u></a></li>
 </ul></div>
+
 

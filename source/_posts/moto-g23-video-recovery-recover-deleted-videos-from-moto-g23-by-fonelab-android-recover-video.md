@@ -1,7 +1,7 @@
 ---
 title: Moto G23 Video Recovery - Recover Deleted Videos from Moto G23
-date: 2024-04-29T22:58:05.191Z
-updated: 2024-04-30T22:58:05.191Z
+date: 2024-05-19T18:09:43.718Z
+updated: 2024-05-20T18:09:43.718Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -176,4 +176,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-vivo-y77t-devices-by-drfone-android/"><u>How to Reset Gmail Password on Vivo Y77t Devices</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-android-video-editing-top-10-free-and-paid-apps/"><u>The Ultimate Guide to Android Video Editing Top 10 Free and Paid Apps</u></a></li>
 </ul></div>
+
 

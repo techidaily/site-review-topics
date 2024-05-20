@@ -1,6 +1,6 @@
 ---
 title: Infinix Note 30 support - Forgotten screen lock.
-date: 2024-04-29T22:57:17.249Z
+date: 2024-05-19T18:09:43.284Z
 tags: 
   - android unlock
   - android devices unlock
@@ -247,4 +247,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://sim-unlock.techidaily.com/in-2024-3-ways-to-unlock-your-apple-iphone-se-2022-for-free-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Your Apple iPhone SE (2022) for Free</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-iphone-14-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from iPhone 14 or iPad?</u></a></li>
 </ul></div>
+
 

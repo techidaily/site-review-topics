@@ -1,6 +1,6 @@
 ---
 title: How to Use Face ID to Pay for Apple Books Purchases on iPhone 12
-date: 2024-04-29T22:55:43.378Z
+date: 2024-05-19T18:09:42.378Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -377,4 +377,5 @@ All of these will result in a locked Apple ID that users will have to reset thei
 <li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-the-best-ai-translator-to-translate-videos-online/"><u>Updated In 2024, The Best AI Translator to Translate Videos Online</u></a></li>
 <li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-itel-s23-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Itel S23? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

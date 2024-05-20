@@ -1,7 +1,7 @@
 ---
 title: How To Upgrade or Downgrade iPhone 13 mini? | Dr.fone
-date: 2024-04-29T22:54:49.436Z
-updated: 2024-04-30T22:54:49.436Z
+date: 2024-05-19T18:09:41.922Z
+updated: 2024-05-20T18:09:41.922Z
 tags: 
   - ios system repair
   - iphone repair
@@ -404,4 +404,5 @@ As the process concludes, a prompt window appears on the front showing a complet
 <li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Meizu 21 | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/a-beginners-guide-to-explain-what-3d-animation-is/"><u>A Beginners Guide to Explain What 3D Animation Is</u></a></li>
 </ul></div>
+
 

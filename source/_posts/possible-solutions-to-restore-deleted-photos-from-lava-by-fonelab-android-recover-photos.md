@@ -1,7 +1,7 @@
 ---
 title: Possible solutions to restore deleted photos from Lava .
-date: 2024-04-29T23:00:48.420Z
-updated: 2024-04-30T23:00:48.420Z
+date: 2024-05-19T18:09:44.803Z
+updated: 2024-05-20T18:09:44.803Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -198,4 +198,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-nokia-c32-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Nokia C32 Phone that is Locked?</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/2024-approved-diverse-templates-wondershare-virbo-online/"><u>2024 Approved Diverse Templates | Wondershare Virbo Online</u></a></li>
 </ul></div>
+
 

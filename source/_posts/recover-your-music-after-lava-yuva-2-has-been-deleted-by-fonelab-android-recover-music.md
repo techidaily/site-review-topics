@@ -1,7 +1,7 @@
 ---
 title: Recover your music after Lava Yuva 2 has been deleted
-date: 2024-04-29T22:46:12.411Z
-updated: 2024-04-30T22:46:12.411Z
+date: 2024-05-19T18:09:38.325Z
+updated: 2024-05-20T18:09:38.325Z
 tags: 
   - android data recovery
   - android devices music recovery
@@ -172,4 +172,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-14-pro-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 14 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y78plus-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y78+ to Any iOS Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

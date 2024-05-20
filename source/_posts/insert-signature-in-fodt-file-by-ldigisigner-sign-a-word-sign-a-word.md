@@ -1,7 +1,7 @@
 ---
 title: Insert signature in .fodt file
-date: 2024-04-29T22:57:23.618Z
-updated: 2024-04-30T22:57:23.618Z
+date: 2024-05-19T18:09:43.322Z
+updated: 2024-05-20T18:09:43.322Z
 tags: 
   - signer
   - signer online
@@ -202,4 +202,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-oppo-a78-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Oppo A78</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-facebook-video-aspect-ratio-blueprint-a-step-by-step-guide/"><u>New In 2024, The Facebook Video Aspect Ratio Blueprint A Step-by-Step Guide</u></a></li>
 </ul></div>
+
 

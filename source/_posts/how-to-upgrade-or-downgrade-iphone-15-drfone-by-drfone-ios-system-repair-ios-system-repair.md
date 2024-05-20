@@ -1,7 +1,7 @@
 ---
 title: How To Upgrade or Downgrade iPhone 15? | Dr.fone
-date: 2024-04-29T22:54:57.033Z
-updated: 2024-04-30T22:54:57.033Z
+date: 2024-05-19T18:09:41.965Z
+updated: 2024-05-20T18:09:41.965Z
 tags: 
   - ios system repair
   - iphone repair
@@ -414,4 +414,5 @@ On the next screen, you will be provided with an on-screen set of instructions t
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-gt-3-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Realme GT 3 Phone with Broken Screen</u></a></li>
 <li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-galaxy-a34-5g-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Galaxy A34 5G</u></a></li>
 </ul></div>
+
 

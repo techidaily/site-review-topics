@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted contacts from Samsung Galaxy A05s.
-date: 2024-04-29T23:00:06.390Z
+date: 2024-05-19T18:09:44.568Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -175,4 +175,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE To Other iPhone devices? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-12-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 12</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Infinix Data Recovery – recover lost data from Infinix Note 30 Pro
-date: 2024-04-29T22:57:08.926Z
+date: 2024-05-19T18:09:43.072Z
 tags: 
   - android data recovery
   - android devices data recovery
@@ -220,4 +220,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y02T | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/video-editing-for-dummies-top-software-recommendations-for-2024/"><u>Video Editing for Dummies Top Software Recommendations for 2024</u></a></li>
 </ul></div>
+
 

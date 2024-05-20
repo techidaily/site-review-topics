@@ -1,7 +1,7 @@
 ---
 title: Possible solutions to restore deleted photos from Realme 12 Pro 5G.
-date: 2024-04-29T23:00:53.367Z
-updated: 2024-04-30T23:00:53.367Z
+date: 2024-05-19T18:09:44.824Z
+updated: 2024-05-20T18:09:44.824Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -198,4 +198,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-download-videoleap-on-macbook-proair-easy-installation-steps/"><u>2024 Approved Download Videoleap on MacBook Pro/Air Easy Installation Steps</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-blur-faces-in-your-video-on-iphone/"><u>How to Blur Faces in Your Video on iPhone</u></a></li>
 </ul></div>
+
 

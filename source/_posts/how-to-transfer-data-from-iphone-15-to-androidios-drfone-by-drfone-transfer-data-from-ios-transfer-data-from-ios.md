@@ -1,7 +1,7 @@
 ---
 title: How To Transfer Data From iPhone 15 To Android/iOS? | Dr.fone
-date: 2024-04-29T22:47:09.637Z
-updated: 2024-04-30T22:47:09.637Z
+date: 2024-05-19T18:09:38.718Z
+updated: 2024-05-20T18:09:38.718Z
 tags: 
   - transfer data
 categories:
@@ -264,4 +264,5 @@ Once done, the window in the front shows the completed phone transfer. Click **O
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-spark-10c-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Spark 10C | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-infinix-smart-8-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Infinix Smart 8 Users</u></a></li>
 </ul></div>
+
 

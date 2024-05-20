@@ -1,7 +1,7 @@
 ---
 title: How to Upgrade iPhone 12 mini without Losing Anything? | Dr.fone
-date: 2024-04-29T22:54:01.449Z
-updated: 2024-04-30T22:54:01.449Z
+date: 2024-05-19T18:09:41.591Z
+updated: 2024-05-20T18:09:41.591Z
 tags: 
   - ios system repair
   - iphone repair
@@ -389,4 +389,5 @@ As the process concludes, a prompt window appears on the front showing a complet
 <li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On OnePlus Nord N30 SE | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-samsung-galaxy-f15-5g-phone-by-drfone-android/"><u>How to Reset a Locked Samsung Galaxy F15 5G Phone</u></a></li>
 </ul></div>
+
 

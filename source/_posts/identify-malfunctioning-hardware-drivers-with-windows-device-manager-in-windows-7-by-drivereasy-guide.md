@@ -1,6 +1,6 @@
 ---
 title: Identify malfunctioning hardware drivers with Windows Device Manager in Windows 7
-date: 2024-04-29T22:56:21.959Z
+date: 2024-05-19T18:09:42.701Z
 tags: 
   - driver
   - device driver
@@ -226,4 +226,5 @@ Now when we say “your device won’t work properly”, sometimes this means si
 <li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/lock-your-poco-x6-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Poco X6 Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 </ul></div>
+
 

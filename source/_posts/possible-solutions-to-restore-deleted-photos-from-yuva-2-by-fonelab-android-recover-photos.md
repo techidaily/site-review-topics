@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted photos from Yuva 2.
-date: 2024-04-29T23:01:01.236Z
+date: 2024-05-19T18:09:44.860Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -182,4 +182,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://screen-mirror.techidaily.com/a-guide-vivo-t2-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Vivo T2 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-poco-c65-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Poco C65 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Upgrade or Downgrade iPhone 11 Pro? | Dr.fone
-date: 2024-04-29T22:54:42.736Z
-updated: 2024-04-30T22:54:42.736Z
+date: 2024-05-19T18:09:41.884Z
+updated: 2024-05-20T18:09:41.884Z
 tags: 
   - ios system repair
   - iphone repair
@@ -447,4 +447,5 @@ A prompt message of completion will appear on the screen showing the successful 
 <li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-nokia-g310-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Nokia G310 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-max-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro Max To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

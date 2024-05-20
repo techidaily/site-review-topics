@@ -1,7 +1,7 @@
 ---
 title: Insert signature in .docx 
-date: 2024-04-29T22:57:22.434Z
-updated: 2024-04-30T22:57:22.434Z
+date: 2024-05-19T18:09:43.315Z
+updated: 2024-05-20T18:09:43.315Z
 tags: 
   - signer
   - signer online
@@ -236,4 +236,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-lava-agni-2-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Lava Agni 2 5G Phone Using PC | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-a14-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy A14 5G to iPhone XS/11 | Dr.fone</u></a></li>
 </ul></div>
+
 

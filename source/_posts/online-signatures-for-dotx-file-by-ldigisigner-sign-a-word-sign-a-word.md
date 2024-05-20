@@ -1,7 +1,7 @@
 ---
 title: Online signatures for .dotx file
-date: 2024-04-29T22:58:48.367Z
-updated: 2024-04-30T22:58:48.367Z
+date: 2024-05-19T18:09:44.068Z
+updated: 2024-05-20T18:09:44.068Z
 tags: 
   - signer
   - signer online
@@ -208,4 +208,5 @@ It is more convenient to sign documents online. Electronic signature has the sam
 <li><a href="https://animation-videos.techidaily.com/in-2024-best-gif-maker-software-for-windows-and-mac/"><u>In 2024, Best GIF Maker Software for Windows and Mac</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-is-it-possible-to-use-miracast-with-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, Is it Possible to Use Miracast with Apple iPhone 6s Plus? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to turn off the screen lock on my Realme 11 5G
-date: 2024-04-29T22:50:42.893Z
+date: 2024-05-19T18:09:40.009Z
 tags: 
   - android unlock
   - android devices unlock
@@ -233,4 +233,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Tecno Spark 10 Pro? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-samsung-galaxy-a05s-by-fonelab-android-recover-data/"><u>The way to get back lost data from Samsung Galaxy A05s</u></a></li>
 </ul></div>
+
 

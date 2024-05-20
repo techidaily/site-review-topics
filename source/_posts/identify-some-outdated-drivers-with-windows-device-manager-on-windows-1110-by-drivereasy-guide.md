@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated drivers with Windows Device Manager on Windows 11/10
-date: 2024-04-29T22:56:56.924Z
+date: 2024-05-19T18:09:42.963Z
 tags: 
   - driver
   - device driver
@@ -274,4 +274,5 @@ There are two reasons why…
 <li><a href="https://techidaily.com/how-to-update-apple-iphone-xs-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XS Max without Losing Data? | Dr.fone</u></a></li>
 <li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-10-best-work-memes-to-have-fun-in-work-days/"><u>Updated 2024 Approved 10 Best Work Memes to Have Fun in Work Days</u></a></li>
 </ul></div>
+
 

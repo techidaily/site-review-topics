@@ -1,6 +1,6 @@
 ---
 title: How to use Device Manager to reinstall hardware drivers on Windows 11/10
-date: 2024-04-29T22:55:21.167Z
+date: 2024-05-19T18:09:42.157Z
 tags: 
   - driver
   - device driver
@@ -184,4 +184,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-itel-p40plus-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Itel P40+ Phone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/a-quick-guide-to-asus-rog-phone-8-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Asus ROG Phone 8 Pro FRP Bypass Instantly</u></a></li>
 </ul></div>
+
 

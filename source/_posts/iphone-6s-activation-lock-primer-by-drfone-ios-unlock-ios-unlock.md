@@ -1,6 +1,6 @@
 ---
 title: iPhone 6s activation lock primer
-date: 2024-04-29T22:57:39.589Z
+date: 2024-05-19T18:09:43.491Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -300,4 +300,5 @@ The disabled iPhone will be wiped and reset to factory settings. You can then se
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On Apple iPhone 13 mini?</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Plus?</u></a></li>
 </ul></div>
+
 

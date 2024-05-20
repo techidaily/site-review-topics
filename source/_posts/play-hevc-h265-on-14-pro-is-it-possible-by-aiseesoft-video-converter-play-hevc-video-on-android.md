@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on 14 Pro, is it possible?
-date: 2024-04-29T22:45:08.466Z
+date: 2024-05-19T18:09:37.902Z
 tags: 
   - hevc video
   - hevc android
@@ -190,4 +190,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-apps.techidaily.com/new-slideshow-magic-on-mac-easy-video-editing-for-beginners-for-2024/"><u>New Slideshow Magic on Mac Easy Video Editing for Beginners for 2024</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a24-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A24 Phone Password Without Factory Reset?</u></a></li>
 </ul></div>
+
 

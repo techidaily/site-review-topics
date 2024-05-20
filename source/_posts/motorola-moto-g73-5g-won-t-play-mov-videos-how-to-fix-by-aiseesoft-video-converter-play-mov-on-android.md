@@ -1,6 +1,6 @@
 ---
 title: Motorola Moto G73 5G won't play MOV videos, how to fix ?
-date: 2024-04-29T22:45:02.494Z
+date: 2024-05-19T18:09:37.575Z
 tags: 
   - mov video
   - mov android
@@ -205,4 +205,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-xs-max-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone XS Max to PC | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo Y200e 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

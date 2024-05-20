@@ -1,6 +1,6 @@
 ---
 title: Identify missing or malfunctioning hardware drivers with Windows Device Manager in Windows 11 & 10
-date: 2024-04-29T22:56:39.642Z
+date: 2024-05-19T18:09:42.854Z
 tags: 
   - driver
   - device driver
@@ -309,4 +309,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-lava-blaze-2-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Lava Blaze 2 5G</u></a></li>
 <li><a href="https://android-frp.techidaily.com/ultimate-guide-from-samsung-galaxy-s21-fe-5g-2023-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Samsung Galaxy S21 FE 5G (2023) FRP Bypass</u></a></li>
 </ul></div>
+
 

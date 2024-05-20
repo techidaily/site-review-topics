@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Samsung Galaxy S23 Ultra, is it possible?
-date: 2024-04-29T22:45:04.111Z
+date: 2024-05-19T18:09:37.878Z
 tags: 
   - hevc video
   - hevc android
@@ -161,4 +161,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-15-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 15 Lock Screen | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/free-and-easy-3gp-video-rotation-top-picks-for-this-year/"><u>Free and Easy 3GP Video Rotation Top Picks for This Year</u></a></li>
 </ul></div>
+
 

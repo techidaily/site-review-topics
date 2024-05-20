@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted call logs from Infinix
-date: 2024-04-29T22:59:25.054Z
+date: 2024-05-19T18:09:44.332Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -174,4 +174,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-video-editing.techidaily.com/new-learn-topaz-video-enhance-ai-review-for-2024/"><u>New Learn Topaz Video Enhance AI Review for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated your hardware drivers with Windows Device Manager in Windows 10 & 7
-date: 2024-04-29T22:57:03.761Z
+date: 2024-05-19T18:09:43.006Z
 tags: 
   - driver
   - device driver
@@ -185,4 +185,5 @@ To automatically update to the correct version of all the drivers that are missi
 <li><a href="https://ai-video-apps.techidaily.com/new-top-rated-free-mod-video-editors-the-best/"><u>New Top-Rated Free MOD Video Editors The Best</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Motorola Defy 2 | Dr.fone</u></a></li>
 </ul></div>
+
 

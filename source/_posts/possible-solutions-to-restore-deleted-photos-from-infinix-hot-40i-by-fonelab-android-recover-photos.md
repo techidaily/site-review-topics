@@ -1,6 +1,6 @@
 ---
 title: Possible solutions to restore deleted photos from Infinix Hot 40i.
-date: 2024-04-29T23:00:46.045Z
+date: 2024-05-19T18:09:44.785Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -165,4 +165,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-6s-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 6s</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-honor-magic-vs-2-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor Magic Vs 2 Without the Home Button | Dr.fone</u></a></li>
 </ul></div>
+
 

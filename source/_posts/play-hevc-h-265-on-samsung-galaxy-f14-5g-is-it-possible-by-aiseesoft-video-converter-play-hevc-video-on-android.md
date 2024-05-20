@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on Samsung Galaxy F14 5G, is it possible?
-date: 2024-04-29T22:45:03.142Z
+date: 2024-05-19T18:09:37.873Z
 tags: 
   - hevc video
   - hevc android
@@ -186,4 +186,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-se-2020-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone SE (2020) when Phone is Broken?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-the-ultimate-guide-to-gif-for-discord-profile/"><u>New In 2024, The Ultimate Guide to GIF for Discord Profile</u></a></li>
 </ul></div>
+
 

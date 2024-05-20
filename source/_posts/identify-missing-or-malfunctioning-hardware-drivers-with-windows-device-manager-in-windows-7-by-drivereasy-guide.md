@@ -1,6 +1,6 @@
 ---
 title: Identify missing or malfunctioning hardware drivers with Windows Device Manager in Windows 7
-date: 2024-04-29T22:56:40.400Z
+date: 2024-05-19T18:09:42.859Z
 tags: 
   - driver
   - device driver
@@ -257,4 +257,5 @@ The free version will identify all your outdated drivers, and allow you to downl
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-k70-pro-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Xiaomi Redmi K70 Pro Phone with Broken Screen</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/updated-what-is-ai-voice-over/"><u>Updated What Is AI Voice Over?</u></a></li>
 </ul></div>
+
 

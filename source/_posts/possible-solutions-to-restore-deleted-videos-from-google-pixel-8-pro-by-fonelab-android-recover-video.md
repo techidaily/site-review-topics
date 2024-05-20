@@ -1,7 +1,7 @@
 ---
 title: Possible solutions to restore deleted videos from Google Pixel 8 Pro
-date: 2024-04-29T23:01:29.640Z
-updated: 2024-04-30T23:01:29.640Z
+date: 2024-05-19T18:09:45.053Z
+updated: 2024-05-20T18:09:45.053Z
 tags: 
   - android data recovery
   - android devices video recovery
@@ -186,4 +186,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-video-editing.techidaily.com/updated-creative-ways-to-add-green-screen-effects-in-photoshop/"><u>Updated Creative Ways to Add Green Screen Effects In Photoshop</u></a></li>
 <li><a href="https://android-frp.techidaily.com/easy-guide-to-sony-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Sony FRP Bypass With Best Methods</u></a></li>
 </ul></div>
+
 

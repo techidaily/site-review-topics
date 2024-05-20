@@ -1,6 +1,6 @@
 ---
 title: Play HEVC H.265 on HTC U23, is it possible?
-date: 2024-04-29T22:45:02.721Z
+date: 2024-05-19T18:09:37.845Z
 tags: 
   - hevc video
   - hevc android
@@ -203,4 +203,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Motorola Edge 40 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-narzo-60x-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Realme Narzo 60x 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Nokia 130 Music support - Turn Off Screen Lock.
-date: 2024-04-29T22:58:24.924Z
+date: 2024-05-19T18:09:43.886Z
 tags: 
   - android unlock
   - android devices unlock
@@ -246,4 +246,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-popular-aspect-ratio-transformer-tools-for-image-and-video-editing/"><u>2024 Approved Popular Aspect Ratio Transformer Tools for Image and Video Editing</u></a></li>
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-poco-x5-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Poco X5 Screen | Dr.fone</u></a></li>
 </ul></div>
+
 
