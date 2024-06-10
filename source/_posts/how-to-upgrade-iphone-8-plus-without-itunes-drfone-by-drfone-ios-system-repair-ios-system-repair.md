@@ -1,7 +1,7 @@
 ---
 title: How to Upgrade iPhone 8 Plus without iTunes? | Dr.fone
-date: 2024-05-19T18:09:41.818Z
-updated: 2024-05-20T18:09:41.818Z
+date: 2024-06-09T01:32:06.666Z
+updated: 2024-06-10T01:32:06.666Z
 tags: 
   - ios system repair
   - iphone repair
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Upgrade iPhone 8 Plus without iTunes?
 excerpt: This article describes How to Upgrade iPhone 8 Plus without iTunes?
 keywords: reset iPhone 8 Plus,repair iPhone system issues,upgrade or downgrade iPhone without iTunes,repair iPhone 8 Plus system issues,recovery mode on iPhone 8 Plus,DFU mode on iPhone 8 Plus,recovery mode on iPhone,reset iPhone,upgrade or downgrade iPhone 8 Plus without iTunes,DFU mode on iPhone
-thumbnail: https://www.lifewire.com/thmb/44IYkFUfRU4h-daoi0uxZYAKRhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lifewire_Windows_Update_2624595-9da08302ecc44539b8f0fa484a81227e.jpg
+thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c32a9023581f934b16334c5a.jpg
 ---
 
 ## How To Upgrade or Downgrade iPhone 8 Plus Without iTunes?

@@ -1,7 +1,7 @@
 ---
 title: Online signatures for Word 2013
-date: 2024-05-19T18:09:44.106Z
-updated: 2024-05-20T18:09:44.106Z
+date: 2024-06-09T01:29:56.900Z
+updated: 2024-06-10T01:29:56.900Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes Online signatures for Word 2013
 excerpt: This article describes Online signatures for Word 2013
 keywords: .docx file signature service,.ott file signature online,.dotm file signature app
-thumbnail: https://www.lifewire.com/thmb/6UZHTeyuNkJhbDQGbXCRwhK1TEI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1218764238-30613399ad1b4cffab4ab474184b9c88.jpg
+thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8409002b7334f65b8debc634.jpg
 ---
 
 ## 1. Online signatures for Word 2013

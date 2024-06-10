@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Honor 90 | Dr.fone
-date: 2024-04-29T23:02:06.683Z
-updated: 2024-04-30T23:02:06.683Z
+date: 2024-06-09T01:31:22.231Z
+updated: 2024-06-10T01:31:22.231Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Send and Fake Live Location on Facebook Messenger Of your Honor 90
 excerpt: This article describes How to Send and Fake Live Location on Facebook Messenger Of your Honor 90
 keywords: change skype location for Android,change WhatsApp location for Android,fake WhatsApp location for Android,fake location for Android,change skype location for Honor 90,change location for Android,fake Twitter location for Android,change WhatsApp location for Honor 90,change Twitter location for Honor 90,fake skype location for Android
-thumbnail: https://www.lifewire.com/thmb/bOmeScOWFc7_QUmHNXKw7Hqwkm0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bestfirestickapps-5bcba08546e0fb005177a983-0591296fac8241ccb8497f9f29901acd.jpg
+thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d6a73268fe3b019a529c7811.jpg
 ---
 
 ## How to Send and Fake Live Location on Facebook Messenger Of your Honor 90

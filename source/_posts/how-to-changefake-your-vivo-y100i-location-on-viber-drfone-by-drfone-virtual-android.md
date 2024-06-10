@@ -1,7 +1,7 @@
 ---
 title: How to Change/Fake Your Vivo Y100i Location on Viber | Dr.fone
-date: 2024-04-12T01:37:31.696Z
-updated: 2024-04-13T01:37:31.696Z
+date: 2024-06-09T01:31:22.189Z
+updated: 2024-06-10T01:31:22.189Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Change/Fake Your Vivo Y100i Location on Viber
 excerpt: This article describes How to Change/Fake Your Vivo Y100i Location on Viber
 keywords: fake skype location for Android,fake Twitter location for Android,change WhatsApp location for Vivo Y100i,change skype location for Android,change location for Android,change skype location for Vivo Y100i,change facebook location for Vivo Y100i,change location for Vivo Y100i,change WhatsApp location for Android,change Twitter location for Vivo Y100i,fake WhatsApp location for Android
-thumbnail: https://www.lifewire.com/thmb/bEojajcVOmaMDVv4xG-kC_soHHk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-81522363-5683a5573df78ccc15cabf56.jpg
+thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7dcea0bf9addd82da02902e0.jpg
 ---
 
 ## How to Change/Fake Your Vivo Y100i Location on Viber

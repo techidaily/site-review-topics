@@ -1,7 +1,7 @@
 ---
 title: How To Update or Downgrade iPhone X Without Losing Anything? | Dr.fone
-date: 2024-05-19T18:09:41.552Z
-updated: 2024-05-20T18:09:41.552Z
+date: 2024-06-09T01:31:37.126Z
+updated: 2024-06-10T01:31:37.126Z
 tags: 
   - ios system repair
   - iphone repair
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Update or Downgrade iPhone X Without Losing Anything?
 excerpt: This article describes How To Update or Downgrade iPhone X Without Losing Anything?
 keywords: repair iPhone X system issues,upgrade or downgrade iPhone without iTunes,DFU mode on iPhone,recovery mode on iPhone,DFU mode on iPhone X,reset iPhone X,recovery mode on iPhone X
-thumbnail: https://www.lifewire.com/thmb/P9BLOm818Wmv2RgfhK_jtXxf4Rk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/178665671_HighRes-56a532a83df78cf77286de1b.jpg
+thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7745911720b5a34076945390.jpg
 ---
 
 ## How To Upgrade or Downgrade iPhone X Without iTunes?

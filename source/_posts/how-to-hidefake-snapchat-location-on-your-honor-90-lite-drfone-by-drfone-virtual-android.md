@@ -1,7 +1,7 @@
 ---
 title: How to Hide/Fake Snapchat Location on Your Honor 90 Lite | Dr.fone
-date: 2024-04-12T01:37:51.769Z
-updated: 2024-04-13T01:37:51.769Z
+date: 2024-06-09T01:30:10.157Z
+updated: 2024-06-10T01:30:10.157Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Hide/Fake Snapchat Location on Your Honor 90 Lite
 excerpt: This article describes How to Hide/Fake Snapchat Location on Your Honor 90 Lite
 keywords: change Twitter location for Honor 90 Lite,change skype location for Android,fake skype location for Android,change facebook location for Honor 90 Lite,fake WhatsApp location for Android,fake Twitter location for Android,change facebook location for Android,change location for Honor 90 Lite,change location for Android
-thumbnail: https://www.lifewire.com/thmb/dKnfJfS-2dMUMRX_ekaA971sdhs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-664800650-4349941504c24712b81975694798236b.jpg
+thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca424f0cd6791d36a2f65c9d0a1.jpg
 ---
 
 ## How to Hide/Fake Snapchat Location on Your Honor 90 Lite

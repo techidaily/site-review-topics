@@ -1,7 +1,7 @@
 ---
 title: How to Change Location On Facebook Dating for your Tecno Spark 10 Pro | Dr.fone
-date: 2024-04-07T22:09:03.300Z
-updated: 2024-04-08T22:09:03.300Z
+date: 2024-06-09T01:30:54.850Z
+updated: 2024-06-10T01:30:54.850Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Change Location On Facebook Dating for your Tecno Spark 10 Pro
 excerpt: This article describes How to Change Location On Facebook Dating for your Tecno Spark 10 Pro
 keywords: change facebook location for Android,change facebook location for Tecno Spark 10 Pro,fake location for Android,change WhatsApp location for Android,change Twitter location for Android,change skype location for Tecno Spark 10 Pro,fake skype location for Android,change location for Tecno Spark 10 Pro,change location for Android,fake facebook location for Android,change Twitter location for Tecno Spark 10 Pro
-thumbnail: https://www.lifewire.com/thmb/-bcmaokZfvwTgJE1q3LjnihDbBY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-678913139-58a4ece73df78c345bcd781b.jpg
+thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f620077177c71b194a7d51d8ecab.jpg
 ---
 
 ## How to Change Location On Facebook Dating for your Tecno Spark 10 Pro

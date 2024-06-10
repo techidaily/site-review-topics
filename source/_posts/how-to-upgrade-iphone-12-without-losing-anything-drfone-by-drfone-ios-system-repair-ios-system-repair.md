@@ -1,7 +1,7 @@
 ---
 title: How to Upgrade iPhone 12 without Losing Anything? | Dr.fone
-date: 2024-05-19T18:09:41.672Z
-updated: 2024-05-20T18:09:41.672Z
+date: 2024-06-09T01:32:28.705Z
+updated: 2024-06-10T01:32:28.705Z
 tags: 
   - ios system repair
   - iphone repair
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Upgrade iPhone 12 without Losing Anything?
 excerpt: This article describes How to Upgrade iPhone 12 without Losing Anything?
 keywords: DFU mode on iPhone,upgrade or downgrade iPhone without iTunes,repair iPhone system issues,reset iPhone,recovery mode on iPhone,recovery mode on iPhone 12,reset iPhone 12,DFU mode on iPhone 12,upgrade or downgrade iPhone 12 without iTunes
-thumbnail: https://www.lifewire.com/thmb/Wnjr5d8PWtLhZKZOlT7PSsWhqZ8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YoungAsianmanusinglaptopandreadingnewspaperonplane-59960904685fbe00103478bd.jpg
+thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c63be7c3be4720f86eba5080f.jpg
 ---
 
 ## How To Repair iPhone 12 iOS System Issues?

@@ -1,7 +1,7 @@
 ---
 title: How To Transfer WhatsApp From iPhone 13 mini to Android/iOS? | Dr.fone
-date: 2024-05-19T18:09:39.271Z
-updated: 2024-05-20T18:09:39.271Z
+date: 2024-06-09T01:30:28.175Z
+updated: 2024-06-10T01:30:28.175Z
 tags: 
   - transfer whatsapp
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How To Transfer WhatsApp From iPhone 13 mini to Android/iOS?
 excerpt: This article describes How To Transfer WhatsApp From iPhone 13 mini to Android/iOS?
 keywords: transfer whatsapp from iPhone 13 mini,transfer whatsapp from iPhone to Android,transfer whatsapp from iPhone 13 mini to other iPhone devices,transfer whatsapp from iPhone 13 mini to other iPhone,transfer whatsapp from iPhone,transfer whatsapp from iPhone to other iPhone
-thumbnail: https://www.lifewire.com/thmb/5dWfE2pdmNCU9qpfDVc7QhYieRw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/X-Logo-on-Phone-35c83db6a3c34b689ab069ff50b96bcc.jpg
+thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb59793bd9736b13ed221555fa6ea.jpg
 ---
 
 ## How To Transfer WhatsApp From iPhone 13 mini to Android/iOS?

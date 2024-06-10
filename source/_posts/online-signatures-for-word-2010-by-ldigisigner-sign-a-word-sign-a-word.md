@@ -1,7 +1,7 @@
 ---
 title: Online signatures for Word 2010
-date: 2024-05-19T18:09:44.104Z
-updated: 2024-05-20T18:09:44.104Z
+date: 2024-06-09T01:30:04.224Z
+updated: 2024-06-10T01:30:04.224Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes Online signatures for Word 2010
 excerpt: This article describes Online signatures for Word 2010
 keywords: .txt file signature software,.dotx file signature service,.dotm file signature software,.docm file signature service,.svd file signature best,.wpd file signer online
-thumbnail: https://www.lifewire.com/thmb/-m_9JJb4F4y8I0dYVcJrZSeVFcs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Unlockedphone_mikkelwilliam_Getty_Eplus-bd0f806b392b4069ab6618d3b520f5b7.jpg
+thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7ab947e877cf6636c606146d.jpg
 ---
 
 ## 1. Online signatures for Word 2010

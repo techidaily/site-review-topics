@@ -1,7 +1,7 @@
 ---
 title: Edit and Send Fake Location on Telegram For your Infinix GT 10 Pro in 3 Ways | Dr.fone
-date: 2024-04-07T02:23:54.545Z
-updated: 2024-04-08T02:23:54.545Z
+date: 2024-06-09T01:31:44.035Z
+updated: 2024-06-10T01:31:44.035Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes Edit and Send Fake Location on Telegram For your Infinix GT 10 Pro in 3 Ways
 excerpt: This article describes Edit and Send Fake Location on Telegram For your Infinix GT 10 Pro in 3 Ways
 keywords: change Twitter location for Android,fake Twitter location for Android,change skype location for Android,fake location for Android,change location for Android,change facebook location for Android,change Twitter location for Infinix GT 10 Pro
-thumbnail: https://www.lifewire.com/thmb/WSLZcqxwmXkq850tQOgpRjODDjE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/football-referee-signaling-touchdown-in-stadium-599944339-5a84cb9e875db900367df025.jpg
+thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b85a4b94012ab008856dbcd1d.jpg
 ---
 
 ## Edit and Send Fake Location on Telegram For your Infinix GT 10 Pro in 3 Ways

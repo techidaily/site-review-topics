@@ -1,7 +1,7 @@
 ---
 title: How to Upgrade iPhone SE (2020) without iTunes? | Dr.fone
-date: 2024-05-19T18:09:41.832Z
-updated: 2024-05-20T18:09:41.832Z
+date: 2024-06-09T01:32:03.833Z
+updated: 2024-06-10T01:32:03.833Z
 tags: 
   - ios system repair
   - iphone repair
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Upgrade iPhone SE (2020) without iTunes?
 excerpt: This article describes How to Upgrade iPhone SE (2020) without iTunes?
 keywords: upgrade or downgrade iPhone SE (2020) without iTunes,reset iPhone SE (2020),repair iPhone SE (2020) system issues,repair iPhone system issues,upgrade or downgrade iPhone without iTunes,recovery mode on iPhone
-thumbnail: https://www.lifewire.com/thmb/5m3PFyS3dMrqXFE2iOSfA4BUn2Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-smart-tv-12dcac76114b4747b9b3db8bb3551ddc.jpg
+thumbnail: https://thmb.techidaily.com/85e69845f10f793c5b081e6eac45cea976095820d8ff765825e636a33b833fec.jpg
 ---
 
 ## How To Upgrade or Downgrade iPhone SE (2020) Without iTunes?

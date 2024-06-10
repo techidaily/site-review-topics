@@ -1,7 +1,7 @@
 ---
 title: How To Transfer Data From iPhone XR To Android? | Dr.fone
-date: 2024-05-19T18:09:39.051Z
-updated: 2024-05-20T18:09:39.051Z
+date: 2024-06-09T01:32:35.091Z
+updated: 2024-06-10T01:32:35.091Z
 tags: 
   - transfer data
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How To Transfer Data From iPhone XR To Android?
 excerpt: This article describes How To Transfer Data From iPhone XR To Android?
 keywords: transfer data from iPhone,transfer data from iPhone to Android,transfer data from iPhone XR To Other iPhone,transfer data from iPhone XR,transfer data from iPhone XR to Android,transfer data from iPhone To Other iPhone devices
-thumbnail: https://www.lifewire.com/thmb/BW2Lher3W3SF0AiM8EKoxi1zUQw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-597071115-37c5865742de421eafc8b7da4cc5a618.jpg
+thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0cd1ef1d90d54872beba93f1.jpg
 ---
 
 ## How To Transfer Data From iPhone XR to Android/iOS?

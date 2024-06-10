@@ -1,7 +1,7 @@
 ---
 title: How to Update iPhone 11 Pro without iTunes? | Dr.fone
-date: 2024-05-19T18:09:41.122Z
-updated: 2024-05-20T18:09:41.122Z
+date: 2024-06-09T01:31:00.592Z
+updated: 2024-06-10T01:31:00.592Z
 tags: 
   - ios system repair
   - iphone repair
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Update iPhone 11 Pro without iTunes?
 excerpt: This article describes How to Update iPhone 11 Pro without iTunes?
 keywords: reset iPhone 11 Pro,upgrade or downgrade iPhone without iTunes,recovery mode on iPhone 11 Pro,repair iPhone 11 Pro system issues,DFU mode on iPhone 11 Pro,DFU mode on iPhone,repair iPhone system issues,upgrade or downgrade iPhone 11 Pro without iTunes
-thumbnail: https://www.lifewire.com/thmb/5dWfE2pdmNCU9qpfDVc7QhYieRw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/X-Logo-on-Phone-35c83db6a3c34b689ab069ff50b96bcc.jpg
+thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb59793bd9736b13ed221555fa6ea.jpg
 ---
 
 ## How To Repair iPhone 11 Pro iOS System Issues?

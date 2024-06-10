@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Activate and Use Life360 Ghost Mode On Infinix Note 30i | Dr.fone
-date: 2024-04-29T23:03:18.526Z
-updated: 2024-04-30T23:03:18.526Z
+date: 2024-06-09T01:30:20.806Z
+updated: 2024-06-10T01:30:20.806Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Activate and Use Life360 Ghost Mode On Infinix Note 30i
 excerpt: This article describes How To Activate and Use Life360 Ghost Mode On Infinix Note 30i
 keywords: change location for Android,change Twitter location for Infinix Note 30i,fake WhatsApp location for Android,change facebook location for Android,change WhatsApp location for Infinix Note 30i,change location for Infinix Note 30i,fake location for Android
-thumbnail: https://www.lifewire.com/thmb/m4BcH-XQSOpQcuE-5vTn1swsxLE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-591408071-5bc7767d4cedfd0026a2ce3f.jpg
+thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951f603f30c9c8797a450783bc.jpg
 ---
 
 ## How To Activate and Use Life360 Ghost Mode On Infinix Note 30i

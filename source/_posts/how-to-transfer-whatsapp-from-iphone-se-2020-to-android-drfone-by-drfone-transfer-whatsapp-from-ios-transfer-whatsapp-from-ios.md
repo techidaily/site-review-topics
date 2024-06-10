@@ -1,7 +1,7 @@
 ---
 title: How To Transfer WhatsApp From iPhone SE (2020) to Android? | Dr.fone
-date: 2024-05-19T18:09:39.746Z
-updated: 2024-05-20T18:09:39.746Z
+date: 2024-06-09T01:30:32.085Z
+updated: 2024-06-10T01:30:32.085Z
 tags: 
   - transfer whatsapp
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How To Transfer WhatsApp From iPhone SE (2020) to Android?
 excerpt: This article describes How To Transfer WhatsApp From iPhone SE (2020) to Android?
 keywords: transfer whatsapp from iPhone SE (2020) to Android,transfer whatsapp from iPhone SE (2020),transfer whatsapp from iPhone to other iPhone,transfer whatsapp from iPhone to other iPhone devices,transfer whatsapp from iPhone to Android,transfer whatsapp from iPhone SE (2020) to other iPhone,transfer whatsapp from iPhone SE (2020) to other iPhone devices,transfer whatsapp from iPhone
-thumbnail: https://www.lifewire.com/thmb/NgJyQBGFmsrhkEXhA5pREWNGnoI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/photo-editor-working-on-computer-at-desk-in-office-946928370-5b85791746e0fb0025b40d84.jpg
+thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0043bb6ffedd07e36277b4e8.jpg
 ---
 
 ## How To Transfer WhatsApp From iPhone SE (2020) to Android/iOS?

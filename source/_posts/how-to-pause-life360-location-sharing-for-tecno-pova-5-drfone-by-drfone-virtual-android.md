@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Tecno Pova 5 | Dr.fone
-date: 2024-04-12T01:38:06.912Z
-updated: 2024-04-13T01:38:06.912Z
+date: 2024-06-09T01:29:34.944Z
+updated: 2024-06-10T01:29:34.944Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Pause Life360 Location Sharing For Tecno Pova 5
 excerpt: This article describes How To Pause Life360 Location Sharing For Tecno Pova 5
 keywords: change Twitter location for Tecno Pova 5,change skype location for Android,fake Twitter location for Android,change skype location for Tecno Pova 5,change location for Android,change location for Tecno Pova 5,change facebook location for Android,fake location for Android,change Twitter location for Android
-thumbnail: https://www.lifewire.com/thmb/emyPhVf3B4VLTCj8T835W3AqyOU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-93420821-0ce0b19097fb47d78dec8dbc039c1260.jpg
+thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f4062f523abbe17fcfc5ae5fc7.jpg
 ---
 
 ## How To Pause Life360 Location Sharing For Tecno Pova 5
