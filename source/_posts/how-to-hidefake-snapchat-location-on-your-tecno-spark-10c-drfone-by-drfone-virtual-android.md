@@ -1,7 +1,7 @@
 ---
 title: How to Hide/Fake Snapchat Location on Your Tecno Spark 10C | Dr.fone
-date: 2024-04-12T01:37:53.906Z
-updated: 2024-04-13T01:37:53.906Z
+date: 2024-06-18T00:35:09.156Z
+updated: 2024-06-19T00:35:09.156Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Hide/Fake Snapchat Location on Your Tecno Spark 10C
 excerpt: This article describes How to Hide/Fake Snapchat Location on Your Tecno Spark 10C
 keywords: change skype location for Android,fake WhatsApp location for Android,change facebook location for Tecno Spark 10C,fake Twitter location for Android,change skype location for Tecno Spark 10C,fake facebook location for Android
-thumbnail: https://www.lifewire.com/thmb/u__p9PWL3Uvoj7yKh73LTAz8p1I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphonedefaultalerttone-15a2b7bd66de41878765af23bd0d6c6f.png
+thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb44504b07d25f967a878becd.png
 ---
 
 ## How to Hide/Fake Snapchat Location on Your Tecno Spark 10C
@@ -199,7 +199,7 @@ It means you'll be able to publish your own Yik Yak posts from different locatio
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -215,7 +215,7 @@ So, here's the step-by-step process for changing location on Yik Yak using Dr.Fo
 
 **Step 1:** Install and launch Dr.Fone - Virtual Location on your computer. Double-click on its icon to launch the applications and click the “Virtual Location” option.
 
-![ click the virtual location option](https://images.wondershare.com/drfone/guide/drfone-home.png)
+![click the virtual location option](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2:** Now, tap “Get Started” to proceed further.
 

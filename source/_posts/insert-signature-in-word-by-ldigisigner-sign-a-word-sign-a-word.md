@@ -1,7 +1,7 @@
 ---
 title: Insert signature in Word
-date: 2024-05-19T18:09:43.348Z
-updated: 2024-05-20T18:09:43.348Z
+date: 2024-06-18T00:33:56.197Z
+updated: 2024-06-19T00:33:56.197Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: Free Word signature service to sign Word online. Add signature to Word documents with our Word signer. No registration or installation required | DigiSigner
 excerpt: Free Word signature service to sign Word online. Add signature to Word documents with our Word signer. No registration or installation required | DigiSigner
 keywords: .dotm file signature app,.wps file signature free,.rtf file signature,.txt file signature free,.fodt file signature online
-thumbnail: https://www.lifewire.com/thmb/0ReomQ5wrb7WSffrn0hDnZKzgPU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-things-to-consider-before-buying-a-gaming-laptop-5235493-145a8c941b9f46e99d9a90bdee387893.jpg
+thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1ab1cb47d3f2f93a3bce610c.jpg
 ---
 
 ## 1. Insert signature in Word
@@ -39,9 +39,7 @@ Electronic Signature in Word is a simple and secure way to sign documents online
 
 ### 2.2. Instructions on how to create electronic signature in Word
 
-These detailed instructions demonstrate how to sign a Word document online. Our free version of DigiSigner online signature software allows you to sign Word documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
-
-[https://www.digisigner.com/free-electronic-signature/](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
+These detailed instructions demonstrate how to sign a Word document online. Our free version of DigiSigner online signature software allows you to sign Word documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required![https://www.digisigner.com/free-electronic-signature/](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
 
 #### 2.2.1. Upload a file
 

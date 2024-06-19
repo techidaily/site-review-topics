@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y17s | Dr.fone
-date: 2024-04-29T23:02:10.133Z
-updated: 2024-04-30T23:02:10.133Z
+date: 2024-06-18T00:35:56.654Z
+updated: 2024-06-19T00:35:56.654Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y17s
 excerpt: This article describes How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y17s
 keywords: change location for Vivo Y17s,change facebook location for Android,change Twitter location for Android,change Twitter location for Vivo Y17s,change WhatsApp location for Android,change skype location for Vivo Y17s,fake facebook location for Android
-thumbnail: https://www.lifewire.com/thmb/jYmIoXAzWYI6-krphnPX46os0Yg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tablets-vs-laptops-832333-93961eb085ff44d99d3836a0d0fa486a.png
+thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d3949b489b0214f6877268e346.png
 ---
 
 ## How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y17s
@@ -245,7 +245,7 @@ It means you'll be able to publish your own Yik Yak posts from different locatio
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -261,7 +261,7 @@ So, here's the step-by-step process for changing location on Yik Yak using Dr.Fo
 
 **Step 1:** Install and launch Dr.Fone - Virtual Location on your computer. Double-click on its icon to launch the applications and click the “Virtual Location” option.
 
-![ click the virtual location option](https://images.wondershare.com/drfone/guide/drfone-home.png)
+![click the virtual location option](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2:** Now, tap “Get Started” to proceed further.
 

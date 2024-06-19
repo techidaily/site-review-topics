@@ -1,7 +1,7 @@
 ---
 title: In 2024, Edit and Send Fake Location on Telegram For your Infinix GT 10 Pro in 3 Ways | Dr.fone
-date: 2024-04-29T23:03:10.521Z
-updated: 2024-04-30T23:03:10.521Z
+date: 2024-06-18T00:35:29.438Z
+updated: 2024-06-19T00:35:29.438Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes Edit and Send Fake Location on Telegram For your Infinix GT 10 Pro in 3 Ways
 excerpt: This article describes Edit and Send Fake Location on Telegram For your Infinix GT 10 Pro in 3 Ways
 keywords: fake skype location for Android,change facebook location for Android,fake location for Android,fake facebook location for Android,change location for Android,change skype location for Infinix GT 10 Pro,fake WhatsApp location for Android
-thumbnail: https://www.lifewire.com/thmb/V0mVc7hXHyanE76GvodfwiaKNvE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-966273172-fbc5e7e0e68a48f69a1a5ddc0d6df827.jpg
+thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761cee72b14ccd455aec2a0df5c4.jpg
 ---
 
 ## Edit and Send Fake Location on Telegram For your Infinix GT 10 Pro in 3 Ways
@@ -60,7 +60,7 @@ Install and run Dr.Fone on your PC and then connect your smartphone to your comp
 
 #### Step 2. Link your smartphone to Dr.Fone
 
-![ connect the software with Wi-Fi without an USB cable](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
+![connect the software with Wi-Fi without an USB cable](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 Next, open your smartphone’s Settings app and enable USB debugging to connect it to Dr.Fone. Fortunately, this program comes with a simple guide for all iOS and Android versions.
 
@@ -68,7 +68,7 @@ Next, open your smartphone’s Settings app and enable USB debugging to connect 
 
 #### Step 3. Choose your desired location and move
 
-![ teleport to desired location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+![teleport to desired location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 After successfully connecting your device to Dr.Fone, tap **Next** to open the Virtual Location map. Now enter the **Teleport Mode** and key in the GPS coordinates or location you want to move to. Alternatively, simply tap a spot on the map and click **Move Her**e. And there is that!
 
@@ -92,7 +92,7 @@ Step 1. Fire up Play Store and search for “fake GPS location.” You’ll see 
 
 Step 2. Next, open **Additional Settings** and choose **Developer options** on your phone. Then, set Fake GPS location as the mock location app.
 
-![ fake gps on telegram - select mock mode](https://images.wondershare.com/drfone/article/fake-gps-on-telegram-4.jpg)
+![fake gps on telegram - select mock mode](https://images.wondershare.com/drfone/article/fake-gps-on-telegram-4.jpg)
 
 Step 3. Now launch the app and choose your new GPS location. If satisfied, simply tap the green **Play** button.
 

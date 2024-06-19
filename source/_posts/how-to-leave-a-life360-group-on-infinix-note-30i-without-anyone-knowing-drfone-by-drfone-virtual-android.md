@@ -1,7 +1,7 @@
 ---
 title: How To Leave a Life360 Group On Infinix Note 30i Without Anyone Knowing? | Dr.fone
-date: 2024-04-12T01:37:59.675Z
-updated: 2024-04-13T01:37:59.675Z
+date: 2024-06-18T00:34:03.685Z
+updated: 2024-06-19T00:34:03.685Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Leave a Life360 Group On Infinix Note 30i Without Anyone Knowing?
 excerpt: This article describes How To Leave a Life360 Group On Infinix Note 30i Without Anyone Knowing?
 keywords: change skype location for Android,change location for Infinix Note 30i,change Twitter location for Android,change WhatsApp location for Android,fake location for Android,change facebook location for Infinix Note 30i,change Twitter location for Infinix Note 30i,change WhatsApp location for Infinix Note 30i,fake skype location for Android,change location for Android,fake Twitter location for Android
-thumbnail: https://www.lifewire.com/thmb/0LHpu91V9jV229cdma0w0BAh3EI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple-logo-steering-wheel-25522ee2c5664139948ebfd1cb1df653.jpg
+thumbnail: https://thmb.techidaily.com/74113c2d83645a48c9d2ad195371cc6a07bee43db8bd23e967a3613c122b6663.jpg
 ---
 
 ## How To Leave a Life360 Group On Infinix Note 30i Without Anyone Knowing?
@@ -351,7 +351,7 @@ Launch XCode and then create a new project
 
 Then choose the option marked “Single View iOS application.
 
-![Choose the ](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-3.jpg)
+![Choose the](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-3.jpg)
 
 Now customize the project options and give it any name that you desire.
 
@@ -403,7 +403,7 @@ Towards the top right-hand corner of your screen, click on the button that is di
 
 Now your iOS device will be showing at the top. Select it and proceed.
 
-![select your iOS device in the app ](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-10.jpg)
+![select your iOS device in the app](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-10.jpg)
 
 Hit the “Play” icon that is found at the top left side of your screen.
 

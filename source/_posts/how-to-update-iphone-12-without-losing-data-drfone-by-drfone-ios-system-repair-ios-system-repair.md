@@ -1,7 +1,7 @@
 ---
 title: How to Update iPhone 12 without Losing Data? | Dr.fone
-date: 2024-05-19T18:09:41.162Z
-updated: 2024-05-20T18:09:41.162Z
+date: 2024-06-18T00:35:02.963Z
+updated: 2024-06-19T00:35:02.963Z
 tags: 
   - ios system repair
   - iphone repair
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Update iPhone 12 without Losing Data?
 excerpt: This article describes How to Update iPhone 12 without Losing Data?
 keywords: reset iPhone 12,reset iPhone,repair iPhone 12 system issues,repair iPhone system issues,recovery mode on iPhone,DFU mode on iPhone 12,upgrade or downgrade iPhone 12 without iTunes,upgrade or downgrade iPhone without iTunes,recovery mode on iPhone 12,DFU mode on iPhone
-thumbnail: https://www.lifewire.com/thmb/QlJ49L63E9oyywyXJAGv3C_qUuE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/switcheshero-4f3b792cb7014baf919e7c68b91e96ab.jpg
+thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a6b22046a96709ecae17c234.jpg
 ---
 
 ## How To Repair iPhone 12 iOS System Issues?

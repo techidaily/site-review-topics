@@ -1,7 +1,7 @@
 ---
 title: How To Transfer Data From iPhone SE (2022) To Other iPhone 11 devices? | Dr.fone
-date: 2024-05-19T18:09:38.961Z
-updated: 2024-05-20T18:09:38.961Z
+date: 2024-06-18T00:35:43.079Z
+updated: 2024-06-19T00:35:43.079Z
 tags: 
   - transfer data
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How To Transfer Data From iPhone SE (2022) To Other iPhone 11 devices?
 excerpt: This article describes How To Transfer Data From iPhone SE (2022) To Other iPhone 11 devices?
 keywords: transfer data from iPhone SE (2022) To Other iPhone devices,transfer data from iPhone To Other iPhone,transfer data from iPhone,transfer data from iPhone To Other iPhone devices,transfer data from iPhone SE (2022) to Android,transfer data from iPhone SE (2022) To Other iPhone
-thumbnail: https://www.lifewire.com/thmb/ptfhak0BFgk1HbWMQnlfEezMM8Q=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kentuckyderby-5c7ed5d646e0fb00011bf3da.jpg
+thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794edca9da0873a40e49d2c700e6.jpg
 ---
 
 ## How To Transfer Data From iPhone SE (2022) to Android/iOS?

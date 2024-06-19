@@ -1,7 +1,7 @@
 ---
 title: How To Upgrade or Downgrade iPhone XR? | Dr.fone
-date: 2024-05-19T18:09:42.055Z
-updated: 2024-05-20T18:09:42.055Z
+date: 2024-06-18T00:34:04.700Z
+updated: 2024-06-19T00:34:04.700Z
 tags: 
   - ios system repair
   - iphone repair
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Upgrade or Downgrade iPhone XR?
 excerpt: This article describes How To Upgrade or Downgrade iPhone XR?
 keywords: recovery mode on iPhone,reset iPhone,repair iPhone XR system issues,upgrade or downgrade iPhone XR without iTunes,repair iPhone system issues,DFU mode on iPhone XR,upgrade or downgrade iPhone without iTunes,reset iPhone XR,DFU mode on iPhone
-thumbnail: https://www.lifewire.com/thmb/mQGqL0eWRfBieVMGM5ZlJAtwh3c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-mobile-boarding-pass-eb61458058f44011ad7ed012566127e4.jpg
+thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9ade996e1956601a5424d0a8.jpg
 ---
 
 ## How To Upgrade or Downgrade iPhone XR Without iTunes?

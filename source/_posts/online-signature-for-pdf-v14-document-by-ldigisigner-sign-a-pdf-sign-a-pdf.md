@@ -1,7 +1,7 @@
 ---
 title: Online signature for PDF v1.4 document
-date: 2024-05-19T18:09:44.037Z
-updated: 2024-05-20T18:09:44.037Z
+date: 2024-06-18T00:35:15.150Z
+updated: 2024-06-19T00:35:15.150Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes Online signature for PDF v1.4 document
 excerpt: This article describes Online signature for PDF v1.4 document
 keywords: pdf signature best,pdf signature,pdf signature service,pdf signature online
-thumbnail: https://www.lifewire.com/thmb/U3vDiQ7GsjPng-Yja5bpNwc079s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-527847020-5b9edc17c9e77c0050ff9045.jpg
+thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5e7d77e30ca04d5bf449b804.jpg
 ---
 
 ## 1. Online signature for PDF v1.4 document
@@ -39,9 +39,7 @@ thumbnail: https://www.lifewire.com/thmb/U3vDiQ7GsjPng-Yja5bpNwc079s=/400x300/fi
 
 > Free PDF signature service to sign PDF
 
-These step by step instructions explain how to sign a PDF. Our free PDF signature tool allows you to sign PDF online (plus Word, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
-
-[https://www.digisigner.com/free-electronic-signature/](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
+These step by step instructions explain how to sign a PDF. Our free PDF signature tool allows you to sign PDF online (plus Word, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required![https://www.digisigner.com/free-electronic-signature/](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
 
 #### 2.2.1. Upload a file
 

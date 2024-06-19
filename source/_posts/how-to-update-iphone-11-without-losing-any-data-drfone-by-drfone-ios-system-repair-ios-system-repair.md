@@ -1,7 +1,7 @@
 ---
 title: How to Update iPhone 11 without Losing Any Data? | Dr.fone
-date: 2024-05-19T18:09:41.130Z
-updated: 2024-05-20T18:09:41.130Z
+date: 2024-06-18T00:33:42.643Z
+updated: 2024-06-19T00:33:42.643Z
 tags: 
   - ios system repair
   - iphone repair
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Update iPhone 11 without Losing Any Data?
 excerpt: This article describes How to Update iPhone 11 without Losing Any Data?
 keywords: upgrade or downgrade iPhone without iTunes,reset iPhone 11,repair iPhone system issues,DFU mode on iPhone,recovery mode on iPhone,repair iPhone 11 system issues,DFU mode on iPhone 11,upgrade or downgrade iPhone 11 without iTunes,recovery mode on iPhone 11,reset iPhone
-thumbnail: https://www.lifewire.com/thmb/V0mVc7hXHyanE76GvodfwiaKNvE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-966273172-fbc5e7e0e68a48f69a1a5ddc0d6df827.jpg
+thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761cee72b14ccd455aec2a0df5c4.jpg
 ---
 
 ## How To Repair iPhone 11 iOS System Issues?
