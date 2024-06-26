@@ -1,7 +1,7 @@
 ---
 title: In 2024, Does Infinix Note 30 Pro Have Find My Friends? | Dr.fone
-date: 2024-04-29T23:03:02.594Z
-updated: 2024-04-30T23:03:02.594Z
+date: 2024-06-25T03:38:20.575Z
+updated: 2024-06-26T03:38:20.575Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes Does Infinix Note 30 Pro Have Find My Friends?
 excerpt: This article describes Does Infinix Note 30 Pro Have Find My Friends?
 keywords: change Twitter location for Infinix Note 30 Pro,fake facebook location for Android,change Twitter location for Android,change facebook location for Android,change facebook location for Infinix Note 30 Pro,change location for Infinix Note 30 Pro,fake skype location for Android,fake WhatsApp location for Android,change skype location for Android,change WhatsApp location for Infinix Note 30 Pro
-thumbnail: https://www.lifewire.com/thmb/q3inw24-h4v92CyIU7_fxjPM1JU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-messages-889fef4cdfac41babb84770288f32cf2.jpg
+thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a3dc9eccb9055a4b28f7166a.jpg
 ---
 
 ## Does Infinix Note 30 Pro Have Find My Friends?

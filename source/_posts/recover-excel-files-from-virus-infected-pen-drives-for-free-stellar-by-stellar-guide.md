@@ -1,7 +1,7 @@
 ---
 title: Recover Excel Files from Virus-Infected Pen Drives for Free | Stellar
-date: 2024-03-11 11:21:38
-updated: 2024-03-14 23:23:42
+date: 2024-06-25T03:38:45.034Z
+updated: 2024-06-26T03:38:45.034Z
 tags: 
   - repair
   - repair excel
@@ -12,7 +12,7 @@ categories:
 description: This article describes Recover Excel Files from Virus-Infected Pen Drives for Free
 excerpt: This article describes Recover Excel Files from Virus-Infected Pen Drives for Free
 keywords: repair corrupt .xltx files,repair .xlb,repair .xltx,repair damaged .xlsx,repair corrupt .xltm files,repair corrupt .xlb,repair corrupt .xlsm,repair excel 2000,repair damaged .xltx files,repair .xls
-thumbnail: https://www.lifewire.com/thmb/4ql928fMUKkO_EPWrgDkfeEcVtE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/family-hanging-out-watching-videos-online-1166432791-309c6f7ac8cb4cc99875db5a77fd6f35.jpg
+thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
 ---
 
 ## Recover Excel Files from Virus-Infected Pen Drives for Free
@@ -504,7 +504,7 @@ Figure: Create new key
 
 5. Type ‘File Parameters’ in the available box
 
-!['Type ‘File Parameters’ in the available box' ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/File-Parameter.jpg)
+!['Type ‘File Parameters’ in the available box'](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/File-Parameter.jpg)
 
 Figure: File parameters
 
@@ -614,7 +614,7 @@ The personal macro workbook (Personal.xlsb) file is stored in XLStart folder. It
 - Open the workbook.
 - Click on the **Developer** tab.
 
-![developer tab ](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/fix-personal-macro-workbook/developer-tab.png)
+![developer tab](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/fix-personal-macro-workbook/developer-tab.png)
 
 - Press **Alt + F11** to open Visual Basic Editor.
 - Go to **View > Immediate Window.**
@@ -766,3 +766,26 @@ As an automated software, Stellar Repair for Excel is easy-to-use. You do not ne
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Life360 Notify When You Log Out On Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-hidefake-snapchat-location-on-your-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-samsung-galaxy-a54-5g-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Samsung Galaxy A54 5G and stops randomly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-infinix-smart-7-hd-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Infinix Smart 7 HD</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Vivo Y100? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6s-plus-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6s Plus to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-iphone-15-plus-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone 15 Plus in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/connecting-consciously-with-content-craftsmen-of-your-realm/"><u>Connecting Consciously with Content Craftsmen of Your Realm</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-audio-artistry-the-step-by-step-process-of-mixing-sounds-for-movie-scenes-for-2024/"><u>Updated Audio Artistry The Step-by-Step Process of Mixing Sounds for Movie Scenes for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-maximize-your-music-library-top-youtube-to-mp3-converter-reviews-and-guides/"><u>New 2024 Approved Maximize Your Music Library Top YouTube to MP3 Converter Reviews and Guides</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-from-capture-to-share-precision-cropping-and-export-tips-for-instagram/"><u>[Updated] From Capture to Share  Precision Cropping & Export Tips for Instagram</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-tier-free-video-editing-software-guide-for-iphoneipad-users/"><u>Top-Tier Free Video Editing Software Guide for iPhone/iPad Users</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-monetization-masterclass-with-carminati-ajay-crafting-content-for-commerce/"><u>[Updated] Monetization Masterclass with Carminati (AJay)  Crafting Content for Commerce</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-no-cost-video-watermarking-solutions-expert-recommendations/"><u>Updated In 2024, No-Cost Video Watermarking Solutions Expert Recommendations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-hand-tracking-explained/"><u>Comprehensive Hand Tracking Explained</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-hidden-reasons-behind-imovies-cuts/"><u>[New] The Hidden Reasons Behind iMovie’s Cuts</u></a></li>
+</ul></div>

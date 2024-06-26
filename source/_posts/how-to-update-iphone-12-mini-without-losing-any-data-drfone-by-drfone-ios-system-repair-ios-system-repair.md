@@ -1,7 +1,7 @@
 ---
 title: How to Update iPhone 12 mini without Losing Any Data? | Dr.fone
-date: 2024-05-19T18:09:41.138Z
-updated: 2024-05-20T18:09:41.138Z
+date: 2024-06-25T03:39:46.821Z
+updated: 2024-06-26T03:39:46.821Z
 tags: 
   - ios system repair
   - iphone repair
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Update iPhone 12 mini without Losing Any Data?
 excerpt: This article describes How to Update iPhone 12 mini without Losing Any Data?
 keywords: reset iPhone 12 mini,repair iPhone 12 mini system issues,upgrade or downgrade iPhone 12 mini without iTunes,recovery mode on iPhone,DFU mode on iPhone,repair iPhone system issues
-thumbnail: https://www.lifewire.com/thmb/8WNeD74C3OD4Hr-lVFvg4bLBeLA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-140173628BetsieVanDerMeer-5927117e5f9b5859509a476c.jpg
+thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a34b2694ff1529f9b0220b04e.jpg
 ---
 
 ## How To Repair iPhone 12 mini iOS System Issues?

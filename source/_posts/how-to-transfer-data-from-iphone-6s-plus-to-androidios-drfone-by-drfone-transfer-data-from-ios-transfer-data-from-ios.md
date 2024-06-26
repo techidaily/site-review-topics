@@ -1,7 +1,7 @@
 ---
 title: How To Transfer Data From iPhone 6s Plus To Android/iOS? | Dr.fone
-date: 2024-05-19T18:09:38.782Z
-updated: 2024-05-20T18:09:38.782Z
+date: 2024-06-25T03:38:23.720Z
+updated: 2024-06-26T03:38:23.720Z
 tags: 
   - transfer data
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How To Transfer Data From iPhone 6s Plus To Android/iOS?
 excerpt: This article describes How To Transfer Data From iPhone 6s Plus To Android/iOS?
 keywords: transfer data from iPhone 6s Plus to Android,transfer data from iPhone,transfer data from iPhone 6s Plus To Other iPhone,transfer data from iPhone to Android,transfer data from iPhone To Other iPhone,transfer data from iPhone 6s Plus
-thumbnail: https://www.lifewire.com/thmb/W4WRTJiI80qWQugtfcrcauwLImY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rearviewofboywithlaptoponsofa-31ba45dfa7fb4553a257c133b352ef64.jpg
+thumbnail: https://thmb.techidaily.com/26dcef27c207b8605e3fcf4585ee0822110eeb8a794c85ff8e27071c7786d452.jpg
 ---
 
 ## How To Transfer Data From iPhone 6s Plus to Android/iOS?

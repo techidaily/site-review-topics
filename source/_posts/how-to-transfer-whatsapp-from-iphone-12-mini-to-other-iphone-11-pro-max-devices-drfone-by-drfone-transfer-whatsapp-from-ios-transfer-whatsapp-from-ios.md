@@ -1,7 +1,7 @@
 ---
 title: How To Transfer WhatsApp From iPhone 12 mini to other iPhone 11 Pro Max devices? | Dr.fone
-date: 2024-05-19T18:09:39.188Z
-updated: 2024-05-20T18:09:39.188Z
+date: 2024-06-25T03:39:28.278Z
+updated: 2024-06-26T03:39:28.278Z
 tags: 
   - transfer whatsapp
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How To Transfer WhatsApp From iPhone 12 mini to other iPhone 11 Pro Max devices?
 excerpt: This article describes How To Transfer WhatsApp From iPhone 12 mini to other iPhone 11 Pro Max devices?
 keywords: transfer whatsapp from iPhone 12 mini,transfer whatsapp from iPhone 12 mini to Android,transfer whatsapp from iPhone,transfer whatsapp from iPhone to Android,transfer whatsapp from iPhone 12 mini to other iPhone devices,transfer whatsapp from iPhone 12 mini to other iPhone,transfer whatsapp from iPhone to other iPhone devices,transfer whatsapp from iPhone to other iPhone
-thumbnail: https://www.lifewire.com/thmb/ir-tdkJhetInDNhHCkfbZa8f19M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flack-6b3c3167132c467db22bae39689c44ef.jpg
+thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d114b5800bdb87d98b552aa6d.jpg
 ---
 
 ## How To Transfer WhatsApp From iPhone 12 mini to Android/iOS?

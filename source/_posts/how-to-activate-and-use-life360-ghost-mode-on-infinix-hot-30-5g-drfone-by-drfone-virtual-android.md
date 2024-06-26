@@ -1,7 +1,7 @@
 ---
 title: How To Activate and Use Life360 Ghost Mode On Infinix Hot 30 5G | Dr.fone
-date: 2024-04-07T02:23:54.650Z
-updated: 2024-04-08T02:23:54.650Z
+date: 2024-06-25T03:39:47.862Z
+updated: 2024-06-26T03:39:47.862Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Activate and Use Life360 Ghost Mode On Infinix Hot 30 5G
 excerpt: This article describes How To Activate and Use Life360 Ghost Mode On Infinix Hot 30 5G
 keywords: fake skype location for Android,change location for Infinix Hot 30 5G,fake facebook location for Android,change WhatsApp location for Infinix Hot 30 5G,change skype location for Infinix Hot 30 5G,change Twitter location for Android,change Twitter location for Infinix Hot 30 5G,change location for Android,change skype location for Android,fake Twitter location for Android
-thumbnail: https://www.lifewire.com/thmb/ifJDA6ScbZuUR7Omss65zhVMxok=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-155159821-8881bead1d894a0b95bca3c3e288ff54.jpg
+thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6244e3ee7a3676c38fda1900.jpg
 ---
 
 ## How To Activate and Use Life360 Ghost Mode On Infinix Hot 30 5G

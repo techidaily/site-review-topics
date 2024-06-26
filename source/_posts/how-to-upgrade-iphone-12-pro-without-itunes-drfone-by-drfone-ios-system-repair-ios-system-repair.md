@@ -1,7 +1,7 @@
 ---
 title: How to Upgrade iPhone 12 Pro without iTunes? | Dr.fone
-date: 2024-05-19T18:09:41.659Z
-updated: 2024-05-20T18:09:41.659Z
+date: 2024-06-25T03:39:26.286Z
+updated: 2024-06-26T03:39:26.286Z
 tags: 
   - ios system repair
   - iphone repair
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Upgrade iPhone 12 Pro without iTunes?
 excerpt: This article describes How to Upgrade iPhone 12 Pro without iTunes?
 keywords: upgrade or downgrade iPhone without iTunes,DFU mode on iPhone 12 Pro,recovery mode on iPhone,repair iPhone 12 Pro system issues,upgrade or downgrade iPhone 12 Pro without iTunes,DFU mode on iPhone,repair iPhone system issues,reset iPhone 12 Pro
-thumbnail: https://www.lifewire.com/thmb/8cntKMhShePwne7YMK1BVkFRlYs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snork-fa65ca350e2243e1a2deaf6bb7b209b1.jpg
+thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4255ce54480ebe44b63f8c8e.jpg
 ---
 
 ## How To Upgrade or Downgrade iPhone 12 Pro Without iTunes?
