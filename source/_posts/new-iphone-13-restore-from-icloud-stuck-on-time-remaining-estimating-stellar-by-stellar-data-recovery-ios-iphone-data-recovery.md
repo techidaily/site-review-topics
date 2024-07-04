@@ -1,7 +1,7 @@
 ---
 title: New iPhone 13 Restore from iCloud Stuck on Time Remaining Estimating | Stellar
-date: 2024-05-19T18:09:43.846Z
-updated: 2024-05-20T18:09:43.846Z
+date: 2024-07-03T17:01:23.535Z
+updated: 2024-07-04T17:01:23.535Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -10,7 +10,7 @@ categories:
 description: This article describes New iPhone 13 Restore from iCloud Stuck on Time Remaining Estimating
 excerpt: This article describes New iPhone 13 Restore from iCloud Stuck on Time Remaining Estimating
 keywords: recover iPhone 13 data,recover lost data from iPhone 13,recover data from iPhone,recover iPhone 13 data after jailbreak,recover iPhone data,recover iPhone 13 data without backup,recover iPhone data after screen damage
-thumbnail: https://www.lifewire.com/thmb/Upemm_83fheu5JnASUVL9rXiGqw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheOscarsStatue-33f6c30d7ffd4694a4dd1d1113de57f5.jpg
+thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6f572fe9945c7d91985d72b7.jpg
 ---
 
 ## New iPhone 14 Restore from iCloud Stuck on Time Remaining Estimating
@@ -129,7 +129,7 @@ Just get on to the below steps to recover deleted photos from iCloud:
 - Select **Erase Now** in the dialog box and follow the prompts until you reach the Apps & Data screen.
 - Click on **Restore from iCloud Backup.**
 
-![ Restore from iCloud Backup on iphone](https://www.stellarinfo.com/blog/wp-content/uploads/2022/03/iphone11-ios14-apps-data-restore-from-icloud-backup.jpg)
+![Restore from iCloud Backup on iphone](https://www.stellarinfo.com/blog/wp-content/uploads/2022/03/iphone11-ios14-apps-data-restore-from-icloud-backup.jpg)
 
 - Sign in to your iCloud account.
 - Select the recent backup from the list that has the deleted pictures. Click **Restore** to get back the deleted photos on your iPhone.

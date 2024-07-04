@@ -1,7 +1,7 @@
 ---
 title: How To Upgrade or Downgrade iPhone SE Without Losing Anything? | Dr.fone
-date: 2024-05-19T18:09:42.049Z
-updated: 2024-05-20T18:09:42.049Z
+date: 2024-07-03T17:02:19.057Z
+updated: 2024-07-04T17:02:19.057Z
 tags: 
   - ios system repair
   - iphone repair
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Upgrade or Downgrade iPhone SE Without Losing Anything?
 excerpt: This article describes How To Upgrade or Downgrade iPhone SE Without Losing Anything?
 keywords: DFU mode on iPhone,upgrade or downgrade iPhone without iTunes,recovery mode on iPhone SE,reset iPhone,repair iPhone SE system issues,repair iPhone system issues
-thumbnail: https://www.lifewire.com/thmb/85rwStNr21lvFIjCfmY8ErdogYI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wimbledonlivestream-c22d5eefbf8f40e9b25ba4cab1734ece.jpg
+thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c12bd8c02f2b01f747786c25.jpg
 ---
 
 ## How To Upgrade or Downgrade iPhone SE Without iTunes?

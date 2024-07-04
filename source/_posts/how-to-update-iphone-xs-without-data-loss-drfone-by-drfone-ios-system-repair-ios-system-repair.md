@@ -1,7 +1,7 @@
 ---
 title: How to Update iPhone XS without Data Loss? | Dr.fone
-date: 2024-05-19T18:09:41.372Z
-updated: 2024-05-20T18:09:41.372Z
+date: 2024-07-03T17:00:51.587Z
+updated: 2024-07-04T17:00:51.587Z
 tags: 
   - ios system repair
   - iphone repair
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Update iPhone XS without Data Loss?
 excerpt: This article describes How to Update iPhone XS without Data Loss?
 keywords: DFU mode on iPhone XS,upgrade or downgrade iPhone without iTunes,recovery mode on iPhone XS,reset iPhone,upgrade or downgrade iPhone XS without iTunes,repair iPhone XS system issues,reset iPhone XS,DFU mode on iPhone,recovery mode on iPhone,repair iPhone system issues
-thumbnail: https://www.lifewire.com/thmb/bJZjivkvkiXSPidjAhZPdQz2Xu8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-545995058-58ed21243df78cadab023f3c.jpg
+thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3680cebd2f9e48a956c136d3.jpg
 ---
 
 ## How To Repair iPhone XS iOS System Issues?

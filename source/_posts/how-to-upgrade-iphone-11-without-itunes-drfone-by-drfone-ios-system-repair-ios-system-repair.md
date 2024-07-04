@@ -1,7 +1,7 @@
 ---
 title: How to Upgrade iPhone 11 without iTunes? | Dr.fone
-date: 2024-05-19T18:09:41.582Z
-updated: 2024-05-20T18:09:41.582Z
+date: 2024-07-03T17:02:16.428Z
+updated: 2024-07-04T17:02:16.428Z
 tags: 
   - ios system repair
   - iphone repair
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Upgrade iPhone 11 without iTunes?
 excerpt: This article describes How to Upgrade iPhone 11 without iTunes?
 keywords: reset iPhone 11,upgrade or downgrade iPhone 11 without iTunes,reset iPhone,recovery mode on iPhone 11,DFU mode on iPhone 11,upgrade or downgrade iPhone without iTunes,repair iPhone system issues,DFU mode on iPhone,repair iPhone 11 system issues,recovery mode on iPhone
-thumbnail: https://www.lifewire.com/thmb/hXsx55Jq_t9VhBh8GdAq7SriZ7k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-check-ram-in-android-5192499-8e8b91b6d94b4ab98c3bfa9ba41a4f66.jpg
+thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5486b2d51ee08c850ba80fdd.jpg
 ---
 
 ## How To Upgrade or Downgrade iPhone 11 Without iTunes?

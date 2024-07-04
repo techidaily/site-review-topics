@@ -1,7 +1,7 @@
 ---
 title: How To Upgrade or Downgrade iPhone 6s Without iTunes? | Dr.fone
-date: 2024-05-19T18:09:42.006Z
-updated: 2024-05-20T18:09:42.006Z
+date: 2024-07-03T17:00:53.701Z
+updated: 2024-07-04T17:00:53.701Z
 tags: 
   - ios system repair
   - iphone repair
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Upgrade or Downgrade iPhone 6s Without iTunes?
 excerpt: This article describes How To Upgrade or Downgrade iPhone 6s Without iTunes?
 keywords: recovery mode on iPhone 6s,recovery mode on iPhone,repair iPhone 6s system issues,reset iPhone 6s,DFU mode on iPhone 6s,repair iPhone system issues,upgrade or downgrade iPhone 6s without iTunes,reset iPhone,DFU mode on iPhone,upgrade or downgrade iPhone without iTunes
-thumbnail: https://www.lifewire.com/thmb/R4hO61lalLOqraKCRcJdmU6HWfQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0010_21-best-teen-movies-on-netflix-5104880-b0e9832746854cabb4f33cafef96214b.jpg
+thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d9b87e9c40850a4f81b5f21f.jpg
 ---
 
 ## How To Upgrade or Downgrade iPhone 6s Without iTunes?

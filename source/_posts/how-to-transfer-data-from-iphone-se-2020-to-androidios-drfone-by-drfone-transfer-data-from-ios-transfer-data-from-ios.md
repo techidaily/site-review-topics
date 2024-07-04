@@ -1,7 +1,7 @@
 ---
 title: How To Transfer Data From iPhone SE (2020) To Android/iOS? | Dr.fone
-date: 2024-05-19T18:09:38.935Z
-updated: 2024-05-20T18:09:38.935Z
+date: 2024-07-03T17:01:33.105Z
+updated: 2024-07-04T17:01:33.105Z
 tags: 
   - transfer data
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How To Transfer Data From iPhone SE (2020) To Android/iOS?
 excerpt: This article describes How To Transfer Data From iPhone SE (2020) To Android/iOS?
 keywords: transfer data from iPhone to Android,transfer data from iPhone To Other iPhone devices,transfer data from iPhone,transfer data from iPhone SE (2020),transfer data from iPhone SE (2020) to Android,transfer data from iPhone To Other iPhone
-thumbnail: https://www.lifewire.com/thmb/LQMb1e3-Mg4L1lN_8a1V_-CacMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-155096051-5b1bf60d43a1030036cfac94.jpg
+thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec47ad22d2523d6d2404f16cd1.jpg
 ---
 
 ## How To Transfer Data From iPhone SE (2020) to Android/iOS?

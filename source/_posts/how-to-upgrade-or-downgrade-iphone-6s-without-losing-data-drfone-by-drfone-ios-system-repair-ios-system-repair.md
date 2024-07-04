@@ -1,7 +1,7 @@
 ---
 title: How To Upgrade or Downgrade iPhone 6s Without Losing Data? | Dr.fone
-date: 2024-05-19T18:09:42.008Z
-updated: 2024-05-20T18:09:42.008Z
+date: 2024-07-03T17:00:35.626Z
+updated: 2024-07-04T17:00:35.626Z
 tags: 
   - ios system repair
   - iphone repair
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Upgrade or Downgrade iPhone 6s Without Losing Data?
 excerpt: This article describes How To Upgrade or Downgrade iPhone 6s Without Losing Data?
 keywords: reset iPhone 6s,DFU mode on iPhone,reset iPhone,repair iPhone system issues,repair iPhone 6s system issues,recovery mode on iPhone 6s,upgrade or downgrade iPhone without iTunes,DFU mode on iPhone 6s,upgrade or downgrade iPhone 6s without iTunes,recovery mode on iPhone
-thumbnail: https://www.lifewire.com/thmb/4ql928fMUKkO_EPWrgDkfeEcVtE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/family-hanging-out-watching-videos-online-1166432791-309c6f7ac8cb4cc99875db5a77fd6f35.jpg
+thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
 ---
 
 ## How To Upgrade or Downgrade iPhone 6s Without iTunes?

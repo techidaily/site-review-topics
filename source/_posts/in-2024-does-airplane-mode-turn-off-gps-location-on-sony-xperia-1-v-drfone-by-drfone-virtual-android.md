@@ -1,7 +1,7 @@
 ---
 title: In 2024, Does Airplane Mode Turn off GPS Location On Sony Xperia 1 V? | Dr.fone
-date: 2024-03-22 12:48:34
-updated: 2024-03-24 15:42:31
+date: 2024-07-03T17:01:53.135Z
+updated: 2024-07-04T17:01:53.135Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Does Airplane Mode Turn off GPS Location On Sony Xperia 1 V?
 excerpt: This article describes Does Airplane Mode Turn off GPS Location On Sony Xperia 1 V?
 keywords: fake location on android,change location on Xperia 1 V,change gps location on android,change location on android,fake gps location on android,fake location on Xperia 1 V
-thumbnail: https://www.lifewire.com/thmb/jU4B8oA_UfiJeCU8cLXdnDK6sCU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-a-wireless-charger-5191283-cb27ceee3fea4547b5720b4934713a93.jpg
+thumbnail: https://thmb.techidaily.com/ac6fcc85e0fde61250c72c7455cdeba283035fd7fed1fa3496121c2d71b4b3d4.jpg
 ---
 
 ## Does Airplane Mode Turn off GPS Location On Sony Xperia 1 V?
@@ -127,7 +127,7 @@ Life360 is a helpful app for tracking your friends, family, and other people. Th
 
 So, it can be concluded that Airplane Mode disconnects you from the cellular network and Wi-Fi. Therefore, to stop getting traced, you need to disable your location services along with the airplane mode. Using [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is an excellent alternative to stop the GPS location as the software will help you set a fake location, and your actual location will remain hidden from all.
 
-![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 ## Can Life360 Track You When Your Sony Xperia 1 V is off?
 
@@ -143,7 +143,7 @@ Should we trust Life360, the social media company that recently merged with Goog
 
 - [Part 1: What Is Life360 And How Does It Work?](https://drfone.wondershare.com/virtual-location/can-life360-track-you-when-your-phone-is-off.html#Part1)
 - [Part 2: Does life360 work if the phone is off?](https://drfone.wondershare.com/virtual-location/can-life360-track-you-when-your-phone-is-off.html#Part2)
-- [Part 3: 3 Ways to Stop Life360 from Tracking You![hot icon](https://images.wondershare.com/drfone/article/2022/05/hot-tip.png)](https://drfone.wondershare.com/virtual-location/can-life360-track-you-when-your-phone-is-off.html#Part3)
+- [Part 3: 3 Ways to Stop Life360 from Tracking You ![hot icon](https://images.wondershare.com/drfone/article/2022/05/hot-tip.png)](https://drfone.wondershare.com/virtual-location/can-life360-track-you-when-your-phone-is-off.html#Part3)
 
 ## Part 1: What Is Life360 And How Does It Work?
 
@@ -332,3 +332,26 @@ I’m sure that after reading this guide, you would be able to pick the best rou
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-12-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 12 Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-12-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 12 Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-12-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 12 without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-sony-xperia-10-v-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Sony Xperia 10 V has been deleted.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-7-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 7 Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-itel-p40-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Itel P40</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-edge-40-neo-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-best-free-video-editing-tools-for-avi-videos/"><u>Updated The Best Free Video Editing Tools for AVI Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-time-lapse-wizardry-harnessing-gopros-potential/"><u>[Updated] Time-Lapse Wizardry  Harnessing GoPro's Potential</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/1714912905496-2024-approved-mp3-to-mp4-converter-how-to-convert-mp3-to-mp4/"><u>2024 Approved MP3 to MP4 Converter How to Convert MP3 to MP4</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/how-to-discern-and-assess-the-best-in-the-business-for-audio-post-production-excellence-for-2024/"><u>How to Discern and Assess the Best in the Business for Audio Post-Production Excellence for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-iphone-11-pro-max-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your iPhone 11 Pro Max? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-breaking-the-mold-pushing-a-video-into-hot-water/"><u>In 2024, Breaking the Mold  Pushing a Video Into Hot Water</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-breathe-new-life-into-your-mac-a-guide-to-freeing-up-space-and-improving-fcpx-performance/"><u>2024 Approved Breathe New Life Into Your Mac A Guide to Freeing Up Space and Improving FCPX Performance</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-split-your-screen-double-the-fun-top-video-apps-for-mobile/"><u>New 2024 Approved Split Your Screen, Double the Fun Top Video Apps for Mobile</u></a></li>
+</ul></div>

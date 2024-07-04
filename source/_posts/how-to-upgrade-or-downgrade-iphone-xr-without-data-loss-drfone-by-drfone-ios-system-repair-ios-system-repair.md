@@ -1,7 +1,7 @@
 ---
 title: How To Upgrade or Downgrade iPhone XR Without Data Loss? | Dr.fone
-date: 2024-05-19T18:09:42.056Z
-updated: 2024-05-20T18:09:42.056Z
+date: 2024-07-03T17:00:42.817Z
+updated: 2024-07-04T17:00:42.817Z
 tags: 
   - ios system repair
   - iphone repair
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Upgrade or Downgrade iPhone XR Without Data Loss?
 excerpt: This article describes How To Upgrade or Downgrade iPhone XR Without Data Loss?
 keywords: DFU mode on iPhone XR,recovery mode on iPhone XR,upgrade or downgrade iPhone without iTunes,repair iPhone XR system issues,reset iPhone,recovery mode on iPhone,repair iPhone system issues
-thumbnail: https://www.lifewire.com/thmb/gkHTDPF5tRElmHvxvKCu-VDPyhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/should-you-buy-an-apple-tv-5248431-f35331ef36b749b9895a2c1e3705cf22.jpg
+thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06feae865a9a356c9f8b695aec3.jpg
 ---
 
 ## How To Upgrade or Downgrade iPhone XR Without iTunes?
