@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated hardware drivers with Windows Device Manager on Windows 10
-date: 2024-05-19T18:09:42.978Z
+date: 2024-07-17T03:53:51.019Z
 tags: 
   - driver
   - device driver
@@ -64,10 +64,16 @@ To understand why, you first have to understand what drivers actually are…
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -82,6 +88,9 @@ We employ a strict testing regime to ensure our drivers are safe, secure and sta
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -91,10 +100,16 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -127,6 +142,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -171,3 +189,65 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-expert-tips-for-twitter-video-interactions/"><u>[New] In 2024, Expert Tips for Twitter Video Interactions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-recruitment-powerhouses-top-ten-shorts/"><u>[New] Recruitment Powerhouses - Top Ten Shorts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlock-your-charm-personalized-youtube-channel-url-essentials/"><u>[New] Unlock Your Charm  Personalized YouTube Channel URL Essentials</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-magic-in-haul-video-creation/"><u>[New] Unveiling the Magic in Haul Video Creation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-forget-not-fundamental-cinematography-for-aspiring-directors/"><u>[Updated] Forget Not  Fundamental Cinematography for Aspiring Directors</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-avoiding-obscured-games-fixes-for-obs-black-screen-issues/"><u>[Updated] In 2024, Avoiding Obscured Games  Fixes for OBS Black Screen Issues</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-convert-your-sbt-to-cutting-edge-srt-with-our-top-8-software-for-desktop-users/"><u>[Updated] In 2024, Convert Your SBT to Cutting-Edge SRT with Our Top 8 Software for Desktop Users</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-simplify-your-life-with-these-tips-on-free-youtube-transcription/"><u>2024 Approved  Simplify Your Life with These Tips on Free YouTube Transcription</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-superior-screen-reporter-optimal-chromebook-choice/"><u>2024 Approved  Superior Screen Reporter  Optimal Chromebook Choice</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-top-15-tools-for-boosting-fb-sales-through-data-analysis/"><u>2024 Approved  Top 15 Tools for Boosting FB Sales Through Data Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-vivid-visuals-windows-hdplus-guide-to-hdr-mastery/"><u>2024 Approved  Unlock Vivid Visuals  Windows HD+ Guide to HDR Mastery</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/become-an-iconic-crafter-kapwings-meme-toolkit/"><u>Become an Iconic Crafter  Kapwing's Meme Toolkit</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/hot-list-todays-youtube-sensations-for-2024/"><u>Hot List  Today's YouTube Sensations for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-edit-podcasts-in-garageband/"><u>How To Edit Podcasts in GarageBand</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-the-complete-aiff-converter-resource-tips-tricks-and-recommendations/"><u>In 2024, The Complete AIFF Converter Resource Tips, Tricks, and Recommendations</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-compilation-techniques-for-posting-youtube-videos-on-facebook/"><u>In 2024, The Ultimate Compilation  Techniques for Posting YouTube Videos on Facebook</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/learning-the-process-of-acquiring-movie-maker-6/"><u>Learning the Process of Acquiring Movie Maker 6</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/macs-hidden-gems-best-free-speech-recognition-software-with-no-download-required-for-2024/"><u>Macs Hidden Gems Best Free Speech Recognition Software with No Download Required for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713953297744-new-a-countdown-effect-is-widely-used-in-gaming-and-report-videos-so-how-to-create-your-own-countdown-video-this-article-will-tell-you-some-ideas-about-cont/"><u>New A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/1714942192480-new-in-2024-mp3-to-mp4-converter-how-to-convert-mp3-to-mp4/"><u>New In 2024, MP3 to MP4 Converter How to Convert MP3 to MP4</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-voice-over-wizardry-identifying-leading-software-and-websites-for-creativity/"><u>New In 2024, Voice-Over Wizardry Identifying Leading Software and Websites for Creativity</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimal-programs-making-movies-from-picture-files-for-2024/"><u>Optimal Programs  Making Movies From Picture Files for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-14-pro-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on 14 Pro, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-14-ultra-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on 14 Ultra, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-civi-3-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Civi 3, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-galaxy-m54-5g-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Galaxy M54 5G, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-htc-u23-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on HTC U23, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-motorola-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Motorola , is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-samsung-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Samsung , is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-samsung-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Samsung , is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-samsung-galaxy-a05-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Samsung Galaxy A05, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-samsung-galaxy-f54-5g-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Samsung Galaxy F54 5G, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-samsung-galaxy-m34-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Samsung Galaxy M34, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-samsung-galaxy-s24-ultra-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Samsung Galaxy S24 Ultra, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-samsung-galaxy-xcover-6-pro-tactical-edition-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Samsung Galaxy XCover 6 Pro Tactical Edition, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-samsung-galaxy-z-flip-5-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Samsung Galaxy Z Flip 5, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-samsung-galaxy-z-fold-5-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Samsung Galaxy Z Fold 5, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-sony-xperia-5-v-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Sony Xperia 5 V, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-u23-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on U23, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-xiaomi-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Xiaomi , is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-xiaomi-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Xiaomi , is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-xiaomi-13-ultra-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Xiaomi 13 Ultra, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-xiaomi-13t-pro-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Xiaomi 13T Pro, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-xiaomi-14-pro-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Xiaomi 14 Pro, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-xiaomi-14-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Xiaomi 14, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-xiaomi-14-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Xiaomi 14, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-xiaomi-civi-3-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Xiaomi Civi 3, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-xiaomi-mix-fold-3-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Xiaomi Mix Fold 3, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-xiaomi-redmi-12-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Xiaomi Redmi 12, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-xiaomi-redmi-a2plus-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Xiaomi Redmi A2+, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-xiaomi-redmi-k70-pro-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Xiaomi Redmi K70 Pro, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-xiaomi-redmi-note-12r-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Xiaomi Redmi Note 12R, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-xiaomi-redmi-note-12t-pro-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Xiaomi Redmi Note 12T Pro, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-xiaomi-redmi-note-13-pro-5g-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Xiaomi Redmi Note 13 Pro 5G, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-xiaomi-redmi-note-13-proplus-5g-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Xiaomi Redmi Note 13 Pro+ 5G, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-xperia-5-v-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Xperia 5 V, is it possible?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/rectifying-hp-printer-issue-code-oxc4eb827f/"><u>Rectifying HP Printer Issue: Code OXC4EB827F</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719575683005-virtual-verbal-journey-transform-flingish-to-fluent/"><u>Virtual Verbal Journey: Transform Flingish to Fluent</u></a></li>
+</ul></div>

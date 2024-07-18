@@ -1,7 +1,7 @@
 ---
 title: Online signatures for Excel
-date: 2024-05-19T18:09:44.069Z
-updated: 2024-05-20T18:09:44.069Z
+date: 2024-07-17T04:06:31.741Z
+updated: 2024-07-18T04:06:31.741Z
 tags: 
   - signer
   - signer online
@@ -12,17 +12,28 @@ categories:
 description: Free Excel signature service to sign Excel online. Add signature to Excel documents with our Excel signer. No registration or installation required | DigiSigner
 excerpt: Free Excel signature service to sign Excel online. Add signature to Excel documents with our Excel signer. No registration or installation required | DigiSigner
 keywords: excel signature app,sign a excel,best sign excel,sign a .xlsx,.xlsx signature free
-thumbnail: https://www.lifewire.com/thmb/XF8XZEIjsJng0yh72ZnUp_8O804=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/young-muslim-woman-using-phone-1137305438-75947aa7fb484506bf9da8c38fc68a03.jpg
+thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913b07ba9cca730be764e6c410.jpg
 ---
 
 ## 1. Online signatures for Excel
 
 Electronic Signature in Excel is a simple and secure way to sign documents online. It's a legally binding way to sign Excel documents, and it's easy to use. You can sign Excel documents online with a few clicks, and you don't need to install any software. This guide will show you how to sign Excel documents online with DigiSigner, a free electronic signature service.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## 2. Digital Signature Online Service - Sign Documents Online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -53,12 +64,18 @@ Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, 
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
@@ -108,6 +125,9 @@ Now you don’t even need to be in the office to be able to verify the document.
 
 You only need a device - a laptop, tablet or smartphone, as well as access to the Internet. For work, the software is needed to be connected to the encrypted information with the document you are working on. Comparison of this information allows the partner to make sure that it was you who signed it. All these processes are performed automatically according to modern encryption standards.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4. How to Create Electronic Signature in Excel on Windows
 
 You can use the standard features of Microsoft Office Excel to digitally sign a document. There are several options:
@@ -130,12 +150,18 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Excel signature line
 
 You can also use a signature line in Excel to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
 
 A digital certificate is required for signing. Excel offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Excel on Mac
 
 To put an electronic signature in Excel on Mac, you must follow these steps:
@@ -151,6 +177,9 @@ Now open the document you want to sign on Mac, go to "Tools" - "Add mark" - "Sig
 
 It is more convenient to sign documents online. Electronic signature has the same legal weight as the written one. But at the same time, online services allow you to do this in two clicks, without performing unnecessary actions, and also saving documents for sending to other users and parties to a contract or agreement.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6. References
 
 - [https://www.digisigner.com/free-electronic-signature/sign-document-online](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
@@ -163,3 +192,45 @@ It is more convenient to sign documents online. Electronic signature has the sam
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-complete-lowdown-on-using-showmores-recorder/"><u>[New] 2024 Approved  The Complete Lowdown on Using ShowMore's Recorder</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-communication-mastery-for-impactful-interviews/"><u>[New] Communication Mastery  For Impactful Interviews</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1715859876041-new-discover-the-best-open-worlds-today/"><u>[New] Discover the Best Open Worlds Today!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ffective-ways-to-watch-multiple-youtube-videos-at-one-time-for-2024/"><u>[New] Effective Ways to Watch Multiple YouTube Videos at One Time for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-tiktok-edits-unleashed-crafting-engaging-video-reactions-with-filmoras-pro-mode/"><u>[New] TikTok Edits Unleashed  Crafting Engaging Video Reactions with Filmora's Pro Mode</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-igniting-instagram-interest-maximizing-content-reach-and-interactions/"><u>[Updated] 2024 Approved  Igniting Instagram Interest  Maximizing Content Reach and Interactions</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-samsung-galaxy-a14-5g-easily-by-drfone-android/"><u>How To Unlock a Samsung Galaxy A14 5G Easily?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-lava-by-drfone-android-unlock-android-unlock/"><u>How to unlock Lava</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-lava-blaze-2-5g-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Lava Blaze 2 5G Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-lava-blaze-2-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Lava Blaze 2 Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-lava-blaze-pro-5g-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Lava Blaze Pro 5G Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-lava-blaze-pro-5g-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Lava Blaze Pro 5G Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-lava-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Lava Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-lava-yuva-2-by-drfone-android-unlock-android-unlock/"><u>How to unlock Lava Yuva 2</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-lava-yuva-2-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Lava Yuva 2 Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-lava-yuva-3-pro-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Lava Yuva 3 Pro Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-11-pro-max-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 11 Pro Max without Passcode</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-11-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 11 without Passcode</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-12-mini-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 12 mini by restoring it to factory settings</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-12-mini-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 12 mini without Passcode</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-12-pro-by-restoring-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 12 Pro by restoring</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-12-pro-max-by-restoring-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 12 Pro Max by restoring</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-12-pro-max-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 12 Pro Max without Face ID</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-12-pro-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 12 Pro without Face ID</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-12-without-passcode-or-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 12 without Passcode or Face ID</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-13-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 13 by restoring it to factory settings</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-13-mini-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 13 mini by restoring it to factory settings</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-13-mini-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 13 mini without Face ID</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hidden-gems-premium-mac-speech-to-text-tools/"><u>In 2024, Hidden Gems  Premium Mac Speech-to-Text Tools</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location on TikTok to See More Content On your Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-poco-f5-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Poco F5 5G Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-infinix-hot-40-easily-by-drfone-android/"><u>In 2024, How To Unlock a Infinix Hot 40 Easily?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastering-the-art-of-finding-influential-voices-in-your-space/"><u>Mastering the Art of Finding Influential Voices in Your Space</u></a></li>
+<li><a href="https://games-able.techidaily.com/personalize-ps5-interface-colors/"><u>Personalize PS5 Interface Colors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/synthesize-sounds-and-images-in-ppts/"><u>Synthesize Sounds and Images in PPTS</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-slideshow-magic-with-final-cut-pro-tips-tricks-and-techniques/"><u>Updated 2024 Approved Slideshow Magic with Final Cut Pro Tips, Tricks, and Techniques</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/youtubes-glamour-guild-comprehensive-style-compendium/"><u>Youtube's Glamour Guild  Comprehensive Style Compendium</u></a></li>
+</ul></div>

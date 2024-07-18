@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated drivers with Windows Device Manager on Windows 10
-date: 2024-05-19T18:09:42.958Z
+date: 2024-07-17T03:53:29.097Z
 tags: 
   - driver
   - device driver
@@ -33,12 +33,18 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -52,6 +58,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -124,6 +133,9 @@ If you want the certainty of knowing your device drivers are always up to date (
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -153,6 +165,9 @@ This page describes how to do this.
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -165,6 +180,9 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
 <ins class="adsbygoogle"
@@ -182,3 +200,44 @@ And without all these drivers, none of your devices will work.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-explore-the-richest-historical-content-with-these-top-10-yt-groups/"><u>[New] 2024 Approved  Explore the Richest Historical Content with These Top 10 YT Groups</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-filmmakers-playbook-for-dynamic-tiktok-video-reactions-via-filmora/"><u>[New] In 2024, Filmmaker’s Playbook for Dynamic TikTok Video Reactions via Filmora</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-directors-toolkit-youtube-lessons-on-film-making/"><u>[New] The Director's Toolkit  YouTube Lessons on Film Making</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-spectacular-vision-immersive-movies/"><u>[Updated] 2024 Approved  Spectacular Vision  Immersive Movies</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ice-cream-capture-technology-reviewed-deeply-for-2024/"><u>[Updated] Ice Cream Capture Technology Reviewed Deeply for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-transforming-teams-visuals-for-flawless-video-meetings/"><u>[Updated] Transforming Teams' Visuals for Flawless Video Meetings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-winning-windows-animation-the-best-9-apps-to-record-dynamic-graphics/"><u>[Updated] Winning Windows Animation  The Best 9 Apps to Record Dynamic Graphics</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-laughlens-lab-jestjokester-co/"><u>2024 Approved  LaughLens Lab  JestJokester Co</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-lg-360-camera-full-review/"><u>2024 Approved  LG 360 Camera Full Review</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-insta-photo-and-video-reposts/"><u>2024 Approved  Mastering Insta Photo & Video Reposts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/expert-insights-for-effective-clips-blending/"><u>Expert Insights for Effective Clips Blending</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/itel-music-recovery-recover-deleted-music-from-itel-by-fonelab-android-recover-music/"><u>Itel Music Recovery - Recover Deleted Music from Itel</u></a></li>
+<li><a href="https://review-topics.techidaily.com/itel-p55-5g-music-recovery-recover-deleted-music-from-itel-p55-5g-by-fonelab-android-recover-music/"><u>Itel P55 5G Music Recovery - Recover Deleted Music from Itel P55 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/itel-s23-music-recovery-recover-deleted-music-from-itel-s23-by-fonelab-android-recover-music/"><u>Itel S23 Music Recovery - Recover Deleted Music from Itel S23</u></a></li>
+<li><a href="https://review-topics.techidaily.com/lava-agni-2-5g-music-recovery-recover-deleted-music-from-lava-agni-2-5g-by-fonelab-android-recover-music/"><u>Lava Agni 2 5G Music Recovery - Recover Deleted Music from Lava Agni 2 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/lava-blaze-2-5g-music-recovery-recover-deleted-music-from-lava-blaze-2-5g-by-fonelab-android-recover-music/"><u>Lava Blaze 2 5G Music Recovery - Recover Deleted Music from Lava Blaze 2 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/lava-blaze-2-music-recovery-recover-deleted-music-from-lava-blaze-2-by-fonelab-android-recover-music/"><u>Lava Blaze 2 Music Recovery - Recover Deleted Music from Lava Blaze 2</u></a></li>
+<li><a href="https://review-topics.techidaily.com/lava-blaze-pro-5g-music-recovery-recover-deleted-music-from-lava-blaze-pro-5g-by-fonelab-android-recover-music/"><u>Lava Blaze Pro 5G Music Recovery - Recover Deleted Music from Lava Blaze Pro 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/lava-music-recovery-recover-deleted-music-from-lava-by-fonelab-android-recover-music/"><u>Lava Music Recovery - Recover Deleted Music from Lava</u></a></li>
+<li><a href="https://review-topics.techidaily.com/lava-storm-5g-music-recovery-recover-deleted-music-from-lava-storm-5g-by-fonelab-android-recover-music/"><u>Lava Storm 5G Music Recovery - Recover Deleted Music from Lava Storm 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/lava-yuva-3-pro-music-recovery-recover-deleted-music-from-lava-yuva-3-pro-by-fonelab-android-recover-music/"><u>Lava Yuva 3 Pro Music Recovery - Recover Deleted Music from Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/m6-pro-5g-music-recovery-recover-deleted-music-from-m6-pro-5g-by-fonelab-android-recover-music/"><u>M6 Pro 5G Music Recovery - Recover Deleted Music from M6 Pro 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/meizu-21-music-recovery-recover-deleted-music-from-meizu-21-by-fonelab-android-recover-music/"><u>Meizu 21 Music Recovery - Recover Deleted Music from Meizu 21</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-galaxy-a05-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Galaxy A05</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-galaxy-a15-4g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Galaxy A15 4G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-galaxy-a25-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Galaxy A25 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-galaxy-f34-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Galaxy F34 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-galaxy-s23-fe-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Galaxy S23 FE</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-galaxy-s24-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Galaxy S24</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-galaxy-s24plus-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Galaxy S24+</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-galaxy-xcover-6-pro-tactical-edition-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-huawei-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Huawei</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-huawei-p60-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Huawei P60</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-brighten-up-best-video-editing-apps-for-mobile-devices/"><u>New In 2024, Brighten Up Best Video Editing Apps for Mobile Devices</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-art-of-inverted-investigation-finding-true-sources-on-instagram-photos/"><u>The Art of Inverted Investigation  Finding True Sources on Instagram Photos</u></a></li>
+</ul></div>

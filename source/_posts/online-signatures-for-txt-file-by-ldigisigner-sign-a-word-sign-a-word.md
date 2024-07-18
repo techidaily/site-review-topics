@@ -1,7 +1,7 @@
 ---
 title: Online signatures for .txt file
-date: 2024-05-19T18:09:44.097Z
-updated: 2024-05-20T18:09:44.097Z
+date: 2024-07-17T04:06:44.855Z
+updated: 2024-07-18T04:06:44.855Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes Online signatures for .txt file
 excerpt: This article describes Online signatures for .txt file
 keywords: sign .txt file online,.docx file signature app,free sign .ott file,.doc file signature,.ott file signature online,.wps file signature service
-thumbnail: https://www.lifewire.com/thmb/ynTHMRKHlmkgnPU-C-PjPaOI_vk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1345967858-4e7ba42433504ee899e05ceb500f3b68.jpg
+thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8d64ce0fc757b91844bd2888.jpg
 ---
 
 ## 1. Online signatures for .txt file
@@ -37,6 +37,9 @@ Electronic Signature in Word is a simple and secure way to sign documents online
 
   > Save your changes by clicking on DONE, then select DOWNLOAD DOCUMENT to securely download it via protected SSL connection.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.2. Instructions on how to create electronic signature in Word
 
 These detailed instructions demonstrate how to sign a Word document online. Our free version of DigiSigner online signature software allows you to sign Word documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
@@ -47,10 +50,16 @@ These detailed instructions demonstrate how to sign a Word document online. Our 
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Word document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
@@ -73,6 +82,9 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
@@ -116,10 +128,16 @@ You can use the standard features of Microsoft Office Word to digitally sign a d
 
 To implement each of the ways to install a digital signature in Word, you need to do a few steps.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.1. Handwritten signature
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Word document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Word on Windows.
@@ -134,6 +152,9 @@ You can also use a signature line in Word to insert a signature with properties.
 
 A digital certificate is required for signing. Word offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Word on Mac
 
 To put an electronic signature in Word on Mac, you must follow these steps:
@@ -149,6 +170,9 @@ Now open the document you want to sign on Mac, go to "Tools" - "Add mark" - "Sig
 
 It is more convenient to sign documents online. Electronic signature has the same legal weight as the written one. But at the same time, online services allow you to do this in two clicks, without performing unnecessary actions, and also saving documents for sending to other users and parties to a contract or agreement.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6. References
 
 - [https://www.digisigner.com/free-electronic-signature/sign-word-online](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
@@ -161,3 +185,42 @@ It is more convenient to sign documents online. Electronic signature has the sam
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-elite-group-of-high-speed-video-snapshot-apps/"><u>[New] 2024 Approved  Elite Group of High-Speed Video Snapshot Apps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-a-stepwise-approach-for-effective-periscope-video-storage/"><u>[New] A Stepwise Approach for Effective Periscope Video Storage</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-basic-routines-for-recording-on-youtube/"><u>[New] In 2024, Basic Routines for Recording on YouTube</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unveiling-the-game-changer-samsung-ue590-4k-monitor/"><u>[Updated] 2024 Approved  Unveiling the Game Changer - Samsung UE590 4K Monitor</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-smooth-transition-uploading-imovie-films-into-vimeo-for-2024/"><u>[Updated] Smooth Transition  Uploading iMovie Films Into Vimeo for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-deep-dive-into-previewed-fb-interactions-necessity-or-risk/"><u>2024 Approved  A Deep Dive Into Previewed FB Interactions  Necessity or Risk?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-insights-crafting-tall-footage-in-final-cut-pro-x/"><u>2024 Approved  Instagram Insights  Crafting Tall Footage in Final Cut Pro X</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-masterful-digital-brushstrokes-essential-top-10-android-graphics-apps/"><u>2024 Approved  Masterful Digital Brushstrokes  Essential Top 10 Android Graphics Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-new-era-of-business-with-vr-integration/"><u>A New Era of Business with VR Integration</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-vivo-y27s-by-drfone-android-unlock-android-unlock/"><u>How to unlock Vivo Y27s</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-vivo-y27s-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Vivo Y27s Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-vivo-y28-5g-by-drfone-android-unlock-android-unlock/"><u>How to unlock Vivo Y28 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-vivo-y78plus-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Vivo Y78+ Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-vivo-y78t-by-drfone-android-unlock-android-unlock/"><u>How to unlock Vivo Y78t</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-x-flip-by-drfone-android-unlock-android-unlock/"><u>How to unlock X Flip</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-x50-gt-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock X50 GT Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-x9b-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock X9b Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-xiaomi-13t-by-drfone-android-unlock-android-unlock/"><u>How to unlock Xiaomi 13T</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-xiaomi-civi-3-disney-100th-anniversary-edition-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Xiaomi Civi 3 Disney 100th Anniversary Edition Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-xiaomi-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Xiaomi Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-xiaomi-redmi-12-5g-by-drfone-android-unlock-android-unlock/"><u>How to unlock Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-xiaomi-redmi-13c-5g-by-drfone-android-unlock-android-unlock/"><u>How to unlock Xiaomi Redmi 13C 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-xiaomi-redmi-k70-pro-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Xiaomi Redmi K70 Pro Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-xiaomi-redmi-note-13-proplus-5g-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Xiaomi Redmi Note 13 Pro+ 5G Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-xiaomi-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Xiaomi Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-y17s-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Y17s Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-y17s-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Y17s Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-y200-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Y200 Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-y77t-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Y77t Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-zte-blade-a73-5g-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock ZTE Blade A73 5G Phone Forgot Password</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-poco-c51-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Poco C51 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/in-2024-unlocking-the-power-of-speech-recognition-technology/"><u>In 2024, Unlocking the Power of Speech Recognition Technology</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-locate-vocal-noise-sample/"><u>New In 2024, Locate Vocal Noise Sample</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-guide-selecting-the-top-8-tripods-for-high-res-cameras/"><u>Ultimate Guide  Selecting the Top 8 Tripods for High-Res Cameras</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-mastering-aspect-ratios-in-final-cut-pro-the-ultimate-guide-2023-edition/"><u>Updated In 2024, Mastering Aspect Ratios in Final Cut Pro The Ultimate Guide (2023 Edition)</u></a></li>
+</ul></div>

@@ -1,6 +1,6 @@
 ---
 title: Identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11/10/7
-date: 2024-05-19T18:09:42.868Z
+date: 2024-07-17T03:51:50.642Z
 tags: 
   - driver
   - device driver
@@ -19,6 +19,9 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
@@ -41,6 +44,9 @@ So if your computer has slowed down, you should update your drivers. If it’s c
 To understand why, you first have to understand what drivers actually are…
 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -49,10 +55,16 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -80,6 +92,9 @@ This page describes how to do this.
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -92,6 +107,9 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
 <ins class="adsbygoogle"
@@ -109,3 +127,56 @@ And without all these drivers, none of your devices will work.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-social-screen-grabber-kit/"><u>[New] 2024 Approved  Social Screen Grabber Kit</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-enhancing-content-reach-igtv-and-facebook-synergy/"><u>[New] Enhancing Content Reach  IGTV & Facebook Synergy</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-x-sonic-recorder-desktop-format/"><u>[New] In 2024, X-Sonic Recorder  Desktop Format</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-hot-content-in-circulation-examining-todays-popular-tweets/"><u>[Updated] 2024 Approved  Hot Content in Circulation  Examining Today's Popular Tweets</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-live-video-logging-on-mac-free/"><u>[Updated] 2024 Approved  Live Video Logging on Mac, Free</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-choosing-free-video-editing-software-on-iphone-and-ipad-for-2024/"><u>[Updated] Choosing Free Video Editing Software on iPhone & iPad for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-unrivaled-portable-play-gba-on-your-phone/"><u>[Updated] In 2024, Unrivaled Portable Play  GBA on Your Phone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-ringing-in-the-faith-customizing-your-mobile-music/"><u>[Updated] Ringing in the Faith - Customizing Your Mobile Music</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-which-ios-app-crushes-in-video-editing-cameo-or-filmorago/"><u>[Updated] Which iOS App Crushes in Video Editing? Cameo or FilmoraGo?</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-vivo-y78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/abbreviated-action-sequences-script-for-2024/"><u>Abbreviated Action Sequences Script for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-find-my-friends-work-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-find-my-friends-work-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-find-my-friends-work-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-find-my-friends-work-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-find-my-friends-work-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-find-my-friends-work-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-find-my-friends-work-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-google-pixel-7a-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Google Pixel 7a Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-honor-100-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Honor 100 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-honor-90-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Honor 90 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-honor-magic-5-lite-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Honor Magic 5 Lite Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-honor-magic-v2-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Honor Magic V2 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-honor-magic-vs-2-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Honor Magic Vs 2 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-infinix-gt-10-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Infinix GT 10 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-infinix-hot-30-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Infinix Hot 30 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-infinix-note-30-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Infinix Note 30 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-infinix-note-30-vip-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Infinix Note 30 VIP Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-infinix-smart-8-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Infinix Smart 8 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-infinix-zero-30-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Infinix Zero 30 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-infinix-zero-5g-2023-turbo-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Infinix Zero 5G 2023 Turbo Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-itel-a70-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Itel A70 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-itel-p40-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Itel P40 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-itel-p55-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Itel P55 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-itel-s23plus-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Itel S23+ Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-tecno-camon-20-premier-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Tecno Camon 20 Premier 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-tecno-camon-30-pro-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Tecno Camon 30 Pro 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-tecno-spark-10-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Tecno Spark 10 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-tecno-spark-10c-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Tecno Spark 10C Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-vivo-s18e-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo S18e Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-vivo-v29-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo V29 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-vivo-v30-lite-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo V30 Lite 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-vivo-x100-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo X100 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-vivo-y100-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo Y100 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-infinix-smart-7-hd-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Infinix Smart 7 HD Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-streamline-your-video-collection-8-best-mac-metadata-editors/"><u>In 2024, Streamline Your Video Collection 8 Best Mac Metadata Editors</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-ultimate-ranking-8-best-ios-compatible-daws-for-ipad-and-iphone-enthusiasts/"><u>In 2024, The Ultimate Ranking 8 Best iOS-Compatible DAWs for iPad and iPhone Enthusiasts</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/unlocking-tiktok-potential-desktop-video-guide/"><u>Unlocking TikTok Potential  Desktop Video Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Vivo Y56 5G? | Dr.fone</u></a></li>
+</ul></div>

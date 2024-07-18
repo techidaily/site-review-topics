@@ -1,7 +1,7 @@
 ---
 title: Insert signature in Word 2013
-date: 2024-05-19T18:09:43.341Z
-updated: 2024-05-20T18:09:43.341Z
+date: 2024-07-17T03:57:00.940Z
+updated: 2024-07-18T03:57:00.940Z
 tags: 
   - signer
   - signer online
@@ -12,17 +12,23 @@ categories:
 description: This article describes Insert signature in Word 2013
 excerpt: This article describes Insert signature in Word 2013
 keywords: .dot file signature best,free sign .svd file,.txt file signature free
-thumbnail: https://www.lifewire.com/thmb/85rwStNr21lvFIjCfmY8ErdogYI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wimbledonlivestream-c22d5eefbf8f40e9b25ba4cab1734ece.jpg
+thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c12bd8c02f2b01f747786c25.jpg
 ---
 
 ## 1. Insert signature in Word 2013
 
 Electronic Signature in Word is a simple and secure way to sign documents online. It's a legally binding way to sign Word documents, and it's easy to use. You can sign Word documents online with a few clicks, and you don't need to install any software. This guide will show you how to sign Word documents online with DigiSigner, a free electronic signature service.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2. Digital Signature Online Service - Sign Documents Online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -47,10 +53,16 @@ These detailed instructions demonstrate how to sign a Word document online. Our 
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Word document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
@@ -63,6 +75,9 @@ Once you're in, you can select the type of edits you want to apply to your docum
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/hover-mouse.png)
 
 Feel free to sign Word document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
@@ -77,6 +92,9 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
@@ -116,6 +134,9 @@ You can use the standard features of Microsoft Office Word to digitally sign a d
 
 To implement each of the ways to install a digital signature in Word, you need to do a few steps.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.1. Handwritten signature
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Word document, click "Insert" - "Picture" and select the desired file on the device.
@@ -134,6 +155,9 @@ You can also use a signature line in Word to insert a signature with properties.
 
 A digital certificate is required for signing. Word offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Word on Mac
 
 To put an electronic signature in Word on Mac, you must follow these steps:
@@ -161,3 +185,58 @@ It is more convenient to sign documents online. Electronic signature has the sam
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-step-into-hd-color-on-windows-watch-edit-relish-videos-for-2024/"><u>[New] Step Into HD Color on Windows  Watch, Edit, Relish Videos for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-streamers-toolkit-beyond-streamlabs-obs-for-2024/"><u>[New] Streamer's Toolkit  Beyond Streamlabs OBS for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-b-roll-wisdom-enhancing-your-cinematic-quality/"><u>[Updated] B-Roll Wisdom  Enhancing Your Cinematic Quality</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-path-to-prominence-with-powerful-instagram-video-narratives/"><u>[Updated] In 2024, The Path to Prominence with Powerful Instagram Video Narratives</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-understanding-your-youtube-channels-revenue-new-updates/"><u>[Updated] Understanding Your YouTube Channel's Revenue - New Updates</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-every-gameplay-session-ensuring-optimal-frames-per-second-in-valorant-for-pc-users/"><u>Ace Every Gameplay Session: Ensuring Optimal Frames Per Second in Valorant for PC Users</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/achieving-video-popularity-mastering-youtube-thumbnail-selection/"><u>Achieving Video Popularity  Mastering YouTube Thumbnail Selection</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-galaxy-s24-ultra-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on Galaxy S24 Ultra?</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-nokia-c22-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Nokia C22 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-realme-11-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Realme 11 5G FRP</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-6-plus-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 6 Plus with iTunes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-ramp-up-visibility-strategies-for-engaging-shorts-on-youtub/"><u>In 2024, Ramp Up Visibility  Strategies for Engaging Shorts on YouTub</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-sound-of-funny-ringtones-recommended-websites/"><u>In 2024, Sound of Funny  Ringtones' Recommended Websites</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-oppo-a1-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Oppo A1 5G Phone Network-Ready</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/mastering-discord-steaming-guide-for-pc-and-android/"><u>Mastering Discord  Steaming Guide for PC & Android</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-moto-g73-5g-video-recovery-recover-deleted-videos-from-motorola-moto-g73-5g-by-fonelab-android-recover-video/"><u>Motorola Moto G73 5G Video Recovery - Recover Deleted Videos from Motorola Moto G73 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-moto-g84-5g-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Motorola Moto G84 5G support - Forgotten screen lock.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-moto-g84-5g-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Motorola Moto G84 5G support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-moto-g84-5g-video-recovery-recover-deleted-videos-from-motorola-moto-g84-5g-by-fonelab-android-recover-video/"><u>Motorola Moto G84 5G Video Recovery - Recover Deleted Videos from Motorola Moto G84 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-razr-40-messages-recovery-recover-deleted-messages-from-motorola-razr-40-by-fonelab-android-recover-messages/"><u>Motorola Razr 40 Messages Recovery - Recover Deleted Messages from Motorola Razr 40</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-razr-40-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Motorola Razr 40 support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-razr-40-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Motorola Razr 40 Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-razr-40-ultra-messages-recovery-recover-deleted-messages-from-motorola-razr-40-ultra-by-fonelab-android-recover-messages/"><u>Motorola Razr 40 Ultra Messages Recovery - Recover Deleted Messages from Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-razr-40-ultra-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Motorola Razr 40 Ultra Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-razr-40-ultra-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Motorola Razr 40 Ultra Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-razr-40-ultra-video-recovery-recover-deleted-videos-from-motorola-razr-40-ultra-by-fonelab-android-recover-video/"><u>Motorola Razr 40 Ultra Video Recovery - Recover Deleted Videos from Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Motorola support - Forgotten screen lock.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Motorola support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Motorola Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-lava-blaze-pro-5g-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Lava Blaze Pro 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-oppo-reno-10-5g-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Oppo Reno 10 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-tecno-pova-5-pro-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-tecno-spark-10-pro-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Tecno Spark 10 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-xiaomi-redmi-k70e-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Xiaomi Redmi K70E</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-xiaomi-redmi-note-13-pro-5g-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/new-iphone-11-pro-max-restore-from-icloud-stuck-on-time-remaining-estimating-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>New iPhone 11 Pro Max Restore from iCloud Stuck on Time Remaining Estimating | Stellar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/new-iphone-11-pro-restore-from-icloud-stuck-on-time-remaining-estimating-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>New iPhone 11 Pro Restore from iCloud Stuck on Time Remaining Estimating | Stellar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/new-iphone-11-restore-from-icloud-stuck-on-time-remaining-estimating-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>New iPhone 11 Restore from iCloud Stuck on Time Remaining Estimating | Stellar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/new-iphone-12-mini-restore-from-icloud-stuck-on-time-remaining-estimating-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>New iPhone 12 mini Restore from iCloud Stuck on Time Remaining Estimating | Stellar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/new-iphone-12-pro-max-restore-from-icloud-stuck-on-time-remaining-estimating-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>New iPhone 12 Pro Max Restore from iCloud Stuck on Time Remaining Estimating | Stellar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/new-iphone-12-pro-restore-from-icloud-stuck-on-time-remaining-estimating-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>New iPhone 12 Pro Restore from iCloud Stuck on Time Remaining Estimating | Stellar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/new-iphone-12-restore-from-icloud-stuck-on-time-remaining-estimating-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>New iPhone 12 Restore from iCloud Stuck on Time Remaining Estimating | Stellar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/new-iphone-13-mini-restore-from-icloud-stuck-on-time-remaining-estimating-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>New iPhone 13 mini Restore from iCloud Stuck on Time Remaining Estimating | Stellar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/new-iphone-13-pro-max-restore-from-icloud-stuck-on-time-remaining-estimating-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>New iPhone 13 Pro Max Restore from iCloud Stuck on Time Remaining Estimating | Stellar</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-itel-s23plus-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Itel S23+ Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-uncharted-territory-windows-11-and-the-future-of-ai/"><u>The Uncharted Territory: Windows 11 and the Future of AI</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-rotating-your-video-is-a-snap-if-you-choose-one-of-the-top-5-free-mov-video-rotators-below/"><u>Updated In 2024, Rotating Your Video Is a Snap if You Choose One of the Top 5 Free MOV Video Rotators Below</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-unlock-the-power-of-mp3-conversion-what-youll-learn-from-our-expert-article/"><u>Updated In 2024, Unlock the Power of Mp3 Conversion What Youll Learn From Our Expert Article</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/virtual-venue-video-verifier/"><u>Virtual Venue Video Verifier</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-configurations-restarted-a-triad-of-tips/"><u>Win11 Configurations Restarted: A Triad of Tips</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Recover iPhone 13 Data From iOS iCloud | Dr.fone
-date: 2024-03-13 10:49:35
-updated: 2024-03-15 14:14:23
+date: 2024-07-17T04:40:10.582Z
+updated: 2024-07-18T04:40:10.582Z
 tags: 
   - data recovery
   - iphone data recovery
@@ -10,7 +10,7 @@ categories:
 description: This article describes Recover iPhone 13 Data From iOS iCloud
 excerpt: This article describes Recover iPhone 13 Data From iOS iCloud
 keywords: recovery lost data on iPhone,data recovery on iPhone,data recovery on iPhone 13,recovery lost data on iPhone 13,recovery data from iPhone,recovery data from iPhone 13
-thumbnail: https://www.lifewire.com/thmb/LQMb1e3-Mg4L1lN_8a1V_-CacMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-155096051-5b1bf60d43a1030036cfac94.jpg
+thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec47ad22d2523d6d2404f16cd1.jpg
 ---
 
 ## How To Recover iPhone 13 Data From iCloud With Dr.Fone?
@@ -23,6 +23,9 @@ iCloud has been dedicated as a critical element in Apple devices. However, somet
 
 **Note:** While the process supports all types of iOS devices, you can recover photos, contacts, notes, attachments, calendars, and reminders from iCloud.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Recover iPhone 13 Data From iCloud
 
 - **Step 1** Start Data Recovery Tool
@@ -49,6 +52,9 @@ From the available options, select **Recover data from iCloud** to launch the sp
 
 You will be prompted to sign into the respective iCloud account from where you wish to recover the data.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![log in to icloud account](https://images.wondershare.com/drfone/guide/recover-data-from-icloud-4.png)
 
 - **Step 5** Authenticate Your Sign In
@@ -67,6 +73,9 @@ Following this, you will have to select all file types that you want to recover 
 
 Once you proceed, the downloading process will start, which will be displayed through a progress bar. If you wish to close down the process, click **Stop** at any instant.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![check icloud data download](https://images.wondershare.com/drfone/guide/recover-data-from-icloud-7.png)
 
 - **Step 8** Proceed to Select and Restore iCloud Data
@@ -99,6 +108,9 @@ You can also recover from iCloud into your computer with the **Recover to Comput
 
 ![recover from icloud to computer](https://images.wondershare.com/drfone/guide/recover-data-from-icloud-12.png)
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## How To Recover Data from iPhone 13?
 
 Data recovery is a process that is quite essential for users who find it important to retrieve their important data before shifting to a new device. If it comes to a point where your data is inaccessible from a particular device directly, you will need a recovery service. [Dr.Fone - Data Recovery (iOS)](https://tools.techidaily.com/wondershare/drfone/data-recovery-iphone/) comes as an optimal solution to recover from iOS devices directly.
@@ -117,6 +129,9 @@ Since you are seeking to recover from iTunes, the process of executing this enti
 
 You will have to initiate the process by launching Dr.Fone on your computer after its successful installation. Continue to **Toolbox** > **Data Recovery** to start the tool.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Wondershare Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 _Dr.Fone Mac version still has the old interface, but it does not affect the use of Dr.Fone function. We will update it as soon as possible._
@@ -131,12 +146,27 @@ Continue to select the option of iOS from the next screen, as you will be workin
 
 As you come to the next screen, select the option of **Recover Data from an iOS device** out of all the available options.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![look to recover data from device](https://images.wondershare.com/drfone/guide/recover-data-from-ios-device-3.png)
 
 - **Step 4** Connect iDevice to Computer
 
 The next screen will prompt you to connect the iOS device to the computer. Attach the iPhone 13 device with a USB cable and let the platform detect it for you.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![connect the iPhone 13 device to the computer](https://images.wondershare.com/drfone/guide/recover-data-from-ios-device-4.png)
 
 - **Step 5** Select File Types to Recover
@@ -155,6 +185,9 @@ For the next window, you will be provided with a preview of all the data that is
 
 After the scanning concludes, you can select and preview any specific data that you want to recover. For filtering out the display results, select the tab on the top and define if you want to view all the data or the existing or deleted data. Following this, select the data you want to recover and continue to the **Restore to Device** button on the bottom.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![preview data and filter](https://images.wondershare.com/drfone/guide/recover-data-from-ios-device-7.png)
 
 - **Step 8** Select Device to Restore
@@ -173,6 +206,9 @@ You will have to disable the Find My service on your iDevice to restore the data
 
 The data will be successfully restored and prompted on the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restore data to the device successfully](https://images.wondershare.com/drfone/guide/recover-data-from-ios-device-10new.png)
 
 - **Step 11** Recover Data to Computer
@@ -183,6 +219,9 @@ If you wish to recover the data back into the computer, select the required data
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How To Recover iPhone 13 Data From iTunes?
 
 Keeping backups of your data at multiple locations saves you from the drill of losing something essential. Users may find it difficult to comprehend to recover data from iTunes. While there are many services offering this option, not many are effective and efficient. This is where [Dr.Fone - Data Recovery (iOS)](https://tools.techidaily.com/wondershare/drfone/data-recovery-iphone/) comes in handy in helping users recover from iTunes.
@@ -201,6 +240,9 @@ Since you are seeking to recover from iTunes, the process of executing this enti
 
 You will have to initiate the process by launching Dr.Fone on your computer after its successful installation. Continue to **Toolbox** > **Data Recovery** to start the tool.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Wondershare Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 _Dr.Fone Mac version still has the old interface, but it does not affect the use of Dr.Fone function. We will update it as soon as possible._
@@ -221,24 +263,36 @@ Once you continue to the next screen, select the Recover Data from iTunes option
 
 The next screen shows the list of iTunes backups that are detected by the platform on the iPhone 13 device. Once the list comes in display on the screen, proceed to select any specific backup and hit **Start Scan** on the bottom-right of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select the backup file](https://images.wondershare.com/drfone/guide/recover-data-from-itunes-3.png)
 
 - **Step 5** Select Data Types to Scan
 
 On continuing to the next screen, select the file types that you want to recover. Checkmark all the data types you wish to recover and click **Start Scan** to scan the iTunes backup file.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select data types to recover](https://images.wondershare.com/drfone/guide/recover-data-from-itunes-4.png)
 
 - **Step 6** Preview Progress
 
 The next screen shows the progress of the scanning backup file, where the available data comes in the preview window.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![view data in preview](https://images.wondershare.com/drfone/guide/recover-data-from-itunes-5.png)
 
 - **Step 7** Continue to Restore to Device
 
 As the entire backup data appears on the screen, you can continue and preview any respective data type you want. If you wish to restore it to the device, select the data and proceed to the **Restore to Device** option at the bottom of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![proceed to restore to the device](https://images.wondershare.com/drfone/guide/recover-data-from-itunes-6.png)
 
 - **Step 8** Select iDevice to Restore
@@ -257,6 +311,9 @@ The following window shows the user to trust and unlock the device to execute th
 
 As you continue to the next screen, the restoration progress is displayed properly. You can click **Cancel** to stop the process. Once it is completed, the platform prompts it by displaying it on the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![successfully restore data to iPhone 13](https://images.wondershare.com/drfone/guide/recover-data-from-itunes-9.png)
 
 - **Step 11** Recover iTunes Data to Computer
@@ -278,3 +335,42 @@ Moreover, if you wish to restore the data to the computer for saving it as a bac
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-encrypting-lives-techniques-to-mask-personal-information-for-2024/"><u>[New] Encrypting Lives  Techniques to Mask Personal Information for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-social-network-harmony-integrating-instagram-and-facebook/"><u>[New] In 2024, Social Network Harmony  Integrating Instagram & Facebook</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-online-oasis-viewer/"><u>[New] Online Oasis Viewer</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-from-snap-to-stream-a-complete-youtube-picture-upload-manual/"><u>2024 Approved  From Snap to Stream  A Complete YouTube Picture Upload Manual</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-shielding-the-sound-comprehensive-guide-to-dismissing-wind-turbulence-in-recordings/"><u>2024 Approved Shielding the Sound Comprehensive Guide to Dismissing Wind Turbulence in Recordings</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-poco-c55-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Poco C55 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-books-purchases-on-iphone-15-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Books Purchases on iPhone 15</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-books-purchases-on-iphone-15-plus-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Books Purchases on iPhone 15 Plus</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-books-purchases-on-iphone-7-plus-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Books Purchases on iPhone 7 Plus</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-books-purchases-on-iphone-8-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Books Purchases on iPhone 8</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-books-purchases-on-iphone-se-2020-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Books Purchases on iPhone SE (2020)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-books-purchases-on-iphone-se-2022-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Books Purchases on iPhone SE (2022)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-music-on-iphone-12-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Music on iPhone 12</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-music-on-iphone-12-pro-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Music on iPhone 12 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-music-on-iphone-13-pro-max-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Music on iPhone 13 Pro Max</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-music-on-iphone-14-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Music on iPhone 14</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-music-on-iphone-14-plus-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Music on iPhone 14 Plus</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-music-on-iphone-15-plus-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Music on iPhone 15 Plus</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-music-on-iphone-6-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Music on iPhone 6</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-music-on-iphone-6s-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Music on iPhone 6s</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-music-on-iphone-7-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Music on iPhone 7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-music-on-iphone-7-plus-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Music on iPhone 7 Plus</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-music-on-iphone-8-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Music on iPhone 8</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-music-on-iphone-8-plus-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Music on iPhone 8 Plus</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-music-on-iphone-xr-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Music on iPhone XR</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-music-on-iphone-xs-max-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Music on iPhone XS Max</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-tvplus-on-iphone-11-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple TV+ on iPhone 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-tvplus-on-iphone-11-pro-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple TV+ on iPhone 11 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-tvplus-on-iphone-11-pro-max-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple TV+ on iPhone 11 Pro Max</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-tvplus-on-iphone-12-mini-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple TV+ on iPhone 12 mini</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-tvplus-on-iphone-12-pro-max-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple TV+ on iPhone 12 Pro Max</u></a></li>
+<li><a href="https://extra-information.techidaily.com/jokes-aplenty-incorrante-guide-to-snapchats-cartoon-filters/"><u>Jokes Aplenty  Incorrante Guide to Snapchat's Cartoon Filters</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-easiest-way-to-convert-your-youtube-videos-into-texts-for-free-for-2024/"><u>The Easiest Way to Convert Your YouTube Videos Into Texts for FREE for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-navigating-through-this-years-top-ten-budget-friendly-browser-based-daw-solutions-for-2024/"><u>Updated Navigating Through This Years Top Ten Budget-Friendly Browser-Based DAW Solutions for 2024</u></a></li>
+</ul></div>

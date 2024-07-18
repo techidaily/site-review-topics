@@ -1,7 +1,7 @@
 ---
 title: How To Transfer WhatsApp From iPhone 6 to other iPhone 13 Pro devices? | Dr.fone
-date: 2024-05-19T18:09:39.581Z
-updated: 2024-05-20T18:09:39.581Z
+date: 2024-07-17T03:02:20.580Z
+updated: 2024-07-18T03:02:20.580Z
 tags: 
   - transfer whatsapp
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How To Transfer WhatsApp From iPhone 6 to other iPhone 13 Pro devices?
 excerpt: This article describes How To Transfer WhatsApp From iPhone 6 to other iPhone 13 Pro devices?
 keywords: transfer whatsapp from iPhone 6 to other iPhone devices,transfer whatsapp from iPhone to Android,transfer whatsapp from iPhone 6 to Android,transfer whatsapp from iPhone 6 to other iPhone,transfer whatsapp from iPhone to other iPhone devices,transfer whatsapp from iPhone 6,transfer whatsapp from iPhone to other iPhone,transfer whatsapp from iPhone
-thumbnail: https://www.lifewire.com/thmb/yPXnCagYB7bKT7uol-AGPozLSS0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Air-5-e11857a8d117450e9e09d770e300a872.jpg
+thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068cc6322414a1134e31c0876a0.jpg
 ---
 
 ## How To Transfer WhatsApp From iPhone 6 to Android/iOS?
@@ -21,6 +21,9 @@ Managing WhatsApp data is very important when it comes to shifting your iPhone 6
 [Upgrade to the Newest Dr.Fone Manage Your Phone Wherever You Go](https://secure.2checkout.com/order/checkout.php?PRODS=27852413&QTY=1&AFFILIATE=108875&CART=1)
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Part 1: Transfer WhatsApp From iOS To Android
 
 For the first task, you are asked to transfer WhatsApp from your iOS device to another Android device. The process with Dr.Fone - WhatsApp Transfer is essentially simple, which has been reviewed in the steps as follows:
@@ -43,6 +46,9 @@ A new window opens, where you have to select the **Transfer WhatsApp messages** 
 
 On the following screen, you will have to set the source and destination devices for this process. Continue with setting the iPhone as the **Source** and the Android as the **Destination** of this process. However, if the selection is different, you can use the **Flip** button. Lead to the next screen by clicking the **Transfer** button on the bottom-right of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set source and destination devices](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-ios-to-android-2.png)
 
 - **Step 4** Backup Previous Data or Continue
@@ -71,18 +77,27 @@ After launching **the WhatsApp Transfer** tool and selecting the option of **Tra
 
 As you click **Transfer** on the bottom of the screen, a pop-up will appear on the front. While it will be a warning about the deletion of previous data from the Destination device, the platform will be offering the user a chance to **back up** the existing WhatsApp data. If you wish to proceed, click the **Continue** button.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start ios to ios transfer](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-ios-to-ios-2.png)
 
 - **Step 3** View the Progress of WhatsApp Transfer Between iOS and iOS
 
 The next screen shows the progress of the WhatsApp transfer between iOS and iOS devices.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![view whatsapp transfer progress](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-ios-to-ios-3.png)
 
 - **Step 4** Check the Status of the Transfer and Conclude
 
 When this process concludes, a prompt message will appear on the window of its completion. Click **OK** to conclude transferring WhatsApp data. However, if the process does not operate properly, an error will come in the display, and you might have to click **Retry** to repeat the process.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![conclude or retry the transfer](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-ios-to-ios-4.png)
 
 ## How To Transfer WhatsApp From iPhone 6 to Android/iOS?
@@ -122,12 +137,18 @@ On the following screen, you will have to set the source and destination devices
 
 A prompt appears on the screen warning about the current WhatsApp data existing in the destination device. If the user wishes to back it up, they can proceed with the **Backup** option before transferring WhatsApp data. However, if you are considering continuing with transferring the WhatsApp data, select **Continue.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![backup previous data or continue](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-ios-to-android-3.png)
 
 - **Step 5** Transfer WhatsApp From iOS to Android
 
 The screen displays the progress of the WhatsApp transfer between iOS and Android devices. If you wish to abort the process, click **Cancel.** However, after some time, the entire transfer process will conclude, and the message will be prompted on the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transfer successfully from ios to android](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-ios-to-android-4.png)
 
 ### Part 2: Transfer WhatsApp From iOS To iOS
@@ -138,12 +159,18 @@ The process of shifting WhatsApp data from an iOS device to another iOS device i
 
 After launching **the WhatsApp Transfer** tool and selecting the option of **Transfer WhatsApp messages,** continue to set the Source and Destination device for this process. You need to put your old iPhone in the **Source** section and the new one in the **Destination** section. To alter the sides, use the **Flip** button in the center of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set source and destination ios devices](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-ios-to-ios-1.png)
 
 - **Step 2** Initiate Transfer of WhatsApp Data
 
 As you click **Transfer** on the bottom of the screen, a pop-up will appear on the front. While it will be a warning about the deletion of previous data from the Destination device, the platform will be offering the user a chance to **back up** the existing WhatsApp data. If you wish to proceed, click the **Continue** button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![start ios to ios transfer](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-ios-to-ios-2.png)
 
 - **Step 3** View the Progress of WhatsApp Transfer Between iOS and iOS
@@ -156,6 +183,9 @@ The next screen shows the progress of the WhatsApp transfer between iOS and iOS 
 
 When this process concludes, a prompt message will appear on the window of its completion. Click **OK** to conclude transferring WhatsApp data. However, if the process does not operate properly, an error will come in the display, and you might have to click **Retry** to repeat the process.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![conclude or retry the transfer](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-ios-to-ios-4.png)
 
 
@@ -175,3 +205,62 @@ When this process concludes, a prompt message will appear on the window of its c
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-amuse-others-via-adobe-meme-making/"><u>[New] Amuse Others via Adobe Meme-Making</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-breaking-down-why-syma-x5c-is-top-notch-for-new-dronists/"><u>[New] Breaking Down  Why Syma X5C Is Top-Notch for New Dronists</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-evasion-techniques-for-breaking-free-from-shadowban/"><u>[New] In 2024, Evasion Techniques for Breaking Free From Shadowban</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-optimizing-twitter-clips-for-instagram-display/"><u>[New] Optimizing Twitter Clips for Instagram Display</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-window-wisdom-taking-precise-screen-captures/"><u>[New] Window Wisdom  Taking Precise Screen Captures</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-novice-to-expert-ascending-with-asmr-video-production-tactics-for-2024/"><u>[Updated] From Novice to Expert  Ascending with ASMR Video Production Tactics for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-2023s-top-rated-vr-game-engines-exposed/"><u>2024 Approved  2023'S Top-Rated VR Game Engines Exposed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-strategies-to-eliminate-frames-loss-in-obs-recordings/"><u>2024 Approved  Strategies to Eliminate Frames Loss in OBS Recordings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-superior-websites-to-ditch-twitter-completely/"><u>2024 Approved  Superior Websites to Ditch Twitter Completely</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-marketers-best-friend-20-words-that-work-wonders/"><u>2024 Approved  The Marketer's Best Friend - 20 Words That Work Wonders</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/high-quality-freely-accessible-music-websites-listed-here-for-2024/"><u>High-Quality, Freely Accessible Music Websites Listed Here for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-iphone-se-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons From iPhone SE? Find the Best Solution Here</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-discord-emoji-gif/"><u>In 2024, How to Make Discord Emoji GIF</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-vivo-y100a-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Vivo Y100A Phones</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-motorola-moto-g84-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Motorola Moto G84 5G FRP Without Computer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-the-maze-of-stock-visual-acquisition/"><u>Navigating the Maze of Stock Visual Acquisition</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-preserving-audio-integrity-techniques-for-altering-pitch-in-audacity/"><u>New 2024 Approved Preserving Audio Integrity Techniques for Altering Pitch in Audacity</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-final-cut-pro-sound-visualization-step-by-step-on-rendering-audio-waveforms-and-their-animation-integration/"><u>New Final Cut Pro Sound Visualization Step-by-Step on Rendering Audio Waveforms and Their Animation Integration</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-tecno-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Tecno</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-tecno-phantom-v-flip-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Tecno Phantom V Flip</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-vivo-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Vivo</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-vivo-s17t-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Vivo S17t</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-vivo-y100i-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Vivo Y100i</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-vivo-y17s-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Vivo Y17s</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-vivo-y200-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Vivo Y200</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-vivo-y27-4g-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Vivo Y27 4G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-vivo-y36i-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Vivo Y36i</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-vivo-y55s-5g-2023-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Vivo Y55s 5G (2023)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-vivo-y77t-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Vivo Y77t</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-vivo-y78-5g-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Vivo Y78 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-xiaomi-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Xiaomi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-xiaomi-13-ultra-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-xiaomi-14-pro-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Xiaomi 14 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-xiaomi-14-ultra-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Xiaomi 14 Ultra</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-xiaomi-redmi-12-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Xiaomi Redmi 12</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-xiaomi-redmi-a2plus-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Xiaomi Redmi A2+</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-xiaomi-redmi-note-12-4g-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Xiaomi Redmi Note 12 4G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-yuva-3-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Yuva 3</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-zero-30-5g-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Zero 30 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-zte-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from ZTE</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-13t-pro-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from 13T Pro.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-14-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from 14.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-90-lite-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from 90 Lite.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-90-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from 90.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-a58-4g-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from A58 4G.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-a59-5g-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from A59 5G.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-agni-2-5g-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Agni 2 5G.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Asus ROG Phone 7 Ultimate.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-asus-rog-phone-7-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Asus ROG Phone 7.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-axon-40-lite-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Axon 40 Lite.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-blaze-pro-5g-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Blaze Pro 5G.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-c67-5g-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from C67 5G.</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/step-by-step-capturing-ios-device-screen-on-video-for-2024/"><u>Step-by-Step  Capturing iOS Device Screen on Video for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-achieving-clear-sound-mixes-with-audio-ducking-techniques-in-adobe-premiere-pro-for-windows-users/"><u>Updated 2024 Approved Achieving Clear Sound Mixes with Audio Ducking Techniques in Adobe Premiere Pro for Windows Users</u></a></li>
+</ul></div>

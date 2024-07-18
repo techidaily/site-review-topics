@@ -1,6 +1,6 @@
 ---
 title: How to use Device Manager to update your drivers on Windows 11/10/7
-date: 2024-05-19T18:09:42.336Z
+date: 2024-07-17T03:44:05.824Z
 tags: 
   - driver
   - device driver
@@ -18,6 +18,9 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg)  
 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
@@ -25,15 +28,24 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category.
 - **Step4**: Right-click the device whose driver you’d like to update, and select `Update Driver`.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/3.jpg) 
 
 - **Step5**: Select Search automatically for updated driver software.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/4.jpg) 
 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -81,6 +93,9 @@ We employ a strict testing regime to ensure our drivers are safe, secure and sta
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -90,6 +105,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
@@ -126,6 +144,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -206,10 +227,16 @@ To automatically update to the correct version of all the drivers that are missi
 2. Run the downloaded executable file and follow the on-screen prompts.
 3. Run Driver Easy and click `UPGRADE`.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
@@ -234,3 +261,45 @@ To automatically update to the correct version of all the drivers that are missi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-2023-how-to-share-twitter-videos-on-facebook/"><u>[New] 2024 Approved  2023 | How to Share Twitter Videos on Facebook?</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-elevating-discord-dynamics-a-curated-list-of-bots/"><u>[New] In 2024, Elevating Discord Dynamics  A Curated List of Bots</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-prime-cutting-edge-cameras-for-sports-and-adventure/"><u>[New] In 2024, Prime Cutting-Edge Cameras for Sports & Adventure</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-smart-shopping-strategy-top-7-affordable-4k-mirrorless/"><u>[New] Smart Shopping Strategy  Top 7 Affordable 4K Mirrorless</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-striking-the-perfect-balance-in-profile-videos/"><u>[Updated] In 2024, Striking the Perfect Balance in Profile Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-science-of-captivating-youtube-thumbnails/"><u>[Updated] The Science of Captivating YouTube Thumbnails</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-monochrome-to-vibrance-a-film-graders-journey/"><u>2024 Approved  From Monochrome to Vibrance  A Film Grader's Journey</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-htc-u23-by-drfone-android-unlock-android-unlock/"><u>How to unlock HTC U23</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-htc-u23-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock HTC U23 Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-htc-u23-pro-by-drfone-android-unlock-android-unlock/"><u>How to unlock HTC U23 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-htc-u23-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock HTC U23 Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-huawei-by-drfone-android-unlock-android-unlock/"><u>How to unlock Huawei</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-huawei-nova-y91-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Huawei Nova Y91 Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-infinix-by-drfone-android-unlock-android-unlock/"><u>How to unlock Infinix</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-infinix-gt-10-pro-by-drfone-android-unlock-android-unlock/"><u>How to unlock Infinix GT 10 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-infinix-hot-30-5g-by-drfone-android-unlock-android-unlock/"><u>How to unlock Infinix Hot 30 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-infinix-hot-30-5g-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Infinix Hot 30 5G Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-infinix-hot-30i-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Infinix Hot 30i Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-infinix-hot-40-pro-by-drfone-android-unlock-android-unlock/"><u>How to unlock Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-infinix-hot-40-pro-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Infinix Hot 40 Pro Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-infinix-hot-40-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Infinix Hot 40 Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-infinix-hot-40i-by-drfone-android-unlock-android-unlock/"><u>How to unlock Infinix Hot 40i</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-infinix-hot-40i-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Infinix Hot 40i Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-infinix-hot-40i-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Infinix Hot 40i Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-infinix-note-30-pro-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Infinix Note 30 Pro Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-infinix-note-30-pro-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Infinix Note 30 Pro Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-infinix-note-30-vip-by-drfone-android-unlock-android-unlock/"><u>How to unlock Infinix Note 30 VIP</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-infinix-note-30-vip-racing-edition-by-drfone-android-unlock-android-unlock/"><u>How to unlock Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-infinix-note-30-vip-racing-edition-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Infinix Note 30 VIP Racing Edition Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-infinix-note-30-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Infinix Note 30 Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-infinix-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Infinix Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-infinix-smart-7-hd-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Infinix Smart 7 HD Without Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-nubia-red-magic-9-proplus-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Nubia Red Magic 9 Pro+?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-fixes-without-external-monitors/"><u>NVIDIA Fixes Without External Monitors</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oppo-a2-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Oppo A2 FRP</u></a></li>
+<li><a href="https://video-capture.techidaily.com/synchronize-your-calendars-for-smooth-video-calls/"><u>Synchronize Your Calendars for Smooth Video Calls</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-this-article-we-will-review-movavi-video-editor-and-list-out-movavi-video-suites-features-for-2024/"><u>Updated In This Article, We Will Review Movavi Video Editor and List Out Movavi Video Suites Features for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-best-of-the-best-8-mac-movie-creation-tools-you-need/"><u>Updated The Best of the Best 8 Mac Movie Creation Tools You Need</u></a></li>
+</ul></div>

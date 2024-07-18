@@ -1,6 +1,6 @@
 ---
 title: Quick Fixes to Repair Microsoft Excel 2003 Content related error
-date: 2024-03-05 15:44:59
+date: 2024-07-17T04:31:19.880Z
 tags: 
   - repair
   - repair excel
@@ -16,6 +16,9 @@ keywords: repair excel 2007,repair .xls,repair excel 2013
 
 **Summary:** The blog outlines some quick tips to fix ‘We found a problem with some content’ error in Microsoft Excel 2013/2016. It explains manual procedure to resolve the error and also suggests an automated tool to perform the repair process to retrieve all possible data from a corrupt workbook.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
 Sometimes, when opening an MS Excel file, you may receive an error message that reads:
@@ -48,6 +51,9 @@ File Recovery mode is a native Excel recovery utility that automatically opens w
 2. In the **Open** dialog box, navigate to the folder location where the corrupt Excel file is saved.
 3. Select the corrupt file, and then click on arrow sign available next to **Open** button to select **Open and Repair** option.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Open and Repair](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2017/03/Open-and-Repair.png "MS Excel Content error")
 
 Figure 2 – Open and Repair Feature in Excel
@@ -68,6 +74,9 @@ To make the file accessible, try setting the calculation option in Excel from au
 3. When a blank workbook opens, click **File** > **Options**.
 4. Under the Formulas category, pick Manual in the **Calculation options** section, and then click **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![calculation options](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2017/03/calculation-options.png "MS Excel Content error")
 
 Figure 3 – Select Manual in Calculation options
@@ -77,6 +86,9 @@ Figure 3 – Select Manual in Calculation options
 
 When the workbook opens, check if it contains all the data. If not, proceed to the next tip.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Tip #3: Copy Excel Workbook Contents to a New Workbook**
 
 Several users have reported that they were able to fix ‘_We found a problem with some content in <filename>’_ error message by copying contents from the corrupt workbook to a separate workbook. **Detailed steps are as follows**:
@@ -107,6 +119,9 @@ Use external references to link to the corrupted workbook. By implementing this 
 
 This will remove the link to the corrupt workbook and will retrieve data. But, keep in mind, the recovered data will no longer contain formulas or calculated values.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Alternative Solution – Stellar Repair for Excel**
 
 If the above manual methods fail to fix the ‘We found a problem with some content in Excel error’, try using the Stellar Repair for Excel software to resolve this error. The software helps repair and recover corrupt Excel files in just a few clicks. It can be used on a Windows 10/8/7/Vista/XP/NT machine to repair a corrupted workbook and recover every single bit of data from all the versions of the Excel workbook.
@@ -115,6 +130,9 @@ If the above manual methods fail to fix the ‘We found a problem with some cont
 
 **Read this:** [How to repair corrupt Excel file using Stellar Repair for Excel?](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## **Conclusion**
 
 In this blog, we discussed some possible reasons behind Microsoft Excel 2013/2016 _‘We found a problem with some content’_ error. The error may occur when an Excel file becomes corrupt. You may try repairing the corrupted Excel file manually by using the built-in ‘Open and Repair’ feature. Or, try the manual workarounds to extract data from the corrupt file discussed in this post. If the manual solutions don’t work for you, using [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) can come in handy in repairing the corrupt Excel (.xls/.xlsx) file and recovering the complete file data.
@@ -135,3 +153,60 @@ In this blog, we discussed some possible reasons behind Microsoft Excel 2013/201
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-achieve-excellence-in-google-meet-hostparticipant-at-no-cost/"><u>[New] 2024 Approved  Achieve Excellence in Google Meet (Host/Participant) at No Cost</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-apowersofts-latest-capture-tech-for-efficient-pc-recording/"><u>[Updated] 2024 Approved  Apowersoft's Latest Capture Tech for Efficient PC Recording</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-free-converters-at-your-fingertenaside-download-and-enjoy-videos-anywhere/"><u>[Updated] In 2024, Free Converters at Your Fingertenaside  Download & Enjoy Videos Anywhere</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-v30-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/apexcutter-pro-studio-quality-pc-video-and-sound-fusion/"><u>ApexCutter Pro  Studio-Quality PC Video & Sound Fusion</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/discover-the-instant-fame-boosting-channel-names-for-2024/"><u>Discover the Instant Fame-Boosting Channel Names for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-oppo-reno-10-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Oppo Reno 10 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-xiaomi-redmi-12-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Xiaomi Redmi 12 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-dominating-the-igtv-space-a-guide-to-massive-viewership-growth/"><u>In 2024, Dominating the IGTV Space  A Guide to Massive Viewership Growth</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-oneplus-12r-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your OnePlus 12R in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-video-intros-for-professionals-and-amateurs/"><u>In 2024, Free Video Intros for Professionals & Amateurs</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-poco-m6-pro-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Poco M6 Pro 5G Through Google Earth?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-step-by-step-guide-for-using-movie-maker-on-w11/"><u>In 2024, The Ultimate Step-By-Step Guide for Using Movie Maker on W11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-iphone-xs-max-and-android-phones-by-drfone-ios/"><u>In 2024, Top IMEI Unlokers for iPhone XS Max and Android Phones</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-8-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 8 Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-8-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 8 Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-8-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 8 Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-8-plus-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 8 Plus Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-8-plus-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 8 Plus Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-8-plus-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 8 Plus Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-8-plus-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 8 Plus Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-8-plus-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 8 Plus Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-8-plus-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 8 Plus Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-se-2020-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone SE (2020) Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-se-2020-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone SE (2020) Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-se-2020-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone SE (2020) Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-se-2020-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone SE (2020) Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-se-2020-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone SE (2020) Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-se-2020-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone SE (2020) Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-se-2022-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone SE (2022) Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-se-2022-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone SE (2022) Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-se-2022-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone SE (2022) Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-se-2022-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone SE (2022) Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-se-2022-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone SE (2022) Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-se-2022-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone SE (2022) Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-se-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone SE Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-se-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone SE Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-se-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone SE Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-se-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone SE Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-se-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone SE Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-se-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone SE Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-x-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone X Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-x-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone X Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-x-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone X Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-x-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone X Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-x-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone X Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-x-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone X Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-xr-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone XR Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-xr-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone XR Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-xr-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone XR Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-xr-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone XR Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-sensation-keywords-for-enhancing-video-shows-virality/"><u>Short Sensation  Keywords for Enhancing Video Shows' Virality</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+</ul></div>

@@ -1,6 +1,6 @@
 ---
 title: How to use Device Manager to update your drivers in Windows 11/10/7
-date: 2024-05-19T18:09:42.327Z
+date: 2024-07-17T03:43:54.631Z
 tags: 
   - driver
   - device driver
@@ -18,6 +18,9 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg)  
 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
@@ -25,6 +28,9 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category.
 - **Step4**: Right-click the device whose driver you’d like to update, and select `Update Driver`.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/3.jpg) 
 
 - **Step5**: Select Search automatically for updated driver software.
@@ -42,10 +48,16 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to update all your drivers with just 1 click
 
 The easiest way to automatically update your drivers is with our tool, Driver Easy Pro.
@@ -95,6 +107,9 @@ To automatically update to the correct version of all the drivers that are missi
 7. That’s it. You can go grab a coffee, while Driver Easy does all the work for you!
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -105,6 +120,9 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -123,6 +141,9 @@ And without all these drivers, none of your devices will work.
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -131,6 +152,9 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
@@ -160,6 +184,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -226,3 +253,54 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-from-novice-to-pro-ps4-recordings-using-obs-studio/"><u>[New] In 2024, From Novice to Pro  PS4 Recordings Using OBS Studio</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-step-by-step-guide-enhancing-youtube-content-with-ios-recording/"><u>[New] In 2024, Step-by-Step Guide  Enhancing YouTube Content with iOS Recording</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-navigating-fee-free-discord-videos-download-handheld-and-workstation-guide/"><u>[New] Navigating Fee-Free Discord Videos Download  Handheld & Workstation Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-simplified-guide-to-incorporating-accurate-timestamps-in-youtube-videos-for-2024/"><u>[New] Simplified Guide to Incorporating Accurate Timestamps in YouTube Videos for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-innovate-your-online-identity-with-these-30-exceptional-tiktok-names-for-2024/"><u>[Updated] Innovate Your Online Identity with These 30 Exceptional TikTok Names for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-harmonizing-social-media-a-guide-for-insta-tik-tok-linkage/"><u>2024 Approved  Harmonizing Social Media  A Guide for Insta-Tik Tok Linkage</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-realme-11x-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Realme 11X 5G Phone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-12plus-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-xs-max-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone XS Max</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-oneplus-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of OnePlus on Windows??</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xs-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XS to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xs-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XS to other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xs-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XS to others devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-21-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my 21</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-asus-rog-phone-7-ultimate-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-c300-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my C300</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-find-x7-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Find X7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-google-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Google</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-google-pixel-7a-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Google Pixel 7a</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-google-pixel-8-pro-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Google Pixel 8 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-google-pixel-fold-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Google Pixel Fold</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-honor-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Honor</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-honor-100-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Honor 100</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-honor-100-pro-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Honor 100 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-honor-70-lite-5g-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Honor 70 Lite 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-honor-magic-6-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Honor Magic 6</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-honor-magic-6-pro-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Honor Magic 6 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-honor-magic-v2-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Honor Magic V2</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-honor-magic5-ultimate-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-honor-play-7t-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Honor Play 7T</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-honor-x50-gt-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Honor X50 GT</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-honor-x50i-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Honor X50i</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-honor-x50iplus-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Honor X50i+</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-huawei-nova-y71-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Huawei Nova Y71</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-infinix-gt-10-pro-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Infinix GT 10 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-infinix-hot-30-5g-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Infinix Hot 30 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-infinix-hot-40i-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Infinix Hot 40i</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-infinix-note-30-5g-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Infinix Note 30 5G</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-framefinesse-optimizing-visuals-on-instagram/"><u>In 2024, FrameFinesse  Optimizing Visuals on Instagram</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-poco-x5-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Poco X5 Device</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-16-top-rated-free-avi-rotators-for-windows-mac-android-and-iphone/"><u>New In 2024, 16 Top-Rated Free AVI Rotators for Windows, MAC, Android, and iPhone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/the-cyber-soundscape-changing-audio-speeds-and-tones-on-the-web-for-2024/"><u>The Cyber Soundscape Changing Audio Speeds and Tones on the Web for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android/"><u>Top 10 Password Cracking Tools For Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-realme-c33-2023-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Realme C33 2023 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-global-top-rated-mp3-editing-applications/"><u>Updated In 2024, Global Top-Rated MP3 Editing Applications</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify missing drivers with Windows Device Manager in Windows 11/10</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-12-4g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 12 4G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+</ul></div>

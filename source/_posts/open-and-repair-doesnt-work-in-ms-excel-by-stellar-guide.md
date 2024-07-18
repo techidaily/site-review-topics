@@ -1,6 +1,6 @@
 ---
 title: Open and Repair Doesnt Work in MS Excel
-date: 2024-05-19T18:09:44.130Z
+date: 2024-07-17T04:07:26.061Z
 tags: 
   - repair
   - repair excel
@@ -20,6 +20,9 @@ keywords: repair excel 2003,repair excel 2016,repair .xlb,repair .xls,repair .cs
 
 Whether you are a student or an entrepreneur, the features of Microsoft Excel do not delude anyone. Setting goals, creating budgets, analyzing data, calculating salaries, is there anything that Excel can’t do? All of us have used it and trusted it to calculate and provide a solution to our most difficult problems. However, like every other software application, this otherwise reliable application can sometimes fall prey to unexpected errors which can even threaten to make our critical data inaccessible.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Open and Repair doesn’t work](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2017/08/open-and-repair-1.jpg)
 
 A good idea to avoid loss of data when a Microsoft Excel file becomes corrupt is to take some proactive measures, such as saving a backup copy of your files and creating an automatic recovery file at periodic intervals. If you are faced with a corrupted Excel file, you know you can still use the ‘Open and Repair’ function provided by Microsoft to fix and open corrupt Excel file. However, what should a user do when ‘**Open and Repair**’ is not working? This is a query shared by millions of Excel users worldwide. Sometimes, the ‘Open and Repair’ functionality of Excel stops working due to unknown reasons. In such cases, if users face Excel file corruption, they get stuck with no idea how to fix the Excel file.
@@ -34,10 +37,16 @@ In this guide, we’re providing you with the solutions to this very problem. If
 
 If your workbook is opening in Excel, there are two options to recover its data. It would be best if you try to perform one, and if you are unsuccessful, move on to the next.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Revert the workbook to the version that was saved before the corruption**
 
 - Launch Excel and click **File** -> **Open**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Excel File Open](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/12/File-and-Open.png)
 
 - Select the file that is corrupted and open it
@@ -50,7 +59,7 @@ If your workbook is opening in Excel, there are two options to recover its data.
 - Launch Excel and click **File** -> **Save As**.
 - In the **Save as Type** field, select **SYLK (Symbolic Link)** from the drop-down menu, and click **Save**.
 
-![Save Excel Workbook in SYLK File Format ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/12/SYLK-format.png)
+![Save Excel Workbook in SYLK File Format](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/12/SYLK-format.png)
 
 - To save only the active sheet in the workbook, click **OK**. The system will display a message that the sheet has features that are not compatible with the SYLK file format.
 - Click **Yes**.
@@ -81,6 +90,9 @@ In this case too, there are two options to recover the data. Try to perform one,
 - Click **File** -> **Options**.
 - Under **Formulas**, in the **Calculation options** section, click **Manual**.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Stellar](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/12/Calculation-Options.png)
 
 - Click **OK**.
@@ -117,8 +129,14 @@ In addition to the above-mentioned techniques, you can also use macros to extrac
 
 Thus, if the above methods do not yield the desired results, a quick and easy way for reconstructing Excel files is to use [Excel Recovery Software](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/). Stellar Repair for MS SQL software is the best choice for rebuilding damaged Excel files and restoring everything to a new Excel file. The product lets you recover table, chart, chart-sheet, cell comment, image, formula, sort and filter data from damaged workbooks and also allows you to fix multiple files at one go.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Free Download for Windows](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/03/free-download-windows-2.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Wrapping it up**
 
 Though one of the above-mentioned techniques should recover Excel file if ‘_**Open and Repair’ utility doesn’t work**_, in case you’ve reached nowhere even after using them, contact Microsoft support for more help.
@@ -141,3 +159,48 @@ Though one of the above-mentioned techniques should recover Excel file if ‘_**
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-elevate-your-video-entrance-with-these-tools/"><u>[New] 2024 Approved  Elevate Your Video Entrance with These Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-top-5-ios-tools-to-download-facebook-movies-and-clips/"><u>[New] In 2024, Top 5 iOS Tools to Download Facebook Movies & Clips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-platforms-elevating-youtube-success/"><u>[New] Prime Platforms  Elevating YouTube Success</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-revamping-screen-recording-a-critical-look-at-camstudios-new-features-for-2024/"><u>[New] Revamping Screen Recording - A Critical Look at CamStudio's New Features for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-taking-screenshots-on-mac-5-methods/"><u>[Updated] 2024 Approved  Taking Screenshots on Mac [5 Methods]</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-creating-bigger-head-effects-for-tiktok-videos-3-strategies-for-2024/"><u>[Updated] Creating Bigger Head Effects for TikTok Videos (3 Strategies) for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-integrating-clips-flawlessly-using-blend-modes-for-2024/"><u>[Updated] Integrating Clips Flawlessly Using Blend Modes for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-windows-11-gamers-top-5-techniques-for-perfect-snapshots-for-2024/"><u>[Updated] Windows 11 Gamers  Top 5 Techniques for Perfect Snapshots for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-creative-minds-guide-to-preferred-mac-editors/"><u>2024 Approved  Creative Minds' Guide to Preferred Mac Editors</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-the-ultimate-guide-to-muting-audio-on-tiktok-easy-steps-explored/"><u>2024 Approved The Ultimate Guide to Muting Audio on TikTok Easy Steps Explored</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-x-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone X Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-xr-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone XR Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-xr-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone XR Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-xr-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone XR Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-xr-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone XR Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-xr-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-xs-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone XS Max Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-xs-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone XS Max Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-xs-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone XS Max Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-xs-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone XS Max Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-xs-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone XS Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-xs-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone XS Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-xs-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone XS Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-xs-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone XS Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-drivers-in-windows-10-by-drivereasy-guide/"><u>How to use Device Manager to reinstall drivers in Windows 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-drivers-in-windows-10-and-7-by-drivereasy-guide/"><u>How to use Device Manager to reinstall drivers in Windows 10 & 7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-drivers-in-windows-11-by-drivereasy-guide/"><u>How to use Device Manager to reinstall drivers in Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-drivers-in-windows-11-and-10-by-drivereasy-guide/"><u>How to use Device Manager to reinstall drivers in Windows 11 & 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-drivers-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to use Device Manager to reinstall drivers in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-drivers-in-windows-1110-by-drivereasy-guide/"><u>How to use Device Manager to reinstall drivers in Windows 11/10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-drivers-in-windows-11107-by-drivereasy-guide/"><u>How to use Device Manager to reinstall drivers in Windows 11/10/7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-drivers-in-windows-7-by-drivereasy-guide/"><u>How to use Device Manager to reinstall drivers in Windows 7</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-guide-to-isolating-and-removing-audio-tracks-in-video-editing-using-premiere-pro/"><u>In 2024, Guide to Isolating and Removing Audio Tracks in Video Editing Using Premiere Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-apple-iphone-6-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your Apple iPhone 6 Apple ID and Apple Pay</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-apple-iphone-14-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 6 Apps/Services to Trace Any Apple iPhone 14 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-samsung-galaxy-s24-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Samsung Galaxy S24 Location | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/thriving-in-digital-realms-the-power-of-well-planned-backlinks/"><u>Thriving in Digital Realms  The Power of Well-Planned Backlinks</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-comprehensive-review-of-wave-editor-capabilities-for-new-users-for-2024/"><u>Updated Comprehensive Review of Wave Editor Capabilities for New Users for 2024</u></a></li>
+</ul></div>

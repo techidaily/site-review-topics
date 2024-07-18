@@ -1,6 +1,6 @@
 ---
 title: Identify missing drivers with Windows Device Manager in Windows 11
-date: 2024-05-19T18:09:42.798Z
+date: 2024-07-17T03:50:33.137Z
 tags: 
   - driver
   - device driver
@@ -32,6 +32,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to update all your drivers with just 1 click
 
 The easiest way to automatically update your drivers is with our tool, Driver Easy Pro.
@@ -48,6 +51,9 @@ Here’s how Driver Easy works:
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/IXfcOn7SSHY" title="Driver Easy Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-step instructions
 
 To automatically update to the correct version of all the drivers that are missing or out of date on your system:
@@ -71,6 +77,9 @@ To automatically update to the correct version of all the drivers that are missi
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
@@ -92,12 +101,18 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -121,6 +136,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -192,11 +210,17 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -222,3 +246,70 @@ There are two reasons why…
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-voice-over-fundamentals-from-syncing-dialogue-to-final-cut/"><u>[New] 2024 Approved  Voice Over Fundamentals  From Syncing Dialogue to Final Cut</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/oop-friendly-tv-setups-integrating-youtube-videos-for-2024/"><u>[New] Loop-Friendly TV Setups  Integrating YouTube Videos for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-mastering-tiktok-essential-factors-for-mac-users/"><u>[New] Mastering TikTok  Essential Factors for Mac Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-artisans-shaping-virtual-marvel-universes/"><u>[Updated] 2024 Approved  Artisans Shaping Virtual Marvel Universes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-design-your-closure-the-best-free-youtube-tutorials/"><u>[Updated] 2024 Approved  Design Your Closure  The Best Free YouTube Tutorials</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-low-cost-high-performance-great-smartphones-for-gamers/"><u>[Updated] 2024 Approved  Low-Cost, High Performance  Great Smartphones for Gamers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mapping-instagrams-unfollowers-landscape/"><u>[Updated] 2024 Approved  Mapping Instagram's Unfollowers Landscape</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-navigating-vimeo-success-strategies-for-staff-picked-videos/"><u>[Updated] 2024 Approved  Navigating Vimeo Success  Strategies for Staff-Picked Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-finding-the-middle-ground-working-and-youtube/"><u>[Updated] In 2024, Finding the Middle Ground  Working & YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-new-youtube-earning-rules-unveiled/"><u>[Updated] In 2024, New YouTube Earning Rules Unveiled</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-innovative-approaches-to-efficiently-capture-and-save-your-screens-with-mobizen/"><u>[Updated] Innovative Approaches to Efficiently Capture and Save Your Screens with Mobizen</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-the-complete-guide-to-facebook-dominance-business-edition-for-2024/"><u>[Updated] The Complete Guide to Facebook Dominance  Business Edition for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-essential-watchers-the-1-10-fb-apps/"><u>2024 Approved  Essential Watchers  The #1-#10 FB Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-next-gen-players-guide-rift-vive-vs-ps-vr-games/"><u>2024 Approved  Next-Gen Players Guide  Rift, Vive, vs PS VR Games</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-financial-scale-one-million-youtube-viewers-pay/"><u>2024 Approved  The Financial Scale  One Million YouTube Viewers' Pay</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/3-steps-to-add-a-countdown-timer-in-final-cut-pro-x-for-2024/"><u>3 Steps to Add a Countdown Timer in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-samsung-galaxy-a54-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Samsung Galaxy A54 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/effortless-introduction-designs-at-no-cost/"><u>Effortless Introduction Designs at No Cost</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/flashback-to-fame-vimeo-glimpse-for-2024/"><u>Flashback to Fame  Vimeo Glimpse for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-apple-iphone-11-pro-max-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from Apple iPhone 11 Pro Max Safe and Legal</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/maximizing-video-impact-a-comprehensive-guide-to-youtube-popularity-for-2024/"><u>Maximizing Video Impact  A Comprehensive Guide to YouTube Popularity for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-honor-play-7t-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Honor Play 7T</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-itel-a60-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Itel A60 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-avoid-facebook-video-cover-mistakes-learn-the-ideal-size-and-resolution/"><u>Updated In 2024, Avoid Facebook Video Cover Mistakes Learn the Ideal Size and Resolution</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-make-unforgettable-invitations-top-video-apps-for-mobile/"><u>Updated In 2024, Make Unforgettable Invitations Top Video Apps for Mobile</u></a></li>
+</ul></div>

@@ -1,6 +1,6 @@
 ---
 title: How to use Device Manager to reinstall your hardware drivers on Windows 11 & 10
-date: 2024-05-19T18:09:42.231Z
+date: 2024-07-17T03:42:54.625Z
 tags: 
   - driver
   - device driver
@@ -18,11 +18,17 @@ To reinstall a device’s driver in Windows Device Manager:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg)
 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 
 - **Step3**: Expand a category to see the devices in that category. Right-click the device whose driver you’d like to reinstall, and select Uninstall.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/5.jpg)
 
 - **Step4**: Restart your PC.
@@ -48,6 +54,9 @@ Here’s how Driver Easy works:
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/IXfcOn7SSHY" title="Driver Easy Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-step instructions
 
 To automatically update to the correct version of all the drivers that are missing or out of date on your system:
@@ -71,10 +80,16 @@ To automatically update to the correct version of all the drivers that are missi
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
@@ -110,6 +125,9 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -141,3 +159,47 @@ And without all these drivers, none of your devices will work.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-choosing-the-right-partners-for-a-safer-tiktok-expansion/"><u>[New] Choosing the Right Partners for a Safer TikTok Expansion</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-explore-and-master-group-communication-using-zoom-on-phone/"><u>[New] Explore & Master Group Communication  Using Zoom on Phone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-top-notch-hacks-navigating-instagrams-forgotten-features/"><u>[New] In 2024, Top-Notch Hacks  Navigating Instagram's Forgotten Features</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-master-list-of-leading-free-screen-capture-programs/"><u>[Updated] In 2024, Master List of Leading Free Screen Capture Programs</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-learn-to-craft-striking-pfps-on-discord-with-ease-for-2024/"><u>[Updated] Learn to Craft Striking Pfps on Discord with Ease for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/crafting-success-in-fb-video-advertising-a-collection-of-20-essentials-for-2024/"><u>Crafting Success in FB Video Advertising – A Collection of 20 Essentials for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-footage-flair-pc-and-mobile-filter-addition/"><u>Elevate Footage Flair  PC & Mobile Filter Addition</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-y56-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo Y56 5G Without PUK Codes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-vivo-y55s-5g-2023-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Vivo Y55s 5G (2023) Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unraveling-youtubes-profit-from-1m-viewers/"><u>In 2024, Unraveling Youtube's Profit From 1M Viewers</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-top-rated-free-and-paid-android-video-editors/"><u>New In 2024, Top-Rated Free and Paid Android Video Editors</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-mastering-podcasting-a-look-at-the-premier-hosting-services/"><u>New Mastering Podcasting A Look at the Premier Hosting Services</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-realme-narzo-n55-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Realme Narzo N55 has been deleted</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-realme-v30-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Realme V30 has been deleted</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-redmi-13c-5g-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Redmi 13C 5G has been deleted</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-redmi-note-13-pro-5g-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Redmi Note 13 Pro 5G has been deleted</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-s18-pro-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after S18 Pro has been deleted</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-samsung-galaxy-a05-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Samsung Galaxy A05 has been deleted</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-samsung-galaxy-f14-5g-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Samsung Galaxy F14 5G has been deleted</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-samsung-galaxy-s24-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Samsung Galaxy S24 has been deleted</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-samsung-galaxy-xcover-6-pro-tactical-edition-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Samsung Galaxy XCover 6 Pro Tactical Edition has been deleted</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-samsung-galaxy-z-fold-5-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Samsung Galaxy Z Fold 5 has been deleted</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-samsung-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Samsung has been deleted</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-smart-8-plus-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Smart 8 Plus has been deleted</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-tecno-camon-20-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Tecno Camon 20 has been deleted</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-tecno-camon-20-pro-5g-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Tecno Camon 20 Pro 5G has been deleted</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-tecno-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Tecno has been deleted</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-tecno-pop-8-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Tecno Pop 8 has been deleted</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-tecno-pova-5-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Tecno Pova 5 has been deleted</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-vivo-s17-pro-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Vivo S17 Pro has been deleted</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-vivo-s17e-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Vivo S17e has been deleted</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-vivo-s18-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Vivo S18 has been deleted</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-vivo-t2-5g-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Vivo T2 5G has been deleted</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-vivo-t2x-5g-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Vivo T2x 5G has been deleted</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-vivo-v30-lite-5g-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Vivo V30 Lite 5G has been deleted</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/samsung-ue590-ultra-hd-4k-gaming-and-freesync-screen/"><u>Samsung UE590 - Ultra HD 4K, Gaming & FreeSync Screen</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Vivo V30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-mastering-sound-manipulation-with-clownfish-voice-transformation-tools-for-better-interaction-on-discordfortniteskype-platforms/"><u>Updated 2024 Approved Mastering Sound Manipulation with Clownfish Voice Transformation Tools for Better Interaction on Discord/Fortnite/Skype Platforms</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-mastering-audio-visualization-creating-waveforms-and-enhancing-with-animations-in-adobe-premiere-pro-for-2024/"><u>Updated Mastering Audio Visualization Creating Waveforms & Enhancing with Animations in Adobe Premiere Pro for 2024</u></a></li>
+</ul></div>

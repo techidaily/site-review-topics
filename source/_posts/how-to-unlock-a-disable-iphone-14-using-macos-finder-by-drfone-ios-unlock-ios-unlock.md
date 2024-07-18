@@ -1,6 +1,6 @@
 ---
 title: How to unlock a disable iPhone 14 using macOS finder
-date: 2024-05-19T18:09:40.096Z
+date: 2024-07-17T03:11:23.777Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -24,6 +24,9 @@ Find My is available both online via the iCloud website and on iOS devices and o
 
 - **Step 2**: Go to Find My, select your iPhone 14.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Select your iphone](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/6.avif)
 
 - **Step 3**: Click Erase iPhone and confirm.
@@ -41,14 +44,23 @@ Dr.Fone - Screen Unlock (iOS) is a tool that can help you unlock your iPhone 14 
 
 - **Step 2**: Choose the `"iOS"` option, then select `"Unlock iOS Screen"` on the subsequent screen to continue unlocking your iPhone 14.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Unlock iOS Screen](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/1.avif)  
 
 - **Step 3**: Follow the provided instructions to start the disabled iPhone 14 in `Recovery Mode` to unlock it. If for any reason the phone does not boot in Recovery Mode, there are instructions provided at the bottom to enter what is called `DFU mode`.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Enter Recovery Mode](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/2.avif)
 
 - **Step 4**: Dr.Fone will read and display your phone model and the software installed on it. If the model displayed is incorrect, use the dropdown to pick the correct detail. Click `"Start"` to download the specific firmware file for your particular iPhone 14 model.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Download Firmware](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/3.avif)
 
 - **Step 5**: After the download completes, please click `Unlock Now` to start unlocking the disabled iPhone 14.
@@ -71,6 +83,9 @@ There are times you have another iOS device in the family or just lying around, 
 The disabled iPhone will be wiped and reset to factory settings. You can then set it up again.
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Unlock Disabled iPhone 14 Using iTunes or macOS Finder
 
 Of course, there is an official way that Apple provides for users to restore device firmware using iTunes or macOS Finder. For this, iPhone 14 is put under Recovery Mode manually and Finder or iTunes is used to reinstall software on it directly from Apple. This process is fine for people who are conversant in tech, since this process can throw up a lot of errors that are just numbers, and people can get confused as to what they mean, resulting in frustration.
@@ -82,6 +97,9 @@ Of course, there is an official way that Apple provides for users to restore dev
   - (2.2) Press the volume down button and let it go.
   - (2.3) Press the Side Button (power button, on the right side of your iPhone 14) and keep it pressed till Finder or iTunes detects the phone in Recovery Mode.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Unlock Disabled iPhone 14 Using iTunes or macOS Finder](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/5.avif)
 
 - **Step 3**: Choose Restore to download and reinstall the latest iOS on your iPhone 14 and unlock your iPhone 14.
@@ -125,6 +143,9 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 
 <a href="https://secure.2checkout.com/order/cart.php?PRODS=4719741&QTY=1&AFFILIATE=108875"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/EN-Dr.Fone%20970_90.png" border="0"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to use Face ID on iPhone 14 to pay with Apple Pay
 
 - **Step1**: If Apple Pay is supported by banking institutions in your country, you can set it up by adding a supported bank‘s credit card, debit card, or prepaid card to the Wallet app on your iPhone 14.
@@ -141,6 +162,9 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 
 - **Step6**: To pay using Apple Pay on websites, choose Apple Pay as the payment method, double press the Side Button, look at your iPhone 14, and wait for the Done message and checkmark to finish the process.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unlock Locked iPhone 14 by Restoring it to Default Settings – iTunes
 
 iPhone users make sure that they connect and sync their devices with iTunes because their data is safe. iPhone users live without the fear of losing their data because it is backed up. Taking more advantage of this, iPhone users can restore their phone to default settings and can even unlock their iPhone without using a passcode.
@@ -153,6 +177,9 @@ Let us show you how to unlock iPhone 14 without using a passcode;
 ![Screen Unlock](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone/7.avif)
 
 4. After the summary screen is opened, you will see the option of 'Restore iPhone'; click on that option. 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screen Unlock](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone/8.avif)
 5. This option will bring you to a new window that will be asking for your confirmation on the decision to restore your device.
 6. As soon as that is done and iTunes has finished the process, your iPhone 14 will be restored to default settings.
@@ -175,10 +202,16 @@ As an authentication mechanism, Face ID enables you to unlock your iPhone 14 wit
 
 Face ID allows you to authenticate yourself to make purchases in the App Store, Book Store, and iTunes Store and use Apple Pay wherever supported.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Lowering Ringer and Alarm Volume Automatically
 
 Face ID also enables what Apple calls Attention Aware features that are conveniences afforded to users who have a Face ID enabled iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What is Face ID?](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/5.avif)
 
 Setting up and using Attention Aware features is easy:
@@ -237,17 +270,26 @@ Tap Send to send your first Memoji/ Animoji.
 
 - **Step2**: On any of these stores, when you tap on the option to buy some content, a payment confirmation popup will be displayed along with instructions to authenticate yourself using Face ID.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/3.avif)
 
 The instructions are simple: press the side button twice to authenticate yourself using your Face ID and make the purchase.
 When done, a satisfying ting and a checkmark will confirm the action.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Activation Lock Primer
 
 Apple products are costly, and they are prized. When a 5-year-old Android device might be left alone without anyone stealing it, you cannot risk that with an iPhone 6S, even today. Apple has built an Activation Lock in its devices to deter theft and so far, as we know, it has largely succeeded. If your iPhone 14 13 gets stolen, no one else can use it with their Apple ID unless they key in the credentials it was using previously (your credentials) and, even then, Apple has bolstered iCloud Find My Activation Lock to be more restrictive. You may have to key in a lot of information ranging from your device password (if you are also using the same Apple ID on a Mac) to your iOS device passcode too, obviously, your Apple ID password. It is a system that works in favor of Apple users.
 
 Yet, in some cases, users want to get around the Activation Lock for genuine reasons, say, when you buy a used Apple device from someone. They may have forgotten to remove that device from their Apple account and Activation Lock would not let you use it. Or, you are an IT administrator, and you manage devices given out to employees. Some employees did not remove their accounts from their devices, and now those iPhones are riddled with Activation Lock. You can remove it using this step-by-step guide.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Checking If Your Apple ID Is Locked
 
 ![Checking If Your Apple ID Is Locked](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/2.avif)
@@ -269,3 +311,51 @@ A locked Apple ID is rather unmistakable. Your iPhone 14 would keep telling you 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-behind-the-sequence-celebrating-youtubes-top-cosmetics-artists/"><u>[New] 2024 Approved  Behind the Sequence  Celebrating YouTube's Top Cosmetics Artists</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-essential-elements-for-a-triumphant-tiktok-campaign-for-2024/"><u>[New] Essential Elements for a Triumphant TikTok Campaign for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-essential-tips-for-smooth-screen-sharing-on-skype-while-working-from-home/"><u>[New] In 2024, Essential Tips for Smooth Screen Sharing on Skype While Working From Home</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-revolutionize-your-workflow-with-these-top-10-mac-capture-tools/"><u>[Updated] 2024 Approved  Revolutionize Your Workflow with These Top 10 Mac Capture Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-masterpiece-on-your-iphone-ranking-of-best-free-image-assemblers/"><u>[Updated] Masterpiece on Your iPhone  Ranking of Best FREE Image Assemblers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-skald-rage-new-age-of-might-for-2024/"><u>[Updated] Skald Rage  New Age of Might for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-cinematic-speed-top-cameras-for-slow-motion-videography/"><u>2024 Approved  Cinematic Speed  Top Cameras for Slow Motion Videography</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-seamless-audio-integration-in-instagram-visuals-and-stories/"><u>2024 Approved  Seamless Audio Integration in Instagram Visuals & Stories</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-the-ease-of-skipping-through-tiktok-media/"><u>2024 Approved  The Ease of Skipping Through TikTok Media</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-apple-iphone-11-pro-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 11 Pro When Its Locked Within Seconds</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-reasons-why-macs-arent-great-for-gaming/"><u>6 Reasons Why Macs Aren't Great for Gaming</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-12-pro-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 12 Pro</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-google-pixel-fold-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-enable-the-home-section-in-the-settings-app-in-windows-11/"><u>How to Enable the Home Section in the Settings App in Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-lava-yuva-2-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Lava Yuva 2 Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-lava-yuva-3-pro-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Lava Yuva 3 Pro Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-11-pro-max-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 11 Pro Max without Passcode</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-11-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 11 without Passcode</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-12-mini-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 12 mini by restoring it to factory settings</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-12-mini-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 12 mini without Passcode</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-12-pro-by-restoring-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 12 Pro by restoring</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-12-pro-max-by-restoring-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 12 Pro Max by restoring</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-12-pro-max-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 12 Pro Max without Face ID</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-12-pro-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 12 Pro without Face ID</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-12-without-passcode-or-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 12 without Passcode or Face ID</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-13-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 13 by restoring it to factory settings</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-13-mini-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 13 mini by restoring it to factory settings</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-13-mini-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 13 mini without Face ID</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-13-mini-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 13 mini without Passcode</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-13-pro-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 13 Pro by restoring it to factory settings</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-13-pro-max-by-restoring-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 13 Pro Max by restoring</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-13-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 13 without Passcode</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-14-pro-max-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 14 Pro Max by restoring it to factory settings</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-14-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 14 without Passcode</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-15-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 15 by restoring it to factory settings</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-15-plus-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 15 Plus by restoring it to factory settings</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-15-pro-max-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 15 Pro Max by restoring it to factory settings</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-15-pro-max-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 15 Pro Max without Passcode</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-15-pro-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 15 Pro without Passcode</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-marketing-havens-for-youtube-videos/"><u>In 2024, Ideal Marketing Havens for YouTube Videos</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-best-7-whiteboard-explainer-videos-to-inspire-you/"><u>New Best 7 Whiteboard Explainer Videos to Inspire You</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-essential-details-of-making-perfect-talking-face-for-2024/"><u>New Essential Details of Making Perfect Talking Face for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-make-a-statement-10-best-animated-text-generators-for-eye-catching-content/"><u>Updated 2024 Approved Make a Statement 10 Best Animated Text Generators for Eye-Catching Content</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-vllo-on-mac-a-guide-to-downloads-and-alternatives/"><u>Updated VLLO on Mac A Guide to Downloads and Alternatives</u></a></li>
+</ul></div>

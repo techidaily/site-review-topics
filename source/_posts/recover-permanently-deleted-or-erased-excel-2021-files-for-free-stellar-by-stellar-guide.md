@@ -1,7 +1,7 @@
 ---
 title: Recover Permanently Deleted or Erased Excel 2021 Files for Free | Stellar
-date: 2024-03-13 20:39:16
-updated: 2024-03-14 11:41:25
+date: 2024-07-17T04:49:13.509Z
+updated: 2024-07-18T04:49:13.509Z
 tags: 
   - repair
   - repair excel
@@ -12,7 +12,7 @@ categories:
 description: This article describes Recover Permanently Deleted or Erased Excel 2021 Files for Free
 excerpt: This article describes Recover Permanently Deleted or Erased Excel 2021 Files for Free
 keywords: repair corrupt .xlb,repair corrupt .xls files,repair damaged .xlsm,repair corrupt excel file,repair .xls files,repair excel file,repair damaged .xltx files,repair .csv,repair .xltm,repair .xltx files
-thumbnail: https://www.lifewire.com/thmb/3tobj7wbVapRfa4KsiobKg3Nu40=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-184415451-9f59b82b64ac421cad0f28540a515b5f.jpg
+thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10f0ed6607a3b7c4f98575dff.jpg
 ---
 
 ## How to Repair Multiple Excel Files by Using Stellar
@@ -22,6 +22,9 @@ With Stellar Repair for Excel, it is quite easy and simple to repair multiple MS
 - Launch **[Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)** software.
 - Under Home menu, click Select file
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Select file option](https://www.stellarinfo.com/blog/wp-content/uploads/2019/08/select-file-option.jpg)
 
 - Click **Browse** and select corrupt Excel files. Select the checkbox to repair multiple files.
@@ -39,6 +42,9 @@ With Stellar Repair for Excel, it is quite easy and simple to repair multiple MS
 
 Stellar Repair for Excel Stellar Repair for Excel is the best choice for repairing corrupt or damaged Excel (.XLS/.XLSX) files. This Excel recovery software restores everything from corrupt file to a new blank Excel file.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Learn More ![red arrow](https://www.stellarinfo.com/image/catalog/blacktheme/data-recovery-standard/red-arrow.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
 
@@ -48,10 +54,16 @@ Stellar Repair for Excel Stellar Repair for Excel is the best choice for repairi
 
 - When an Excel 2016 file turns corrupt, you’ll receive an error message that reads: **“[The file is corrupt and cannot be opened](https://www.stellarinfo.com/blog/file-is-corrupted-and-cannot-be-opened-excel-2010/).”**
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/the-file-is-corrupt-and-cannot-be-opened-error-img1.png)
 
 - But sometimes, you encounter the **“Excel cannot open this file”** error message due to corruption in the file.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Excel-cannot-open-this-file](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/Excel-cannot-open-this-file-img2.png)
 
 ## Why does Excel File turn Corrupt?
@@ -104,12 +116,18 @@ Saving an Excel file in SYLK format might help you filter out corrupted elements
 - From your Excel **File** menu, choose **Save As**.
 - In ‘Save As’ window that pops-up, from the **Save as type** dropdown list, choose the **SYLK (Symbolic Link)** option, and then click **Save**.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![symbolic link format](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/save-as-symbolic-link-format-img5.png)
 
 **_Note:_** _Only the active sheet will be saved in workbook on choosing the SYLK format._
 
 - Click **OK** when prompted that “The selected file type does not support workbooks that contain multiple sheets”. This will only save the active sheet.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![Workbooks contain multiple sheets warning msg](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/Workbooks-contain-multiple-sheets-warning-msg-img6.png)
 
 - Click **Yes** when the warning message appears - “Some features in your workbook might be lost if you save it as SYLK (Symbolic Link)”.
@@ -128,6 +146,9 @@ How to Recover Corrupted Excel File 2016 Data When You Cannot Open the File?
 
 If you can’t access the Excel file, apply one of these workarounds to salvage the file’s data.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Workaround 1 – Open and Repair the Excel File**
 
 Excel automatically initiates ‘File Recovery’ mode on opening a corrupt file. After starting the auto-recovery mode, it attempts to reopen and repair the corrupt Excel file at the same time. If the auto-recovery mode does not start automatically, you can try to fix corrupted Excel file 2016 manually by using ‘Open and Repair’. Follow these steps:
@@ -150,6 +171,9 @@ Follow these steps to disable the protected view settings in an Excel file:
 
 - Open a blank 2016 workbook.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![blank excel file](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/blank-excel-file-img9.png)
 
 - Click the **File** tab and then select **Options**.
@@ -158,14 +182,23 @@ Follow these steps to disable the protected view settings in an Excel file:
 
 - When an **Excel Options** window opens, click **Trust Center** > **Trust Center Settings.**
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open excel trust center settings](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/open-excel-trust-center-settings-img11.png)
 
 - In the window that pops-up, choose **Protected View** from the left side navigation. Under ‘Protected View’, uncheck all the checkboxes, and then hit **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable-protected-view-settings](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/disable-protected-view-settings.png)
 
 Now, try opening your corrupt Excel 2016 file. If it won’t open, try the next workaround.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Workaround 3 – Link to the Corrupt Excel File using External References**
 
 If you only need to extract Excel file data without formulas or calculated values, use external references to link to your corrupt Excel 2016 file. Here’s how you can do it:
@@ -173,10 +206,16 @@ If you only need to extract Excel file data without formulas or calculated value
 - From your Excel file, click **File** > **Open**.
 - From the window that opens, click **Computer** and then click **Browse** and copy the name of your corrupt Excel 2016 file. Click the **Cancel** button.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![browse corrupted excel file](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/browse-corrupted-excel-file-img13.png)
 
 - Go back to your Excel file, click **File** > **New** > **Blank workbook**.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![new excel workbook](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/new-excel-workbook-img14.png)
 
 - In the new Excel workbook, type “=CorruptExcelFile Name!A1” in cell A1 to reference cell A1 of the corrupted file. Replace the ‘CorruptExcelFile Name’ with the name of the corrupt file that you have copied above. Hit **ENTER**.
@@ -189,6 +228,9 @@ If you only need to extract Excel file data without formulas or calculated value
 
 Check the new Excel file for recoverable data. If this didn’t work, consider using an [Excel file repair tool](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) to retrieve data.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Alternative Solution to Recover Excel File Data**
 
 Applying the above workarounds may take considerable time to recover corrupted Excel file 2016. Also, they may fail to extract data from a severely corrupted file. Using Stellar Repair for Excel software can help you overcome these limitations. The software helps repair severely corrupted XLS/XLSX file and retrieve all the file data in a few simple steps.
@@ -212,12 +254,18 @@ Errors such as ‘the file is corrupt and cannot be opened’, ‘Excel cannot o
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Repair Office 2016 Files (Word, Excel and PowerPoint)on Windows
 
 If you frequently work with Microsoft Word (.docx), Excel (.xlsx), and PowerPoint (.pptx) files, then issues like file inaccessibility or corruption won’t be new to you.
 
 Let’s discuss some common scenarios which may lead to corrupt MS Office 2016 files:  
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Scenarios behind Microsoft Office Files Corruption
 
 ### Scenario 1 – Disruption during Data Migration
@@ -258,6 +306,9 @@ Microsoft recommends using its in-built repair utility, 'Open and Repair', to fi
 
 - From the drop-down menu, click the **Open and Repair** option and follow the subsequent instructions to repair Office 2016 files.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **Solution 2 – Repair Office 2016 Installation**
 
 Try repairing the Office installation to fix the MS Office files. The steps to repair your Office installation may vary depending on the operating system you are using.
@@ -271,6 +322,9 @@ Try repairing the Office installation to fix the MS Office files. The steps to r
 
 - Click **Programs and Features,** and then click **Uninstall a program** option
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.stellarinfo.com/image/catalog/article/word/ControlPanel-Uninstall.png)
 
 - Right-click on the Office application you want to repair, and then click **Change**
@@ -297,10 +351,16 @@ Try repairing the Office installation to fix the MS Office files. The steps to r
 
 - Under **Change your installation of Microsoft Office Professional Plus 2016,** choose Repair, and then click **Continue** to initiate the repair process.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.stellarinfo.com/image/catalog/article/word/Repair-Office-Application.jpg)
 
 - Once the repair process completes, you'll be prompted to restart your PC. Click **Yes**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Solution 3 – Use Stellar Toolkit for File Repair**
 
 Repair MS Office 2016 files by using [Stellar Toolkit for File Repair](https://tools.techidaily.com/stellardata-recovery/file-repair-toolkit/). This software comprises four essential utilities that can help you repair corrupt MS Word, MS Excel, MS PowerPoint, and PDF files.
@@ -325,6 +385,9 @@ Note: If you don't know the exact location of corrupt office files or if they ar
 - To save the repaired data, click the Save button, and enter a destination of your choice.
 - Click OK.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 This post outlined possible scenarios and their causes that may lead to corruption in MS Office 2016 files. It also emphasized how the inbuilt methods such as Open and Repair, and Repair Office Installation help to resolve the corruption issues. But these are not competent enough to resolve all the errors. With Stellar Toolkit for File Repair, you can resolve all sorts of corruption issues and recover data of Office 2016 files – Excel, Word, PPT, and PDF – in their original state.
@@ -336,12 +399,18 @@ This post outlined possible scenarios and their causes that may lead to corrupti
 
 **Summary:** Unable to resolve “damage to the file was so extensive that repair was not possible” error in Excel? Read this post to discover more details about the error, possible causes, and how to rectify the error. To save time & efforts, you can also try an Excel file repair software to resolve the “damage to the file…” error in a few clicks.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
 When opening a workbook in Microsoft Excel 2003 or later, you may encounter an error message,
 
 _“Damage to the file was so extensive that repairs were not possible. Excel attempted to recover your formulas and values, but some data may have been lost or corrupted.”_
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/07/image-1.png)
 
 The error message may also occur while exporting an Excel file. Let’s find out what causes this error and what we can do to fix it.
@@ -385,10 +454,16 @@ If the error persists, then use the manual method to repair a workbook using the
 
 - Select **Open** and select the damaged spreadsheet from the **Recent Workbooks** section on the right, if listed. However, if you cannot find the file in the **Recent Workbooks** section, click on “**Browse**” and choose the **corrupted workbook**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Click on Open and browse the corrupted workbook](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/07/image-3.png)
 
 - Click the drop-down arrow on the **Open** tab and select **Open and Repair**.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![after selecting the corrupt excel, click on the drop-down next to Open and click on Open and Repair](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/07/image-4.png)
 
 ### Method 2: Check if exporting a Heavy File is Causing Resource Limitations in Excel
@@ -414,10 +489,16 @@ Follow the instructions to enable it:
 
 - Open Excel and go to **File** > **Options.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![In the file menu, go to Options](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/07/image-5.png)
 
 - Click “**Customize Ribbon.**”
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![In Excel options, click on Customize Ribbon](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/07/image-6.png)
 
 - Look at the right side of the pane and ensure the **Developer** tab is checked.
@@ -435,10 +516,16 @@ Once you have enabled the **Developer** tab, follow the steps to copy the macro 
 
 - Select **Visual Basic** to display the “**Visual Basic Editor**.”  
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Click on Visual Basic in the Developer Tab](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/07/image-9.png)
 
 - Go to the View menu in the Visual Basic Editor.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Go to the View menu in the Visual Basic Editor](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/07/image-10.png)
 
 - Select **Project Explorer**.
@@ -461,20 +548,29 @@ The workbook backup helps to open the corrupted or mistakenly deleted file. Some
 
 - Click **Open**.
 
-![Click on Open ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/07/image-14.png)
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
+![Click on Open](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/07/image-14.png)
 
 - Search on the top-left of the screen to click **Recent Workbooks** as below:
 
-![Click on Recent ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/07/image-15.png)
+![Click on Recent](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/07/image-15.png)
 
 - Next, scroll down to the bottom.
 - Click the “**Recover unsaved workbooks**” button.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![At the bottom, click on Recover unsaved workbooks](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/07/image-16.png)
 
 - Scroll and find the lost file.
 - Now double-click on the **file** to open.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 [![Stellar Repair for Excel](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
 ### Conclusion
@@ -486,10 +582,16 @@ The workbook backup helps to open the corrupted or mistakenly deleted file. Some
 
 **Summary:** In this Blog, we will go through Microsoft office most important product i.e Microsoft excel, let's get into all possible Manual and an alternate method to deal with MS Excel **open and Repair doesn’t work** issue, read on to know more.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
 Whether you are a student or an entrepreneur, the features of Microsoft Excel do not delude anyone. Setting goals, creating budgets, analyzing data, calculating salaries, is there anything that Excel can’t do? All of us have used it and trusted it to calculate and provide a solution to our most difficult problems. However, like every other software application, this otherwise reliable application can sometimes fall prey to unexpected errors which can even threaten to make our critical data inaccessible.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Open and Repair doesn’t work](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2017/08/open-and-repair-1.jpg)
 
 A good idea to avoid loss of data when a Microsoft Excel file becomes corrupt is to take some proactive measures, such as saving a backup copy of your files and creating an automatic recovery file at periodic intervals. If you are faced with a corrupted Excel file, you know you can still use the ‘Open and Repair’ function provided by Microsoft to fix and open corrupt Excel file. However, what should a user do when ‘**Open and Repair**’ is not working? This is a query shared by millions of Excel users worldwide. Sometimes, the ‘Open and Repair’ functionality of Excel stops working due to unknown reasons. In such cases, if users face Excel file corruption, they get stuck with no idea how to fix the Excel file.
@@ -500,6 +602,9 @@ In this guide, we’re providing you with the solutions to this very problem. If
 
 **‘Open and Repair’ doesn’t work:** Try an **alternative** solution i.e. **[Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)** to recover everything from corrupt Excel files.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **How to Fix Excel file that Won’t Open**
 
 If your workbook is opening in Excel, there are two options to recover its data. It would be best if you try to perform one, and if you are unsuccessful, move on to the next.
@@ -520,7 +625,7 @@ If your workbook is opening in Excel, there are two options to recover its data.
 - Launch Excel and click **File** -> **Save As**.
 - In the **Save as Type** field, select **SYLK (Symbolic Link)** from the drop-down menu, and click **Save**.
 
-![Save Excel Workbook in SYLK File Format ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/12/SYLK-format.png)
+![Save Excel Workbook in SYLK File Format](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/12/SYLK-format.png)
 
 - To save only the active sheet in the workbook, click **OK**. The system will display a message that the sheet has features that are not compatible with the SYLK file format.
 - Click **Yes**.
@@ -542,6 +647,9 @@ In this case too, there are two options to recover the data. Try to perform one,
 
 - Launch Excel and click **File** -> **New**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Stellar](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/12/New-file.png)
 
 - From the **Available Templates** window, select **Blank workbook**.
@@ -551,6 +659,9 @@ In this case too, there are two options to recover the data. Try to perform one,
 - Click **File** -> **Options**.
 - Under **Formulas**, in the **Calculation options** section, click **Manual**.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Stellar](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/12/Calculation-Options.png)
 
 - Click **OK**.
@@ -559,6 +670,9 @@ In this case too, there are two options to recover the data. Try to perform one,
 
 The system opens the corrupted file. Since the workbook won’t be calculated, it might open.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Link the workbook to external references**
 
 - Launch Excel and click **File** -> **Open**.
@@ -587,6 +701,9 @@ In addition to the above-mentioned techniques, you can also use macros to extrac
 
 Thus, if the above methods do not yield the desired results, a quick and easy way for reconstructing Excel files is to use [Excel Recovery Software](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/). Stellar Repair for MS SQL software is the best choice for rebuilding damaged Excel files and restoring everything to a new Excel file. The product lets you recover table, chart, chart-sheet, cell comment, image, formula, sort and filter data from damaged workbooks and also allows you to fix multiple files at one go.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 [![Free Download for Windows](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/03/free-download-windows-2.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
 ## **Wrapping it up**
@@ -598,8 +715,14 @@ Though one of the above-mentioned techniques should recover Excel file if ‘_**
 
 While working on MS Excel, you may encounter various errors that can hamper your work and productivity. One of the errors that you may receive is ‘Microsoft Excel has encountered a problem and needs to close’.Due to this error, your Excel program may stop and asks you to recover the data from Excel file.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![excel error](https://www.stellarinfo.com/blog/wp-content/uploads/2021/12/excel-error-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are the Reasons for ‘MS Excel has Encountered a Problem’ Error?
 
 Following are some primary causes that may result in the ‘Microsoft Excel has encountered a problem and needs to close’ error:
@@ -636,6 +759,9 @@ Sometimes, the Macros prevent Excel from managing the files. You can disable the
 - Now, go to **File > Options > Trust Center.**
 - Further, click the **Trust Center Settings.**
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![trust center](https://www.stellarinfo.com/blog/wp-content/uploads/2021/12/trust-center-03.png)
 
 - Now, navigate to the **Macro Settings** option.
@@ -666,6 +792,9 @@ To know how Stellar Repair for Excel works, see the following video:
 
 <iframe src="//www.youtube.com/embed/VAeGzHnETu0" width="640" height="360" frameborder="0"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## To Wrap Up
 
 The 'Excel has encountered a problem and needs to close' error may occur due to different reasons. You can fix this error by following the methods mentioned in this post. If the error has occurred due to corruption in the Excel file, you can use a third-party Excel repair tool, like **Stellar Repair for Excel.** The software can repair damaged or corrupt Excel file of any size and retrieve all the data.
@@ -699,8 +828,14 @@ You can face the “filter is not working” issue if you are applying the filte
 
 There might be two scenarios: the Excel filter option is disabled/grayed out or the filters fail to function properly. You can follow the given troubleshooting solutions to resolve the issue based on the scenario you’re facing.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Scenario 1 – Filter Option is Disabled or Grayed Out**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### **Method 1: Check and Un-group the Worksheet**
 
 When you apply filters to a single sheet in a grouped set, Excel disables the filter option in other sheets within the group. You can check the grouped sheets and try ungrouping them to enable the filter option. Here’s how to do so:
@@ -714,6 +849,9 @@ When you apply filters to a single sheet in a grouped set, Excel disables the fi
 
 Alternatively, you can press the Shift + Alt + Left keys to ungroup the sheets.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### **Method 2: Unprotect Worksheet**
 
 The “disabled Excel filter” issue can also occur if your worksheet is protected. You can unprotect the worksheet to enable the filter option. To do so, go to the **Review** tab and then select **Unprotect Sheet.**
@@ -728,8 +866,14 @@ Sometimes, the Excel filter gets disabled due to faulty or corrupted Excel add-i
 
 In safe mode, if you see the filter option, it indicates some problematic Excel add-ins were causing the issue. In such a case, you can check and uninstall the faulty Excel add-ins to fix the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Scenario 2 – Filter is not Working**
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 1: Try Clearing Filters**
 
 Sometimes, the Excel filter fails to work correctly if some filters from the previous sessions are still active. In such a case, you can clear the applied filters. Follow the below steps:
@@ -737,8 +881,19 @@ Sometimes, the Excel filter fails to work correctly if some filters from the pre
 - In Excel file, click Sort & Filter option.
 - Select clear.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Excel: Clicking 'Sort & Filter' and selecting 'Clear' option.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/click-clear-option.jpg)
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 2: Select Entire Data**
 
 The filter not working issue in Excel can occur when the range selected for filtering is incomplete or incorrect. You need to make sure that you’ve selected the entire data range in Excel. You can use the Ctrl+A keys to select the entire content in the worksheet.
@@ -747,6 +902,9 @@ The filter not working issue in Excel can occur when the range selected for filt
 
 When you apply a filter to the data, Excel expects data to be in a continuous range. Excel filters do not consider the blank cells, thereby resulting in incorrect functioning of the filter. To resolve this issue, check and delete all blank cells. In case your Excel file is too large to delete the blank cells, then you can add a “Serial number” row as an alternative. Adding serial number row creates a data continuity, thus helping in fixing the filter-related issue.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 4: Unhide Hidden Rows and Columns**
 
 Hidden rows or columns in worksheets can also affect the filter functionality. You can check and unhide rows/columns to troubleshoot the issue. Here is how to do so:
@@ -754,10 +912,16 @@ Hidden rows or columns in worksheets can also affect the filter functionality. Y
 - In the affected Excel file, go to Home.
 - Click on **Format > Hide & Unhide**.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Excel file: Navigating to Home, accessing Format > Hide & Unhide.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/click-format-select-hide-or-unhide-option-1024x228.jpg)
 
 - Click **Unhide Rows** or **Unhide Columns** (as required).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Selective unhiding in Excel: 'Unhide Rows' or 'Unhide Columns' as needed.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/click-unhide-rows-unhide-columns.jpg)
 
 ### **Method 5: Unmerge Cells**
@@ -799,3 +963,68 @@ Several reasons are associated with the **filter not working issue in Excel**. T
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-audio-alchemy-free-perfectly-crafted-dj-template-videos-for-2024/"><u>[New] Audio Alchemy  Free, Perfectly Crafted DJ Template Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-charting-the-course-to-youtube-fame-strategic-video-release-frequency-for-2024/"><u>[New] Charting the Course to YouTube Fame  Strategic Video Release Frequency for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-chucklechief-meme-masterclass-online/"><u>[New] ChuckleChief  Meme Masterclass Online</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-how-to-upload-tweets-no-retweets-on-mobile-for-2024/"><u>[New] How to Upload Tweets - No Retweets on Mobile for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-pioneering-mobile-broadcasting-mastering-obs-studio-and-android-for-2024/"><u>[New] Pioneering Mobile Broadcasting  Mastering OBS Studio and Android for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-professional-tiktok-video-downloader-for-mp4-format-for-2024/"><u>[New] Professional TikTok Video Downloader for MP4 Format for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-guide-unbiased-freepaid-blu-ray-vids-on-pcmac/"><u>[New] Ultimate Guide  Unbiased Free/Paid Blu-Ray Vids on PC/Mac</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-cutting-tactics-shrinking-vids-for-instagram-mac-edition/"><u>[Updated] Cutting Tactics  Shrinking Vids for Instagram, Mac Edition</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-budget-video-editing-made-simple-with-vimeo-free-service/"><u>[Updated] In 2024, Budget Video Editing Made Simple with Vimeo Free Service</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-enhance-engagement-top-12-tactics-for-youtube-success/"><u>[Updated] In 2024, Enhance Engagement  Top 12 Tactics for YouTube Success</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-mastering-instagram-boosting-post-engagement-strategies/"><u>[Updated] In 2024, Mastering Instagram  Boosting Post Engagement Strategies</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-step-by-step-guide-to-zoom-call-recordings/"><u>[Updated] Step-by-Step Guide to Zoom Call Recordings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/24-techniques-for-recording-virtual-conferences-on-a-dime/"><u>24 Techniques for Recording Virtual Conferences on a Dime</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/apple-iphone-11-pro-max-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone 11 Pro Max Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/conquer-the-clutter-learn-bg-erasure-in-figma-designs/"><u>Conquer the Clutter  Learn BG Erasure in Figma Designs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-error-code-b200/"><u>Fixed: Error Code B200</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-red-magic-9-proplus-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Red Magic 9 Pro+</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-v29-pro-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo V29 Pro for Free? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2020-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2020) To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2020-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2020) To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2020-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2020) To Others Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2020-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2020) To Others devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2020-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2020) To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Android devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Android? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Others Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Others devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE To Android devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE To Android? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE To Other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-apple-iphone-6-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 6 Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-joke-generation-made-simple-kapwing-app-guide/"><u>In 2024, Joke Generation Made Simple – Kapwing App Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-strategies-to-enhance-your-youtube-video-positioning/"><u>In 2024, Strategies to Enhance Your YouTube Video Positioning</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-nubia-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Nubia FRP Bypass</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-the-secrets-of-altering-voice-sounds-on-ps5ps4/"><u>In 2024, Unlock the Secrets of Altering Voice Sounds on PS5/PS4</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/loom-capture-toolkit-essential-screen-casts-tips-for-2024/"><u>Loom Capture Toolkit  Essential Screen Casts Tips for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/navigating-the-intricacies-of-discord-roles-integration/"><u>Navigating the Intricacies of Discord Roles Integration</u></a></li>
+</ul></div>

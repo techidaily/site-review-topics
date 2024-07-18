@@ -1,6 +1,6 @@
 ---
 title: Identify missing your drivers with Windows Device Manager in Windows 11 & 10
-date: 2024-05-19T18:09:42.913Z
+date: 2024-07-17T03:52:39.741Z
 tags: 
   - driver
   - device driver
@@ -19,6 +19,9 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
@@ -33,6 +36,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -64,6 +70,9 @@ This page describes how to do this.
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
@@ -82,6 +91,9 @@ We employ a strict testing regime to ensure our drivers are safe, secure and sta
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -95,6 +107,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -172,6 +187,9 @@ Here’s how Driver Easy works:
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/IXfcOn7SSHY" title="Driver Easy Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-step instructions
 
 To automatically update to the correct version of all the drivers that are missing or out of date on your system:
@@ -191,6 +209,9 @@ To automatically update to the correct version of all the drivers that are missi
 2. Run the downloaded executable file and follow the on-screen prompts.
 3. Run Driver Easy and click `UPGRADE`.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
@@ -216,6 +237,9 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
 <ins class="adsbygoogle"
@@ -233,3 +257,54 @@ And without all these drivers, none of your devices will work.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-duration-decoded-a-guide-to-editing-youtube-videos/"><u>[New] Duration Decoded  A Guide to Editing YouTube Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellence-in-voice-modification-tools-featuring-magic/"><u>[New] Excellence in Voice Modification Tools, Featuring Magic</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-instagram-live-guide-conversation-tools-unveiled/"><u>[New] In 2024, The Instagram Live Guide  Conversation Tools Unveiled</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-no1-video-recorders-with-personalized-view/"><u>[New] No.1 Video Recorders with Personalized View</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-directing-the-stream-choosing-between-obs-and-twitch-studio/"><u>[Updated] 2024 Approved  Directing the Stream  Choosing Between OBS and Twitch Studio</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-unraveling-freeze-frames-in-photobooth-recordings/"><u>[Updated] 2024 Approved  Unraveling Freeze Frames in Photobooth Recordings</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-a-step-by-step-walkthrough-to-change-profile-pictorials/"><u>[Updated] In 2024, A Step-by-Step Walkthrough to Change Profile Pictorials</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-your-roadmap-to-prominence-top-30-cooler-disco-tags/"><u>[Updated] In 2024, Your Roadmap to Prominence  Top 30 Cooler Disco Tags</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-new-era-of-business-with-vr-integration/"><u>2024 Approved  A New Era of Business with VR Integration</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-glide-and-glory-short-track-highlights-from-22/"><u>2024 Approved  Glide and Glory  Short Track Highlights From '22</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-the-blueprint-for-successful-individual-podcasts/"><u>2024 Approved  The Blueprint for Successful Individual Podcasts</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-adept-at-editing-and-disc-making-the-ultimate-mac-guide/"><u>In 2024, Adept at Editing and Disc Making  The Ultimate Mac Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-developers-guide-to-top-10-android-apps-for-facebook-video-downloading/"><u>In 2024, Developer's Guide to Top 10 Android Apps for Facebook Video Downloading</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-itel-a60s-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Itel A60s Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-itel-p40plus-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Itel P40+ Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-itel-s23-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Itel S23 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-tecno-pop-7-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Tecno Pop 7 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-tecno-spark-10-4g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Tecno Spark 10 4G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-tecno-spark-10-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Tecno Spark 10 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-vivo-g2-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo G2 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-vivo-s18-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo S18 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-vivo-s18e-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo S18e Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-vivo-v29-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo V29 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-vivo-v30-lite-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo V30 Lite 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-vivo-x100-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo X100 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-vivo-x100-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo X100 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-vivo-y100-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo Y100 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-vivo-y100t-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo Y100t Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-vivo-y200-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo Y200 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-xiaomi-13-ultra-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Xiaomi 13 Ultra Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-xiaomi-14-ultra-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Xiaomi 14 Ultra Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-xiaomi-redmi-12-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Xiaomi Redmi 12 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-xiaomi-redmi-12-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Xiaomi Redmi 12 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-xiaomi-redmi-13c-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Xiaomi Redmi 13C Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-xiaomi-redmi-a2-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Xiaomi Redmi A2 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-xiaomi-redmi-a2plus-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Xiaomi Redmi A2+ Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-xiaomi-redmi-note-12t-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Xiaomi Redmi Note 12T Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-xiaomi-redmi-note-13-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Xiaomi Redmi Note 13 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-create-intro-with-legend-intro-maker/"><u>In 2024, How to Create Intro with Legend Intro Maker</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-iphone-13-pro-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your iPhone 13 Pro From Your Apple ID</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-saving-instagram-music-the-ultimate-download-guide/"><u>In 2024, Saving Instagram Music The Ultimate Download Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-virtual-background-magic-a-streamers-guide-to-chroma-key/"><u>In 2024, Unveiling Virtual Background Magic  A Streamer's Guide to Chroma Key</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-how-to-use-capcut-translate-to-transform-video-content/"><u>New In 2024, How To Use CapCut Translate to Transform Video Content</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-guide-to-time-lapse-video-editing-software-free-and-paid/"><u>New In 2024, The Ultimate Guide to Time-Lapse Video Editing Software (Free & Paid)</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/no-experience-necessary-video-editing-free-cutting-and-joining-software-for-2024/"><u>No-Experience-Necessary Video Editing Free Cutting and Joining Software for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-read-only-mode-on-windows-folders/"><u>Preventing Read-Only Mode on Windows Folders</u></a></li>
+</ul></div>

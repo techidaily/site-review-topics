@@ -1,6 +1,6 @@
 ---
 title: Identify missing your hardware drivers with Windows Device Manager on Windows 7
-date: 2024-05-19T18:09:42.946Z
+date: 2024-07-17T03:53:16.573Z
 tags: 
   - driver
   - device driver
@@ -19,12 +19,18 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -36,6 +42,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -50,6 +59,9 @@ We employ a strict testing regime to ensure our drivers are safe, secure and sta
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -63,6 +75,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -124,6 +139,9 @@ For example, if an audio driver supplied by Dell for a certain laptop causes iss
 
 Once we’ve located an alternative driver, we start over at step 1 of our testing process with it.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -162,6 +180,9 @@ If you want the certainty of knowing your device drivers are always up to date (
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -193,3 +214,46 @@ And without all these drivers, none of your devices will work.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-dungeon-dynamics-the-leading-10-rogue-experiences/"><u>[New] 2024 Approved  Dungeon Dynamics  The Leading 10 Rogue Experiences</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-relaxation-at-your-fingertips-games-you-love/"><u>[New] Relaxation at Your Fingertips  Games You Love</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-guide-the-top-10-inexpensive-youtube-channels-for-visual-creators-for-2024/"><u>[Updated] Essential Guide  The Top 10 Inexpensive YouTube Channels for Visual Creators for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-close-up-shots-zooming-into-action-films/"><u>[Updated] Mastering Close-Up Shots  Zooming Into Action Films</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-your-projects-imovie-sound-wizards/"><u>Elevate Your Projects  IMovie Sound Wizards</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-itel-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Itel Phone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-edge-40-neo-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Edge 40 Neo ?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-edge-40-pro-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Edge 40 Pro ?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-galaxy-a24-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Galaxy A24 ?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-galaxy-m34-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Galaxy M34 5G ?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-galaxy-xcover-7-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Galaxy XCover 7 ?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-galaxy-z-flip-5-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Galaxy Z Flip 5 ?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-htc-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on HTC  ?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-htc-u23-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on HTC U23 ?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-huawei-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Huawei  ?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-moto-g-stylus-2023-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Moto G Stylus (2023) ?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-moto-g14-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Moto G14 ?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-motorola-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Motorola ?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-motorola-g24-power-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Motorola G24 Power ?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-motorola-razr-40-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Motorola Razr 40 ?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-redmi-k70-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Redmi K70 ?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-redmi-k70-pro-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Redmi K70 Pro ?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-redmi-note-13-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Redmi Note 13 5G ?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-samsung-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Samsung  ?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-samsung-galaxy-a24-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Samsung Galaxy A24 ?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-samsung-galaxy-m34-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Samsung Galaxy M34 5G ?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-samsung-galaxy-m54-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Samsung Galaxy M54 5G ?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-oneplus-12r-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor OnePlus 12R Activity | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-complete-evaluation-the-ultimate-test-of-gecata-logging/"><u>In 2024, Complete Evaluation  The Ultimate Test of Gecata Logging</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nokia-c22-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Nokia C22 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-itel-a60s-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Itel A60s to PC? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-mastering-volume-curves-in-ableton-live/"><u>In 2024, Mastering Volume Curves in Ableton Live</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-path-to-professional-streaming-integrating-zoom-into-your-youtube-strategy/"><u>In 2024, The Path to Professional Streaming  Integrating Zoom Into Your YouTube Strategy</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-13-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 13 Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-audio-free-editing-excising-sound-from-mov-media-on-windowsmac/"><u>New 2024 Approved Audio-Free Editing Excising Sound From MOV Media on Windows/Mac</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premium-timepieces-for-your-dream-wedding-on-smartphones-for-2024/"><u>Premium Timepieces for Your Dream Wedding on Smartphones for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/step-by-step-guide-to-perfectly-timed-video-loops-on-ig/"><u>Step-by-Step Guide to Perfectly Timed Video Loops on IG</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-online-vertical-video-editing-made-easy-top-picks/"><u>Updated In 2024, Online Vertical Video Editing Made Easy Top Picks</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-mts-video-editing-software-review-top-5-contenders-for-2024/"><u>Updated MTS Video Editing Software Review Top 5 Contenders for 2024</u></a></li>
+</ul></div>

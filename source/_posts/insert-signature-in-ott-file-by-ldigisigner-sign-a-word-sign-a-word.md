@@ -1,7 +1,7 @@
 ---
 title: Insert signature in .ott file
-date: 2024-05-19T18:09:43.326Z
-updated: 2024-05-20T18:09:43.326Z
+date: 2024-07-17T03:56:46.795Z
+updated: 2024-07-18T03:56:46.795Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes Insert signature in .ott file
 excerpt: This article describes Insert signature in .ott file
 keywords: free sign .svd file,.docm file signer online,free sign .doc file,.svd file signature software,.dot file signature,.docm file signature tool
-thumbnail: https://www.lifewire.com/thmb/zcmLCaAS2rquyOBmPOs0BcLkssY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-things-to-consider-before-buying-a-graphics-card-5225912-e71513f30b90445e8c0702a87db6fcdc.jpg
+thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566be785a358865debf94836fef.jpg
 ---
 
 ## 1. Insert signature in .ott file
@@ -23,6 +23,9 @@ Electronic Signature in Word is a simple and secure way to sign documents online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -37,6 +40,9 @@ Electronic Signature in Word is a simple and secure way to sign documents online
 
   > Save your changes by clicking on DONE, then select DOWNLOAD DOCUMENT to securely download it via protected SSL connection.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.2. Instructions on how to create electronic signature in Word
 
 These detailed instructions demonstrate how to sign a Word document online. Our free version of DigiSigner online signature software allows you to sign Word documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
@@ -47,6 +53,9 @@ These detailed instructions demonstrate how to sign a Word document online. Our 
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Word document will be fully available once the upload is completed.
@@ -69,6 +78,9 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/draw-e-signature.png)
 
 - **B** Type your name.
@@ -77,12 +89,18 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
 
 As we mentioned earlier, you can also add check marks, dates, text, or initials to any page of your document. Simply select the type of function you want to use, select the area, and type in the information.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fill out the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/fill-in-document.png)
 
 #### 2.2.5. Download your document for free
@@ -106,6 +124,9 @@ Now you don’t even need to be in the office to be able to verify the document.
 
 You only need a device - a laptop, tablet or smartphone, as well as access to the Internet. For work, the software is needed to be connected to the encrypted information with the document you are working on. Comparison of this information allows the partner to make sure that it was you who signed it. All these processes are performed automatically according to modern encryption standards.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4. How to Create Electronic Signature in Word on Windows
 
 You can use the standard features of Microsoft Office Word to digitally sign a document. There are several options:
@@ -134,6 +155,9 @@ You can also use a signature line in Word to insert a signature with properties.
 
 A digital certificate is required for signing. Word offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Word on Mac
 
 To put an electronic signature in Word on Mac, you must follow these steps:
@@ -161,3 +185,57 @@ It is more convenient to sign documents online. Electronic signature has the sam
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-sculpting-brilliance-a-deep-dive-into-hdr-in-lightroom/"><u>[New] Sculpting Brilliance  A Deep Dive Into HDR in Lightroom</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-seamless-conversion-excellence-with-these-top-8-tools/"><u>[Updated] Seamless Conversion Excellence with These Top 8 Tools</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-art-of-keeping-your-audience-attentive-and-committed-top-6-methods-revealed/"><u>[Updated] The Art of Keeping Your Audience Attentive & Committed  Top 6 Methods Revealed</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtubes-creative-commons-license-explained-simply-for-2024/"><u>[Updated] YouTube's Creative Commons License Explained Simply for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-creating-a-stellar-game-channels-look-a-step-by-step-approach/"><u>2024 Approved  Creating a Stellar Game Channels Look  A Step-By-Step Approach</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-examine-groups-collaborative-media-on-messenger/"><u>2024 Approved  Examine Group's Collaborative Media on Messenger</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/digital-stargazers-guide-to-best-sky-imaging-websites/"><u>Digital Stargazers' Guide to Best Sky Imaging Websites</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/growth-and-profitability-in-the-digital-marketplace-explore-these-top-15-facebook-insights-for-2024/"><u>Growth & Profitability in the Digital Marketplace  Explore These Top 15 Facebook Insights for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-itel-p55-easily-by-drfone-android/"><u>How To Unlock a Itel P55 Easily?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-8-superior-windows-video-call-apps-ranked/"><u>In 2024, 8 Superior Windows Video Call Apps Ranked</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-vivo-x100-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Vivo X100 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-gt-10-pro-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Infinix GT 10 Pro support - Forgotten screen lock.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-gt-10-pro-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Infinix GT 10 Pro support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-gt-10-pro-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Infinix GT 10 Pro Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-gt-10-pro-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Infinix GT 10 Pro Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-gt-10-pro-video-recovery-recover-deleted-videos-from-infinix-gt-10-pro-by-fonelab-android-recover-video/"><u>Infinix GT 10 Pro Video Recovery - Recover Deleted Videos from Infinix GT 10 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-hot-30-5g-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Infinix Hot 30 5G support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-hot-30-5g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Infinix Hot 30 5G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-hot-30i-messages-recovery-recover-deleted-messages-from-infinix-hot-30i-by-fonelab-android-recover-messages/"><u>Infinix Hot 30i Messages Recovery - Recover Deleted Messages from Infinix Hot 30i</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-hot-30i-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Infinix Hot 30i support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-hot-30i-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Infinix Hot 30i Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-hot-40-messages-recovery-recover-deleted-messages-from-infinix-hot-40-by-fonelab-android-recover-messages/"><u>Infinix Hot 40 Messages Recovery - Recover Deleted Messages from Infinix Hot 40</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-hot-40-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Infinix Hot 40 support - Forgotten screen lock.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-hot-40-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Infinix Hot 40 Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-hot-40-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Infinix Hot 40 Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-hot-40-video-recovery-recover-deleted-videos-from-infinix-hot-40-by-fonelab-android-recover-video/"><u>Infinix Hot 40 Video Recovery - Recover Deleted Videos from Infinix Hot 40</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-hot-40i-messages-recovery-recover-deleted-messages-from-infinix-hot-40i-by-fonelab-android-recover-messages/"><u>Infinix Hot 40i Messages Recovery - Recover Deleted Messages from Infinix Hot 40i</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-hot-40i-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Infinix Hot 40i support - Forgotten screen lock.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-messages-recovery-recover-deleted-messages-from-infinix-by-fonelab-android-recover-messages/"><u>Infinix Messages Recovery - Recover Deleted Messages from Infinix</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-note-30-5g-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Infinix Note 30 5G support - Forgotten screen lock.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-note-30-5g-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Infinix Note 30 5G support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-note-30-5g-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Infinix Note 30 5G Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-note-30-5g-video-recovery-recover-deleted-videos-from-infinix-note-30-5g-by-fonelab-android-recover-video/"><u>Infinix Note 30 5G Video Recovery - Recover Deleted Videos from Infinix Note 30 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-note-30-pro-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Infinix Note 30 Pro support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-note-30-pro-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Infinix Note 30 Pro Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-note-30-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Infinix Note 30 support - Forgotten screen lock.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-note-30-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Infinix Note 30 Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-note-30-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Infinix Note 30 Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-note-30-vip-racing-edition-messages-recovery-recover-deleted-messages-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-messages/"><u>Infinix Note 30 VIP Racing Edition Messages Recovery - Recover Deleted Messages from Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-note-30-vip-racing-edition-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Infinix Note 30 VIP Racing Edition Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-note-30-vip-racing-edition-video-recovery-recover-deleted-videos-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-video/"><u>Infinix Note 30 VIP Racing Edition Video Recovery - Recover Deleted Videos from Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-note-30-vip-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Infinix Note 30 VIP support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-note-30i-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Infinix Note 30i support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-note-30i-video-recovery-recover-deleted-videos-from-infinix-note-30i-by-fonelab-android-recover-video/"><u>Infinix Note 30i Video Recovery - Recover Deleted Videos from Infinix Note 30i</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-smart-7-hd-messages-recovery-recover-deleted-messages-from-infinix-smart-7-hd-by-fonelab-android-recover-messages/"><u>Infinix Smart 7 HD Messages Recovery - Recover Deleted Messages from Infinix Smart 7 HD</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-smart-7-hd-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Infinix Smart 7 HD Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-smart-7-hd-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Infinix Smart 7 HD Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-smart-8-hd-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Infinix Smart 8 HD support - Forgotten screen lock.</u></a></li>
+<li><a href="https://techidaily.com/is-your-vivo-s18-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo S18 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/top-9-amv-makers-for-computer-for-2024/"><u>Top 9 AMV Makers for Computer for 2024</u></a></li>
+</ul></div>

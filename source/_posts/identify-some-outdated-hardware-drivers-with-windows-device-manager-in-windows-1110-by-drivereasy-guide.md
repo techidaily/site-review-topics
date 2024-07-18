@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated hardware drivers with Windows Device Manager in Windows 11/10
-date: 2024-05-19T18:09:42.973Z
+date: 2024-07-17T03:53:45.434Z
 tags: 
   - driver
   - device driver
@@ -25,6 +25,9 @@ Identifying outdated drivers with Device Manager is a very tedious process. You 
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -33,12 +36,18 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -48,6 +57,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
@@ -84,6 +96,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -115,6 +130,9 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -180,3 +198,49 @@ And without all these drivers, none of your devices will work.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-keeping-your-audience-engaged-in-a-revised-social-lands-ward/"><u>[New] In 2024, Keeping Your Audience Engaged in a Revised Social Lands Ward</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-revolutionize-your-posts-with-automated-story-and-video-captions/"><u>[New] Revolutionize Your Posts with Automated Story and Video Captions</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-crafting-perfect-youtube-channel-names-a-comprehensive-guide-for-video-content-creators-maximum-length-156-characters/"><u>[Updated] Crafting Perfect Youtube Channel Names  A Comprehensive Guide for Video Content Creators (Maximum Length  156 Characters)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-motion-photography-with-the-latest-yi-technology/"><u>[Updated] Mastering Motion Photography with the Latest Yi Technology</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-perfecting-your-playlists-adapting-spotify-to-the-youtube-music-ecosystem-for-2024/"><u>[Updated] Perfecting Your Playlists  Adapting Spotify to the YouTube Music Ecosystem for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-quickfirerecorder-firefox-plugin/"><u>2024 Approved  QuickFireRecorder Firefox Plugin</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-right-way-to-pick-spiritual-phone-tunes/"><u>2024 Approved  The Right Way to Pick Spiritual Phone Tunes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-much-money-can-you-score-with-youtube-short-videos/"><u>In 2024, How Much Money Can You Score with YouTube Short Videos?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-optimize-your-posting-select-from-this-roundup-of-top-8-planners/"><u>In 2024, Optimize Your Posting  Select From This Roundup of Top 8 Planners</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Vivo X Fold 2? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/industry-leaders-top-10-free-lut-resource-list-for-2024/"><u>Industry Leaders’ Top 10 FREE LUT Resource List for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/iphone-vr-videos-unveiled-a-quick-how-to-for-2024/"><u>IPhone VR Videos Unveiled  A Quick How-To for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-tecno-camon-30-pro-5g-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Tecno Camon 30 Pro 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-vivo-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Vivo</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-vivo-y27-5g-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Vivo Y27 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-vivo-y78-5g-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Vivo Y78 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-vivo-y78plus-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Vivo Y78+</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-xiaomi-redmi-a2-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Xiaomi Redmi A2</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-xiaomi-redmi-note-13-5g-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-y56-5g-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Y56 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-defy-2-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Defy 2</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-galaxy-a25-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Galaxy A25 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-galaxy-f14-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Galaxy F14 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-galaxy-f54-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Galaxy F54 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-galaxy-s23-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Galaxy S23</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-galaxy-xcover-6-pro-tactical-edition-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-htc-u23-pro-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my HTC U23 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-huawei-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Huawei </u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-huawei-nova-y91-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Huawei Nova Y91</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-moto-g34-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Moto G34 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-motorola-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Motorola</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-motorola-edgeplus-2023-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Motorola Edge+ (2023)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-motorola-moto-g-5g-2023-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-have-a-desire-to-uplift-your-editing-creativity-with-trying-hands-at-working-with-storyboards-keep-reading-to-have-a-comprehensive-underst/"><u>New 2024 Approved Have a Desire to Uplift Your Editing Creativity with Trying Hands at Working with Storyboards? Keep Reading to Have a Comprehensive Understating of the Workflow Through Stepwise User Guides</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-mastering-audacity-a-step-by-step-guide-to-removing-background-music/"><u>New 2024 Approved Mastеring Audacity A Stеp-By-Stеp Guidе To Rеmoving Background Music</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-ornithological-soundscapes-mp3-compilation/"><u>New Ornithological Soundscapes MP3 Compilation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/record-rapidly-innovative-iphone-time-lapse-methods-for-2024/"><u>Record Rapidly  Innovative iPhone Time-Lapse Methods for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-zooming-in-a-videoleap-approach/"><u>The Art of Zooming In  A Videoleap Approach</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-where-to-find-free-public-domain-videos-for-any-project/"><u>Updated 2024 Approved Where to Find Free Public Domain Videos for Any Project</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-are-you-finding-the-aspect-ratios-too-complicated-weve-seen-a-perfect-and-straight-fit-to-using-the-picture-ratio-calculator-along-with-a-pr/"><u>Updated In 2024, Are You Finding the Aspect Ratios Too Complicated? Weve Seen a Perfect and Straight Fit to Using the Picture Ratio Calculator, Along with a Practical Explanation Waiting for You Below</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-ultimate-list-of-free-video-editing-software-for-gamers/"><u>Updated In 2024, The Ultimate List of Free Video Editing Software for Gamers</u></a></li>
+</ul></div>

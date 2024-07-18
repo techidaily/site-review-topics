@@ -1,7 +1,7 @@
 ---
 title: Recover Excel 2019 Files from Virus-Infected Pen Drives for Free | Stellar
-date: 2024-03-13 21:11:18
-updated: 2024-03-14 10:26:13
+date: 2024-07-17T04:39:05.683Z
+updated: 2024-07-18T04:39:05.683Z
 tags: 
   - repair
   - repair excel
@@ -12,7 +12,7 @@ categories:
 description: This article describes Recover Excel 2019 Files from Virus-Infected Pen Drives for Free
 excerpt: This article describes Recover Excel 2019 Files from Virus-Infected Pen Drives for Free
 keywords: repair excel,repair corrupt excel file,repair excel 2021,repair excel file,repair .xlsm files,repair corrupt .xlb files,repair corrupt .xlsx files,repair .xls files,repair .xltm files
-thumbnail: https://www.lifewire.com/thmb/qNtT0Vit1jn8RftUFX6Xcsv5x4o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-best-texting-apps-for-android-tablets-in-2023-a5a6329d6b744167acf0a02f6a413ff2.jpg
+thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee45db635b3f848c5daefbda2.jpg
 ---
 
 ## Recover Excel Files from Virus-Infected Pen Drives for Free
@@ -38,6 +38,9 @@ Using **Stellar Windows Data Recovery – Free Edition**, you can recover your f
 - From the website, [**download**](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) Stellar Windows Data Recovery – Free Edition. Connect your pen drive to your system and launch the software
 - On ‘**Select What to Recover**’ screen, select file types from the given option that you wish to recover. For instance, if you want to recover photos, then under **Multimedia Files**, select ‘**Photos**’ and click on ‘**Next**’
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Stellar](https://www.stellarinfo.com/blog/wp-content/uploads/2021/02/FDR1-2-1024x721.png)
 
 - From ‘**Select Location**’ screen, select the connected pen drive and click ‘**Scan**’
@@ -67,6 +70,9 @@ The Command prompt should be your first choice to recover excel files from the v
 - Connect your virus-infected pen drive to your system and then in the search box type ‘CMD’ and hit ‘Enter’
 - In the command window, type in attrib –h-r-s /s/ drive letter:\\\*.\*”, for example, “attrib -h -r -s /s /d G:\\\*.\*” and hit ‘Enter’
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![attrib command](https://www.stellarinfo.com/blog/wp-content/uploads/2017/10/attrib-command.png)
 
 - Windows starts repairing the virus-infected pen drive and once the process is complete, you can access your pen drive and recover excel files.
@@ -80,14 +86,32 @@ It is always a good idea to create a backup of important files since no one can 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Fixed]: Freeze Panes not Working in Excel
 
 **Summary:** This blog discusses the “freeze panes not working” issue in Excel. It mentions the possible reasons behind the issue and offers workarounds and methods to fix it. If the issue is associated with corruption in the Excel file, you can use the specialized Excel repair tool mentioned in the blog to repair the affected file.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
 The freeze panes feature in Excel is used to freeze the row/column headings to keep them visible while scrolling the worksheet. It is a useful feature when you’re working on a large worksheet containing data that exceeds the rows and columns on the screen. Sometimes, you notice that the ‘Excel freeze panes feature is not working’. There could be numerous factors that can trigger this issue. Let’s know the reasons for the freeze pane not working issue in Excel and how to resolve this issue.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why can’t I freeze panes in excel?
 
 **Several factors may contribute to the Excel freeze panes not working issue in Excel. A few of them are:**
@@ -101,10 +125,16 @@ The freeze panes feature in Excel is used to freeze the row/column headings to k
 - Your Excel workbook is not in normal file preview mode.
 - Wrong/incorrect positioning of the frozen panes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to fix ‘Freeze Panes not Working’ in Excel?
 
 The freeze panes option is available in the View bar. Sometimes, you’re unable to see the View option. It usually occurs if you are using the Excel Started version. Check and try to open the file in the advanced Excel version, which supports all the features. If you are using the advanced Excel version, then try the below workarounds to fix the freeze panes not working issue in Excel.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Workaround 1: Exit the Cell Editing Mode**
 
 If your Excel file is switched from normal file view mode to cell editing mode, you can encounter the freeze panes not working issue. In cell editing mode, certain features in Excel, such as the freeze panes, are temporarily disabled to prevent any conflicts. You can disable cell editing mode by pressing the ESC or Enter key. Now locate the View tab and check whether the freeze pane feature is working. If not, then try the next workaround.
@@ -132,6 +162,9 @@ Sometimes, you can experience the “freeze panes not working” issue if Sortin
 - Group
 - Subtotal
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remove sort, filter, group, and subtotal in excel step-by-step](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/08/select-all-features-under-data-tab.jpg)
 
 ### **Workaround 4: Check and Unprotect Worksheet**
@@ -149,12 +182,21 @@ After unprotecting the sheet, check whether the “freeze panes not working” i
 
 The freeze pane is not working issue in Excel can also occur when you use incorrect cell positioning to apply the freeze panes feature. Several users have reported facing this issue when trying to lock multiple rows with the wrong cell selection. So, use correct cell positioning to freeze the rows. For example, if you are trying to lock two rows in an Excel worksheet, then you need to click on 3rd row’s column.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Excel Freeze Pane Issue: Fix with Correct Cell Positioning](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/08/cell-positioning-example.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **What if the above Workarounds Fail to Fix the Freeze Panes not Working Issue?**
 
 If none of the above workarounds works, then there are chances that the workbook is damaged or corrupt. In such a case, you can try the below methods to repair the corrupt Excel workbook.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Run Open and Repair Utility**
 
 In case of corruption in the Excel file, you can use the Open and Repair tool in Excel to repair the file. To use this utility, follow these steps:
@@ -182,10 +224,16 @@ The “freeze panes not working” issue in Excel can occur due to several reaso
 
 **Summary:** MS Excel users sometimes face issues while using the MS Excel application. One such issue is the Excel file not opening error. In this post, we’ve mentioned the reasons that may result in this error and the ways to resolve it. Also, you’ll find about an Excel repair software that can help you repair corrupt Excel files.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
 Several Microsoft Excel users have reported encountering the ‘Excel file not opening’ error when opening their Excel file. There are several reasons that may cause this error. In this post, we’ll be discussing the reasons that may lead to the ‘Excel file not opening’ error and the top 5 ways to fix this error.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Does the ‘Excel File Not Opening’ Error Appear?
 
 Following are some possible causes that may result in the ‘Excel file not opening’ error:
@@ -196,10 +244,16 @@ Following are some possible causes that may result in the ‘Excel file not open
 4. The file association might have been broken. This is a common problem faced by users who have upgraded their Excel application or operating system.
 5. The file you’re trying to open is corrupted.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## 5 Ways to Fix Excel File Not Opening Error
 
 Let’s explore the ways to resolve the Excel file not opening error:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Uncheck the Ignore DDE Checkbox
 
 Dynamic Data Exchange (DDE)allows Excel to communicate with other programs. The Excel error may occur due to incorrect DDE settings. You need to ensure that the correct DDE configuration is enabled. Follow the steps provided below:
@@ -215,11 +269,17 @@ Dynamic Data Exchange (DDE)allows Excel to communicate with other programs. The 
 
 - Further, find the **General** option on the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![General Option uncheck Dynamic Data Exchange Option](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/general-option-uncheck-Dynamic-Data-Exchange-option-03.png)
 
 - Uncheck the option **‘Ignore other applications that use Dynamic Data Exchange (DDE)**’.
 - Click **OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Reset Excel File Associations
 
 When you launch your Excel file, the file association ensures that the Excel application is used to open the file. You can try to reset these associations and see if Excel opens after this. Proceed with the following steps to do so:
@@ -227,6 +287,9 @@ When you launch your Excel file, the file association ensures that the Excel app
 - Navigate to **Start Menu** and launch **Control Panel**.
 - Now, navigate to **Programs > Default Programs > Set Your Default Programs**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Set-Your Default Programs](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/set-your-default-programs-04.png)
 
 - A new window will open. Herein, find the Excel program in the list and select it. Now, select the option **‘Choose defaults for this program’**. Click **OK**.
@@ -246,11 +309,17 @@ Many people install third-party add-ins to enhance the application’s functiona
 - Launch MS Excel application.
 - Navigate to **File > Options > Add-ins**.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Click on Add ins Option](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/Click-on-Add-ins-option-07.png)
 
 - In the window that opens, go to the **Manage** option at the bottom.
 - Herein, select the **COM Add-ins** option from the dropdown list. Click **Go.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Select Com Addins](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/Select-Com-Addins-08.png)
 
 - In the COM Add-ins window, uncheck all the boxes to disable the add-ins. Click **OK.**
@@ -263,6 +332,9 @@ Sometimes the issue is not with your Excel file. Instead, the reason for the err
 
 - Press the **Windows + R** keys to launch the **‘Run’** dialog box.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Run Dialog box](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/Run-Dialog-box-10.png)
 
 - Enter the text **‘appwiz.cpl’** to launch the program and features window.
@@ -302,6 +374,9 @@ To know how the software works, see the video below:
 
 <iframe title="How to Repair and Recover Corrupted Excel Files?" width="750" height="422" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" nitro-og-src="https://www.youtube.com/embed/3SiJqmP7iMU?feature=oembed&amp;autoplay=1" nitro-lazy-src="data:text/html;https://www.youtube.com/embed/3SiJqmP7iMU?feature=oembed&amp;autoplay=1;base64,PGJvZHkgc3R5bGU9J3dpZHRoOjEwMCU7aGVpZ2h0OjEwMCU7bWFyZ2luOjA7cGFkZGluZzowO2JhY2tncm91bmQ6dXJsKGh0dHBzOi8vaW1nLnlvdXR1YmUuY29tL3ZpLzNTaUpxbVA3aU1VLzAuanBnKSBjZW50ZXIvMTAwJSBuby1yZXBlYXQnPjxzdHlsZT5ib2R5ey0tYnRuQmFja2dyb3VuZDpyZ2JhKDAsMCwwLC42NSk7fWJvZHk6aG92ZXJ7LS1idG5CYWNrZ3JvdW5kOnJnYmEoMCwwLDApO2N1cnNvcjpwb2ludGVyO30jcGxheUJ0bntkaXNwbGF5OmZsZXg7YWxpZ24taXRlbXM6Y2VudGVyO2p1c3RpZnktY29udGVudDpjZW50ZXI7Y2xlYXI6Ym90aDt3aWR0aDoxMDBweDtoZWlnaHQ6NzBweDtsaW5lLWhlaWdodDo3MHB4O2ZvbnQtc2l6ZTo0NXB4O2JhY2tncm91bmQ6dmFyKC0tYnRuQmFja2dyb3VuZCk7dGV4dC1hbGlnbjpjZW50ZXI7Y29sb3I6I2ZmZjtib3JkZXItcmFkaXVzOjE4cHg7dmVydGljYWwtYWxpZ246bWlkZGxlO3Bvc2l0aW9uOmFic29sdXRlO3RvcDo1MCU7bGVmdDo1MCU7bWFyZ2luLWxlZnQ6LTUwcHg7bWFyZ2luLXRvcDotMzVweH0jcGxheUFycm93e3dpZHRoOjA7aGVpZ2h0OjA7Ym9yZGVyLXRvcDoxNXB4IHNvbGlkIHRyYW5zcGFyZW50O2JvcmRlci1ib3R0b206MTVweCBzb2xpZCB0cmFuc3BhcmVudDtib3JkZXItbGVmdDoyNXB4IHNvbGlkICNmZmY7fTwvc3R5bGU+PGRpdiBpZD0ncGxheUJ0bic+PGRpdiBpZD0ncGxheUFycm93Jz48L2Rpdj48L2Rpdj48c2NyaXB0PmRvY3VtZW50LmJvZHkuYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCBmdW5jdGlvbigpe3dpbmRvdy5wYXJlbnQucG9zdE1lc3NhZ2Uoe2FjdGlvbjogJ3BsYXlCdG5DbGlja2VkJ30sICcqJyk7fSk7PC9zY3JpcHQ+PC9ib2R5Pg=="></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Free Download for Windows](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/03/free-download-windows-2.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
 ## Conclusion
@@ -309,16 +384,25 @@ To know how the software works, see the video below:
 Before you proceed with resolving the Excel file not opening error, try to find out the root cause of this error. If you know the real reason, you can try the method right away. If the reason for the error is corruption in the Excel file, the best option is to repair the file using a professional Excel repair tool, such as [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/).
 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Ways to Fix Personal Macro Workbook not Opening Issue
 
 Many users have reported encountering issues while accessing personal macro workbook, such as personal macro workbook not opening, personal macro workbook not loading automatically, Excel personal macro workbook keeps getting disabled, etc.
 
 Such issues may arise due to a problem with the directory where the personal workbook is stored. However, there are various other reasons that may lead to such issues. Below, we’ll discuss the reasons behind the personal macro workbook not opening issue and the solutions to troubleshoot and fix the issue. But before proceeding, let’s understand why personal macro workbook is used.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Personal Macro Workbook is used?
 
 You can access macros in a specific Excel workbook. However, when you need to use the same macro in other Excel worksheets, then you can create a personal macro workbook. A personal macro workbook (Personal.xlsb) is a hidden workbook that is used to store all macros. It makes your macros available every time you open Excel.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Causes of Personal Macro Workbook not Opening Issue
 
 You may encounter personal macro workbook is not opening issue when attempting to record macros. Some possible causes behind such an issue are:
@@ -330,10 +414,16 @@ You may encounter personal macro workbook is not opening issue when attempting t
 - Disabled items in add-ins
 - Workbook is Read-only
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Methods to Fix the “Personal Macro Workbook not Opening” Issue
 
  Follow the given methods to fix the personal macro workbook is not opening issue:
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  **Method 1: Check the Path of Personal.xlsb**
 
 The personal macro workbook (Personal.xlsb) file is stored in XLStart folder. It opens automatically when you open your Excel application. However, sometimes it fails to load automatically. It usually occurs when you try to open the file from an incorrect path. You can check the path of Personal.xlsb by following these steps:
@@ -341,7 +431,10 @@ The personal macro workbook (Personal.xlsb) file is stored in XLStart folder. It
 - Open the workbook.
 - Click on the **Developer** tab.
 
-![developer tab ](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/fix-personal-macro-workbook/developer-tab.png)
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![developer tab](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/fix-personal-macro-workbook/developer-tab.png)
 
 - Press **Alt + F11** to open Visual Basic Editor.
 - Go to **View > Immediate Window.**
@@ -359,6 +452,9 @@ The personal macro workbook (Personal.xlsb) file is stored in XLStart folder. It
 - You will see the path of the personal macro workbook.
 - Copy the path and paste it into **Quick Access** field in **File Explorer**.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![File Explorer window](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/fix-personal-macro-workbook/file-explorer-window.png)
 
 ### Method 2: Unhide Personal Macro Workbook
@@ -367,10 +463,16 @@ If personal macro workbook is hidden, you may unable to see and open the Persona
 
 - In Microsoft Excel, go to **View** and then click **Unhide**
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unhide personal workbook window](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/fix-personal-macro-workbook/unhide-personalworkbook.png)
 
 - The **Unhide** dialog box is displayed. Click PERSONAL and then **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unhide window](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/fix-personal-macro-workbook/unhide-window.png)
 
 ### **Method 3: Enable the Macro Add-ins**
@@ -385,6 +487,9 @@ You may unable to open the previously recorded macros in your personal macro wor
 
 - The **Disabled Items** dialog box appears. Click on the disabled item and then click **Enable**.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 4: Change the Trusted Location**
 
 You may encounter the “personal macro workbook not opening” issue if the Personal.xlsb file is stored at an untrusted location. You can check and modify the path of **XLSTART** folder using the Trust Center window. Here are the steps:
@@ -393,6 +498,9 @@ You may encounter the “personal macro workbook not opening” issue if the Per
 - Click **Trust Center > Trust Center Settings**.
 - In the **Trust Center Settings** dialog box, click on **Trusted Locations**.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Trust Center Window](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/fix-personal-macro-workbook/trust-center-window.png)
 
 - Verify the path of the **XLSTART** If it is untrusted or there is any issue, then click **Modify** and then click **OK**.
@@ -419,6 +527,9 @@ If the [Open and Repair utility fails](https://tools.techidaily.com/stellardata-
 This article discussed the ways to fix the personal macro workbook not opening issue. In case you are unable to open the personal macro workbook because of corruption in the workbook, you can use the Open and Repair utility in MS Excel. If it fails, then you can use [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) to fix corruption in the Excel file and recover all its data with complete integrity.
 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## \[Solved\] : How to Fix MS Excel Crash Issue
 
 Microsoft [Excel may stop responding](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/), hang, freeze, or stop working due to several reasons, such as in compatible add-ins. In such a case, you may receive one of the following error messages.
@@ -456,6 +567,9 @@ Microsoft Excel crash may cause damage to Excel file and also lead to Excel (XLS
 
 Such corrupt Excel files can't be opened or accessed via MS Excel app. If you try to access a corrupt Excel file, MS Excel may fail to open the file or stop responding and crash. Additionally, you may receive the following or similar error message,
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Excel files can't be opened or accessed](https://www.stellarinfo.com/image/catalog/article/excelnew4.jpg)
 
 In such a case, you should immediately try to recover the Excel file. You may do so by restoring the Excel file from backup or by using an [Excel File Repair software.](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) Otherwise, continue following this guide.
@@ -464,10 +578,21 @@ In such a case, you should immediately try to recover the Excel file. You may do
 
 Before heading to solutions, follow these troubleshooting steps to resolve the Excel Crash issue.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Step 1: Copy File to Local Drive**
 
 If you are trying to access and edit or view an Excel file from a network drive, try moving the file to local drive. This will help you find if there is something wrong with the file or the network.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Step 2: Ensure Sufficient Memory**
 
 Excel files can grow fairly large when you start adding lots of formatting and shapes. Make sure that your system has enough RAM to run the application.
@@ -484,6 +609,9 @@ Open **Task Manager** and close all processes or apps (tasks) that may be using 
 
 After closing the tasks, try to access the Excel file and check if this fixes the performance and crash problem in Excel.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 4: Test and Repair Excel File
 
 Create a copy of the Excel file and install **Stellar Repair for Excel** software. It's free to download. Scan and repair your Excel file using the software. After repair, save the Excel file at your desired location and then open the Excel file in the MS Excel program.
@@ -537,6 +665,9 @@ Find and remove the faulty add-in. It can resolve the issue. To do so, follow th
 
 - Uncheck all the checkboxes and click OK
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![Uncheck all the check boxes](https://www.stellarinfo.com/image/catalog/article/excel11.jpg)
 
 - Restart Excel and check if the issue is resolved
@@ -564,12 +695,27 @@ NOTE: This also works if you can't open Excel file or Excel crashes after Window
 
 After installing the latest MS Office updates, check if Excel works fine. If not, head to the next solution.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution 4: Clear Conditional Formatting Rules
 
 If a sheet is causing Excel to freeze or crash, there might be a problem with that particular sheet. In such a case, you may try clearing the Conditional Formatting rules. The steps are as follows,
 
 - Under Home, click 'Conditional Formatting > Clear Rules\> Clear Rules from Entire Sheet'
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Conditional Formatting](https://www.stellarinfo.com/image/catalog/article/excel13.jpg)
 
 - You may repeat this step for all other sheets in the Excel workbook
@@ -579,6 +725,9 @@ This avoids overwriting or making changes to the original Excel file. Once done,
 
 If this doesn't work out, move to the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution 5: Remove Multiple Cell Formatting and Styles
 
 If a workbook is being shared and edited by others on different platforms then it's possible that many cells are formatted differently. This can cause issues with Excel such as crash and freeze. It can also lead to Excel file corruption. The problem mostly occurs when a workbook contains multiple worksheets using different formatting.
@@ -594,12 +743,18 @@ To disable the animations in MS Excel, follow these steps:
 - Go to File > Options
 - Click 'Advanced' and check 'Disable hardware graphics acceleration'animation
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Disable hardware graphics acceleration](https://www.stellarinfo.com/image/catalog/article/excel14.jpg)
 
 - Click 'OK' to close the window and then restart MS Excel
 
 This has helped many users in fixing the Excel crash issue. If it doesn't work for you, head to the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Solution 7: Check If Excel File is Generated by a Third-Party Application
 
 There are applications which you may have used to generate Excel files to fetch data. For instance, downloading data from Google Analytics in Excel format.
@@ -632,6 +787,9 @@ This helps you identify processes, services, or applications that are conflictin
 - Press Windows key + R, type MSConfig, and press 'Enter'
 - In System Configuration window, click on the General tab and choose Selective startup
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![System Configuration](https://www.stellarinfo.com/image/catalog/article/excel15.jpg)
 
 Uncheck 'Load startup items' and click 'OK'
@@ -666,6 +824,9 @@ The software is compatible with all Excel files created using MS Excel 2019, 201
 After repairing and saving the Excel file, you can open it in your MS Excel program and work on it without any performance issue. To know more about this software, visit [this page.](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Repair Corrupted or Damaged Excel File with Ease?
 
 **Summary:** The Excel file is prone to corruption. Users can face several issues related to corruption. So here in this infographic, I am discussing a professional tool,- Stellar Repair for Excel, to easily repair corrupted Excel files.
@@ -674,13 +835,16 @@ After repairing and saving the Excel file, you can open it in your MS Excel prog
 
 Stellar Repair for Excel is among the top choices for repairing corrupt or damaged Excel (.XLS/.XLSX) files. This [Excel recovery software](https://www.stellarinfo.com//blog/top-10-best-excel-recovery-software/) restores everything from the corrupt file to a new blank Excel file. Incoming, the information graphics complete overview of the repair process is explained in step-by-step methodology. Explore and reap the benefits of recovering corrupt or damaged Excel files.
 
-[![Repair Corrupt Excel Files Infographic ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2024/02/Repair-Corrupt-Excel-Files-Infographic-2-scaled.jpg)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
+[![Repair Corrupt Excel Files Infographic](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2024/02/Repair-Corrupt-Excel-Files-Infographic-2-scaled.jpg)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
 Very much sure about the result of using the excel file recovery tool, share your experience with us.
 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Fixed "Cannot Insert Object" Error in Excel | Step-by-Step Guide
 
 **Summary:** The error “cannot insert object” in MS Excel can prevent you from modifying objects in the worksheet. This blog will discuss the primary reasons behind this error and the possible solutions to fix it. You will also learn about a professional Excel repair software that can help fix the error if it has occurred due to corruption in Excel file.
@@ -689,6 +853,9 @@ Very much sure about the result of using the excel file recovery tool, share you
 
 Many users have reported encountering the “cannot insert object” error while adding/embedding objects into the Excel file. It usually occurs when using Object Linking and Embedding (OLE) to add content (PDF, Microsoft documents) from external applications to worksheet. The error can also occur when using ActiveX control in Excel. Below, we’ll explain why you cannot insert object into Excel sheet and how to troubleshoot the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Why the “Cannot Insert Object” Error Occurs?**
 
 - Macro Settings can prevent the insertion of objects into a workbook.
@@ -720,6 +887,9 @@ Excel provides security settings to protect your workbook. Sometimes, these sett
 - Click **Trust Center Settings**.
 - In the **Trust Center Settings** window, select **Protected View** from the left pane.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Click Protected View In Trust Center](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/07/click-protected-view-in-trust-center.jpg)
 
 - Under **Protected View**, unselect the below three options:
@@ -761,6 +931,9 @@ The “Cannot insert object” issue can also occur if your system is low on mem
 
 If your Excel file size exceeds the prescribed limit, it can also lead to the “Cannot insert Excel object” error. So, check the Excel file size. You can reduce the file size by removing unnecessary objects, such as formulas or images.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 5: Check and Change Excel ActiveX Settings**
 
 You can get the “Excel cannot insert object” error if your Excel file contains macros, controls, and other interactive buttons. It usually occurs if the ActiveX Controls option is disabled. You can check and change the ActiveX Settings to fix the issue. Here are the steps:
@@ -771,6 +944,9 @@ You can get the “Excel cannot insert object” error if your Excel file contai
 - In the **Trust Center Settings**, click **ActiveX Settings**.
 - Under ActiveX Settings, make sure the “Enable all controls without restrictions and without prompting” option is selected.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![select enable all controls without restrictions under activexsettings](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/11/select-enable-all-controls-without-restrictions-under-activexsettings.png)
 
 - If the option is not selected, then select it and click **OK**.
@@ -815,3 +991,43 @@ You might encounter the “Cannot insert object” error when embedding or inser
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-fast-revenues-forecasting-toolkit-for-vids/"><u>[New] Fast Revenues Forecasting Toolkit for Vids</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-navigating-the-new-world-of-facebook-updates/"><u>[New] In 2024, Navigating the New World of Facebook Updates</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-secrets-to-successful-twitpicingvideo-edition/"><u>[Updated] 2024 Approved  Secrets to Successful Twitpicing—Video Edition</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-beyond-gopro-quik-top-pc-video-editing-software-options/"><u>2024 Approved Beyond GoPro Quik Top PC Video Editing Software Options</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-the-sound-engineers-toolkit-removing-high-pitched-rattling-from-audio-files/"><u>2024 Approved The Sound Engineers Toolkit Removing High-Pitched Rattling From Audio Files</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-game-streaming-software-you-should-know/"><u>Best Game Streaming Software You Should Know</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-motorola-razr-40-ultra-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Motorola Razr 40 Ultra Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-magic-6-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor Magic 6 Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-magic-6-pro-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor Magic 6 Pro Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-magic-6-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor Magic 6 Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-magic-v2-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor Magic V2 Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-magic-vs-2-by-drfone-android-unlock-android-unlock/"><u>How to unlock Honor Magic Vs 2</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-magic-vs-2-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor Magic Vs 2 Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-play-8t-by-drfone-android-unlock-android-unlock/"><u>How to unlock Honor Play 8T</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-play-8t-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor Play 8T Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-play-8t-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor Play 8T Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-v-purse-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor V Purse Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-x50-gt-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor X50 GT Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-x50-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor X50 Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-x50i-by-drfone-android-unlock-android-unlock/"><u>How to unlock Honor X50i</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-x50i-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor X50i Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-x50iplus-by-drfone-android-unlock-android-unlock/"><u>How to unlock Honor X50i+</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-x7b-by-drfone-android-unlock-android-unlock/"><u>How to unlock Honor X7b</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-x7b-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor X7b Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-x8b-by-drfone-android-unlock-android-unlock/"><u>How to unlock Honor X8b</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-x8b-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor X8b Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-htc-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock HTC Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-htc-u23-by-drfone-android-unlock-android-unlock/"><u>How to unlock HTC U23</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-virtual-reality-lgs-360-degree-experience/"><u>In 2024, Exploring Virtual Reality  LG's 360-Degree Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-s17-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo S17 Screen | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-techniques-for-transforming-facespace-lives-into-tv-content/"><u>In 2024, Techniques for Transforming Facespace Lives Into TV Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-your-talk-explore-gratis-options-for-audio-effect-applications/"><u>In 2024, Transform Your Talk  Explore Gratis Options for Audio Effect Applications</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-xiaomi-civi-3-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Xiaomi Civi 3</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-quest-for-humorous-auditory-patterns/"><u>New In 2024, Quest for Humorous Auditory Patterns</u></a></li>
+</ul></div>

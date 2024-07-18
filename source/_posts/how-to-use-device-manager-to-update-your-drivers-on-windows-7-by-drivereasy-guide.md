@@ -1,6 +1,6 @@
 ---
 title: How to use Device Manager to update your drivers on Windows 7
-date: 2024-05-19T18:09:42.337Z
+date: 2024-07-17T03:44:07.105Z
 tags: 
   - driver
   - device driver
@@ -18,6 +18,9 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg)  
 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
@@ -25,6 +28,9 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category.
 - **Step4**: Right-click the device whose driver you’d like to update, and select `Update Driver`.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/3.jpg) 
 
 - **Step5**: Select Search automatically for updated driver software.
@@ -44,6 +50,9 @@ Now when we say “your device won’t work properly”, sometimes this means si
 
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
@@ -75,6 +84,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -85,6 +97,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -107,6 +122,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -152,6 +170,9 @@ Here’s how Driver Easy works:
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/IXfcOn7SSHY" title="Driver Easy Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-step instructions
 
 To automatically update to the correct version of all the drivers that are missing or out of date on your system:
@@ -175,6 +196,9 @@ To automatically update to the correct version of all the drivers that are missi
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
@@ -196,6 +220,9 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
 
@@ -234,3 +261,55 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-break-the-ice-how-to-make-a-hit-youtube-reaction-in-just-15-minutes-or-less-for-2024/"><u>[New] Break the Ice - How to Make a Hit YouTube Reaction in Just 15 Minutes or Less for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-jointly-experience-live-content-on-tiktok-platform/"><u>[New] Jointly Experience Live Content on TikTok Platform</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-quick-guide-to-overcoming-instagram-video-hiccups/"><u>[Updated] In 2024, Quick Guide to Overcoming Instagram Video Hiccups</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-fundamentals-of-vimeo-video-logging/"><u>[Updated] In 2024, The Fundamentals of Vimeo Video Logging</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-legal-fb-music-streaming-hub/"><u>[Updated] Legal FB Music Streaming Hub</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-simplifying-iphoneipad-screen-captures-for-online-sharing/"><u>[Updated] Simplifying iPhone/iPad Screen Captures for Online Sharing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-delving-deep-a-sincere-examination-of-recordcast/"><u>2024 Approved  Delving Deep  A Sincere Examination of RecordCast</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mobile-studio-kits-convenient-for-filmmakers/"><u>2024 Approved  Mobile Studio Kits  Convenient for Filmmakers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-superior-choices-4k-screen-recorder-programs/"><u>2024 Approved  Superior Choices  4K Screen Recorder Programs</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/2024-approved-the-ultimate-list-best-4k8k-video-editing-software-for-creators/"><u>2024 Approved The Ultimate List Best 4K/8K Video Editing Software for Creators</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-nokia-g42-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-motorola-defy-2-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Motorola Defy 2</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/dive-into-fixes-for-your-troublesome-instagram-video-for-2024/"><u>Dive Into Fixes for Your Troublesome Instagram Video for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/honor-90-gt-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Honor 90 GT ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-infinix-smart-8-hd-by-drfone-android-unlock-android-unlock/"><u>How to unlock Infinix Smart 8 HD</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-infinix-smart-8-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Infinix Smart 8 Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-infinix-smart-8-pro-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Infinix Smart 8 Pro Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-11-pro-max-screen-lock-without-data-loss-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 11 Pro Max screen lock without data loss?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-11-pro-max-screen-lock-without-password-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 11 Pro Max screen lock without password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-11-pro-max-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock iPhone 11 Pro Max without Face ID</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-11-pro-max-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock iPhone 11 Pro Max without Passcode</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-11-pro-screen-lock-without-data-loss-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 11 Pro screen lock without data loss?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-11-screen-lock-without-losing-data-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 11 screen lock without losing data?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-11-screen-lock-without-password-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 11 screen lock without password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-11-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 11 without passcode</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-11-without-passcode-or-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock iPhone 11 without Passcode or Face ID</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-12-mini-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 12 mini screen lock?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-12-pro-max-screen-lock-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 12 Pro Max screen lock without Passcode?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-12-pro-max-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 12 Pro Max without passcode</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-12-pro-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock iPhone 12 Pro without Passcode</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-12-pro-without-passcode-or-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock iPhone 12 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-12-screen-lock-without-data-loss-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 12 screen lock without data loss?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-12-screen-lock-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 12 screen lock without Passcode?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-12-screen-lock-without-password-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 12 screen lock without password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-12-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock iPhone 12 without Passcode</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-13-pro-max-screen-lock-without-data-loss-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 13 Pro Max screen lock without data loss?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-13-pro-max-screen-lock-without-losing-data-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 13 Pro Max screen lock without losing data?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-13-pro-max-screen-lock-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 13 Pro Max screen lock without Passcode?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-13-pro-max-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 13 Pro Max without passcode</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-13-pro-screen-lock-without-losing-data-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 13 Pro screen lock without losing data?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-13-pro-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 13 Pro without passcode</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-13-screen-lock-without-data-loss-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 13 screen lock without data loss?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-13-screen-lock-without-password-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 13 screen lock without password?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-best-in-class-7-tools-for-hassle-free-vocal-clip-extraction-for-2024/"><u>New Best-in-Class 7 Tools for Hassle-Free Vocal Clip Extraction for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/top-rated-aiff-conversion-tools-a-comprehensive-review-for-2024/"><u>Top-Rated AIFF Conversion Tools A Comprehensive Review for 2024</u></a></li>
+</ul></div>

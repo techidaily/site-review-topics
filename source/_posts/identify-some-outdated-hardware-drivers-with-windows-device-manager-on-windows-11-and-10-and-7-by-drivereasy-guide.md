@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated hardware drivers with Windows Device Manager on Windows 11 & 10 & 7
-date: 2024-05-19T18:09:42.979Z
+date: 2024-07-17T03:53:52.194Z
 tags: 
   - driver
   - device driver
@@ -21,6 +21,9 @@ Identifying outdated drivers with Device Manager is a very tedious process. You 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
@@ -33,12 +36,18 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -52,6 +61,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -84,6 +96,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -143,6 +158,18 @@ This page describes how to do this.
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -178,3 +205,41 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-online-accessory-fb-stories-capture-app/"><u>[Updated] 2024 Approved  Online Accessory  Fb Stories Capture App</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-echoes-of-chuckles-parody-playlists/"><u>[Updated] In 2024, Echoes of Chuckles  Parody Playlists</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-gourmet-goals-on-tiktok-culinary-challenges-worth-pursuing/"><u>[Updated] In 2024, Gourmet Goals on TikTok  Culinary Challenges Worth Pursuing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sifting-through-media-options-vlc-versus-mx/"><u>[Updated] Sifting Through Media Options  VLC Versus MX</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-most-popular-tweet-chronicles-2023-edition/"><u>2024 Approved  Most Popular Tweet Chronicles - 2023 Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-quantum-hdrs-impact-on-photography/"><u>2024 Approved  Understanding Quantum HDR's Impact on Photography</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-screenplays-from-8-genre-for-2024/"><u>Best Screenplays From 8 Genre for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/easy-ipad-and-iphone-screen-recording-for-beginners-for-2024/"><u>Easy iPad & iPhone Screen Recording for Beginners for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Honor X9a? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/natures-canvas-your-ultimate-guide-to-free-screen-template-downloads-for-2024/"><u>Nature's Canvas  Your Ultimate Guide to Free Screen Template Downloads for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-edgeplus-2023-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Edge+ (2023), is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-g54-5g-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on G54 5G, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-galaxy-a14-4g-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Galaxy A14 4G, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-galaxy-a25-5g-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Galaxy A25 5G, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-galaxy-f04-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Galaxy F04, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-galaxy-f15-5g-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Galaxy F15 5G, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-galaxy-s23-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Galaxy S23, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-galaxy-s24-ultra-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Galaxy S24 Ultra, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-huawei-nova-y91-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Huawei Nova Y91, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-mix-fold-3-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Mix Fold 3, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-moto-g-5g-2023-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Moto G 5G (2023), is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-moto-g24-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Moto G24, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-motorola-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Motorola , is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-motorola-edge-40-neo-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Motorola Edge 40 Neo, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-motorola-edge-40-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Motorola Edge 40, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-motorola-moto-g-5g-2023-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Motorola Moto G 5G (2023), is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-motorola-moto-g-stylus-2023-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Motorola Moto G Stylus (2023), is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-motorola-moto-g-stylus-5g-2023-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Motorola Moto G Stylus 5G (2023), is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-motorola-moto-g14-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Motorola Moto G14, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-motorola-moto-g84-5g-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Motorola Moto G84 5G, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-motorola-razr-40-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Motorola Razr 40, is it possible?</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-add-background-tracks-to-davinci-resolve-selections-for-2024/"><u>Updated Add Background Tracks to DaVinci Resolve Selections for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/videoleap-for-macbook-download-guide-and-best-alternatives/"><u>Videoleap for MacBook Download Guide and Best Alternatives</u></a></li>
+</ul></div>

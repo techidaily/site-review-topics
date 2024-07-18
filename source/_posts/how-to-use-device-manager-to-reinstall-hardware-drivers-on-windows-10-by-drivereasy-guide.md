@@ -1,6 +1,6 @@
 ---
 title: How to use Device Manager to reinstall hardware drivers on Windows 10
-date: 2024-05-19T18:09:42.154Z
+date: 2024-07-17T03:42:07.991Z
 tags: 
   - driver
   - device driver
@@ -18,6 +18,9 @@ To reinstall a device’s driver in Windows Device Manager:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg)
 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
@@ -34,6 +37,9 @@ To reinstall a device’s driver in Windows Device Manager:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -53,6 +59,9 @@ This page describes how to do this.
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
@@ -146,6 +155,9 @@ For example, if an audio driver supplied by Dell for a certain laptop causes iss
 Once we’ve located an alternative driver, we start over at step 1 of our testing process with it.
 
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -156,6 +168,9 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -168,6 +183,9 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
 <ins class="adsbygoogle"
@@ -185,3 +203,72 @@ And without all these drivers, none of your devices will work.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-clearview-pro-5-screen-mastery/"><u>[New] 2024 Approved  ClearView Pro 5 - Screen Mastery</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-make-snapchat-memories-shine-2-lens-creation-methods/"><u>[New] 2024 Approved  Make Snapchat Memories Shine  2 Lens-Creation Methods</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-step-by-step-guide-to-collecting-excellent-visual-content/"><u>[New] A Step-by-Step Guide to Collecting Excellent Visual Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-altering-visuals-in-teams-calls-timely-setup-adjustments-for-2024/"><u>[New] Altering Visuals in Teams Calls  Timely Setup Adjustments for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gaming-gains-total-earnings-for-pewdiepie/"><u>[New] Gaming Gains  Total Earnings for PewDiePie</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-inspiring-abodes-for-minifigure-residences/"><u>[New] In 2024, Inspiring Abodes for Minifigure Residences</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-physical-prowess-meets-online-opinions/"><u>[New] Physical Prowess Meets Online Opinions</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-real-time-tips-to-dominate-twitter-broadcasts-for-2024/"><u>[New] Real-Time Tips to Dominate Twitter Broadcasts for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-standard-youtube-licenses-versus-cc/"><u>[New] Standard Youtube Licenses Versus CC</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-detailed-insights-into-youtubes-perfected-aspect-ratios/"><u>[Updated] 2024 Approved  Detailed Insights Into YouTube's Perfected Aspect Ratios</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-reclaiming-acoustics-lost-in-social-media-videos/"><u>[Updated] 2024 Approved  Reclaiming Acoustics Lost in Social Media Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-beyond-tubes-the-ultimate-video-share-sites/"><u>[Updated] In 2024, Beyond Tubes  The Ultimate Video Share Sites</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-obs-rescue-cameras-are-back-up/"><u>[Updated] In 2024, OBS Rescue  Cameras Are Back Up</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-stream-titling-service/"><u>[Updated] Stream Titling Service</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-your-ultimate-cheat-sheet-for-seamlessly-looping-videos-on-youtube/"><u>[Updated] Your Ultimate Cheat Sheet for Seamlessly Looping Videos on YouTube</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-discovering-the-yuneec-typhoon-hs-potential/"><u>2024 Approved  Discovering the Yuneec Typhoon H's Potential</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-essential-recording-gear-for-environmentalists/"><u>2024 Approved  Essential Recording Gear for Environmentalists</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-professional-motion-blur-techniques-for-digital-artists/"><u>2024 Approved  Professional Motion Blur Techniques for Digital Artists</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-simplifying-the-process-of-watching-fb-live-on-roku/"><u>2024 Approved  Simplifying the Process of Watching FB Live on Roku</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transformative-techniques-podcast-covers-reimagined/"><u>2024 Approved  Transformative Techniques  Podcast Covers Reimagined</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/cutting-edge-fb-video-ads-mastery-with-free-toolset-for-2024/"><u>Cutting-Edge FB Video Ads  Mastery with FREE Toolset for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-samsung-galaxy-s23plus-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Samsung Galaxy S23+? </u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-11-pro-to-roku-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 11 Pro to Roku? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-samsung-galaxy-a05s-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Samsung Galaxy A05s?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-samsung-galaxy-a15-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Samsung Galaxy A15 5G?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-samsung-galaxy-f14-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Samsung Galaxy F14 5G?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-samsung-galaxy-f34-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Samsung Galaxy F34 5G?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-samsung-galaxy-s23-tactical-edition-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Samsung Galaxy S23 Tactical Edition?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-samsung-galaxy-s23-ultra-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Samsung Galaxy S23 Ultra?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-samsung-galaxy-s23-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Samsung Galaxy S23?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-sony-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Sony ?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-u23-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on U23?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-xiaomi-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Xiaomi ?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-xiaomi-13t-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Xiaomi 13T?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-xiaomi-civi-3-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Xiaomi Civi 3?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-xiaomi-redmi-13c-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Xiaomi Redmi 13C 5G?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-xiaomi-redmi-13c-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Xiaomi Redmi 13C?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-xiaomi-redmi-a2-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Xiaomi Redmi A2?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-xiaomi-redmi-a2plus-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Xiaomi Redmi A2+?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-xiaomi-redmi-k70-pro-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Xiaomi Redmi K70 Pro?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-xiaomi-redmi-k70e-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Xiaomi Redmi K70E?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-xiaomi-redmi-note-12r-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Xiaomi Redmi Note 12R?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-xiaomi-redmi-note-13-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Xiaomi Redmi Note 13 5G?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-xperia-5-v-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Xperia 5 V?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/howto-track-my-competitor-s-rankings-by-link-assistant-rank-tracker-rank-tracker/"><u>Howto track my competitor's rankings?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/htc-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>HTC  won’t play AVCHD .mts files</u></a></li>
+<li><a href="https://review-topics.techidaily.com/htc-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>HTC can’t play AVCHD .mts video</u></a></li>
+<li><a href="https://review-topics.techidaily.com/htc-cant-play-mp4-video-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>HTC can't play MP4 video files</u></a></li>
+<li><a href="https://review-topics.techidaily.com/htc-u23-cant-play-mp4-video-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>HTC U23 can't play MP4 video files</u></a></li>
+<li><a href="https://review-topics.techidaily.com/htc-u23-pro-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>HTC U23 Pro can’t play AVCHD .mts video</u></a></li>
+<li><a href="https://review-topics.techidaily.com/htc-u23-pro-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>HTC U23 Pro won’t play HEVC H.265 media, how to fix? </u></a></li>
+<li><a href="https://review-topics.techidaily.com/htc-u23-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>HTC U23 won’t play HEVC H.265 media, how to fix? </u></a></li>
+<li><a href="https://review-topics.techidaily.com/htc-u23-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>HTC U23 won’t play MP4 files</u></a></li>
+<li><a href="https://review-topics.techidaily.com/huawei-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Huawei  can’t play AVCHD .mts video</u></a></li>
+<li><a href="https://review-topics.techidaily.com/huawei-nova-y71-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Huawei Nova Y71 won’t play HEVC H.265 media, how to fix? </u></a></li>
+<li><a href="https://review-topics.techidaily.com/huawei-nova-y71-won-t-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Huawei Nova Y71 won't play MOV videos, how to fix ?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-streamline-your-instagram-feeds-with-macs-video-resizing/"><u>In 2024, Streamline Your Instagram Feeds with Mac's Video Resizing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-tricks-for-swift-vimeo-watch/"><u>In 2024, Tricks for Swift Vimeo Watch</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/leading-alternatives-to-obs-for-streamers/"><u>Leading Alternatives to OBS for Streamers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-path-to-profitable-partnership-with-your-audience-for-2024/"><u>The Path to Profitable Partnership with Your Audience for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-fcp-voice-over-guide-quick-start-tips/"><u>The Ultimate FCP Voice Over Guide Quick Start Tips</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-sound-detectives-handbook-extracting-silence-from-video-files-in-iosos-x-systems/"><u>Updated In 2024, The Sound Detectives Handbook Extracting Silence From Video Files in iOS/OS X Systems</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-premium-online-mp3-customization-suite/"><u>Updated Premium Online MP3 Customization Suite</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-manual-for-sonic-enhancement-using-sony-vegas-pro-2023/"><u>Updated The Ultimate Manual for Sonic Enhancement Using Sony Vegas Pro 2023</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/yearly-roundup-premium-skype-recorder-options-for-2024/"><u>Yearly Roundup  Premium Skype Recorder Options for 2024</u></a></li>
+</ul></div>

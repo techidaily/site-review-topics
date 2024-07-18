@@ -1,6 +1,6 @@
 ---
 title: How to use Device Manager to update your drivers on Windows 11/10
-date: 2024-05-19T18:09:42.335Z
+date: 2024-07-17T03:44:03.962Z
 tags: 
   - driver
   - device driver
@@ -18,6 +18,9 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg)  
 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
@@ -29,6 +32,9 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 
 - **Step5**: Select Search automatically for updated driver software.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/4.jpg) 
 
 
@@ -57,6 +63,9 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -65,12 +74,18 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -145,6 +160,9 @@ For example, if an audio driver supplied by Dell for a certain laptop causes iss
 
 Once we’ve located an alternative driver, we start over at step 1 of our testing process with it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -170,6 +188,9 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -195,3 +216,51 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-hack-your-webcam-efficient-recording-techniques-for-2024/"><u>[Updated] Hack Your Webcam  Efficient Recording Techniques for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-mastering-twitter-setup-in-5-steps-for-2024/"><u>[Updated] Mastering Twitter Setup in 5 Steps for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-chic-and-stylish-beauty-videos/"><u>2024 Approved  Chic and Stylish Beauty Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-effortless-approach-perfecting-time-lapses-using-samsungs/"><u>2024 Approved  Effortless Approach  Perfecting Time-Lapses Using Samsungs</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boost-your-iphone-videography-skills-master-these-8-essentials/"><u>Boost Your iPhone Videography Skills  Master These 8 Essentials</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-xiaomi-redmi-k70-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Xiaomi Redmi K70 Pro Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-90-lite-by-drfone-android-unlock-android-unlock/"><u>How to unlock Honor 90 Lite</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-90-lite-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor 90 Lite Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-magic-6-by-drfone-android-unlock-android-unlock/"><u>How to unlock Honor Magic 6</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-magic-6-lite-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor Magic 6 Lite Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-magic-6-lite-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor Magic 6 Lite Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-magic-6-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor Magic 6 Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-magic-6-pro-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor Magic 6 Pro Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-magic-6-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor Magic 6 Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-magic-v2-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor Magic V2 Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-magic-vs-2-by-drfone-android-unlock-android-unlock/"><u>How to unlock Honor Magic Vs 2</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-magic-vs-2-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor Magic Vs 2 Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-play-8t-by-drfone-android-unlock-android-unlock/"><u>How to unlock Honor Play 8T</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-play-8t-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor Play 8T Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-play-8t-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor Play 8T Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-v-purse-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor V Purse Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-x50-gt-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor X50 GT Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-x50-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor X50 Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-x50i-by-drfone-android-unlock-android-unlock/"><u>How to unlock Honor X50i</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-x50i-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor X50i Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-x50iplus-by-drfone-android-unlock-android-unlock/"><u>How to unlock Honor X50i+</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-x7b-by-drfone-android-unlock-android-unlock/"><u>How to unlock Honor X7b</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-x7b-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor X7b Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-x8b-by-drfone-android-unlock-android-unlock/"><u>How to unlock Honor X8b</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-x8b-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor X8b Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-htc-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock HTC Phone Forgot Password</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-you-when-your-apple-iphone-12-is-off-drfone-by-drfone-virtual-ios/"><u>In 2024, Can Life360 Track You When Your Apple iPhone 12 is off? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-through-sns-hdr-effectiveness-and-hdr-competitors/"><u>In 2024, Navigating Through SNS HDR  Effectiveness & HDR Competitors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-prime-hdr-cameras-a-comprehensive-guide/"><u>In 2024, Unveiling Prime HDR Cameras  A Comprehensive Guide</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-methods-for-crafting-lifelike-ai-speech-patterns/"><u>New The Ultimate Methods for Crafting Lifelike AI Speech Patterns</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/non-licensed-music-choices-excelling-in-video-montages-for-2024/"><u>Non-Licensed Music Choices Excelling in Video Montages for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Nokia C12 Plus? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-vivo-y17s-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Vivo Y17s without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/xml-mastery-in-fcpx-tips-tricks-and-best-practices-for-2024/"><u>XML Mastery in FCPX Tips, Tricks, and Best Practices for 2024</u></a></li>
+</ul></div>

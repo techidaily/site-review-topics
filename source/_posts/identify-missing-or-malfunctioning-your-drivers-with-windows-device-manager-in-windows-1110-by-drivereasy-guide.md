@@ -1,6 +1,6 @@
 ---
 title: Identify missing or malfunctioning your drivers with Windows Device Manager in Windows 11/10
-date: 2024-05-19T18:09:42.876Z
+date: 2024-07-17T03:51:59.723Z
 tags: 
   - driver
   - device driver
@@ -25,6 +25,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -32,6 +35,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -40,6 +46,9 @@ If you want the certainty of knowing your device drivers are always up to date (
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to update all your drivers with just 1 click
 
 The easiest way to automatically update your drivers is with our tool, Driver Easy Pro.
@@ -91,6 +100,9 @@ To automatically update to the correct version of all the drivers that are missi
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -101,6 +113,9 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -123,6 +138,9 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
 <ins class="adsbygoogle"
@@ -140,3 +158,56 @@ And without all these drivers, none of your devices will work.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-immerse-in-imagery-top-10-sticker-apps-for-appleandroid-users/"><u>[New] Immerse in Imagery – Top 10 Sticker Apps for Apple/Android Users</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-ultimate-pathway-to-premium-webcam-footage/"><u>[New] In 2024, The Ultimate Pathway to Premium Webcam Footage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-master-list-of-premium-4k-yt-converters-ranked-by-usage/"><u>[New] Master List of Premium 4K YT Converters Ranked by Usage</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-removing-discord-servers-step-by-step/"><u>[New] Removing Discord Servers Step-by-Step</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-elevating-shorts-visibility-a-thumbnail-transformation-journey/"><u>[Updated] Elevating Shorts Visibility  A Thumbnail Transformation Journey</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-quick-clicks-big-grins-the-kinemaster-way/"><u>[Updated] Quick Clicks, Big Grins  The KineMaster Way</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-switch-onoff-youtubes-pip-mode-on-your-iphone/"><u>[Updated] Switch On/Off YouTube's PIP Mode on Your iPhone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-complete-guide-to-360-video-submission-on-fb-for-2024/"><u>[Updated] The Complete Guide to 360 Video Submission on FB for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gag-generator-for-the-web/"><u>2024 Approved  Gag Generator for the Web</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-voice-clarity-overcoming-skype-noise-issues/"><u>2024 Approved  Voice Clarity  Overcoming Skype Noise Issues</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-seeking-out-the-tone-of-a-fuming-dogs-cry/"><u>2024 Approved Seeking Out The Tone of a Fuming Dogs Cry</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-top-7-easy-ways-to-convert-a-video-to-a-gif-online/"><u>2024 Approved Top 7 Easy Ways to Convert a Video to a GIF Online</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/advanced-settings-for-uniform-stream-lighting-for-2024/"><u>Advanced Settings for Uniform Stream Lighting for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/essential-skills-for-high-quality-screen-recordings-using-nvidia-for-2024/"><u>Essential Skills for High-Quality Screen Recordings Using NVIDIA for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-itel-a05s-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-nokia-c22-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Nokia C22 Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-infinix-note-30-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Infinix Note 30 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-infinix-note-30-vip-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Infinix Note 30 VIP Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-infinix-smart-8-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Infinix Smart 8 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-itel-a60s-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Itel A60s Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-itel-p40plus-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Itel P40+ Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-itel-p55-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Itel P55 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-itel-p55plus-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Itel P55+ Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-itel-p55t-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Itel P55T Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-100-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-play-40c-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-x7b-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-x9a-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-itel-a60s-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-create-a-slideshow-with-icecream-slideshow-maker/"><u>How to Create a Slideshow with Icecream Slideshow Maker</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-plus-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone 14 Plus Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immediate-resolution-apex-loot-errors/"><u>Immediate Resolution: Apex Loot Errors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-picks-7-premium-mac-videos/"><u>In 2024, Expert Picks  7 Premium Mac Videos</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-find-x6-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo Find X6 Pro FRP Bypass</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-samsung-galaxy-s23plus-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Samsung Galaxy S23+ Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>

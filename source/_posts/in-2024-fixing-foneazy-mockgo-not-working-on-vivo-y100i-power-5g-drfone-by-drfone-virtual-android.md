@@ -1,7 +1,7 @@
 ---
 title: In 2024, Fixing Foneazy MockGo Not Working On Vivo Y100i Power 5G | Dr.fone
-date: 2024-03-21 18:37:37
-updated: 2024-03-24 23:58:27
+date: 2024-07-17T05:53:33.541Z
+updated: 2024-07-18T05:53:33.541Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Fixing Foneazy MockGo Not Working On Vivo Y100i Power 5G
 excerpt: This article describes Fixing Foneazy MockGo Not Working On Vivo Y100i Power 5G
 keywords: change gps location on android,fake location on android,fake gps location on android,change location on android,change location on Y100i Power 5G,fake location on Y100i Power 5G
-thumbnail: https://www.lifewire.com/thmb/gOgqwLvt0rf3-WdwEBSByMeqIHo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1353420724-65161751b9924195880d3273e327cb54.jpg
+thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc6fdf0b1b999475eb2576da4.jpg
 ---
 
 ## Fixing Foneazy MockGo Not Working On Vivo Y100i Power 5G
@@ -20,6 +20,9 @@ Foneazy MockGo is one of the most popular software out there that allows you to 
 
 Similar to other software, you will for sure encounter some problems or limitations when using Foneazy MockGo. These fixes could either be temporary or could just be due to the software's capabilities. Therefore, we will share with you in this article some tips that you can use to fix some issues that you will encounter and what alternatives you can use in case you cannot fix the issue in Foneazy MockGo.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: What is Foneazy MockGo?
 
 Foneazy MockGo is a popular location spoofer tool that is used by users to use in their location-based AR games, or for some, using it with applications that require your location, such as Tinder. So that way, you are able to check what other locations in the world have in their area than being limited to the area that you are in.
@@ -48,7 +51,7 @@ Try all of these tricks that we have shared and get that temporary issue in Fone
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 The best Foneazy MockGo alternative to fake location!
 
@@ -67,12 +70,18 @@ Our product, **“Dr. Fone - Virtual Location” (**[**https://drfone.wondershar
 - **_Step 1:_** Download the “Dr. Fone - Virtual Location” software on your laptop. Open and choose “Virtual Location”.
 - **_Step 2:_** You can then connect your phone to your computer and click on “Get Started”.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![virtual-location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 - **_Step 3:_** You will then be redirected to your current location on the new page.
 - **_Step 4:_** If you want to change your location, you will need to turn on the “Teleportation” mode by clicking on the first icon and typing the location that you want then click on the “Go” icon.
 - **_Step 5:_** Click on “Move Here” and your current location will show up as the location that you typed on Your Vivo Y100i Power 5G.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![virtual-location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 **You can watch the video below to gfix Foneazy MockGo not working on your device**
@@ -85,8 +94,14 @@ Our product, **“Dr. Fone - Virtual Location” (**[**https://drfone.wondershar
 
 There you have it, these are the tricks that you can do on your own to fix any issue that comes up when using Foneazy MockGo or when this application is not working. Despite the advantages of using this application, you will for sure still encounter some limitations so you can look for an alternative that does the same job of sharing a spoof location and that is using **[Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)** which will help you to advance your levels in your AR games or find out other options in other locations in the world.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Can Life360 Track You When Your Vivo Y100i Power 5G is off?
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![avatar](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
 
 Did you know that your Vivo Y100i Power 5G tracks your location even when turned off? And if you're a member of any social media network, it means you could be tracked. Do you like to have your privacy? Do you want to protect your kids from being tracked by strangers?
@@ -99,8 +114,14 @@ Should we trust Life360, the social media company that recently merged with Goog
 
 - [Part 1: What Is Life360 And How Does It Work?](https://drfone.wondershare.com/virtual-location/can-life360-track-you-when-your-phone-is-off.html#Part1)
 - [Part 2: Does life360 work if the phone is off?](https://drfone.wondershare.com/virtual-location/can-life360-track-you-when-your-phone-is-off.html#Part2)
-- [Part 3: 3 Ways to Stop Life360 from Tracking You![hot icon](https://images.wondershare.com/drfone/article/2022/05/hot-tip.png)](https://drfone.wondershare.com/virtual-location/can-life360-track-you-when-your-phone-is-off.html#Part3)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+- [Part 3: 3 Ways to Stop Life360 from Tracking You ![hot icon](https://images.wondershare.com/drfone/article/2022/05/hot-tip.png)](https://drfone.wondershare.com/virtual-location/can-life360-track-you-when-your-phone-is-off.html#Part3)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What Is Life360 And How Does It Work?
 
 The one app that kids hate and parents adore is called Life360. Life360 is monitoring software that can be downloaded into your Vivo Y100i Power 5G and used by the individuals who are part of your Family Circle to monitor your location and the location of anybody else who is part of your Family Circle.
@@ -125,6 +146,9 @@ Premium users will still have access to the last 30 days' worth of location data
 
 Disabling Life360's Wi-Fi and Data may result in a warning to parents that their children are offline so that they can keep an eye on their kids. Does life 360 drain the battery? Low data mode is a better option for turning off life360 without alerting your parents. Go to the Settings and locate Life360; however, do not deactivate the exact location.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![low data consumption](https://images.wondershare.com/drfone/article/2022/06/can-life360-track-you-when-your-phone-is-off-02.jpg)
 
 Alternatively, you should disable background app refresh, mobile network, physical activity, and WIFI to save battery life. An issue with your Internet connection will come up instead of location stopped in this situation. So don't connect to any Wi-Fi at all.
@@ -141,6 +165,9 @@ It has several other noticeable features that can help you in your daily life.
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Setting Wi-Fi and Data Services to "Off."
 
 Another typical method kids use to prevent their parents from monitoring their position is to disable Life360's Wi-Fi and Data. It works like this. If you don't want applications updating in the background, enable power-saving mode.
@@ -161,12 +188,18 @@ While playing games like Pokemon Go, you are in desperate need of finding more P
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen=""></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Part 1: Teleport to Anywhere in the World (Teleport Mode)
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen=""></iframe>
 
 **Note:** Once you teleport or move to a virtual place, you can restore to the actual location by restarting the Vivo Y100i Power 5G device. You will see a prompt that reminds you to restart your device to restore the location of the connected device when you close the Virtual Location. Click **Restart Device** and close the program.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restart device on closing virtual location](https://images.wondershare.com/drfone/guide/restart-decive.png)
 
 _\* Dr.Fone Mac version still has the old interface, but it does not affect the use of Dr.Fone function, we will update it as soon as possible._
@@ -205,6 +238,9 @@ Open your smartphone and access its maps application. Look into the current loca
 
 ![confirm location on the smartphone](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Part 2: Instantaneous Movement Between Multiple Points (Jump Teleport Mode)
 
 Wondershare Dr.Fone - Virtual Location also allows the movement of the smartphone device between multiple places with the Jump Teleport Mode. If you want to make your **location spoofing** look realistic, the steps below will be beneficial:
@@ -219,6 +255,9 @@ Step 2Set Spots to Jump Teleport
 
 Continue to select the spots you want to pass one by one on the map by simply tapping on them with your mouse. After selecting multiple spots, click the **Start Moving** button at the bottom of the left panel to start the movement.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![define points for jump teleport](https://images.wondershare.com/drfone/guide/choose-jump-teleport-destination.png)
 
 Step 3Change Location Between Set Spots
@@ -244,3 +283,40 @@ As prescribed, you can propagate amongst the set spots with the Jump Teleport Mo
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discovering-clarity-in-your-craft-our-choice-of-top-12-vlogging-cameras/"><u>[New] In 2024, Discovering Clarity in Your Craft  Our Choice of Top 12 Vlogging Cameras</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-comprehensive-guide-to-high-def-game-broadcasting-for-2024/"><u>[New] The Comprehensive Guide to High-Def Game Broadcasting for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-top-voice-transformation-tools-for-personal-use/"><u>[New] Top Voice Transformation Tools for Personal Use</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-laughter-league-social-medias-best-jokes/"><u>[Updated] In 2024, Laughter League  Social Media's Best Jokes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streaming-success-starts-here-your-channel-gear-guide/"><u>[Updated] Streaming Success Starts Here  Your Channel Gear Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-secrets-of-phantoms-time-reversal-mode/"><u>[Updated] The Ultimate Secrets of Phantom's Time Reversal Mode</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-digital-storyboard-studio/"><u>2024 Approved  Digital Storyboard Studio</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Tecno Pop 8? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-structure-youtube-videos-for-2024/"><u>How to Structure YouTube Videos for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-galaxy-f14-5g-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Galaxy F14 5G and stops randomly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-galaxy-m14-5g-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Galaxy M14 5G and stops randomly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-galaxy-m34-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Galaxy M34 and stops randomly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-galaxy-s23-fe-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Galaxy S23 FE and stops randomly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-moto-e13-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Moto E13 and stops randomly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-moto-g-stylus-2023-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Moto G Stylus (2023) and stops randomly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-moto-g-stylus-5g-2023-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Moto G Stylus 5G (2023) and stops randomly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-motorola-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Motorola  and stops randomly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-motorola-edge-40-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Motorola Edge 40 and stops randomly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-motorola-edgeplus-2023-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Motorola Edge+ (2023) and stops randomly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-motorola-moto-g24-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Motorola Moto G24 and stops randomly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-motorola-razr-40-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Motorola Razr 40 and stops randomly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-razr-40-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Razr 40 and stops randomly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-redmi-a2plus-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Redmi A2+ and stops randomly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-redmi-k70-pro-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Redmi K70 Pro and stops randomly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-redmi-note-13-pro-5g-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Redmi Note 13 Pro 5G and stops randomly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-samsung-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Samsung  and stops randomly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-samsung-galaxy-a15-4g-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Samsung Galaxy A15 4G and stops randomly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-samsung-galaxy-a54-5g-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Samsung Galaxy A54 5G and stops randomly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-samsung-galaxy-f14-5g-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Samsung Galaxy F14 5G and stops randomly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-samsung-galaxy-xcover-6-pro-tactical-edition-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Samsung Galaxy XCover 6 Pro Tactical Edition and stops randomly</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-ultimate-guide-to-gopro-quik-for-pc-and-alternative-solutions/"><u>New 2024 Approved The Ultimate Guide to GoPro Quik for PC and Alternative Solutions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-chromebook-video-editing-essentials-10-free-tools-you-need/"><u>New In 2024, Chromebook Video Editing Essentials 10 Free Tools You Need</u></a></li>
+</ul></div>

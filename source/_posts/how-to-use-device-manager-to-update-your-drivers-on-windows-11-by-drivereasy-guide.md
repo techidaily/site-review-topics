@@ -1,6 +1,6 @@
 ---
 title: How to use Device Manager to update your drivers on Windows 11
-date: 2024-05-19T18:09:42.334Z
+date: 2024-07-17T03:44:02.670Z
 tags: 
   - driver
   - device driver
@@ -25,6 +25,9 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category.
 - **Step4**: Right-click the device whose driver you’d like to update, and select `Update Driver`.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/3.jpg) 
 
 - **Step5**: Select Search automatically for updated driver software.
@@ -34,6 +37,9 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -43,6 +49,9 @@ So if your computer has slowed down, you should update your drivers. If it’s c
 To understand why, you first have to understand what drivers actually are…
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -55,6 +64,9 @@ Now when we say “your device won’t work properly”, sometimes this means si
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -86,12 +98,18 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -115,6 +133,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -181,3 +202,52 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-achieving-visual-excellence-aspect-ratio-mastery-on-youtube/"><u>[New] In 2024, Achieving Visual Excellence  ASPECT RATIO Mastery on YOUTUBE</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-intellectual-property-rules-for-instagram-beats/"><u>[Updated] 2024 Approved  Intellectual Property Rules for Instagram Beats</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-screenshot-to-masterpiece-explore-these-top-8-multimedia-apps/"><u>[Updated] From Screenshot to Masterpiece  Explore These Top 8 Multimedia Apps</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-enhancing-heads-in-tiktok-videos-3-efficient-techniques/"><u>[Updated] In 2024, Enhancing Heads in TikTok Videos  3 Efficient Techniques</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unraveling-the-mysteries-of-fb-instream-ads-configuration-and-evaluation/"><u>[Updated] In 2024, Unraveling the Mysteries of FB Instream Ads Configuration & Evaluation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-maximize-youtube-views-a-comprehensible-guide-to-collaborative-videos/"><u>[Updated] Maximize YouTube Views  A Comprehensible Guide to Collaborative Videos</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/10-top-must-have-gear-items-for-youtubers/"><u>10 Top Must-Have Gear Items for YouTubers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-minisnap-probebericht-uberprufung/"><u>2024 Approved  MiniSnap Probebericht Überprüfung</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-3-techniques-for-exceptional-lol-gaming-broadcasts/"><u>2024 Approved  Top 3 Techniques for Exceptional LOL Gaming Broadcasts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-video-innovators-showcase-15-leading-youtube-unboxing-sites/"><u>2024 Approved  Video Innovators Showcase  15 Leading YouTube Unboxing Sites</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-iphone-6s-plus-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From iPhone 6s Plus Online</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-13c-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi 13C 5Gwith/without a PC</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-poco-m6-pro-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Poco M6 Pro 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-iphone-12-mini-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your iPhone 12 mini?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a38-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock A38 Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-asus-rog-phone-7-ultimate-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Asus ROG Phone 7 Ultimate Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-asus-rog-phone-7-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Asus ROG Phone 7 Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-asus-rog-phone-8-pro-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Asus ROG Phone 8 Pro Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-asus-rog-phone-8-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Asus ROG Phone 8 Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-asus-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Asus Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-blaze-2-5g-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Blaze 2 5G Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-civi-3-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Civi 3 Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-defy-2-by-drfone-android-unlock-android-unlock/"><u>How to unlock Defy 2</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-f23-5g-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock F23 5G Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-f3-pro-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock F3 Pro Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-find-n3-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Find N3 Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-find-x7-ultra-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Find X7 Ultra Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-g24-power-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock G24 Power Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-galaxy-f34-5g-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Galaxy F34 5G Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-google-pixel-7a-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Google Pixel 7a Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-google-pixel-8-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Google Pixel 8 Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-google-pixel-8-pro-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Google Pixel 8 Pro Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-google-pixel-fold-by-drfone-android-unlock-android-unlock/"><u>How to unlock Google Pixel Fold</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-gt-neo-5-se-by-drfone-android-unlock-android-unlock/"><u>How to unlock GT Neo 5 SE</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-100-pro-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor 100 Pro Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-70-lite-5g-by-drfone-android-unlock-android-unlock/"><u>How to unlock Honor 70 Lite 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-70-lite-5g-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor 70 Lite 5G Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-90-by-drfone-android-unlock-android-unlock/"><u>How to unlock Honor 90</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-90-gt-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor 90 GT Phone Forgot Password</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-x-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For Apple iPhone X?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-ultimate-roundup-best-budget-friendly-virtual-calls/"><u>In 2024, The Ultimate Roundup  Best Budget-Friendly Virtual Calls</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-three-paths-to-archiving-every-engaging-second-of-your-disco-streaming-experience/"><u>In 2024, Three Paths to Archiving Every Engaging Second of Your Disco Streaming Experience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-5-best-ways-to-make-money-on-youtube-shorts-today-for-2024/"><u>The 5 Best Ways to Make Money on YouTube Shorts Today for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/virtual-sound-editor-with-cut-and-join-features-for-2024/"><u>Virtual Sound Editor with Cut & Join Features for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/your-signature-starts-here-free-modifiable-logos-to-define-brands-for-2024/"><u>Your Signature Starts Here  Free, Modifiable Logos to Define Brands for 2024</u></a></li>
+</ul></div>

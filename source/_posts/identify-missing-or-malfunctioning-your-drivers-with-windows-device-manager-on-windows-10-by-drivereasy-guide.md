@@ -1,6 +1,6 @@
 ---
 title: Identify missing or malfunctioning your drivers with Windows Device Manager on Windows 10
-date: 2024-05-19T18:09:42.881Z
+date: 2024-07-17T03:52:04.748Z
 tags: 
   - driver
   - device driver
@@ -19,12 +19,18 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -41,6 +47,9 @@ If you want the certainty of knowing your device drivers are always up to date (
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -51,6 +60,9 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -63,6 +75,9 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
 ## Download Driver Easy FREE
@@ -86,6 +101,9 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -111,3 +129,51 @@ Now when we say “your device won’t work properly”, sometimes this means si
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-cinematic-chronicles-in-depth-video-tech-reviews/"><u>[New] 2024 Approved  Cinematic Chronicles  In-Depth Video Tech Reviews</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-capture-and-share-the-world-in-high-definition-with-mi-11s-screenshot-capabilities-for-2024/"><u>[New] Capture and Share the World in High Definition with Mi 11'S Screenshot Capabilities for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-haul-video-production-boosting-viewership-and-fun/"><u>[New] Haul Video Production  Boosting Viewership and Fun</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-thrilling-twists-and-turns-short-track-22/"><u>[New] Thrilling Twists & Turns - Short Track '22</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unveiling-vr-the-creation-gap-for-2024/"><u>[New] Unveiling VR  The Creation Gap for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-essential-insights-for-crafting-youtube-intros-aplusb-methods/"><u>[Updated] 2024 Approved  Essential Insights for Crafting YouTube Intros  A+B Methods</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-agrarian-adventures-unplugged-stardews-kin-titles/"><u>[Updated] Agrarian Adventures Unplugged  Stardew's Kin Titles</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-optimize-your-tiktok-viewing-experience/"><u>[Updated] In 2024, Optimize Your TikTok Viewing Experience</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-grandest-directors-trailers/"><u>2024 Approved  Grandest Director's Trailers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-simple-guide-to-fcp-x-how-to-add-effects-in-3-steps/"><u>2024 Approved Simple Guide to FCP X How To Add Effects in 3 Steps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-infinix-smart-7-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-giroptic-camera-experience/"><u>Comprehensive Giroptic Camera Experience</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-vivo-v29-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo V29 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-vivo-v30-lite-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo V30 Lite 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-vivo-v30-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo V30 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-vivo-x100-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo X100 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-vivo-x100-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo X100 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-vivo-y100i-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo Y100i Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-vivo-y100i-power-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo Y100i Power 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-vivo-y100t-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo Y100t Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-vivo-y17s-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo Y17s Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-vivo-y200-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo Y200 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-vivo-y36i-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo Y36i Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-xiaomi-13t-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi 13T Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-xiaomi-14-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi 14 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-xiaomi-14-ultra-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi 14 Ultra Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-xiaomi-redmi-13c-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi Redmi 13C 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-xiaomi-redmi-a2-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi Redmi A2 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-xiaomi-redmi-a2plus-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi Redmi A2+ Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-xiaomi-redmi-k70-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi Redmi K70 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-xiaomi-redmi-k70e-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi Redmi K70E Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-xiaomi-redmi-note-12-pro-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi Redmi Note 12 Pro 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-xiaomi-redmi-note-12t-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi Redmi Note 12T Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-xiaomi-redmi-note-13-pro-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi Redmi Note 13 Pro 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-xiaomi-redmi-note-13-proplus-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi Redmi Note 13 Pro+ 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-google-pixel-7a-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Google Pixel 7a Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-google-pixel-8-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Google Pixel 8 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-honor-100-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Honor 100 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-mastering-the-eight-most-advanced-speech-technology-applications-for-desktop-environments-and-cloud-computing/"><u>In 2024, Mastering the Eight Most Advanced Speech Technology Applications for Desktop Environments and Cloud Computing</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-how-to-use-korean-to-english-video-translators-for-creators/"><u>New In 2024, How To Use Korean to English Video Translators for Creators</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/unlock-perfect-lighting-top-video-brightening-apps-for-2024/"><u>Unlock Perfect Lighting Top Video Brightening Apps for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-make-your-moments-shine-top-highlight-video-editing-software/"><u>Updated Make Your Moments Shine Top Highlight Video Editing Software</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-tunewizard-pro-expertly-organize-your-music-library-across-windowsmac-platforms/"><u>Updated TuneWizard Pro Expertly Organize Your Music Library Across Windows/Mac Platforms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-followers-surge-top-tips-for-channel-expansion-for-2024/"><u>YouTube Followers Surge  Top Tips for Channel Expansion for 2024</u></a></li>
+</ul></div>

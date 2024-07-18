@@ -1,6 +1,6 @@
 ---
 title: Identify missing or malfunctioning your drivers with Windows Device Manager on Windows 7
-date: 2024-05-19T18:09:42.889Z
+date: 2024-07-17T03:52:12.349Z
 tags: 
   - driver
   - device driver
@@ -19,6 +19,9 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
@@ -49,9 +52,15 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -64,6 +73,9 @@ There are two reasons why…
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -90,6 +102,9 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
@@ -119,6 +134,18 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -141,6 +168,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -185,3 +215,51 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-spotlight-strategies-for-solo-talent-vs-tiktok-titans/"><u>[New] In 2024, Spotlight Strategies for Solo Talent Vs. TikTok Titans</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-enhancing-photos-and-videos-with-instagrams-creative-features/"><u>2024 Approved  Enhancing Photos and Videos with Instagram's Creative Features</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-revamped-recording-reimagined-screens-the-sprout-way/"><u>2024 Approved  Revamped Recording, Reimagined Screens - The Sprout Way</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-vrecorder-how-to-download-and-install/"><u>2024 Approved  VRecorder - How to Download and Install</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/best-10-animated-photo-collage-apps/"><u>Best 10 Animated Photo Collage Apps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/essential-5-apps-to-download-social-media-video-clips/"><u>Essential 5 Apps to Download  Social Media Video Clips</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-y100t-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-y200-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-google-pixel-8-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Google Pixel 8 Pro Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-google-pixel-fold-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Google Pixel Fold Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-honor-90-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Honor 90 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-honor-magic5-ultimate-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Honor Magic5 Ultimate Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-honor-play-8t-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Honor Play 8T Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-honor-x9a-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Honor X9a Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-infinix-hot-40i-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Infinix Hot 40i Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-infinix-note-30-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Infinix Note 30 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-infinix-note-30-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Infinix Note 30 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-infinix-smart-8-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Infinix Smart 8 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-infinix-smart-8-plus-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Infinix Smart 8 Plus Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-itel-p40-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Itel P40 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-itel-s23plus-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Itel S23+ Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-choosing-excellent-videographers/"><u>In 2024, Mastering the Art of Choosing Excellent Videographers</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-leading-gender-shifting-audio-tools-available/"><u>New 2024 Approved Leading Gender Shifting Audio Tools Available</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-virtualdub-vs-other-video-editors-which-one-reigns-supreme/"><u>New Virtualdub vs Other Video Editors Which One Reigns Supreme ?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/no-cost-4k-video-editing-the-ultimate-guide-to-free-software/"><u>No-Cost 4K Video Editing The Ultimate Guide to Free Software</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/no-cost-sound-transformation-ultimate-10-youtube-tools/"><u>No-Cost Sound Transformation  Ultimate 10 YouTube Tools</u></a></li>
+<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-rtf-file-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign .rtf file documents online</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-harmonized-discoveries-your-online-compendium-for-chart-topping-songs/"><u>Updated 2024 Approved Harmonized Discoveries Your Online Compendium for Chart-Topping Songs</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-leading-audio-tinkering-tools-ios-and-android-edition-revised/"><u>Updated The Leading Audio Tinkering Tools IOS and Android Edition, Revised</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/windows-11-video-editing-essentials-top-software-recommendations/"><u>Windows 11 Video Editing Essentials Top Software Recommendations</u></a></li>
+</ul></div>

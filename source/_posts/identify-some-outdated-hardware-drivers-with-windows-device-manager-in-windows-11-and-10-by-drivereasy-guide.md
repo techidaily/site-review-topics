@@ -1,6 +1,6 @@
 ---
 title: Identify some outdated hardware drivers with Windows Device Manager in Windows 11 & 10
-date: 2024-05-19T18:09:42.971Z
+date: 2024-07-17T03:53:42.856Z
 tags: 
   - driver
   - device driver
@@ -47,6 +47,9 @@ Here’s how Driver Easy works:
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/IXfcOn7SSHY" title="Driver Easy Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Step-by-step instructions
 
 To automatically update to the correct version of all the drivers that are missing or out of date on your system:
@@ -66,6 +69,18 @@ To automatically update to the correct version of all the drivers that are missi
 2. Run the downloaded executable file and follow the on-screen prompts.
 3. Run Driver Easy and click `UPGRADE`.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
@@ -74,11 +89,17 @@ To automatically update to the correct version of all the drivers that are missi
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 7. That’s it. You can go grab a coffee, while Driver Easy does all the work for you!
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -98,6 +119,9 @@ This page describes how to do this.
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
@@ -125,6 +149,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
@@ -161,6 +188,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -216,3 +246,55 @@ There are two reasons why…
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-digital-dividends-the-creators-guide-to-monetization/"><u>[New] 2024 Approved  Digital Dividends  The Creator's Guide to Monetization</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-earn-big-stay-safe-top-5-income-boosting-posts-for-2024/"><u>[New] Earn Big, Stay Safe  Top 5 Income Boosting Posts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gif-editor-how-to-make-animated-gif-images-online-from-youtube-video-for-2024/"><u>[New] GIF Editor  How to Make Animated GIF Images Online From YouTube Video for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-style-meets-function-essential-sj4000-gear-selection/"><u>[New] Style Meets Function  Essential SJ4000 Gear Selection</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/foremost-apps-to-upgrade-your-gopro-creations-on-smartphones/"><u>Foremost Apps to Upgrade Your GoPro Creations on Smartphones</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On OnePlus 12R? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-facetunes-potential-photo-editing-like-never-before/"><u>In 2024, Unveiling Facetune's Potential  Photo Editing Like Never Before</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-iphone-14-pro-max-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your iPhone 14 Pro Max? How to Fix</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-playback-issues-on-samsung-galaxy-s24plus-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV playback issues on Samsung Galaxy S24+</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-playback-issues-on-xiaomi-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV playback issues on Xiaomi </u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-playback-issues-on-xiaomi-redmi-12-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV playback issues on Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-playback-issues-on-xiaomi-redmi-13c-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV playback issues on Xiaomi Redmi 13C 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-playback-issues-on-xiaomi-redmi-k70e-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV playback issues on Xiaomi Redmi K70E</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-playback-issues-on-xiaomi-redmi-note-13-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV playback issues on Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-13-ultra-converter-convert-mov-files-for-13-ultra-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to 13 Ultra converter-convert .mov files for 13 Ultra</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-civi-3-converter-convert-mov-files-for-civi-3-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Civi 3 converter-convert .mov files for Civi 3</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-edge-2023-converter-convert-mov-files-for-edge-2023-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Edge 2023 converter-convert .mov files for Edge 2023</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-g24-power-converter-convert-mov-files-for-g24-power-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to G24 Power converter-convert .mov files for G24 Power</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-galaxy-a05s-converter-convert-mov-files-for-galaxy-a05s-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Galaxy A05s converter-convert .mov files for Galaxy A05s</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-galaxy-a14-5g-converter-convert-mov-files-for-galaxy-a14-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Galaxy A14 5G converter-convert .mov files for Galaxy A14 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-galaxy-f34-5g-converter-convert-mov-files-for-galaxy-f34-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Galaxy F34 5G converter-convert .mov files for Galaxy F34 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-galaxy-m14-5g-converter-convert-mov-files-for-galaxy-m14-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Galaxy M14 5G converter-convert .mov files for Galaxy M14 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-galaxy-z-flip-5-converter-convert-mov-files-for-galaxy-z-flip-5-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Galaxy Z Flip 5 converter-convert .mov files for Galaxy Z Flip 5</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-huawei-nova-y71-converter-convert-mov-files-for-huawei-nova-y71-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Huawei Nova Y71 converter-convert .mov files for Huawei Nova Y71</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-moto-g84-5g-converter-convert-mov-files-for-moto-g84-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Moto G84 5G converter-convert .mov files for Moto G84 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-motorola-converter-convert-mov-files-for-motorola-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Motorola converter-convert .mov files for Motorola</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-motorola-moto-g84-5g-converter-convert-mov-files-for-motorola-moto-g84-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Motorola Moto G84 5G converter-convert .mov files for Motorola Moto G84 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-nova-y91-converter-convert-mov-files-for-nova-y91-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Nova Y91 converter-convert .mov files for Nova Y91</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-redmi-12-5g-converter-convert-mov-files-for-redmi-12-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Redmi 12 5G converter-convert .mov files for Redmi 12 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-redmi-12-converter-convert-mov-files-for-redmi-12-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Redmi 12 converter-convert .mov files for Redmi 12</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-redmi-13c-converter-convert-mov-files-for-redmi-13c-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Redmi 13C converter-convert .mov files for Redmi 13C</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-samsung-converter-convert-mov-files-for-samsung-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Samsung converter-convert .mov files for Samsung</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-samsung-galaxy-a15-4g-converter-convert-mov-files-for-samsung-galaxy-a15-4g-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Samsung Galaxy A15 4G converter-convert .mov files for Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-samsung-galaxy-f54-5g-converter-convert-mov-files-for-samsung-galaxy-f54-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Samsung Galaxy F54 5G converter-convert .mov files for Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-samsung-galaxy-s21-fe-5g-2023-converter-convert-mov-files-for-samsung-galaxy-s21-fe-5g-2023-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Samsung Galaxy S21 FE 5G (2023) converter-convert .mov files for Samsung Galaxy S21 FE 5G (2023)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-samsung-galaxy-s24plus-converter-convert-mov-files-for-samsung-galaxy-s24plus-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Samsung Galaxy S24+ converter-convert .mov files for Samsung Galaxy S24+</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-sony-xperia-1-v-converter-convert-mov-files-for-sony-xperia-1-v-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Sony Xperia 1 V converter-convert .mov files for Sony Xperia 1 V</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-u23-converter-convert-mov-files-for-u23-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to U23 converter-convert .mov files for U23</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-xiaomi-converter-convert-mov-files-for-xiaomi-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Xiaomi  converter-convert .mov files for Xiaomi </u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-xiaomi-redmi-12-5g-converter-convert-mov-files-for-xiaomi-redmi-12-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Xiaomi Redmi 12 5G converter-convert .mov files for Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-xiaomi-redmi-13c-5g-converter-convert-mov-files-for-xiaomi-redmi-13c-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Xiaomi Redmi 13C 5G converter-convert .mov files for Xiaomi Redmi 13C 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-xiaomi-redmi-k70-converter-convert-mov-files-for-xiaomi-redmi-k70-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Xiaomi Redmi K70 converter-convert .mov files for Xiaomi Redmi K70</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-xiaomi-redmi-k70e-converter-convert-mov-files-for-xiaomi-redmi-k70e-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Xiaomi Redmi K70E converter-convert .mov files for Xiaomi Redmi K70E</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-ace-3-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Ace 3</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-blade-a73-5g-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Blade A73 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-google-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Google</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-echoing-quietness-a-guide-to-purifying-your-podcasts-from-high-frequency-humming/"><u>New In 2024, Echoing Quietness A Guide to Purifying Your Podcasts From High-Frequency Humming</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-how-do-i-access-video-game-audio-libraries/"><u>Updated In 2024, How Do I Access Video Game Audio Libraries?</u></a></li>
+</ul></div>

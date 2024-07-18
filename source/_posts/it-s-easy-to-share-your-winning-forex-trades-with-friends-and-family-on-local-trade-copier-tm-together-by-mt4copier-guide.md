@@ -1,6 +1,6 @@
 ---
 title: It's Easy to Share Your Winning Forex Trades With Friends and Family on Local Trade Copier™ Together
-date: 2024-05-19T18:09:43.561Z
+date: 2024-07-17T03:59:17.686Z
 tags: 
   - mt5
   - mt4
@@ -74,6 +74,9 @@ Are you using your mobile device to trade when you can’t get to your desktop s
 
 If you’ve come across this little snag and are getting frustrated that you can’t run all of your accounts while you’re on the go, then you’re in the right place. Keep on reading, and you’ll soon be able to copy trades from your mobile app to any number of MetaTrader accounts you want!
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How Trades Travel from Your Metatrader Mobile App
 
 So, let’s dive straight in. We have to look at how the trades travel from your MetaTrader mobile app to other devices once you make them. When you have your mobile app open and click to make a trade, where does that signal go next?
@@ -90,6 +93,9 @@ So the trick is hardly a trick at all. You log into the same account on differen
 
 But what if you want to manage more than one account from your mobile device? Well, then you need a Mobile-To-Many Copycat™ setup illustrated in the graphic below. I hope this helps you understand what I am trying to explain.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/copy-forex-trades-from-mt4-mobile/3.png)
 
 The first thing you’ll notice is that there are two master accounts, MetaTrader Master Account #1 and MetaTrader Master Account #2. Both master accounts are set up on your computer or VPS server. As you can see, each master account controls three client accounts – the three blue ones for Master Account #1 and three purple ones for Master Account #2. In total, that’s eight MetaTrader accounts all running on the same setup. Now, this can be your desktop PC or a VPS server – a VPS is optional, but I highly recommend it if you want to be running multiple accounts smoothly and efficiently.
@@ -104,6 +110,9 @@ In the following image, you can see that I have accounts from Darwinex, Fusion M
 
 As long as you’ve completed the link up with the client accounts with the [Local Trade Copier](https://tools.techidaily.com/mt4copier/)™ software on your computer, you can use these accounts on your mobile app to clone trades across as many accounts as you need!
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Copy trades from Android MT4 account to another device
 
 I know to some of you, all of this sounds simple, but remember when you were new to using MetaTrader and running different accounts? I’ve included a few screenshots below to ensure that even new users get how this works. They show what this process looks like on Metatrader.
@@ -134,6 +143,9 @@ So, you have just learned how to copy your trades to multiple MetaTrader account
 
 They say that knowledge is power and, if that’s true, you just gained a lot of power, folks! With what you’ve just learned, you don’t need to miss out on those important events anymore. Now you can be sitting by the hotel pool on holiday and still make those trades across multiple accounts whenever you need to.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Easy Way to Copy Trades of Equal Lot Size for All Accounts
 
 <iframe width="898" height="503" src="https://www.youtube.com/embed/TwthTCQm74A" title="Easy Way to Copy Trades of Equal Lot Size for All MT4 &amp; MT5 Accounts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -142,10 +154,16 @@ In this video, Rimantas explains how to make every MT4 & MT5 Client account use 
 
 ## MAAB Trade Filter: Copy Master Account Only When It Is Making Profits
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/1.png)
 
 All strategies have drawdowns or periods when they face unfavorable market conditions. MAAB Trade Filter is specifically made to reduce negative effects on your account when combined with the [Local Trade Copier](https://tools.techidaily.com/mt4copier/). It is an easy solution to minimize drawdown and copy Master Account only when it is making profits. This tool also has the power to turn bad EAs and strategies into winners. Find out how MAAB Trade Filter makes it happen in this guide.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### MAAB Trade Filter – How it Works
 
 MAAB stands for Moving Average on Account Balance. As traders, we open and close trades, and the account balance moves up and down, creating a histogram. Now, plotting a Moving Average on top of the balance histogram we instruct MAAB Trade Filter not to allow losing trades to take effect. Losing trades that make the balance or equity below this Moving Average are simply filtered out. They are not copied from the Master account to the Client account. Once winning trades makes the account balance histogram go above the Moving Average, MAAB Trade Filter will allow them to grow the Client account. A simple, yet unique solution to effectively protect Client accounts.
@@ -184,6 +202,9 @@ Now go to the MT4 Indicator list and apply the “MA on Account Balance (server)
 
 If you zoom into the histogram, you will notice each histogram bar represents how closed trade affected the balance. A mouse-over tooltip above the indicator will display balance information on each bar. Notice that the histogram went down as losing trades closed and it went just below the Moving Average. At that point, MAAB Trade Filter would stop accepting trade signals from this Master account.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/6.png)
 
 Now I will set up a Metatrader 5 account, my second Master account. I can repeat the same procedure as for the first Master account. I apply the Server EA for the MT5 (at least version 1.1.6), then attach the MAAB Trade Filter indicator dedicated for the MT5 server-side. Notice this second Master account has a balance histogram below the filtering Moving Average, meaning it has a series of losing trades. We do not want these losing trades on the Client account, don’t we? That is why we filter them out using the MAAB Trade Filter.
@@ -192,10 +213,16 @@ Now I will set up a Metatrader 5 account, my second Master account. I can repeat
 
 Moving on to the Client account on MT5. Here I will first insert the MAAB Trade Filter indicator for the client-side onto the MT5 chart window. A settings window will pop up and it will show a few options. You can change the Moving Average periods (default 13), MA types like Simple, Exponential, Smoothed, etc. For the MAAB Trade Filter to work, we must input the Master account number in the ServerAccountNumber field. No worries, in case you forget to type in the number the indicator window will display a warning.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/8.png)
 
 In my example, the Master account number is 60055865. Again, the indicator will now show the Master account balance, not the Client account balance.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/9.png)
 
 Finally, I can attach the Client EA now onto the chart. In the EA settings, scroll down and find the MA Trade Filter line and set it to True. Right below you will also see the option to apply the Moving Average to the Master account balance histogram or account’s equity.
@@ -204,6 +231,9 @@ Finally, I can attach the Client EA now onto the chart. In the EA settings, scro
 
 Regardless of your preference, The MAAB Trade Filter indicator will show an orange horizontal line that represents the current equity of the Master account. It will refresh every 15 seconds or so. As we see, the balance of this Master account is above the Moving Average so the Client EA will copy the trades to the client side.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/11.png)
 
 If you want to set the Moving Average to 50 periods, of course, this will also affect how the MAAB Trade Filter indicator behaves. With a 50-period Moving Average, the histogram balance is now below the MA, meaning the MAAB Trade Filter will cease copying trades from this Master account. Since the 50 period MA reacts slower to the histogram changes, it will need more winning trades before the histogram is above the MA(50). Only then the Master account trades will be allowed again to the Client account.
@@ -214,6 +244,9 @@ For now, let’s change back the MA period settings to 13.
 
 While I am still on this client-side platform, I will add the MAAB Trade Filter for the second Master account (the MT5). I will insert the MAAB indicator (client-side) into the chart and input the Master account number in the settings.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/13.png)
 
 Now we can see two indicator windows showing the balance histogram from each Master account.
@@ -224,6 +257,9 @@ When we have a Client account setup like this, the MAAB Trade Filters will cease
 
 Finally, we have a second Client account that we want to improve with MAAB Trading Filter. I will attach the MAAB Trade Filter (client-side) indicator first and then set it to connect with the first #60055865 Master account in the ServerAccountNumber field.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/15.png)
 
 Now we add the Client EA v2.9.9f from the Experts list and enable it from the settings window. This time I will also set the EA to compare the Moving Average to equity instead of the account balance.
@@ -236,6 +272,9 @@ Check out the orange Equity line. It is below the Moving Average right?
 
 Because of this, all trades from this Master account will be suspended until the equity goes above the Moving Average.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### MAAB Trade Filter in Action Examples
 
 Let’s go ahead and make some trades to see how MAAB Trade Filter manages trading from winning Master accounts and from those that currently do not show good performance. I already have a lot of trades open so I will pick one currency pair that does not have any. It is the USDJPY.
@@ -248,6 +287,9 @@ As expected, the first Client account immediately copied the trade. The account 
 
 However, the second Client account denied that trade. This is because we set the rule to compare the MA to Master’s equity – which was below the MA. We can confirm this by looking at the Experts tab and the line that says “Ignored trade BUY USDJPY because of the MAAB Trade Filter. Master account equity below MA13”. Clearly said, it is doing what we set it to do.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/19.png)
 
 Even though the balance histogram was above the MA for this Master account, the equity was not. Once the equity goes above MA(13) the MAAB Trade Filter will allow it to pass to the Client account.
@@ -260,6 +302,9 @@ Let’s do some more trading from the other Master account. EURUSD looks like a 
 
 The first Client account ignored this EURUSD trade, but the second Client account accepted it. Simply because we did not set up the second MAAB Trade Filter for this Master MT5 account on the second Client account. All trades that come from the Admiral Markets Master account to the IC Markets Client account are copied without any filtering.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/21.png)
 
 If we go to fullscreen we can see the message in the Experts tab that trades from one of the Master accounts are ignored. The reason is “Master account balance is below MA13”. Perfect! That is what we want.
@@ -276,12 +321,27 @@ I will find and close some trades in a loss so I can show you what happens in th
 
 This means MAAB Trade Filter will no longer allow trades to this Client from either Master account. They both do not pass the filter rules we have set in the MAAB Trade Filter. To test this I will open a new USDJPY trade. As expected I see a “sell USDJPY ignored” message on the Client (see screenshot below), good job!
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/25.png)
 
 Since I have some trades in profit too I will close them to see what happens.
 
 After I close a profitable trade, the balance goes up and its histogram goes above Moving Average again!
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/26.png)
 
 Does it mean the MAAB Trade Filter will now allow this Master account trades to the Client-side? Let’s test it out, I will make another USDJPY trade.
@@ -290,6 +350,9 @@ Does it mean the MAAB Trade Filter will now allow this Master account trades to 
 
 Alright, the first client copied this trade, however, the second Client account did not. If you remember, there is a rule for MAAB Trade Filter we set – If equity is below the MA, ignore trades from this Master account. It just does what is supposed to do.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### MAAB Trade Filter Reverse Logic
 
 I open the Client EA settings on the first Client account (the one with two MAAB Trade Filters) and set the MAAB Reverse Logic parameter to True.
@@ -298,10 +361,16 @@ I open the Client EA settings on the first Client account (the one with two MAAB
 
 I will also set the Reverse Trades to True under the Trades Manipulation settings section in the Client EA.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/29.png)
 
 Click OK and then open the Client EA settings on the second Client account (the one with just one MAAB Trade Filter set to compare equity). Now, let’s keep the equity rule and change MAAB Reverse Logic to True.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/30.png)
 
 Ok, now the first Client account has the EA instructed to use MAAB Reverse Logic and also reverse trades, meaning “buy” trades become “sell” trades and “sell” trades become “buy” trades.
@@ -330,6 +399,9 @@ After all this, you might be wondering why would we need all this inversion? Wel
 
 ## How to Enable Trading in MT4?
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/how-to-enable-trading-in-mt4/1.png)
 
 It is disappointing to find the message “Trade disabled” on your MT4 platform. However, that is not fatal, and you can solve it by finding the reason for disabled trading and fixing it. In some cases, if the market is closed, there is nothing to resolve, but if the market is open and your trading functionality is disabled, you have to know what the issue is and how to solve it. In this article, we will look a the main reasons why trading can be disabled on the MetaTrader 4 platform and what to do to enable it.
@@ -338,6 +410,9 @@ It is disappointing to find the message “Trade disabled” on your MT4 platfor
 
 “Trade is disabled” error message on Metatrader 4 means that you cannot actively trade at all or only some specific instruments, depending on the error message that you get. To find the solution, usually, you need to contact your broker’s support team. But it could be a simple case that the market is closed already for that specific instrument, and you simply need to wait until the market opens.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Why is my trading disabled on MT4?
 
 There are four main reasons you see an error message, and let’s try to figure out what to do about each one of them.  
@@ -377,6 +452,9 @@ You might get the message that trading on your MT4 terminal has been disabled be
 
 After you complete all necessary procedures, the broker will activate your account, and you are good to start trading whenever you want. If you want to check your account status, contact your Account Manager or the broker’s Client Experience team. They will activate your account in case there is any misunderstanding or error.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Extra possible reason
 
 Suppose you are using automated trading for scalping or similar intra-day trading strategies. “Trading is disabled” errors may cause you to lose profits if you follow a great trader. Well, thighs happen. Such errors can be a weak internet connection, restriction from your broker, or simply malfunctioning of a trading bot.
@@ -387,6 +465,9 @@ Not all trade copiers can automatically detect suffixes and adapt. But that is n
 
 You might also need to see if you have enabled auto-trading on your MetaTrader terminal. Go to Tools, click on the “Options” menu, click on “Expert Advisor”, and finally allow the automated trading option. Press “OK”, and you are all good.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Where do I get error messages about disabled trading?
 
 Last but not least, where do you get those error messages about disabled trading on your MT4? You can always check the ‘Journal’ tab at the bottom of the MT4 platform for any error messages when you cannot open or close a trade. There you will usually find an explanation on why you cannot open or close a trade and possibly recommended actions on how to solve the issue. It is also worth checking the ‘Experts’ tab for any error messages or recommendations from the Expert Advisor or trade copier software you are using.
@@ -399,6 +480,9 @@ If you are looking to enable 1-click trading on Metatrader 4, all you have to do
 
 The one-click trading tool on MT4 is very convenient. Still, there’s an even better tool with more functionalities that can also set the lot size automatically after you choose to risk the percentage of your account balance. Check out the Trader On Chart trading panel for MT4, and you’ll never want to open another trade without it.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/how-to-enable-trading-in-mt4/4.png)
 <ins class="adsbygoogle"
     style="display:block"
@@ -409,3 +493,60 @@ The one-click trading tool on MT4 is very convenient. Still, there’s an even b
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-complete-instagram-vlog-flip-handbook/"><u>[New] The Complete Instagram Vlog-Flip Handbook</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-cut-the-clutter-structuring-videos-with-chapter-tags/"><u>[Updated] 2024 Approved  Cut the Clutter  Structuring Videos with Chapter Tags</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-visual-vanguard-the-top-videoviral-tweets/"><u>[Updated] 2024 Approved  Visual Vanguard  The Top #VideoViral Tweets</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-guide-finding-perfect-music-for-unpack-videos/"><u>[Updated] Guide  Finding Perfect Music For Unpack Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/easycast-essential-steps-for-beginner-podcast-streamers-for-2024/"><u>EasyCast  Essential Steps for Beginner Podcast Streamers for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/engaging-oratory-insights-part-8-for-2024/"><u>Engaging Oratory Insights Part 8 for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-infinix-note-30-vip-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Infinix Note 30 VIP FRP In 3 Different Ways</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-v30-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo V30 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y100t-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y100t Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-boosting-channel-success-scaling-for-a-million-viewers/"><u>In 2024, Boosting Channel Success  Scaling for a Million Viewers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-twitters-favorite-tiktoks-the-ultimate-list/"><u>In 2024, Twitter's Favorite TikToks  The Ultimate List</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-unlock-fcp-x-advanced-chroma-keying-techniques-for-video-editors/"><u>In 2024, Unlock FCP X Advanced Chroma Keying Techniques for Video Editors</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-s-best-final-cut-pro-tutorials-learn-from-the-experts/"><u>New S Best Final Cut Pro Tutorials Learn From the Experts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/no-experience-big-income-try-these-13-reddit-methods-for-2024/"><u>No Experience, Big Income? Try These 13 Reddit Methods for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-redmi-note-12-pro-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Redmi Note 12 Pro 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-redmi-note-12-proplus-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Redmi Note 12 Pro+ 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-redmi-note-13-proplus-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-reno-10-pro-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Reno 10 Pro 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-reno-11-pro-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Reno 11 Pro 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-reno-8t-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Reno 8T 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-rog-phone-7-ultimate-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-s17-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on S17 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-samsung-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Samsung</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-samsung-galaxy-a05-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Samsung Galaxy A05</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-samsung-galaxy-a14-4g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Samsung Galaxy A14 4G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-samsung-galaxy-a15-4g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-samsung-galaxy-a24-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Samsung Galaxy A24</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-samsung-galaxy-a25-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-samsung-galaxy-a34-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Samsung Galaxy A34 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-samsung-galaxy-f34-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-samsung-galaxy-m54-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-samsung-galaxy-s21-fe-5g-2023-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Samsung Galaxy S21 FE 5G (2023)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-samsung-galaxy-s23-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Samsung Galaxy S23</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-samsung-galaxy-s23-fe-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-samsung-galaxy-s23-tactical-edition-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-samsung-galaxy-s23-ultra-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Samsung Galaxy S23 Ultra</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-samsung-galaxy-s24-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Samsung Galaxy S24</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-samsung-galaxy-xcover-7-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-samsung-galaxy-z-fold-5-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-smart-8-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Smart 8 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-sony-xperia-10-v-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Sony Xperia 10 V</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-sony-xperia-5-v-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Sony Xperia 5 V</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-spark-20-proplus-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Spark 20 Pro+</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-spark-go-2023-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Spark Go (2023)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-storm-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Storm 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-t2-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on T2 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-tecno-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Tecno</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-tecno-camon-20-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Tecno Camon 20</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-tecno-camon-20-premier-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Tecno Camon 20 Premier 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-tecno-camon-20-pro-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Tecno Camon 20 Pro 5G</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/the-cream-of-the-crop-5-top-reaction-video-creators-for-2024/"><u>The Cream of the Crop 5 Top Reaction Video Creators for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-merits-of-sns-hdr-vs-its-industry-contenders/"><u>The Merits of SNS HDR Vs. Its Industry Contenders</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tutorial-installing-model-8720-printer-on-your-computer/"><u>Tutorial: Installing Model 8720 Printer on Your Computer</u></a></li>
+</ul></div>

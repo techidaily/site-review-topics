@@ -1,6 +1,6 @@
 ---
 title: Quick Fixes to Repair Microsoft Excel 2016 Content related error
-date: 2024-03-05 10:28:47
+date: 2024-07-17T04:31:28.755Z
 tags: 
   - repair
   - repair excel
@@ -34,6 +34,9 @@ There is no clear answer as to what results in the Excel error – ‘**We found
 - A string is added in a cell in Excel, instead of a numeric value.
 - Text values in formulas exceed 255 characters.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **How to Resolve ‘We Found a Problem with Some Content’ Error?**
 
 **Follow these tips to fix the Excel error:**
@@ -68,6 +71,9 @@ To make the file accessible, try setting the calculation option in Excel from au
 3. When a blank workbook opens, click **File** > **Options**.
 4. Under the Formulas category, pick Manual in the **Calculation options** section, and then click **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![calculation options](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2017/03/calculation-options.png "MS Excel Content error")
 
 Figure 3 – Select Manual in Calculation options
@@ -77,6 +83,9 @@ Figure 3 – Select Manual in Calculation options
 
 When the workbook opens, check if it contains all the data. If not, proceed to the next tip.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Tip #3: Copy Excel Workbook Contents to a New Workbook**
 
 Several users have reported that they were able to fix ‘_We found a problem with some content in <filename>’_ error message by copying contents from the corrupt workbook to a separate workbook. **Detailed steps are as follows**:
@@ -107,14 +116,23 @@ Use external references to link to the corrupted workbook. By implementing this 
 
 This will remove the link to the corrupt workbook and will retrieve data. But, keep in mind, the recovered data will no longer contain formulas or calculated values.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Alternative Solution – Stellar Repair for Excel**
 
 If the above manual methods fail to fix the ‘We found a problem with some content in Excel error’, try using the Stellar Repair for Excel software to resolve this error. The software helps repair and recover corrupt Excel files in just a few clicks. It can be used on a Windows 10/8/7/Vista/XP/NT machine to repair a corrupted workbook and recover every single bit of data from all the versions of the Excel workbook.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Free Download for Windows](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/07/free-download-1-1.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
 **Read this:** [How to repair corrupt Excel file using Stellar Repair for Excel?](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Conclusion**
 
 In this blog, we discussed some possible reasons behind Microsoft Excel 2013/2016 _‘We found a problem with some content’_ error. The error may occur when an Excel file becomes corrupt. You may try repairing the corrupted Excel file manually by using the built-in ‘Open and Repair’ feature. Or, try the manual workarounds to extract data from the corrupt file discussed in this post. If the manual solutions don’t work for you, using [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) can come in handy in repairing the corrupt Excel (.xls/.xlsx) file and recovering the complete file data.
@@ -135,3 +153,43 @@ In this blog, we discussed some possible reasons behind Microsoft Excel 2013/201
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-purge-personal-youtube-history-records/"><u>[New] How to Purge Personal YouTube History Records</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-authenticate-your-yt-account-a-hint-list-for-2024/"><u>[Updated] How to Authenticate Your YT Account? A Hint List for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-revolutionize-your-social-media-experience-with-premier-tools/"><u>[Updated] Revolutionize Your Social Media Experience with Premier Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-best-4k-gaming-laptops-unleash-game-potential/"><u>2024 Approved  Best 4K Gaming Laptops - Unleash Game Potential</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-unveiling-the-best-10-video-call-apps-for-iphone-and-android-users/"><u>2024 Approved  Unveiling the Best 10 Video Call Apps for iPhone and Android Users</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-8-plus-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 8 Plus When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-comprehensive-guide-to-youtubes-subscription-advantages/"><u>In 2024, Comprehensive Guide to YouTube's Subscription Advantages</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-mastering-the-social-maze-avoiding-the-ban-on-fb/"><u>In 2024, Mastering the Social Maze  Avoiding the Ban on FB</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-v29-pro-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo V29 Pro Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-no-fee-way-to-embed-music-into-your-photographs-on-pcmobile-platforms/"><u>New The No-Fee Way to Embed Music Into Your Photographs on PC/Mobile Platforms</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-sony-xperia-1-v-by-fonelab-android-recover-data/"><u>Recover lost data from Sony Xperia 1 V</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-sony-xperia-10-v-by-fonelab-android-recover-data/"><u>Recover lost data from Sony Xperia 10 V</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-spark-20c-by-fonelab-android-recover-data/"><u>Recover lost data from Spark 20C</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-tecno-by-fonelab-android-recover-data/"><u>Recover lost data from Tecno</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-tecno-pop-8-by-fonelab-android-recover-data/"><u>Recover lost data from Tecno Pop 8</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-tecno-pova-5-by-fonelab-android-recover-data/"><u>Recover lost data from Tecno Pova 5</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-tecno-spark-10-5g-by-fonelab-android-recover-data/"><u>Recover lost data from Tecno Spark 10 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-tecno-spark-10c-by-fonelab-android-recover-data/"><u>Recover lost data from Tecno Spark 10C</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-tecno-spark-20-proplus-by-fonelab-android-recover-data/"><u>Recover lost data from Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-tecno-spark-20c-by-fonelab-android-recover-data/"><u>Recover lost data from Tecno Spark 20C</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-thinkphone-by-fonelab-android-recover-data/"><u>Recover lost data from ThinkPhone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-vivo-by-fonelab-android-recover-data/"><u>Recover lost data from Vivo</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-vivo-s17-pro-by-fonelab-android-recover-data/"><u>Recover lost data from Vivo S17 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-vivo-v29-by-fonelab-android-recover-data/"><u>Recover lost data from Vivo V29</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-vivo-v29e-by-fonelab-android-recover-data/"><u>Recover lost data from Vivo V29e</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-vivo-v30-lite-5g-by-fonelab-android-recover-data/"><u>Recover lost data from Vivo V30 Lite 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-vivo-x100-by-fonelab-android-recover-data/"><u>Recover lost data from Vivo X100</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-vivo-y02t-by-fonelab-android-recover-data/"><u>Recover lost data from Vivo Y02T</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-vivo-y100a-by-fonelab-android-recover-data/"><u>Recover lost data from Vivo Y100A</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-vivo-y100i-power-5g-by-fonelab-android-recover-data/"><u>Recover lost data from Vivo Y100i Power 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-vivo-y27-4g-by-fonelab-android-recover-data/"><u>Recover lost data from Vivo Y27 4G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-vivo-y27s-by-fonelab-android-recover-data/"><u>Recover lost data from Vivo Y27s</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-vivo-y28-5g-by-fonelab-android-recover-data/"><u>Recover lost data from Vivo Y28 5G</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-apple-iphone-15-plus-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your Apple iPhone 15 Plus Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-everything-you-need-to-know-about-color-grading-in-photography/"><u>Updated Everything You Need to Know About Color Grading in Photography</u></a></li>
+</ul></div>

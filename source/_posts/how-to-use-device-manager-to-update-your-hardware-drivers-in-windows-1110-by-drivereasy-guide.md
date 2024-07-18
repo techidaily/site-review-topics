@@ -1,6 +1,6 @@
 ---
 title: How to use Device Manager to update your hardware drivers in Windows 11/10
-date: 2024-05-19T18:09:42.345Z
+date: 2024-07-17T03:44:14.936Z
 tags: 
   - driver
   - device driver
@@ -25,6 +25,9 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category.
 - **Step4**: Right-click the device whose driver you’d like to update, and select `Update Driver`.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/3.jpg) 
 
 - **Step5**: Select Search automatically for updated driver software.
@@ -43,6 +46,9 @@ So if your computer has slowed down, you should update your drivers. If it’s c
 To understand why, you first have to understand what drivers actually are…
 
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -53,6 +59,9 @@ Now when we say “your device won’t work properly”, sometimes this means si
 
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -67,6 +76,9 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -75,6 +87,9 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
@@ -90,10 +105,16 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -189,3 +210,38 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-how-to-take-screenshots-on-windows-5-methods/"><u>[New] 2024 Approved  How to Take Screenshots on Windows [5 Methods]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-identifying-the-best-cloud-service-allies-of-2024/"><u>[New] Identifying the Best Cloud Service Allies of 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-worldwide-top-earners-in-the-streaming-sphere/"><u>[Updated] Worldwide Top Earners in the Streaming Sphere</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/an-insiders-look-at-discord-stickers-for-2024/"><u>An Insider’s Look at Discord Stickers for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/audio-cutting-101-disconnecting-sounds-from-your-iphonemac-videos/"><u>Audio Cutting 101 Disconnecting Sounds From Your iPhone/Mac Videos</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-nokia-by-drfone-android-unlock-android-unlock/"><u>How to unlock Nokia</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-nokia-105-classic-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Nokia 105 Classic Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-nokia-130-music-by-drfone-android-unlock-android-unlock/"><u>How to unlock Nokia 130 Music</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-nokia-150-2023-by-drfone-android-unlock-android-unlock/"><u>How to unlock Nokia 150 (2023)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-nokia-150-2023-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Nokia 150 (2023) Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-nokia-c12-by-drfone-android-unlock-android-unlock/"><u>How to unlock Nokia C12</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-nokia-c12-plus-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Nokia C12 Plus Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-nokia-c12-plus-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Nokia C12 Plus Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-nokia-c210-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Nokia C210 Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-nokia-c300-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Nokia C300 Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-nokia-g310-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Nokia G310 Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-nokia-g42-5g-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Nokia G42 5G Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-nokia-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Nokia Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-nokia-xr21-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Nokia XR21 Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-nokia-xr21-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Nokia XR21 Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-note-30-vip-racing-edition-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Note 30 VIP Racing Edition Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-nova-y71-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Nova Y71 Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-nubia-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Nubia Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-nubia-red-magic-8s-proplus-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Nubia Red Magic 8S Pro+ Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-nubia-red-magic-9-pro-by-drfone-android-unlock-android-unlock/"><u>How to unlock Nubia Red Magic 9 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-nubia-red-magic-9-proplus-by-drfone-android-unlock-android-unlock/"><u>How to unlock Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-sony-xperia-10-v-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Sony Xperia 10 V via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-vn-video-editor-for-pc-a-compact-review-of-features-and-performance/"><u>New VN Video Editor for PC A Compact Review of Features and Performance</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/rotate-your-avi-videos-for-free-top-picks-for-every-platform-for-2024/"><u>Rotate Your AVI Videos for Free Top Picks for Every Platform for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-unlocking-your-musics-potential-comprehensive-tips-on-mp3-file-modification/"><u>Updated Unlocking Your Musics Potential Comprehensive Tips on MP3 File Modification</u></a></li>
+</ul></div>

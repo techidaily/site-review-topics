@@ -1,7 +1,7 @@
 ---
 title: In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Nokia C12 Pro | Dr.fone
-date: 2024-03-22 17:49:57
-updated: 2024-03-24 23:27:23
+date: 2024-07-17T06:39:12.070Z
+updated: 2024-07-18T06:39:12.070Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,13 +11,16 @@ categories:
 description: This article describes Complete Tutorial to Use VPNa to Fake GPS Location On Nokia C12 Pro
 excerpt: This article describes Complete Tutorial to Use VPNa to Fake GPS Location On Nokia C12 Pro
 keywords: change gps location on android,change location on android,fake gps location on android,change location on C12 Pro,fake location on android,fake location on C12 Pro
-thumbnail: https://www.lifewire.com/thmb/44IYkFUfRU4h-daoi0uxZYAKRhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lifewire_Windows_Update_2624595-9da08302ecc44539b8f0fa484a81227e.jpg
+thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c32a9023581f934b16334c5a.jpg
 ---
 
 ## Complete Tutorial to Use VPNa to Fake GPS Location On Nokia C12 Pro
 
 In the present day, there’s barely any webpage or app that may not require your Geological location. This has been a major strategy of the site/app owners to push only the content that is relevant to your needs or may interest you. Therefore, every other webpage or app first fetches your Geological location and then behave accordingly.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Geological location access](https://images.wondershare.com/drfone/article/2019/09/vpna-fake-gps-location-free-1.jpg)
 
 For instance, there are several apps that only work in the US and not outside of it. But there is workaround for it too. You can actually make the app “think” that your Geological location is somewhere in US currently, instead of where you actually are. You can achieve this with a powerful vpna fake gps location apk. You may now wonder, hot to set it up and make use of it. So, without much delay, let’s now understand step by step tutorial on vpna fake gps location.
@@ -86,14 +89,32 @@ Step 3: Search for a fake location and get started
 
 - As soon as the fundamentals are set in place, you’re all ready to get started. Simply, hit the back button while on Developer Settings screen to get back into the vpna fake gps location app.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![vpna fake gps location app](https://images.wondershare.com/drfone/article/2019/09/vpna-fake-gps-location-free-3.jpg)
 
 - Next, “Search” for the desired location using the search icon over the top. Lastly, push “Start/Power” button to activate the fake GPS location.
 
 **Note:** You can also make use of the “Star” button on the “location marker”to pin the selected location over the map as your favorite.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![location marker](https://images.wondershare.com/drfone/article/2019/09/vpna-fake-gps-location-free-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 5. Example where VPNa does work
 
 By faking GPS location with VPNa app, you can access desired content by bypass the Geo-restrictions. There are several instances where VPNa is successful solution for your GPS spoofing requirements. For instance, by spoofing location with VPNa you certainly:
@@ -108,18 +129,30 @@ Knowing that VPNa fake GPS location app no longer supports iOS can be a disappoi
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/FfhgWxnARqo"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Mode 1: Teleport to Anywhere
 
 Step 1: Download this VPNa fake GPS apk’s alternative on PC and install. Launch and hit “Virtual Location”.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![launch drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Establish connection between iPhone and PC. Click on “Get Started” right after that.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![get started with faking location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 Step 3: You will be able to see the actual location on the map. Or you can hit “Center On” icon at the right side to get the accurate location displayed.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hit Center On](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 Step 4: Click on the “Teleport mode” which can be found as the first icon at the upper right corner. Put the place to teleport and hit on “Go” button.
@@ -132,6 +165,9 @@ Step 5: A pop up will appear once the system gets the place you want. From that 
 
 Step 6: You are good to go now. The location will be changed as desired. You will see the chosen location fixed whenever you click the "Center On" icon. Also, the same location will be shown in the location-based apps. See, there is no need for any iOS version of VPNa fake GPS apk for the purpose when you have Dr.Fone - Virtual Location (iOS&Android).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![location changed](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 
@@ -182,6 +218,9 @@ Google Account has unlimited advantages as it provides quick access to multiple 
 
 However, some featured apps on the Play Store are restricted region-wise, and some users cannot download them. This article will guide you on **how to change the country in Play Store** to access all the apps.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Part 1: What Should We Know Before Changing Google Account Location?
 
 By changing the country on Google Play Store, you can install some unavailable apps in your region. You can quickly enjoy the applications and services on your phone by simply changing the country's location. Before knowing **how to change location on Google**, you should know some essential aspects.
@@ -197,6 +236,9 @@ By changing the country on Google Play Store, you can install some unavailable a
 
 This section will offer easy ways to change play store country and location on Google in every circumstance. By doing so, you can easily install restricted applications in your region.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Change Location on Google on Android
 
 **Situation 1: How to Change Country in Google Play Store on Android**
@@ -205,6 +247,9 @@ Through your Nokia C12 Pros, you can change the location on both Google Play Sto
 
 **Step 1:** Open your Google Play Store from your Nokia C12 Pro. Navigate to the profile icon from the corner and select "Settings" from the displayed menu.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on settings](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-1.jpg)
 
 **Step 2:** Tap on the "General" section to locate the option of "Account and Device Preferences." Afterward, find the "Country and Profiles" option by scrolling down. From there, you can see your current country location.
@@ -225,6 +270,9 @@ To use this powerful VPN tool, we have jotted down some basic steps through whic
 
 **Step 1:** Start installing VPN Proxy Master Lite on your Nokia C12 Pro from your Google Play Store. Once this app is successfully installed, open this app to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![install the vpn](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-4.jpg)
 
 **Step 2:** After opening this app, tap on the country’s name list displayed above the picture of Earth. Tap on that list to view all the available countries.
@@ -245,10 +293,16 @@ In this situation, we will help you change the country's location on your Google
 
 **Step 2:** After opening the settings menu, go to "Payments and Profile" and locate the option of "Country/Region." Proceed by tapping the edit icon next to it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![access settings tab](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-7.jpg)
 
 **Step 3:** To connect with the new country's location, tap on the option "Create a new profile." Afterward, you can see the on-screen instructions on your computer, so follow them to complete the process. Once done, Google Play will change the location after 48 hours, and you can search for the applications you want to install.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on create new profile](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-8.jpg)
 
 **Situation 2: How to Change Google Account Location on Computer**
@@ -265,6 +319,18 @@ Moreover, the process is fast and fully secured to protect your computer from un
 
 **Step 3:** After clicking on any country’s location, your computer’s Google Account location will be automatically changed.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: The Most Effective Way to Fake Location on iOS and Android
 
 We have mentioned methods to change Play Store country manually and through VPN, but they still have a few limitations. Once you change the country's location on Google Play manually, the Play Store requires 48 hours to accept this modification. Moreover, you can only change the country's server location once a year. With VPN, many country servers are unreachable, and some servers can be reached only through a paid version. This makes the process expensive and time taking.
@@ -273,7 +339,7 @@ To avoid these hurdles and chaos, we recommend you to use Dr.Fone – Virtual Lo
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -290,6 +356,9 @@ To change country Google Play using Dr.Fone - Virtual Location, here are the ste
 
 Begin with launching the tool of Dr.Fone on your computer. Open its interface and tap on the “Virtual Location” option from the home page.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Connect your Phone**
@@ -308,6 +377,9 @@ After connecting your phone, you will be able to see your current location on th
 
 Tap on the first icon displayed on the top right to enable the teleport mode. Now enter the location you want to navigate the search box and click on "Go" to continue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose destination you want](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 **Step 5: Change Location**
@@ -318,18 +390,24 @@ A notification will pop up for confirmation once you have entered a new location
 
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ### Conclusion
 
 There are plenty of ways to execute **Google One change location across various platforms to execute Google One change location**. For example, people usually **change** **Play** **Store** **country** to access restricted applications in their region. This article will offer a detailed guide for changing Google location through manual and VPN means. However, to avoid any hassle, we recommend [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to change the location of your smartphone and Google Play instantly and conveniently.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## Complete Tutorial to Use GPS Joystick to Fake GPS Location On Nokia C12 Pro
 
 The web world offers many apps, including Google, Facebook, Uber, etc. that provide location-based services. This means such apps will need your location to work. However, there are some rare occasions when users don’t find this service welcoming and thus, they wish to fake GPS location.
 
 One of the instances comprises a well-known location-based game – Pokemon Go, where users might want to mislead the app and make the phone not understand where they exactly are. There might be other cases as well. No matter what reason you want this to be done, we are here to introduce you GPS joystick app that helps you for the same. Here we go!
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Part 1: Fake GPS Location - GPS JoyStick the App
 
 GPS joystick is an app that helps the users to fake GPS with the help of an overlay joystick control. It is easy to use and works instantly when you wish to modify the GPS location. Providing a unique “Joystick” option, this app can be considered a useful fake GPS joystick apk. On a plus, the app has the best algorithm so that it can offer realistic GPS values.
@@ -352,6 +430,9 @@ Disadvantages:
 - You need to be tech-savvy to fake GPS location with a GPS joystick.
 - Fake GPS joystick for Pokemon Go cannot perform well for it as reported by the users. Also, it drives the same result for other popular location-based apps or games.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: How to set up GPS JoyStick
 
 Though, it is quite difficult to get through the process of setting up the GPS joystick apk to a fake GPS location. Remember, we’ve always got your back. Therefore, we would like to bring you up with a detailed streak of steps (if followed properly) to install and set up the fake GPS joystick apk easily.
@@ -362,6 +443,9 @@ Basically, the tutorial is categorized into 3 different streaks depending upon t
 - Now, scroll down to the “About phone” option at the bottom and then hit on it.
 - Lastly, look for the “Android version” entry and “Android security patch level” entry from the information displayed over your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Android security patch level](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-1.jpg)
 
 **Note:** Remember the date mentioned besides the “Android security patch level” is when it was first released. Please do not take it otherwise, that it is the date when you might have installed Google’s security patch.
@@ -378,6 +462,9 @@ First, you need to make sure that the Google Play Services app installed over yo
 
 But if that’s not the case, you’re required to disable the Play Store's auto-updates. For this, launch the Play Store and hit the “3 horizontal bars” at the top. Then, tap on “Settings” option from the appearing left panel followed by Auto-update apps available under “General” settings. Lastly, hit on the “Do not auto-update apps” option.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Do not auto-update apps](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-3.jpg)
 
 Next, get hold of Google Play Services (an older version) from the link here: _<https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-6-85-release/>_
@@ -398,6 +485,9 @@ Now is the time when you should install the Google Play Services apk (downloaded
 
 Subsequently, you need to again get into the “Settings” and then opt for “Developer Options”. Now, hit on “Select mock location app” and opt for “GPS JoyStick” here.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GPS JoyStick](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-6.jpg)
 
 Lastly, launch the “GPS JoyStick app” and navigate to “Settings” followed by toggling on the “Enable Suspended Mocking” switch.
@@ -416,12 +506,18 @@ Lastly, launch the “GPS JoyStick app” to fake GPS location and navigate to �
 
 ![Indirect Mocking](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.3 For Android 4 or 5
 
 For the users of Android OS version 4 or Android OS version 5, there’s not much you need to do. Here is the exact method that you need to get through.
 
 Get the “GPS JoyStick apk” installed over your device and then proceed to “Developer Options” available under the “Settings” menu. Then, hit on the “Select mock location app”.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Developer Options](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-10.jpg)
 
 Now, “GPS JoyStick app” to fake GPS location and get started with the FGL pro joystick control.
@@ -436,6 +532,9 @@ There are chances when you get caught by Pokemon Go for spoofing GPS location an
 
 Download and then install the most recent version of GPS JoyStick apk. Now, launch it, and then hit on the “Privacy Mode” link available under the “Quick Options” section on the home screen. This will generate a unique copy of the app specifically for you.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Quick Options](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-11.jpg)
 
 Next, you need the generated app installed and get through with the setup process with the streak of steps listed below.
@@ -462,6 +561,9 @@ Dr. Fone's specialist team presents [Dr.Fone - Virtual Location](https://tools.t
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/FfhgWxnARqo"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Stepwise procedure to fake GPS with a joystick on iPhone
 
 **Step 1: Launch the app**
@@ -474,18 +576,27 @@ After a successful download, install the app through the guiding wizard. Click t
 
 On the first screen of Dr.Fone app, choose the ‘Virtual Location’ option.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose Virtual Location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 **Step 3: Modify the location address**
 
 Tap ‘Get Started’ option then add a new address in the ‘Teleport’ mode. To choose ‘Teleport’ mode, you have to select the first icon at the top-right screen. Next, enter the address at the top left side of the window. You can enter any address around the globe to fake GPS joystick location.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 **Step 4: Changed Location in the app**
 
 Now the Dr.Fone app displays your desired address as your current location. You can verify it by spotting the location on the map view.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![verify new location](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 **Step 5: Location on iPhone**
@@ -515,3 +626,56 @@ Now use the “one-stop route” or “multi-stop route” to simulate the real-
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-exploring-the-realm-of-online-performers-vtubers/"><u>[New] Exploring the Realm of Online Performers (Vtubers)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-precision-techniques-the-most-essential-8-tools-for-microphone-and-speaker-recording/"><u>[New] In 2024, Precision Techniques  The Most Essential 8 Tools for Microphone & Speaker Recording</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-gallery-archive-services/"><u>[New] Leading Gallery Archive Services</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-social-media-music-rules-and-regulations/"><u>[New] Social Media Music Rules and Regulations</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-craft-a-compelling-narrative-with-your-igtv-video-titles-and-texts/"><u>[Updated] 2024 Approved  Craft a Compelling Narrative with Your IGTV Video Titles & Texts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-buzz-factor-creating-catch-all-content-for-facebook/"><u>[Updated] 2024 Approved  The Buzz Factor  Creating Catch-All Content for Facebook</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-best-16-youtube-intro-makers-to-bring-you-more-views-for-2024/"><u>[Updated] Best 16 YouTube Intro Makers to Bring You More Views for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-capture-discord-conversations-with-these-top-free-apps-for-2024/"><u>[Updated] Capture Discord Conversations with These Top Free Apps for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-offline-android-delights-9-most-addictive-mobile-games/"><u>[Updated] Offline Android Delights  9 Most Addictive Mobile Games</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-ultimate-guide-to-live-streaming-fb-on-laptops-macs-and-pcs-for-2024/"><u>[Updated] Ultimate Guide to Live Streaming FB on Laptops, Macs, and PCs for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-realme-gt-5-pro-by-drfone-android-unlock-android-unlock/"><u>How to unlock Realme GT 5 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-realme-narzo-60-pro-5g-by-drfone-android-unlock-android-unlock/"><u>How to unlock Realme Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-realme-narzo-60-pro-5g-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Realme Narzo 60 Pro 5G Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-realme-narzo-60x-5g-by-drfone-android-unlock-android-unlock/"><u>How to unlock Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-realme-note-50-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Realme Note 50 Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-realme-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Realme Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-realme-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Realme Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-redmi-a2plus-by-drfone-android-unlock-android-unlock/"><u>How to unlock Redmi A2+</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-redmi-a2plus-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Redmi A2+ Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-redmi-note-13-pro-5g-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Redmi Note 13 Pro 5G Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-reno-10-pro-5g-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Reno 10 Pro 5G Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-galaxy-a05-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Samsung Galaxy A05 Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-galaxy-a05s-by-drfone-android-unlock-android-unlock/"><u>How to unlock Samsung Galaxy A05s</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-galaxy-a24-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Samsung Galaxy A24 Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-galaxy-a25-5g-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Samsung Galaxy A25 5G Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-galaxy-a34-5g-by-drfone-android-unlock-android-unlock/"><u>How to unlock Samsung Galaxy A34 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-galaxy-a54-5g-by-drfone-android-unlock-android-unlock/"><u>How to unlock Samsung Galaxy A54 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-galaxy-f54-5g-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Samsung Galaxy F54 5G Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-galaxy-m34-5g-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Samsung Galaxy M34 5G Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-galaxy-s23-fe-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Samsung Galaxy S23 FE Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-galaxy-s23-tactical-edition-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Samsung Galaxy S23 Tactical Edition Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-galaxy-s24-by-drfone-android-unlock-android-unlock/"><u>How to unlock Samsung Galaxy S24</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android-unlock-android-unlock/"><u>How to unlock Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-galaxy-xcover-6-pro-tactical-edition-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Samsung Galaxy XCover 6 Pro Tactical Edition Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-galaxy-xcover-7-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Samsung Galaxy XCover 7 Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-galaxy-z-flip-5-by-drfone-android-unlock-android-unlock/"><u>How to unlock Samsung Galaxy Z Flip 5</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-galaxy-z-fold-5-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Samsung Galaxy Z Fold 5 Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Samsung Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Samsung Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-sony-by-drfone-android-unlock-android-unlock/"><u>How to unlock Sony</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-sony-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Sony Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-sony-xperia-10-v-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Sony Xperia 10 V Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-sony-xperia-5-v-by-drfone-android-unlock-android-unlock/"><u>How to unlock Sony Xperia 5 V</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-discover-7-unforgettable-marriage-videos-on-vimeo/"><u>In 2024, Discover 7 Unforgettable Marriage Videos on Vimeo</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-game-film-mastery-using-fbx-recorder-for-2024/"><u>In-Game Film Mastery Using FBX Recorder for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackle-windows-camera-problems-with-expert-tips/"><u>Tackle Windows Camera Problems with Expert Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/xsplit-source-centralized-game-downloads-and-insights/"><u>XSplit Source  Centralized Game Downloads & Insights</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-poco-c50-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Poco C50 | Dr.fone</u></a></li>
+</ul></div>

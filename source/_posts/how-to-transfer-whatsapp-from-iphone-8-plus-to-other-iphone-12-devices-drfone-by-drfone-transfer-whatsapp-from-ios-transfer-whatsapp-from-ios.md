@@ -1,7 +1,7 @@
 ---
 title: How To Transfer WhatsApp From iPhone 8 Plus to other iPhone 12 devices? | Dr.fone
-date: 2024-05-19T18:09:39.716Z
-updated: 2024-05-20T18:09:39.716Z
+date: 2024-07-17T03:04:28.972Z
+updated: 2024-07-18T03:04:28.972Z
 tags: 
   - transfer whatsapp
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How To Transfer WhatsApp From iPhone 8 Plus to other iPhone 12 devices?
 excerpt: This article describes How To Transfer WhatsApp From iPhone 8 Plus to other iPhone 12 devices?
 keywords: transfer whatsapp from iPhone 8 Plus to other iPhone devices,transfer whatsapp from iPhone,transfer whatsapp from iPhone 8 Plus to Android,transfer whatsapp from iPhone to other iPhone,transfer whatsapp from iPhone to Android,transfer whatsapp from iPhone to other iPhone devices,transfer whatsapp from iPhone 8 Plus,transfer whatsapp from iPhone 8 Plus to other iPhone
-thumbnail: https://www.lifewire.com/thmb/sx5hd7He1vcpR0KajATX8cwq3zM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Twitter-and-X-4c4103f6bc3c42e0b7197b60a50317ca.jpg
+thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f8bcbe092ec793162bb9610d.jpg
 ---
 
 ## How To Transfer WhatsApp From iPhone 8 Plus to Android/iOS?
@@ -37,12 +37,18 @@ _The Dr.Fone Mac version still has the old interface, but it does not affect the
 
 A new window opens, where you have to select the **Transfer WhatsApp messages** button while staying in the **WhatsApp** section on the left.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start transferring whatsapp](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-ios-to-android-1.png)
 
 - **Step 3** Set Source and Destination Devices
 
 On the following screen, you will have to set the source and destination devices for this process. Continue with setting the iPhone as the **Source** and the Android as the **Destination** of this process. However, if the selection is different, you can use the **Flip** button. Lead to the next screen by clicking the **Transfer** button on the bottom-right of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set source and destination devices](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-ios-to-android-2.png)
 
 - **Step 4** Backup Previous Data or Continue
@@ -55,6 +61,9 @@ A prompt appears on the screen warning about the current WhatsApp data existing 
 
 The screen displays the progress of the WhatsApp transfer between iOS and Android devices. If you wish to abort the process, click **Cancel.** However, after some time, the entire transfer process will conclude, and the message will be prompted on the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![transfer successfully from ios to android](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-ios-to-android-4.png)
 
 ### Part 2: Transfer WhatsApp From iOS To iOS
@@ -71,18 +80,27 @@ After launching **the WhatsApp Transfer** tool and selecting the option of **Tra
 
 As you click **Transfer** on the bottom of the screen, a pop-up will appear on the front. While it will be a warning about the deletion of previous data from the Destination device, the platform will be offering the user a chance to **back up** the existing WhatsApp data. If you wish to proceed, click the **Continue** button.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start ios to ios transfer](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-ios-to-ios-2.png)
 
 - **Step 3** View the Progress of WhatsApp Transfer Between iOS and iOS
 
 The next screen shows the progress of the WhatsApp transfer between iOS and iOS devices.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![view whatsapp transfer progress](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-ios-to-ios-3.png)
 
 - **Step 4** Check the Status of the Transfer and Conclude
 
 When this process concludes, a prompt message will appear on the window of its completion. Click **OK** to conclude transferring WhatsApp data. However, if the process does not operate properly, an error will come in the display, and you might have to click **Retry** to repeat the process.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![conclude or retry the transfer](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-ios-to-ios-4.png)
 
 
@@ -112,12 +130,18 @@ _The Dr.Fone Mac version still has the old interface, but it does not affect the
 
 A new window opens, where you have to select the **Transfer WhatsApp messages** button while staying in the **WhatsApp** section on the left.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![start transferring whatsapp](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-ios-to-android-1.png)
 
 - **Step 3** Set Source and Destination Devices
 
 On the following screen, you will have to set the source and destination devices for this process. Continue with setting the iPhone as the **Source** and the Android as the **Destination** of this process. However, if the selection is different, you can use the **Flip** button. Lead to the next screen by clicking the **Transfer** button on the bottom-right of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set source and destination devices](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-ios-to-android-2.png)
 
 - **Step 4** Backup Previous Data or Continue
@@ -140,12 +164,18 @@ The process of shifting WhatsApp data from an iOS device to another iOS device i
 
 After launching **the WhatsApp Transfer** tool and selecting the option of **Transfer WhatsApp messages,** continue to set the Source and Destination device for this process. You need to put your old iPhone in the **Source** section and the new one in the **Destination** section. To alter the sides, use the **Flip** button in the center of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set source and destination ios devices](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-ios-to-ios-1.png)
 
 - **Step 2** Initiate Transfer of WhatsApp Data
 
 As you click **Transfer** on the bottom of the screen, a pop-up will appear on the front. While it will be a warning about the deletion of previous data from the Destination device, the platform will be offering the user a chance to **back up** the existing WhatsApp data. If you wish to proceed, click the **Continue** button.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start ios to ios transfer](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-ios-to-ios-2.png)
 
 - **Step 3** View the Progress of WhatsApp Transfer Between iOS and iOS
@@ -175,3 +205,47 @@ When this process concludes, a prompt message will appear on the window of its c
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-techniques-for-fast-vimeo-videos/"><u>[New] 2024 Approved  Techniques for Fast Vimeo Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-beyond-expectations-the-new-samsung-ubd-k8500-edition/"><u>[New] Beyond Expectations  The New Samsung UBD-K8500 Edition</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-boost-visibility-selecting-the-right-youtube-thumbnail-dimensions-for-2024/"><u>[New] Boost Visibility  Selecting the Right YouTube Thumbnail Dimensions for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/vercoming-youtube-disqualification/"><u>[New] Overcoming YouTube Disqualification</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-perfectly-preserve-and-profitably-play-your-phones-gifs/"><u>[New] Perfectly Preserve and Profitably Play Your Phone's GIFs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-becoming-an-insta-star-with-simple-steps/"><u>[Updated] Becoming an Insta-Star with Simple Steps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-building-relationships-one-post-at-a-time-on-fb-for-2024/"><u>[Updated] Building Relationships One Post at a Time on FB for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-cutting-edge-video-editing-mastering-green-screen-integration/"><u>[Updated] Cutting Edge Video Editing  Mastering Green Screen Integration</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sound-identity-shift-for-free-fire-characters-no-money-required/"><u>[Updated] Sound Identity Shift for Free Fire Characters - No Money Required</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-beginners-blueprint-setting-up-a-live-video-feed/"><u>2024 Approved  Beginner's Blueprint  Setting Up a Live Video Feed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-uniting-conversations-across-platforms-twitter-vids-on-whatsapp/"><u>2024 Approved  Uniting Conversations Across Platforms  Twitter Vids on WhatsApp</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-infinix-note-30-frp-bypass-by-drfone-android/"><u>About Infinix Note 30 FRP Bypass</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-make-an-impact-add-dramatic-slow-motion-to-your-videos-without-cost-for-2024/"><u>New Make an Impact Add Dramatic Slow Motion to Your Videos Without Cost for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/outro-samples-collection-including-both-costs-for-2024/"><u>Outro Samples Collection  Including Both Costs for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/photoshops-quick-path-to-stunning-colors/"><u>Photoshop's Quick Path to Stunning Colors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-nova-y71-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Nova Y71</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-nova-y91-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Nova Y91</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-nubia-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Nubia</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-nubia-red-magic-9-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Nubia Red Magic 9 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-nubia-red-magic-9-proplus-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-nubia-z50-ultra-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Nubia Z50 Ultra</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-nubia-z50s-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Nubia Z50S Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-nubia-z60-ultra-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Nubia Z60 Ultra</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-oneplus-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on OnePlus</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-oneplus-11r-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on OnePlus 11R</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-oneplus-12-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on OnePlus 12</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-oneplus-ace-2-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on OnePlus Ace 2</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-oneplus-nord-n30-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on OnePlus Nord N30 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-oneplus-nord-n30-se-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on OnePlus Nord N30 SE</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-oneplus-open-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on OnePlus Open</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-open-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Open</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-oppo-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Oppo</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-oppo-a1-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Oppo A1 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-oppo-a18-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Oppo A18</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-oppo-a2-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Oppo A2</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-oppo-a58-4g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Oppo A58 4G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-oppo-a59-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Oppo A59 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-oppo-a79-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Oppo A79 5G</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+</ul></div>

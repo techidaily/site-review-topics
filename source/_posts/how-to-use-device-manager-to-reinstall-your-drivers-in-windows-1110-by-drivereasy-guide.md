@@ -1,6 +1,6 @@
 ---
 title: How to use Device Manager to reinstall your drivers in Windows 11/10
-date: 2024-05-19T18:09:42.166Z
+date: 2024-07-17T03:42:25.049Z
 tags: 
   - driver
   - device driver
@@ -18,11 +18,17 @@ To reinstall a device’s driver in Windows Device Manager:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg)
 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 
 - **Step3**: Expand a category to see the devices in that category. Right-click the device whose driver you’d like to reinstall, and select Uninstall.
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/5.jpg)
 
 - **Step4**: Restart your PC.
@@ -32,10 +38,16 @@ To reinstall a device’s driver in Windows Device Manager:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -50,6 +62,9 @@ We employ a strict testing regime to ensure our drivers are safe, secure and sta
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -124,6 +139,9 @@ For example, if an audio driver supplied by Dell for a certain laptop causes iss
 
 Once we’ve located an alternative driver, we start over at step 1 of our testing process with it.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -179,3 +197,63 @@ Now when we say “your device won’t work properly”, sometimes this means si
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-sky-hdr-perfection-top-website-reviews/"><u>[New] Sky HDR Perfection - Top Website Reviews</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-stellar-storytelling-elevating-posts-with-3-insta-highlight-ways/"><u>[Updated] In 2024, Stellar Storytelling  Elevating Posts with 3 Insta Highlight Ways</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-photo-editing-key-pixlr-insights/"><u>[Updated] Streamline Photo Editing  Key Pixlr Insights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-turning-still-shots-into-audio-visual-narratives/"><u>[Updated] Turning Still Shots Into Audio-Visual Narratives</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-directing-attention-how-to-eradicate-background-from-your-virtual-conferences/"><u>2024 Approved  Directing Attention  How to Eradicate Background From Your Virtual Conferences</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-essential-iphoneandroid-apps-for-aspiring-creators/"><u>2024 Approved  Essential iPhone/Android Apps for Aspiring Creators</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/does-artific-written-by-charles-kingsley-include-any-of-these-themes-from-the-nurses-diary-in-2024/"><u>Does Artific Written by Charles Kingsley Include Any of These Themes From 'The Nurse's Diary', In 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/game-changers-gear-essentials-every-business-needs-to-stay-ahead-of-the-curve-for-2024/"><u>Game Changers Gear  Essentials Every Business Needs to Stay Ahead of the Curve for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/home-movie-magic-creating-professional-looking-dvds-with-ease-for-2024/"><u>Home Movie Magic Creating Professional-Looking DVDs with Ease for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-vivo-v30-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/how-to-change-name-in-google-meet-on-laptop-and-mobile-devices-for-2024/"><u>How to Change Name in Google Meet on Laptop and Mobile Devices for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone 11, Apples New iPhone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-use-capcut-translate-to-transform-video-content/"><u>How To Use CapCut Translate to Transform Video Content</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-audible-savings-the-essential-guide-to-using-these-24-no-cost-splitters-on-youtube/"><u>In 2024, Audible Savings  The Essential Guide to Using These 24 No-Cost Splitters on YouTube</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-djis-aerial-fleet-standard-aviators-professional-pilots-4k-pros/"><u>In 2024, DJI's Aerial Fleet  Standard Aviators, Professional Pilots, 4K Pros</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-xiaomi-redmi-note-13-pro-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Xiaomi Redmi Note 13 Pro 5G Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-samsung-galaxy-a15-4g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Samsung Galaxy A15 4G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/e-maximizing-techno-gaming-tactics-for-2024/"><u>Income Maximizing Techno-Gaming Tactics for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Motorola  won’t play AVCHD .mts files</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-won-t-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Motorola  won't play MOV videos, how to fix ?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-moto-g73-5g-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Motorola Moto G73 5G won’t play AVCHD .mts files</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-moto-g73-5g-won-t-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Motorola Moto G73 5G won't play MOV videos, how to fix ?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-moto-g84-5g-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Motorola Moto G84 5G can’t play AVCHD .mts video</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-moto-g84-5g-can-t-play-mp4-video-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Motorola Moto G84 5G can't play MP4 video files</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-moto-g84-5g-cant-play-mp4-video-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Motorola Moto G84 5G can't play MP4 video files</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-moto-g84-5g-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Motorola Moto G84 5G won’t play AVCHD .mts files</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-moto-g84-5g-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Motorola Moto G84 5G won’t play MKV movies</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-music-recovery-recover-deleted-music-from-motorola-by-fonelab-android-recover-music/"><u>Motorola Music Recovery - Recover Deleted Music from Motorola</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-razr-40-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Motorola Razr 40 can’t play AVCHD .mts video</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-razr-40-ultra-music-recovery-recover-deleted-music-from-motorola-razr-40-ultra-by-fonelab-android-recover-music/"><u>Motorola Razr 40 Ultra Music Recovery - Recover Deleted Music from Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-razr-40-ultra-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Motorola Razr 40 Ultra won’t play MKV movies</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-razr-40-ultra-wont-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Motorola Razr 40 Ultra won’t play MKV movies</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-razr-40-won-t-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Motorola Razr 40 won't play MOV videos, how to fix ?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-razr-40-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Motorola Razr 40 won’t play MP4 files</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-wont-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Motorola won’t play AVCHD .mts files</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Motorola won’t play HEVC H.265 media, how to fix?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-wont-play-hevc-h265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Motorola won’t play HEVC H.265 media, how to fix?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Motorola won’t play MKV movies</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-wont-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Motorola won’t play MKV movies</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Motorola won’t play MP4 files</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-files-are-unwatchable-on-14-pro-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV files are unwatchable on 14 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-files-are-unwatchable-on-g54-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV files are unwatchable on G54 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-files-are-unwatchable-on-galaxy-a14-4g-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV files are unwatchable on Galaxy A14 4G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-files-are-unwatchable-on-galaxy-a54-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV files are unwatchable on Galaxy A54 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-files-are-unwatchable-on-galaxy-m34-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV files are unwatchable on Galaxy M34</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-files-are-unwatchable-on-galaxy-s23-tactical-edition-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV files are unwatchable on Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-files-are-unwatchable-on-galaxy-xcover-7-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV files are unwatchable on Galaxy XCover 7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-files-are-unwatchable-on-huawei-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV files are unwatchable on Huawei</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/navigating-through-googles-audio-platform-the-podcast-interface-explained/"><u>Navigating Through Googles Audio Platform The Podcast Interface Explained</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-elevate-your-audio-experience-top-5-voice-recorder-software-for-phones-and-tablets/"><u>New In 2024, Elevate Your Audio Experience Top 5 Voice Recorder Software for Phones and Tablets</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/social-broadcast-battleground-fb-live-yt-live-twitvision-for-2024/"><u>Social Broadcast Battleground  FB Live, YT Live, TwitVision for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/top-5-best-websites-to-add-emojis-to-photo-online-for-2024/"><u>Top 5 Best Websites to Add Emojis to Photo Online for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-the-full-capabilities-of-windows-11/"><u>Unlocking the Full Capabilities of Windows 11</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-dont-miss-out-the-most-astounding-4k-video-samples-available/"><u>Updated Dont Miss Out The Most Astounding 4K Video Samples Available</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-edit-videos-for-free-top-software-without-watermarks-this-year/"><u>Updated Edit Videos for Free Top Software Without Watermarks This Year</u></a></li>
+</ul></div>
