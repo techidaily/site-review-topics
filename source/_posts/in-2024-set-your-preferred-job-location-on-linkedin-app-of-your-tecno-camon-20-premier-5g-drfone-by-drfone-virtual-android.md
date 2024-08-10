@@ -1,0 +1,463 @@
+---
+title: In 2024, Set Your Preferred Job Location on LinkedIn App of your Tecno Camon 20 Premier 5G | Dr.fone
+date: 2024-08-09T17:57:51.943Z
+updated: 2024-08-10T17:57:51.943Z
+tags: 
+  - virtual location change
+  - social app
+categories:
+  - android
+description: This article describes Set Your Preferred Job Location on LinkedIn App of your Tecno Camon 20 Premier 5G
+excerpt: This article describes Set Your Preferred Job Location on LinkedIn App of your Tecno Camon 20 Premier 5G
+keywords: change skype location for Android,fake facebook location for Android,change Twitter location for Android,change facebook location for Tecno Camon 20 Premier 5G,fake skype location for Android,change WhatsApp location for Tecno Camon 20 Premier 5G,fake location for Android,change facebook location for Android,fake WhatsApp location for Android
+thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975f435870883240d8e13b1f76.jpg
+---
+
+## Set Your Preferred Job Location on LinkedIn App of your Tecno Camon 20 Premier 5G
+
+LinkedIn is the most widely used professional network that allows you to connect with professional people, learn new skills, and look out for the desired jobs. LinkedIn can be accessed from your desktop system as well as mobile phones. The need for changing the job location on LinkedIn arises when you are planning to move to a new city or a country and want to search for prospective job options. Changing the location will help the employers in the destination city to locate you and consider you for the job even before you move into the location. At times, when **LinkedIn shows jobs in the wrong location**, you need to change and update the location. Learn in detail about how to **change job location** **LinkedIn.**
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
+## How to set a preferred job location on LinkedIn?
+
+To change your preferred job location on LinkedIn, below mentioned are the methods and steps.
+
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
+### Method 1: Change LinkedIn Location on Computer \[Windows/Mac\]
+
+To change your location on LinkedIn through your Windows and Mac systems, below listed are the steps.
+
+![change linkedln location on desktop](https://images.wondershare.com/drfone/article/2022/01/linkedin-desktop-location.jpg)
+
+- Step 1. Open your LinkedIn account on your system and tap on the Me icon at the homepage.
+- Step 2. Next, tap on View profile and then click on the Edit icon in the introduction section.
+- Step 3. A pop-up window will appear where you need to move down to reach the Country/Region section.
+- Step 4. Here you can now select the desired Country/Region from the drop-down list. Additionally, you can also choose the city/district and the postal code.
+- Step 5. Finally, click on the Save button to confirm the selected location.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Method 2: Change LinkedIn Location on Mobile Devices \[iOS & Android\]
+
+LinkedIn can also be accessed from your Tecno Camon 20 Premier 5G and iOS devices, and the steps to change the location on these devices are as follows.
+
+- Step 1. Open the LinkedIn app on Your Tecno Camon 20 Premier 5G and click on the profile picture and then select the View Profile option.
+- Step 2. At the introduction section, click on the Edit icon and then scroll down to the section of Country/Region.
+- Step 3. From the drop-down list, choose the desired Country/Region. As per the selection made, the city and the postal code also have to be added.
+- Step 4. Tap on the Save button to confirm the selection.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
+### Method 3: Change the LinkedIn location by Drone – Virtual Location \[iOS & Android\]
+
+Another simple and quick way to change your location for your LinkedIn profile is by using a software called [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). This versatile tool is compatible with working for your iOS and Android devices and allows changing the location of your device and several apps, including LinkedIn. With just a single click, you can teleport your GPS location anywhere in the world. Additionally, you can also simulate the GOS movements as you move along the route.
+
+
+
+### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+
+1-Click Location Changer for both iOS and Android
+
+- Teleport from one location to another across the world from the comfort of your home.
+- With just a few selections on your computer, you can make members of your circle believe you’re anywhere you want.
+- Stimulate and imitate movement and set the speed and stops you take along the way.
+- Compatible with both iOS and Android systems.
+- Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
+
+**3981454** people have downloaded it
+
+Quick to download, the software has a simple interface, and the process of changing location is quick, let's dive into it now.
+
+**Steps to change LinkedIn job search location using Drone-Virtual Location**
+
+Step 1. Download, install and run the Drone software on your system, and from the main interface, choose the Virtual Location option.
+
+![main interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+Step 2. Click on Get Started at the main software interface and then connect your Tecno Camon 20 Premier 5G or your Tecno Camon 20 Premier 5G to your system.
+
+Step 3. After the Tecno Camon 20 Premier 5G device is connected, a new window will open, which will show your present device location on the map.
+
+![click Center On](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+
+Step 4. Now you need to activate the teleport mode, and for this, click on the teleport icon at the upper-right corner.
+
+![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+Step 5. Next, choose the desired location at the upper-left field from the drop-down list and then tap on the Go button.
+
+![move there](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+Step 6. At the new pop-up box, click on the Move Here button to set the new location as your current location. All the location-based apps on your phone, including LinkedIn, will now show this new location as their current location.
+
+![show the fake location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
+## The benefits of setting up a customized location on LinkedIn
+
+Changing and setting a customized location on your LinkedIn profile can be beneficial in several ways, as listed below.
+
+1. **Get the job in the new location**: If you are anytime soon planning to relocate to a new location, searching for a new job after reaching the place can be a time-consuming and hassled task. To prevent this, you can update your LinkedIn location so that prospective employers can search you from the list of job seekers at this new location. Moreover, when you update your location before actually moving, you get more time to search for your choice of job.
+2. **Probability of salary raise**: Updating your LinkedIn location will create chances of getting a better salary hike as the prospective employers consider you to be from the same location as theirs and for them, there will be no hassles of work permit issues, and additional cost of relocation.
+3. **More job options**: When you update your LinkedIn location, your options for jobs increase, and you become eligible for the jobs which otherwise were not applicable for your location or profile. Thus, access to more job profiles gives you better chances of growing and negotiating.
+
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
+## FAQ: All you want to know about changing location on LinkedIn
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 1\. Should I change my location on LinkedIn, although I haven’t relocated yet?
+
+If you are planning to relocate to a new place soon, updating your LinkedIn location is fine. Location update will help you target the job market and with job-seeking to get the desired job. It is suggested that suppose if you are moving to ABC location soon, you can update your LinkedIn location to ABC but at the same time mention your present current location, somewhere in the profile. Mentioning your current location will not create any feeling of being cheated or misled by the people who visit your profile.
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 2\. How do I hide my location on LinkedIn?
+
+There is no option on LinkedIn to hide your location. You can only provide incorrect information by changing, customizing, or setting a fake location but cannot hide it. By default, Linkedin keeps your profile visible to all. You can change it by following the steps given below:
+
+- 1\. Log in to your LinkedIn profile.
+- 2\. Go to settings, click on the "Privacy" tab in the menu.
+- 3\. Click on the "Edit your public profile" link.
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
+### Final Words
+
+LinkedIn location on your systems as well as mobile devices can be changed either by changing it through app settings or using a professional tool like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) . Using the software, you can change the location of your device that will automatically update all the GPS and location-based apps, including LinkedIn, accordingly.
+
+
+
+## How to Send and Fake Live Location on Facebook Messenger Of your Tecno Camon 20 Premier 5G
+
+Do you want to learn how to fake a live location on Messenger? Here's the perfect learning spot. These days, many situations can compel you to spoof location on Facebook Messenger. But as simple as it sounds, you might need to invest in a costly VPN. Facebook requests permission to track your actual GPS location when installing the app or creating an account. But fret not because you don't even need a VPN service to change your Facebook location. This post will show you several shortcuts on how to send a fake location on Messenger.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 1: The Benefits of Changing Location on Facebook Messenger
+
+There are numerous reasons to learn how to send fake locations on Messenger, just as initially said. Here are some of them:
+
+- **Business awareness**
+
+Sometimes, you might want your customers to believe that your products or offices are in a specific location. In that case, spoofing your live location on Messenger is a great idea.
+
+- **Prank friends and have fun**
+
+There's nothing wrong with fooling your Facebook friends about your location. You can show them that you're in a unique spot when you're just around them.
+
+- **Hide identity**
+
+Your online security is paramount. And one way to protect yourself from online sniffers is by spoofing live locations on Facebook Messenger.
+
+- **Make new friends**
+
+Often, Facebook will tailor its friend suggestions to people close to your proximity, thanks to the "Nearby Friends" feature. But you can start getting new and refreshing tips from people in your new location.
+
+## Part 2: How to Change Location on Facebook Messenger
+
+After learning some reasons to fake location on Messenger, let's now know how to do that with easy steps. You don't need third-party help to **mock live locations on Messenger on Android** or iPhone. That's because the app boasts its inbuilt location feature. Follow me:
+
+Step 1. Open Facebook Messenger and launch the conversation with which you want to share the fake location.
+
+Step 2. Click the "four dots" at the bottom-left corner and tap **Location**.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
+![facebook messenger location sharing](https://images.wondershare.com/drfone/article/2022/03/facebook-messenger-location-sharing.jpg)
+
+Step 3. Now tap **Allow Location** and choose a new location on the world map that appears.
+
+Step 4. After choosing a location, tap **Send Location** to share it with your selected friend. It's that easy!
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Part 3: How to Change a Live Location on Facebook Messenger \[iOS & Android\]
+
+As you can see, sending a pinned location directly on Messenger is only good if you want to share the place with a specific contact. In other words, you can't natively spoof the location of multiple contacts on Messenger. So, if you want to **fake live location on Messenger on iOS** and Android, using a robust option like [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) is a good idea.
+
+With this virtual location tool, you can change your GPS location anywhere. That makes it helpful if you want to brag about your actual location with some tangible proof. Another thing, you can simulate location movements by choosing a particular route or transport. In addition to Facebook, Dr.Fone also works with apps like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc., etc.
+
+You can check out the this video for further instruction.
+
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+Here's how to fake live location on Messenger with Dr.Fone:
+
+**Step 1. Download Dr.Fone and fire it up.**
+
+![home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+Start by downloading and installing Dr.Fone from the official website and launch the software on your Mac or Windows PC. Then, connect your smartphone to the PC using a USB wire. Please ensure to select the "Transfer Files" option.
+
+**Step 2. Launch the Virtual Location tool and enable USB debugging.**
+
+![connect phone with virtual location](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
+
+On Dr.Fone's home page, press the Virtual Location tab and click **Get Started**. Now enable USB debugging to connect your phone to Dr.Fone. On Android, click Additional Settings > Developer options >USB debugging. Also, remember to set Dr.Fone as the mock location app.
+
+**Step 3. Launch the map and choose a fake location for Messenger.**
+
+![search a location on virtual location and go](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+Once USB debugging is enabled, press **Next** to launch the map. Now enter your new location's address or GPS coordinates and tap **Move Here**. And there is that!
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+_**Bonus tip: How to make your new Messenger location more believable**_
+
+Want to make your new location more believable? Simple, Dr.Fone will help you with that. Just enter the new coordinates or location on Dr.Fone and take a screenshot of the new area. Of course, you can find dozens of free location pictures on Google. After that, open the image on Facebook and tap the "location" icon. Now search and select your new location and post the picture.
+
+Up to this point, you shouldn't have any qualms spoofing your live location on Facebook Messenger. For example, if you want to send a pinned GPS coordinate to a single contact on Messenger, then simply use the inbuilt function to change location. However, your new location might not be believable since your actual device location will remain the same. In other words, there's no proof that you're actually in that particular location.
+
+So, use Dr.Fone to fake location on Messenger with unreal precision. This third-party location changer allows you to teleport your location to anywhere. You can even change Messenger location by walking, driving, or cycling. Then to make it more believable, you can share a post with a screenshot of your new location. Remember, your new location will be visible to all your Facebook friends.
+
+## Part 5. FAQ: What People Also Ask about Facebook Location Services
+
+### 1\. Why is my Facebook Messenger location wrong?
+
+The issue of the wrong Facebook location is commonplace these days. Fortunately, it's nothing complicated as it's mainly about the incorrect GPS settings on your phone. So, go ahead and enable GPS tracking on your device.
+
+Open Settings > Privacy > Location Services for iPhone users and then enable Location Services. On the other hand, Android users should click Settings > Security and Location > Locations > and enable Use Locations.
+
+### 2\. Can I fake my location on Facebook?
+
+In a typical scenario, it's impossible to lie about your location on Facebook. That's because the app asks for permission to track your GPS location before you can use it. But as you've seen, Wondershare Dr.Fone makes it a cakewalk to a fake live location on Messenger.
+
+### 3\. How can I hide my location on Facebook?
+
+As said earlier, the reason why Facebook gives the wrong location is because of disabled location settings. It's the reverse! So, use this Settings feature to hide your actual location on Facebook.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Conclusion
+
+Any queries regarding how to send a fake location on Messenger? Let us know if you have any. Meanwhile, use Messenger's inbuilt location feature to share an artificial place with a friend or contact. But because this method only allows you to share fake locations with a single chat, use Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) instead. It's simple, fast, and effective. Are you ready?
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
+## 4 Feasible Ways to Fake Location on Facebook For your Tecno Camon 20 Premier 5G
+
+There are many reasons to **fake location on Facebook**. For example, you may want to hide your ideal address and protect your safety. Also, you might want to change the Facebook location to get better search results for products, friends, groups, and so on. But whichever the case, creating a **fake GPS on Facebook** is relatively easy. So, in this post, I want to introduce you to several methods to spoof your Facebook location quickly and easily.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+## Method 1: Spoof Facebook Location on Computer
+
+You can easily fake your Facebook location by spoofing the town or city in the profile settings. This way, anyone who views your profile bio will see your new Facebook location.
+
+So, without wasting much time, here's how to spoof Facebook location on PC:
+
+Step 1. Launch the Facebook app on your web browser and tap your profile icon.
+
+Step 2. Here, click Edit details under the Intro section. After that, you'll land on the Posts window by default.
+
+Step 3. Now tap the **Pencil** icon to change the current city/town. You can also change your hometown, relationship status, and when you joined Facebook.
+
+Step 4. Finally, tap the **Save** button, and Facebook will automatically update your current location. To see if the changes have been applied, tap the **About** tab to see your new profile.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![changing location on facebook settings](https://images.wondershare.com/drfone/article/2022/02/fake-gps-location-on-facebook-01.jpg)
+
+**Note:** Although you can successfully change your bio, Facebook will still access your actual location. Now this means your Facebook recommendations and adverts will still be based on your locality. So, keep reading to learn other reliable ways to spoof your Facebook location.
+
+## Method 2: Change Facebook Location on Android phone
+
+Unlike the strict iPhones, Android allows you to install a third-party app to change the GPS location of your device and Facebook, to be precise. This means you don't need to fork out some serious money for a VPN service. So, in this section, you'll learn to fake a Facebook location on Android using the [Fake GPS location](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en&gl=US) app. It is a free program for teleporting your phone IP address to new places with a simple screen tap. Let's see how to do that:
+
+Step 1. Install and launch the Fake GPS location app on Android.
+
+Step 2. Next, "allow mock locations" in your Android's developer settings. To do that, open **Settings** >**Additional Settings** >**Developer options**. Then, click "**Select mock location app**" before choosing **Fake GPS**.
+
+![fake gps on facebook settings](https://images.wondershare.com/drfone/article/2022/02/fake-gps-location-on-facebook-02.jpg)
+
+Step 3. Now go to the Fake GPS location app and choose a new location for your device. If satisfied, tap **Ok** to save the added area you'd like your device to appear on.
+
+Step 4. Finally, head to Facebook and change your location settings.
+
+## Method 3: Create A Fake Check-In Location on Facebook
+
+Sometimes you might want to prank your Facebook friends with a new location announcement. In other words, you can make them believe that you're in a particular location when in reality, you're not. In that case, the Facebook Check-In feature will come in handy. It's a simple but highly effective feature that adds your fake location to a Facebook post. Just think of it as a status update.
+
+So, below is **how to fake location on Facebook** with the Check-In feature:
+
+Step 1. Open Facebook on your favorite browser and tap the "**What's on your mind**" field.
+
+Step 2. Next, tap the GPS icon. You'll see all the locations near you. Or, key in a fake address and select it on the suggestions.
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![fake address and tap gps icon](https://images.wondershare.com/drfone/article/2022/02/fake-gps-location-on-facebook-03.jpg)
+
+Step 3. Now write whatever is on your mind and add the location to your latest post. It's that easy!
+
+## Method 4: Fake Location for Facebook's Nearby Friends via a Tool
+
+While signing up on Facebook, you'll be requested to allow the platform access to your actual GPS location. This will enable Facebook to correctly tailor adverts, friends, and other recommendations based on your location. But unfortunately, it can be challenging to change the actual location unless you're willing to spend top dollar on a VPN service. Put, you'll need to spoof your IP address to change the exact location.
+
+For this reason, I recommend using a fake location tool like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). It's an all-in-one software that provides multiple solutions for your Tecno Camon 20 Premier 5G or Android phone. It allows you to teleport your current location to anywhere in the world without jailbreaking your Tecno Camon 20 Premier 5G or spending top dollar on a VPN service. This lets you take full advantage of the "Nearby Friends" Facebook feature that needs your actual GPS location.
+
+Below are the key features:
+
+- Transfer phone location to any place in the world.
+- Intuitive and detailed zoom-in and zoom-out map.
+- Compatible with all iOS and Android versions.
+- Move to new locations on the map via different routes and means.
+- Compatible with location-based apps like Telegram, Facebook, Twitter, etc.
+
+Here is a video tutorial for you to learn and preview how to fake location on Facebook via Dr.Fone - Virtual Location
+
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+
+Below is how to fake location on Facebook for Android and iPhone using Dr.Fone:
+
+**Step 1. Download and open Dr.Fone.**
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
+![download virtual location and get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+Install and run Dr.Fone on your Mac or Windows PC and then connect your phone to your computer using a USB cable. After that, select the file transfer option on your phone and then tap **Virtual Location** on Dr.Fone.
+
+**Step 2. Connect your phone to the software.**
+
+![connect phone with virtual location](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
+
+You'll see a new Dr.Fone window, where you'll click the **Get Started** button. Then, enable USB debugging on your phone before clicking **Next.**
+
+**Step 3. Choose a location and start moving.**
+
+![search a location on virtual location and go](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+The Virtual Location map will launch after successfully connecting your smartphone to Dr.Fone. Now enter and select a location you wish to move to and click **Move Here**. Alternatively,  you can tap an area to move to on the map and choose whether to move by foot, bicycle, scooter, or car. Your iPhone and Android device will save your new location automatically.
+
+![changing location completed](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
+
+## Wrap it up
+
+See, you don't need an expensive VPN service to fake your GPS location on Facebook convincingly. With Dr.Fone, you can easily change your Tecno Camon 20 Premier 5G or iPhone location, which will immediately reflect on apps like Facebook, Google Maps, Telegram, and so on. And guess what? There are a host of other phone management features to exploit. You should try it!
+
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-high-end-online-locations-for-metallic-3d-lettering/"><u>[New] 2024 Approved  High-End Online Locations for Metallic 3D Lettering</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-efficient-techniques-for-distributing-youtube-videos-via-facebook/"><u>[New] Efficient Techniques for Distributing YouTube Videos via Facebook</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-master-the-art-of-preserving-your-musical-journey/"><u>[New] In 2024, Master the Art of Preserving Your Musical Journey</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-mastering-skype-call-recording-a-step-by-step-guide-for-2024/"><u>[New] Mastering Skype Call Recording  A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastery-in-making-single-stream-live-events-stand-out/"><u>[New] Mastery in Making Single-Stream LIVE Events Stand Out</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unleashing-hidden-media-from-your-connected-friends-for-2024/"><u>[New] Unleashing Hidden Media From Your Connected Friends for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-an-in-depth-look-at-movavis-video-edition-plus-for-2e24/"><u>[Updated] An In-Depth Look at Movavi's Video Edition Plus for 2E24</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-tech-gadgets-for-effortless-virtual-meetings-capture/"><u>[Updated] Top Tech Gadgets for Effortless Virtual Meetings Capture</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-sony-xperia-10-v-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Sony Xperia 10 V without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/astrological-bookkeeping-salvage/"><u>Astrological Bookkeeping Salvage</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/avoiding-spammy-sms-effective-ways-to-prevent-unwanted-messages-on-iphones/"><u>Avoiding Spammy SMS: Effective Ways to Prevent Unwanted Messages on iPhones</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-find-my-friends-work-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-i-solved-the-windows-problem-of-inability-to-arrange-key-components/"><u>How I Solved the Windows Problem of Inability to Arrange Key Components</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-xiaomi-14-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-tecno-phantom-v-flip-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Tecno Phantom V Flip Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-plus-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 Plus To Other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xr-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XR To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-7-using-macos-finder-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 7 using macOS finder</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-lava-agni-2-5g-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Lava Agni 2 5G Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-6-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 6 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-samsung-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Samsung ?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-se-2022-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone SE (2022) in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-oneplus-ace-2v-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From OnePlus Ace 2V to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-samsung-galaxy-a24-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Samsung Galaxy A24 is off? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-y02t-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo Y02T is off? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Honor Magic 6 Lite? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Honor Magic V2? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Tecno Camon 20? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-media-importer-strategies-in-windows-10-for-2024/"><u>Mastering Media Importer Strategies in Windows 10 for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-data-retrieval-tool-restore-lost-data-from-oppo-find-x7-by-fonelab-android-recover-data/"><u>Oppo Data Retrieval tool – restore lost data from Oppo Find X7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-u23-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on U23, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-xiaomi-14-ultra-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Xiaomi 14 Ultra.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-y200e-5g-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Y200e 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-samsung-galaxy-a34-5g-by-fonelab-android-recover-data/"><u>Recover lost data from Samsung Galaxy A34 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-ace-2-pro-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Ace 2 Pro has been deleted.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-motorola-moto-e13-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Motorola Moto E13</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-writers-journey-through-podcast-production-for-2024/"><u>The Writer's Journey Through Podcast Production for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-fixing-code-vein-crashes-on-windows/"><u>Ultimate Guide: Fixing 'Code Vein' Crashes on Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Xiaomi 13T? | Dr.fone</u></a></li>
+</ul></div>
