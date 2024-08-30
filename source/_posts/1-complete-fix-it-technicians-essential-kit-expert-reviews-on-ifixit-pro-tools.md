@@ -1,7 +1,7 @@
 ---
 title: 1. Complete Fix-It Technician's Essential Kit - Expert Reviews on iFixit Pro Tools
-date: 2024-08-28 19:37:10
-updated: 2024-08-29 12:43:46
+date: 2024-08-29T06:38:19.146Z
+updated: 2024-08-30T06:38:19.146Z
 tags:
   - product-reviews
 categories:
@@ -92,10 +92,16 @@ Close
 
  Repairing my PS4 controller was a breeze, thanks to the tools at my disposal. As you'll read, the only outside help I called on was from household supplies like isopropyl alcohol.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ##  Fixer Upper: Get That Stick Drift Out of Here
 
 ![Person with blue gloves working on PlayStation 4 controller with iFIxit 64-Bit Driver](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/ifixit-pro-tech-toolkit-driver-focused.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _Marcus Mears III / How-To Geek_
 
  I've been using the same [Dualshock PS4 controller](https://www.amazon.com/DualShock-Wireless-Controller-PlayStation-Midnight-4/dp/B0799976M1?tag=hotoge-20&ascsubtag=UUhtgUeUpU228102&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fifixit-pro-tech-toolkit-review%2F&asc%5Fcampaign=Affiliate) to play games like Rocket League and DARK SOULS: REMASTERED for a few years now, and I was starting to notice some stick drift on the left side and a few stiff buttons all around. Fortunately for me, iFixit created a [written guide on fixing stick drift](https://www.ifixit.com/Guide/How+to+Fix+Left+Joystick+Drift+on+a+DualShock+PS4+Controller+Without+Soldering/140074) and a [video guide that showcases an overall teardown and button cleaning](https://www.youtube.com/watch?v=g2iyFrKAq2U).
@@ -140,6 +146,10 @@ Close
 
 ![Person with blue gloves using iFixit Blunt Tweezers to pointing to white disk inside of Dualshock PS4 controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/ifixit-pro-tech-toolkit-white-disk-reinstalled.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 _Marcus Mears III / How-To Geek_
 
  With the chambers cleaned out, I was onto cleaning and reassembly. With another cotton swab, I got rid of the gunk and grime you wouldn't be able to reach without taking the controller apart. Then, I placed the two white disks back into the chambers with tweezers and used my fingers to pinch them shut. I popped the left joystick back on using my hand.
@@ -150,6 +160,9 @@ _Marcus Mears III / How-To Geek_
 
  That's all there is to it! Instead of buying a whole new controller and tossing the other out, you can feel the sense of accomplishment that comes with saving money and repairing something with your own hands.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Should You Buy the iFixit Pro Tech Toolkit?
 
 ![iFixit 64-Bit Driver on top of Pro Tech Toolkit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/ifixit-pro-tech-toolkit-64-bit-driver-on-closed-case-1.jpg) 
@@ -164,8 +177,23 @@ _Marcus Mears III / How-To Geek_
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/ifixit-pro-tech-toolkit-review-img-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  iFixit Pro Tech Toolkit
 
 9/ 10 
@@ -188,3 +216,50 @@ The Pro Tech Toolkit has everything from a Y000 bit for next-gen Apple products 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-apex-design-hub-audit/"><u>[New] Apex Design Hub Audit</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-eizo-coloredge-cg318-4k-monitor-review-for-2024/"><u>[New] EIZO ColorEdge CG318-4K Monitor Review for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-overcome-oversaturated-tiktok-drafters-through-savvy-edits/"><u>[New] Overcome Oversaturated TikTok Drafters Through Savvy Edits</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-timing-duration-for-a-20mb-high-definition-video/"><u>[Updated] In 2024, Timing Duration for a 20Mb High-Definition Video</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-realme-c67-4g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme C67 4G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changefake-your-vivo-y100i-power-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Vivo Y100i Power 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-honor-x7b-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Honor X7b For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-infinix-hot-30i-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Infinix Hot 30i For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-motorola-edgeplus-2023-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Motorola Edge+ (2023) For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-oneplus-ace-3-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On OnePlus Ace 3 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Realme C55? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-motorola-moto-g-5g-2023-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Motorola Moto G 5G (2023) Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-poco-x6-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Poco X6 Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-xiaomi-civi-3-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Xiaomi Civi 3 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-t2-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo T2 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-v30-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo V30 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Honor Magic 6 Lite? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop Life360 from Tracking You On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Infinix Hot 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/maintaining-memories-on-androidmac-through-snaps-for-2024/"><u>Maintaining Memories on Android/Mac Through Snaps for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-roots-user-permissions-back-to-basics-in-win11/"><u>Restoring Roots: User Permissions Back to Basics in Win11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/seamless-srt-to-sub-a-comprehensive-guide/"><u>Seamless SRT to SUB  A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/secure-your-device-footage-with-mi-11-techniques-for-2024/"><u>Secure Your Device Footage with Mi 11 Techniques for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/supercharge-your-chinese-processor-asus-latest-innovation-in-overclocking-boosts-the-kx-7000-series-by-an-impressive-25/"><u>Supercharge Your Chinese Processor: Asus' Latest Innovation in Overclocking Boosts the KX-7000 Series by an Impressive 25%%</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-vivo-v30-lite-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo V30 Lite 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-the-power-of-ai-thumbnail-generators-for-2024/"><u>Updated The Power of AI Thumbnail Generators for 2024</u></a></li>
+</ul></div>

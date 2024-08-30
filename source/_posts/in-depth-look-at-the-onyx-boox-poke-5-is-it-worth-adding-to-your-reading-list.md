@@ -1,7 +1,7 @@
 ---
 title: In-Depth Look at the Onyx Boox Poke 5 – Is It Worth Adding to Your Reading List?
-date: 2024-08-28 23:55:47
-updated: 2024-08-29 11:57:19
+date: 2024-08-29T06:38:38.380Z
+updated: 2024-08-30T06:38:38.380Z
 tags:
   - product-reviews
 categories:
@@ -108,10 +108,16 @@ Expand
 
 [$170 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fboox-6-poke5-e-reader-2023%2F6547589.p%3FskuId%3D6547589) [$170 at B&H Photo Video](https://www.bhphotovideo.com/c/product/1767273-REG/boox%5Fopc1070r%5F6%5Fpoke5%5Flite%5Fe%5Fink.html/BI/22163/KBID/28708/SID/UUhtgUeUpU2000608?ap=y&amp%3Bsmp=y&amp%3Bsrsltid=AfmBOop7brN-NHjN6a-jh2dexrXlffWKG75VYkJj15Ciubrppm-VvCVreWc) [$170 at Walmart](https://www.walmart.com/ip/BOOX-POKE-5-6-E-READER/2968210903?wmlspartner=wlpa&selectedSellerId=101025981) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Design: Like Holding a Small Paperback
 
 ![The Boox Poke 5 in the front pocket of a purse.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/the-boox-poke5-in-the-front-pocket-of-a-pursejpg_53139408928_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  It always seems like consumer tech is running through one of two cycles: devices getting bigger or devices getting smaller. Personally, I’m a fan of the latter movement, which makes the ultra-portable design of the [Poke 5](https://onyxboox.com/boox%5Fpoke5) a major standout for me. At 5.75 inches tall and 4.25 inches wide, the Poke 5 is a little less tall than the Kindle Paperwhite and Nook Glowlight 4, two [competitive eReaders](https://extra-tips.techidaily.com/superior-10-mobile-apps-to-edit-your-face/) hanging out in the same price tier.
@@ -128,6 +134,9 @@ Joe Robinson / How-To Geek
 
 ![The Boox Poke 5 with the library open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/boox-poke5-with-the-library-open-3jpg_53138936501_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  The Boox Poke 5 is equipped with an E-Ink Carta HD e-paper display, which can also be found on competitive eReaders like the Kindle Paperwhite and Kobo Elipsa. The six-inch screen tops out at 1,448 x 1,072 resolution with 300 pixels per inch; and considering the small size, I was impressed by the level of detail the Poke 5 was able to pull off. If you’re not familiar with the look of an eReader, do know that [it’s not quite the same as a traditional tablet](https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oppo-a2-devices-by-drfone-android/), especially when it comes to font and images. Quite simply, what you see on an eReader screen will look far more like a printed book.
@@ -140,6 +149,9 @@ Joe Robinson / How-To Geek
 
  Using this dashboard, you’ll be able to adjust overall contrast and refresh modes. The latter is a great way to improve font and image quality based on what kind of content you’re looking at. I found the “Normal” and “Speed” modes worked best for straightforward eReader text and images. “Regal,” “A2,” and “X” are the other refresh modes, but they’re best saved for books and apps that require a lot of scrolling and page-turning. I thought these other three presets introduced a lot of unnecessary ghosting, especially when browsing the web with Chrome.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Connectivity and Compatibility: Covers All the Must-Haves
 
  The Poke 5 is built like a full-fledged Android 11 mini tablet, which means Wi-Fi is key. A network connection is essential when it comes to downloading books and hopping online, and seeing as there’s no option for cellular backup, you’ll want to make sure you’re using a safe and secure internet connection.
@@ -152,6 +164,9 @@ Joe Robinson / How-To Geek
 
 ![Charging the Boox Poke 5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/charging-the-boox-poke5jpg_53139138404_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  The Boox Poke 5 runs Android 11 and is powered by a Qualcomm 2.0GHz quad-core chipset with 2GB of RAM. The Poke 5 also includes 32GB of onboard storage, which can be expanded up to 1TB with a microSD card. As far as performance goes, I wouldn’t call the Poke 5 a speedy device, but it always arrives at its destination. It takes the [eReader](https://extra-tips.techidaily.com/superior-10-mobile-apps-to-edit-your-face/) around 30 seconds to power on and assemble the user interface. Once the UI loads, you’ll have five main tabs to choose from at the bottom of the default home screen. These are “Library,” “Store,” “Storage,” “Apps,” and “Settings.”
@@ -190,6 +205,11 @@ Joe Robinson / How-To Geek
 
  Yeah, this isn't the most intuitive account-linking process I've ever walked through, but if you want to be able to download books from Kindle and other ebook apps, it's a necessary nuisance. Fortunately, once I completed all of the above, the Boox and Google handshake was completed in just minutes, and I was able to download and use the Play Store app without any issues.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ##  Should You Buy the Onyx Boox Poke 5?
 
  Ultimately, I think the [Onyx Boox Poke 5](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=http%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fboox-6-poke5-e-reader-2023%2F6547589.p%3FskuId%3D6547589) is a solid eReader that satisfies many must-haves of anyone looking for a digitized library. While its Android backbone could use a few corrections, Onyx’s steady stream of firmware updates should take care of all the biggest bumps in the road along the way.
@@ -218,3 +238,45 @@ The Onyx Boox Poke 5 does a great job at standing in for all those beat-up paper
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-boost-ig-content-three-steps-for-compelling-video-descriptions/"><u>[New] In 2024, Boost IG Content - Three Steps for Compelling Video Descriptions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevating-youtube-live-with-high-quality-webcam-cameras/"><u>[Updated] 2024 Approved  Elevating YouTube Live with High-Quality Webcam Cameras</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-lecturers-guide-to-efficient-classroom-sound-archiving-on-macs/"><u>[Updated] 2024 Approved  Lecturer's Guide to Efficient Classroom Sound Archiving on Macs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-real-time-visualizer/"><u>[Updated] In 2024, Real-Time Visualizer</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-insta-savvy-the-top-10-tags-that-matter-most-for-2024/"><u>[Updated] Insta Savvy  The Top 10 Tags That Matter Most for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-x-fold-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-cutting-edge-video-meeting-techniques-on-slack-plus-filmora/"><u>In 2024, Cutting-Edge Video Meeting Techniques on Slack + Filmora</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changefake-your-itel-p55-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Itel P55 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-tecno-pop-7-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Tecno Pop 7 Pro For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Poco M6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Realme 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Xiaomi 14 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Nokia XR21? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-apple-iphone-11-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix My Apple iPhone 11 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-apple-iphone-7-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix My Apple iPhone 7 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-oppo-a79-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Oppo A79 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, How to share/fake gps on Uber for Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Vivo V30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop Life360 from Tracking You On Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Oppo Find X6? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nubia-z50-ultra-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nubia Z50 Ultra Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-vivo-s18-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-iphone-landscape-photography-excellence/"><u>The Ultimate Guide to iPhone Landscape Photography Excellence</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-vivo-v29-pro-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo V29 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+</ul></div>

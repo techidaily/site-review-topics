@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Logitech Casamania Pop Up Desk: Outstanding Keyboard and Trackpad Performance Overshadowed by Inferior Case Design"
-date: 2024-08-28 12:22:27
-updated: 2024-08-29 10:14:14
+date: 2024-08-29T06:38:24.824Z
+updated: 2024-08-30T06:38:24.824Z
 tags:
   - product-reviews
 categories:
@@ -58,12 +58,23 @@ This all-in-one, ergonomic workspace includes a minimalist keyboard, intuitive w
 
  3 weeks 
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ##  A Laptop or iPad Work Station
 
  If the Casa Pop-Up Desk was just geared towards any single operating system, I don’t think it would be as appealing. But its compatibility across mobile and desktop systems, from iPadOS to Windows, makes it more valuable for a wide range of uses.
 
  It’s not surprising that Logitech employs wide compatibility since most of the company’s other products usually work across multiple platforms. The Casa Pop-Up Desk is essentially a packaging of the Casa Keys keyboard and the Casa Touch touchpad in a clever case (Casa Book). My big hope is that we see these devices sold independently at some point.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ##  The Feel of Casa Keys and Casa Touch
 
 ![Logitech Casa Keys Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/logitech-casa-pop-up-desk-keyboard.jpg) 
@@ -84,6 +95,9 @@ Jerome Thomas / How-To Geek
 
  I also had the occasional unregistered touch where the cursor would jump to a different part of the screen, but that was only once or twice and uncommon enough to mostly ignore. Unlike the Casa Keys' long battery life, the Touch only gets about 3 weeks of power before needing to recharge it. I didn't mind that.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Software Is a (Small) Factor
 
  While you can get away without using the [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html) software for the keyboard, it’s pretty much a necessity for the Touch. The app allows customization of gestures, cursor speed, and all kinds of other fiddly details.
@@ -94,6 +108,14 @@ Jerome Thomas / How-To Geek
 
  Smart Actions allows multiple apps and tasks to be launched at once. Basically, it does macros. This feels like a more practical need for more people, but I still didn’t find too many instances where I wanted to have 12 items fire off for me at the press of a button. Maybe I’m less imaginative in this area. It’s neat and it worked, but I wouldn’t buy a Logitech product for this feature.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ##  How Much Is the Case Worth?
 
 ![Logitech Casa Pop Up Desk laying on a desk outside of its box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/logitech-casa-pop-up-desk-1.jpg) 
@@ -106,6 +128,9 @@ Jerome Thomas / How-To Geek
 
 ![Logitech Casa Pop Up Desk laptop stand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/logitech-casa-pop-up-desk-laptop-stand.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Finally, the stand felt a little flimsy when propped up. I was never seriously worried about it falling, but the concern was present. Even without a device on it, there was more flexing to it than I liked.
@@ -116,6 +141,9 @@ Jerome Thomas / How-To Geek
 
  Despite liking the keyboard and thinking the touchpad was decent, I would be hard-pressed to want to spend $150 on both combined. And even $30 for the case in that pricing scenario seems high unless it’s used constantly, which I didn't feel the need to do.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Should You Buy the Logitech Casa Pop-Up Desk?
 
 ![Items from the Logitech Casa Pop Up Desk stored in the case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/logitech-casa-pop-up-desk-2.jpg) 
@@ -154,3 +182,51 @@ This all-in-one, ergonomic workspace includes a minimalist keyboard, intuitive w
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-plating-perfection-tips-for-shooting-culinary-content/"><u>[New] Plating Perfection  Tips for Shooting Culinary Content</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-stream-viewer-unraveler/"><u>[New] Stream Viewer Unraveler</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-from-novice-to-influencer-a-step-by-step-fb-live-blueprint-for-2024/"><u>[Updated] From Novice to Influencer  A Step-by-Step FB Live Blueprint for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-racing-cameras-clash-is-black-hero-4-or-ghost-s-better-in-2024/"><u>[Updated] Racing Cameras Clash  Is Black Hero 4 or Ghost-S Better, In 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-immersive-traits-in-filmoras-editing-software/"><u>[Updated] Top 10 Immersive Traits in Filmora's Editing Software</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unveiling-instagram-insights-a-deep-dive-into-data-trends/"><u>[Updated] Unveiling Instagram Insights  A Deep Dive Into Data Trends</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-secret-free-apps-best-macos-text-transcribers/"><u>2024 Approved  Top Secret Free Apps  Best macOS Text Transcribers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-to-fix-failed-to-play-test-tone-error/"><u>Easy to Fix “Failed to Play Test Tone” Error</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/find-and-order-classic-literature-through-the-google-books-library-collection/"><u>Find and Order Classic Literature Through the Google Books Library Collection</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-oneplus-12r-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From OnePlus 12R to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-capture-quality-in-nintendo-switch-life/"><u>In 2024, Capture Quality in Nintendo Switch Life</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-forego-youtube-previews-to-enjoy-live-videos/"><u>In 2024, Forego YouTube Previews to Enjoy Live Videos</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changefake-your-infinix-hot-40-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Infinix Hot 40 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Nokia 130 Music? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-motorola-edge-40-neo-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Motorola Edge 40 Neo Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-apple-iphone-14-plus-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix My Apple iPhone 14 Plus Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-oppo-reno-11f-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Oppo Reno 11F 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-s18-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo S18 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-y17s-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo Y17s Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-xiaomi-redmi-note-12-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Xiaomi Redmi Note 12 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Vivo Y27s? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Xiaomi 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Samsung Galaxy A05? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-significant-tenets-of-interactive-storytelling/"><u>In 2024, Significant Tenets of Interactive Storytelling</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Tecno Pova 5 Pro | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Govee RGBiF Illuminating Floor Lamp - Product Review & Smart Lighting Experience
-date: 2024-08-27 11:20:18
-updated: 2024-08-29 11:46:47
+date: 2024-08-29T06:39:17.267Z
+updated: 2024-08-30T06:39:17.267Z
 tags:
   - product-reviews
 categories:
@@ -103,6 +103,15 @@ The Govee Floor Lamp Pro takes smart lighting up a notch with a base that double
 
 Expand 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ##  Installation Is Simple and Takes About 10 Minutes
 
 ![The contents of the Govee Floor Lamp Pro box 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-contents-of-the-govee-floor-lamp-pro-box-2.jpg) 
@@ -111,6 +120,10 @@ Cianna Garrison / How-To Geek
 
  The Govee Floor Lamp Pro's construction process was a piece of cake. First, I screwed each metal plate to the next one to create a long pole, and from there, I screwed the whole thing into the metal attachment on the base. If you're quick with a screwdriver, it'll take about 10 minutes from your first screw to the end of the setup. The last few steps included pushing the silicone LED light strip into the metal pole, attaching the wires, and plugging the lamp in via the power adapter.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ##  The Govee Floor Lamp Pro: Dynamic and Customizable Ambient Lighting
 
 ![The Govee Floor Lamp Pro set to a multicolor scene setting.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-govee-floor-lamp-pro-set-to-a-multicolor-scene-setting1.jpg) 
@@ -131,6 +144,9 @@ Close
 
  What I most enjoyed about the Floor Lamp Pro was its endless lighting customizations and music sync lighting. Since the Floor Lamp Pro has over 16 million colors and several presets, I consistently achieved the mood I was looking for. Some presets even let me change the preset colors from the standard rainbow colors—red, orange, yellow, green, blue, and purple—which I appreciated. While playing music through the Bluetooth speaker, I often chose to use a "Music" preset, so lights would breathe, dance, or pulse along with the music—and this was also a fun feature for playing games or streaming videos.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Speaker Quality: Good Sound for Casual Listening, With Limitations
 
 ![The Govee Floor Lamp Pro's Bluetooth speaker built into the base.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-govee-floor-lamp-pro-s-bluetooth-speaker-built-into-the-base.jpg) 
@@ -149,6 +165,9 @@ Cianna Garrison / How-To Geek
 
  Dialogue for movies, shows, and other media was surprisingly nice—and I'd almost say the Govee Floor Lamp Pro could serve as a mini sound bar for small spaces that don't have room for a bulky option.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Govee Home App: A Somewhat Cluttered Control Center
 
  It's impossible to talk about customizing the Floor Lamp Pro without talking about the Govee Home app, which I mainly found okay, albeit slightly cluttered. The bottom menu tabs include some distracting options, like a shopping tab to buy other Govee devices, an "Explore" page, and a "Discover" page for discovering random social posts from other Govee users. (I can't imagine who uses this).
@@ -159,6 +178,9 @@ Close
 
  Because of its cluttered nature, I forgot where the automation tab was after setting two for morning and nighttime lighting—until I realized it was at the top menu tabs. Does an app really need both top and bottom menu tabs?
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the Govee Floor Lamp Pro?
 
 ![The Govee Floor Lamp Pro turned on and sitting against a wall.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-govee-floor-lamp-pro-turned-on-and-sitting-against-a-wall.jpg) 
@@ -173,6 +195,9 @@ Cianna Garrison / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Govee Floor Lamp Pro
 
 8/ 10 
@@ -197,3 +222,40 @@ The Govee Floor Lamp Pro takes smart lighting up a notch with a base that double
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-a-comprehensive-look-at-youtuber-snippets/"><u>[New] 2024 Approved  A Comprehensive Look at Youtuber Snippets</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-dark-sky-iphone-tips-and-tricks/"><u>[New] Dark Sky iPhone Tips & Tricks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/astering-youtubes-short-form-content-key-tips-revealed-for-2024/"><u>[New] Mastering YouTube's Short-Form Content  Key Tips Revealed for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-cutting-down-high-bitrate-obs-streams/"><u>2024 Approved  Cutting Down High-Bitrate OBS Streams</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-gain-recovery-of-personal-snapshots/"><u>2024 Approved  Gain Recovery of Personal Snapshots</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-understanding-the-basics-of-vsco-filters/"><u>2024 Approved  Understanding the Basics of VSCO Filters</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-nubia-red-magic-9-proplus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Nubia Red Magic 9 Pro+ without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ekwb-officially-apologizes-for-late-payouts-commits-to-improved-practices/"><u>EKWB Officially Apologizes for Late Payouts: Commits to Improved Practices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elevate-your-storytelling-with-these-8-androidiphone-apps/"><u>Elevate Your Storytelling with These 8 Android/iPhone Apps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-poco-c65-by-drfone-android/"><u>Full Guide to Unlock Your Poco C65</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Poco M6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-motorola-edge-40-neo-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Motorola Edge 40 Neo Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-oppo-a18-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Oppo A18 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-oppo-k11x-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Oppo K11x Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Vivo Y100 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Vivo V30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-memes-on-demand-unlocking-kinemaster/"><u>In 2024, Quick Memes on Demand  Unlocking KineMaster</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-vivo-s18-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/uavs-explained-the-basics-of-drone-systems-and-operations/"><u>UAVs Explained  The Basics of Drone Systems and Operations</u></a></li>
+<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Tecno Spark 10 Pro | Dr.fone</u></a></li>
+</ul></div>

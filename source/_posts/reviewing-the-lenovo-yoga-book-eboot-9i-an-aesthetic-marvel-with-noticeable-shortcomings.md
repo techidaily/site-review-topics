@@ -1,7 +1,7 @@
 ---
 title: "Reviewing the Lenovo Yoga Book Eboot 9I: An Aesthetic Marvel with Noticeable Shortcomings"
-date: 2024-08-26 22:35:43
-updated: 2024-08-29 12:52:14
+date: 2024-08-29T06:39:34.495Z
+updated: 2024-08-30T06:39:34.495Z
 tags:
   - product-reviews
 categories:
@@ -128,10 +128,16 @@ The Lenovo Yoga Book 9i laptop's hybrid form marries versatility and productivit
 
 Expand 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Form and Function: A Beautiful Hybrid Design
 
 ![Rear of the Lenovo Yoga Book 9i on the stand in the stacked orientation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/rear-of-the-lenovo-yoga-book-9i-on-the-stand-in-the-stacked-orientation_53598887977_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  My first impression of the Lenovo Yoga Book 9i was that it's an attractive 2-in-1 laptop. But I quickly noticed the double screen setup was unusual compared to other 2-in-1 laptops that opt for a foldable base with a traditional keyboard layout. The [best 2-in-1 laptops](https://tech-recovery.techidaily.com/solving-the-reset-failed-there-was-an-error-message-on-windows/) succeed in keeping things simple and focusing on two modes: laptop and tablet mode, while the Yoga Book 9i is a bit more complex.
@@ -154,6 +160,9 @@ Close
 
 ![The foldable stand of the Lenovo Yoga Book 9i as a case for the keyboard and pen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-foldable-stand-of-the-lenovo-yoga-book-9i-as-a-case-for-the-keyboard-and-pen_53599758691_o.jpg) 
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  Peripherals are rarely the nitty-gritty of a laptop setup, but because these inputs are so integral to the user experience for the Lenovo Yoga Book 9i, I want to take some time highlighting them. Included with the Bluetooth keyboard and Bluetooth mouse are a Lenovo Digital Pen 3 and a folio stand.
@@ -172,6 +181,9 @@ Sergio Rodriguez / How-To Geek
 
 ![The Lenovo Yoga Book 9i laptop playing "Shrek."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/shrek-graphics-hero.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 Cianna Garrison / How-To Geek
 
 _Shrek_
@@ -200,6 +212,9 @@ Sergio Rodriguez / How-To Geek
 
  Still, the Yoga Book 9i scored a fair 5,946 overall in the PCMark10 benchmark, with over 10,000 in Essentials, 8,000 in Productivity, and 6500 in Digital Content Creation.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ###  Gaming With the Lenovo Yoga Book 9i
 
  Gaming with the Yoga Book 9i is dissatisfying unless you play low- to medium-resource games. The Intel Iris graphics card ran into some performance issues, and a 60Hz refresh rate coupled with the 16GB of RAM made some games unplayable due to high latency.
@@ -222,14 +237,29 @@ Close
 
 ### 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ### 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ### 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Battery and Charging: Expected Gain and Drain
 
 ![The components and accessories of the Lenovo Yoga Book 9i.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-components-and-accessories-of-the-lenovo-yoga-book-9i_53598888122_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  The Yoga Book 9i's battery drainage was what I would expect for a dual-screen laptop. With both screens on and brightness hovering somewhere between 300 and 400 nits, the device averaged a 0.5% loss per minute or 30% per hour, which put the time at around every 3 to 4 hours.
@@ -270,3 +300,39 @@ The Lenovo Yoga Book 9i laptop's hybrid form marries versatility and productivit
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-unveiling-lightroom-for-android-a-complete-guide/"><u>[New] In 2024, Unveiling Lightroom for Android  A Complete Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-comic-corner-tickling-fun-with-the-top-tiktok-jokes-and-pranks/"><u>[Updated] 2024 Approved  Comic Corner  Tickling Fun with the Top TikTok Jokes and Pranks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-techs-picks-the-ultimate-screenshot-list/"><u>[Updated] 2024 Approved  Tech's Picks  The Ultimate Screenshot List</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unparalleled-access-8-leading-fb-movie-downloader-list/"><u>[Updated] In 2024, Unparalleled Access  #8 Leading FB Movie Downloader List</u></a></li>
+<li><a href="https://article-files.techidaily.com/augmented-reality-explained-simply/"><u>Augmented Reality Explained Simply</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-fun-in-games-invest-in-high-quality-tech/"><u>Boosting Fun in Games: Invest in High-Quality Tech</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-a-personalized-auditory-experience-on-ios/"><u>Crafting a Personalized Auditory Experience on iOS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/dynamic-presentations-how-to-integrate-screens-into-online-spaces/"><u>Dynamic Presentations  How to Integrate Screens Into Online Spaces</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-xiaomi-redmi-note-12-pro-4g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Xiaomi Redmi Note 12 Pro 4G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-sony-xperia-5-v-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Sony Xperia 5 V For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Xiaomi 14? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-gionee-f3-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Gionee F3 Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-honor-100-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Honor 100 Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-xiaomi-redmi-note-12r-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Xiaomi Redmi Note 12R Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-leave-a-life360-group-on-tecno-phantom-v-fold-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Tecno Phantom V Fold Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-infinix-note-30-pro-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Infinix Note 30 Pro to PC? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Samsung Galaxy A05? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-inside-the-revolutionary-tech-of-sj7s-4k-star-action-camera-review/"><u>In 2024, Inside the Revolutionary Tech of SJ7's 4K Star Action Camera Review</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+</ul></div>

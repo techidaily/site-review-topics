@@ -1,7 +1,7 @@
 ---
 title: Evacuation Plans Must Account for Quick Egress Through Safe Exits without Barriers or Confusion.
-date: 2024-08-26 13:59:41
-updated: 2024-08-29 10:30:30
+date: 2024-08-29T06:38:23.292Z
+updated: 2024-08-30T06:38:23.292Z
 tags:
   - product-reviews
 categories:
@@ -121,6 +121,9 @@ Bill Loguidice / How-To Geek
 
 ![Origin PC EON16-X Laptop open a table top running Fortnite](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/2024-07-28-16-49-18.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  One of my favorite games to play is _Fortnite_, and I would never consider using Wi-Fi over wired Ethernet for a competitive online shooter like this, except in this case. There was not a single connectivity issue with Wi-Fi and performance was as smooth as I've ever experienced. While there were the usual frame rate drops until shortly after landing, once in-game, the frame rate remained a solid 60fps. This was when paired with very high settings, and it felt like a fresh experience even after previously logging over 1,100 hours of playtime. Of course, if you want to run the game with a frame rate in the hundreds, that's always an option, but you'll sacrifice some of the higher-end visuals that really shine on this display.
@@ -129,6 +132,9 @@ Bill Loguidice / How-To Geek
 
 ![Origin PC EON16-X Laptop open on a table top with a close up of the keyboard and trackpak](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/2024-07-28-16-41-51.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  It's easy to switch between the laptop's different operating modes. Either from the included Origin Control Center software or with the dedicated key next to the power button. "Office" mode is a lower performance mode for general non-gaming use that rarely, if ever, activates the fans. With "Game" mode, the laptop automatically adjusts the fan speeds based on the present situation. "Turbo" mode unleashes the laptop's full performance potential, but also lets the fan run at full capacity and noise levels. Finally, there's a "Custom" mode where you can set profiles for different games or applications and tweak processor, GPU, and fan settings to get exactly the performance you need.
@@ -159,6 +165,9 @@ Bill Loguidice / How-To Geek
 
 ![Origin PC EON16-X Laptop closed on a table top showing the Waves 3 panel print](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/2024-08-02-21-08-04.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  As mentioned, while the keyboard is not the best I've ever used, [even for a laptop](https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-a24-phone-network-ready-by-drfone-android/), and there's no [Copilot key](https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-oppo-a78-without-them-knowing-drfone-by-drfone-virtual-android/), it's still pleasant to type on with good balance and responsiveness to each key. For anyone who says you don't need a tenkey, maybe you don't, but I certainly found its inclusion convenient for entering numbers, even if each key is only half the width of the letter keys.
@@ -169,6 +178,9 @@ Bill Loguidice / How-To Geek
 
 ![Origin PC EON16-X Laptop open on a table top running MythForce](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/2024-08-02-10-36-19.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  As previously indicated, overall thermal regulation is excellent. Unless I was playing a demanding game, I barely felt any heat and rarely heard the fans. When I wasn't gaming, I left it in Office mode and, other than warmth above the function keys and some heat from the sides of the laptop body, I could hardly tell it was doing anything at all. If not for the limited battery life, this would also do well, outside some of its bulkiness, as a good general usage laptop.
@@ -185,6 +197,9 @@ Bill Loguidice / How-To Geek
 
 ![Right side of open Origin PC EON16-X Laptop on a table top](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/2024-07-28-16-29-41.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  I was not particularly impressed by the quality of the built-in speakers. The default sound profile sounds good at about 60% volume, but beyond that level I noted some muddiness. There's a little bit of bass, which is nice, but not a great deal of overall presence or noticeable surround effects. In short, these speakers will do in a pinch, but you're better off using external wired or Bluetooth speakers or headphones.
@@ -197,18 +212,27 @@ Bill Loguidice / How-To Geek
 
 ![Origin PC EON16-X Laptop webcam example image showing a man in a chair](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/win_20240806_22_54_33_pro.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
 A sample image from the full HD webcam.
 
  There's no Windows Hello or fingerprint security validation, so you're limited to entering a passcode from the keyboard. This is yet another example of how this is designed as a relatively no-frills laptop primarily dedicated to delivering top-notch gaming performance.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Should You Buy the Origin PC EON16-X Laptop?** 
 
  There's no question that Origin PC has delivered an ultimate gaming, and performance-oriented laptop (with a price to match) in the [EON16-X](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004606/https://www.originpc.com/gaming/laptops/eon16-x/). As expected, battery life is not one of the EON16-X's strong suits, making it more of a transportable workstation than a truly mobile companion. However, if you're a dedicated gamer and general power user, it would be difficult to find a better performer, especially with such a big screen size in such a relatively understated, and customizable, package.
 
 ![Origin PC EON16-X Laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/eon16-x-top-open.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 #####  Origin PC EON16-X Laptop
@@ -233,3 +257,52 @@ The Origin PC EON16-X boasts premier gaming power with an understated and custom
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-innovative-pathways-ensuring-correct-iphone-snapchat-data-flow/"><u>[New] 2024 Approved  Innovative Pathways  Ensuring Correct iPhone-Snapchat Data Flow</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-transforming-ideas-into-visual-stories-on-facebook-reels/"><u>[New] 2024 Approved  Transforming Ideas Into Visual Stories on Facebook Reels</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-unveiling-xstream-studios-complete-exploration-in-156-words/"><u>[New] 2024 Approved  Unveiling XStream Studios  Complete Exploration in 156 Words</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-step-by-step-methods-for-sharing-igtv-in-stories/"><u>[New] Step-by-Step Methods for Sharing IGTV in Stories</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-creative-commons-legalities-explained-simply/"><u>[Updated] Creative Commons Legalities Explained Simply</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-best-fps-for-smooth-professional-video-recordings-for-2024/"><u>[Updated] The Best FPS for Smooth, Professional Video Recordings for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-discover-comedy-tear-fusion-in-these-highest-rated-memetic-accounts/"><u>2024 Approved  Discover Comedy-Tear Fusion in These Highest Rated Memetic Accounts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-list-top-5-affordable-screen-recorders-for-windows/"><u>2024 Approved  Exclusive List  Top 5 Affordable Screen Recorders for Windows</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-videos-that-stand-out-the-perfect-size-for-insta/"><u>2024 Approved  Videos That Stand Out  The Perfect Size for Insta</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/capturing-life-with-precision-an-overview-of-advanced-camera-modes-for-2024/"><u>Capturing Life with Precision  An Overview of Advanced Camera Modes for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-technology-with-toms-gadget-review-your-source-for-top-hardware-analysis/"><u>Exploring the Latest in Technology with Tom's Gadget Review: Your Source for Top Hardware Analysis</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-oppo-a59-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Oppo A59 5G</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-budget-friendly-1-decade-of-excellent-desktop-recorders/"><u>In 2024, Budget-Friendly #1 Decade of Excellent Desktop Recorders</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-infinix-smart-7-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Infinix Smart 7 FRP</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-v30-lite-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo V30 Lite 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-redmi-a2plus-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Xiaomi Redmi A2+ Lock Screen Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-oppo-a79-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Oppo A79 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-vivo-y100a-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Vivo Y100A For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Vivo V29e? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-leave-a-life360-group-on-infinix-hot-40-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Infinix Hot 40 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Honor Magic 6 Lite? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Itel A70? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy A24? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Vivo X100? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Xiaomi 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Honor 90 Lite? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-nubia-red-magic-8s-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Nubia Red Magic 8S Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-honor-100-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-puzzle-detailed-guide-to-open-davinci-resolve-when-windows-gives-you-trouble/"><u>Solving the Puzzle: Detailed Guide to Open DaVinci Resolve When Windows Gives You Trouble</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-definitive-guide-to-10-premium-vector-stockplaces-for-2024/"><u>The Definitive Guide to 10 Premium Vector Stockplaces for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-wininetdll-absence-in-your-system-steps-to-take/"><u>Troubleshooting Wininet.dll Absence in Your System - Steps to Take</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-mac-video-editors-similar-to-vsdc-for-2024/"><u>Updated Top Mac Video Editors Similar to VSDC for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/whimsical-wordsmith-hub/"><u>Whimsical Wordsmith Hub</u></a></li>
+</ul></div>

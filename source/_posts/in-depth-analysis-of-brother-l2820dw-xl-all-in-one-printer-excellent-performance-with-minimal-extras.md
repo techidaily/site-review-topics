@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis of Brother L2820DW XL All-in-One Printer: Excellent Performance with Minimal Extras"
-date: 2024-08-26 10:26:36
-updated: 2024-08-29 10:29:46
+date: 2024-08-29T06:39:20.110Z
+updated: 2024-08-30T06:39:20.110Z
 tags:
   - product-reviews
 categories:
@@ -102,10 +102,16 @@ Bryan M. Wolfe / How-To Geek
 
  The easiest way to get started is to use the printer's 2.7-inch color touchscreen to connect the printer to your home or office's Wi-Fi. Once you do, you can find the machine through AirPrint, Wi-Fi Direct, Mopria, and Brother Mobile Connect. You can also connect it through standard ethernet or USB 2.0\. The printer works with all modern operating systems, including Windows, Mac, Linux, and Chrome. It also works with Android and Apple devices.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Printing, Copying, Scanning, and Faxing: Living Up to Expectations
 
 ![Brother MFC L2820DW XL open showing scanner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/brother-mfc-l2820dw-xl-scanner.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bryan M. Wolfe / How-To Geek
 
  During my tests, I sent three large print jobs to the device, which totaled 52, 67, and 30 pages, respectively. It took less than four minutes to print all 149 pages, which averages out to just over 37 pages per minute—or three pages per minute faster than Brother promised.
@@ -114,6 +120,9 @@ Bryan M. Wolfe / How-To Geek
 
  The prints were clear and crisp, except when it came to printing photos, which was expected. You _don't use_ a black-and-white laser printer to print photos! However, time constraints made it impossible to test the print quality after long-term use. Print quality should remain the same for the toner and drum life if you're using official Brother supplies. With third-party products, quality isn’t necessarily guaranteed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  The LCD Display
 
  The Brother MFC-L2820DW XL’s LCD measures 2.7 inches across. This is a little smaller than optimal and could be a problem if you use it exclusively from the LCD. If, however, most of your printer usage will be done through your mobile device or computer, the LCD size shouldn’t matter as much.
@@ -128,6 +137,9 @@ Close
 
  You can also use the apps to order new supplies. Like most printer manufacturers, Brother offers a subscription service for toner. If you print a lot, don't like to keep track of toner life, or just want the convenience a service like this provides, using the Brother EZ Print Subscription plan is a worthy consideration.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Should You Buy the Brother MFC-L2820DW XL?
 
 ![Brother MFC L2820DW XL showing paper tray](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/brother-mfc-l2820dw-xl-paper.jpeg) 
@@ -140,8 +152,15 @@ Bryan M. Wolfe / How-To Geek
 
 ![Brother MFC-L2820DW XL](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/brother-mfc-l2820dw-xl.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 #####  Brother MFC-L2820DW XL
 
 8/ 10 
@@ -164,3 +183,49 @@ With the Brother MFC-L2820DW XL monochrome laser printer, you get an all-in-one 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-dissecting-the-new-features-of-camstudio/"><u>[New] In 2024, Dissecting the New Features of CamStudio</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-unveiling-advanced-features-of-vlc/"><u>[New] In 2024, Unveiling Advanced Features of VLC</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-unlocking-the-potential-of-your-mobile-content-for-youtube-wealth/"><u>2024 Approved  Unlocking the Potential of Your Mobile Content for YouTube Wealth</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-realme-gt-5-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Realme GT 5</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-itel-p55-5g-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Itel P55 5G</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-oneplus-open-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On OnePlus Open For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-vivo-y27s-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Vivo Y27s For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Poco F5 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Nokia C12 Plus? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Realme C33 2023? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-xiaomi-redmi-note-12r-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Xiaomi Redmi Note 12R Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Infinix GT 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Itel A05s? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Infinix Hot 30i? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Motorola Moto G14? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop My Spouse from Spying on My Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/meme-mastery-in-the-metaverse-a-comedic-journey/"><u>Meme Mastery in the Metaverse  A Comedic Journey</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-cable-vs-streaming-tivo-and-comcast-duke-it-out-for-dvr-supremacy/"><u>New In 2024, Cable vs Streaming TiVo and Comcast Duke It Out for DVR Supremacy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/redefine-mobile-browsing-bings-intelligent-search-now-available/"><u>Redefine Mobile Browsing - Bing's Intelligent Search Now Available</u></a></li>
+<li><a href="https://review-topics.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/simplified-steps-for-photo-motion-blur-in-photoshop/"><u>Simplified Steps for Photo Motion Blur in Photoshop</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/theme-crafting-for-gaming-channels-a-visual-journey/"><u>Theme Crafting for Gaming Channels  A Visual Journey</u></a></li>
+<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/troubleshoot-your-game-solutions-for-valheims-startup-problems/"><u>Troubleshoot Your Game: Solutions for Valheim's Startup Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-system-accessibility-context-menu-enhancement-in-win1011/"><u>Upgrade System Accessibility: Context Menu Enhancement in Win10/11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+</ul></div>

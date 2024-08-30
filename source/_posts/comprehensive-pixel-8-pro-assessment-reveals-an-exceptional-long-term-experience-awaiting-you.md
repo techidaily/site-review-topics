@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Pixel 8 Pro Assessment Reveals an Exceptional Long-Term Experience Awaiting You!
-date: 2024-08-28 17:46:33
-updated: 2024-08-29 12:33:58
+date: 2024-08-29T06:39:00.783Z
+updated: 2024-08-30T06:39:00.783Z
 tags:
   - product-reviews
 categories:
@@ -157,12 +157,18 @@ Close
 
 ![Fingerprint smudges on the Google Pixel 8 Pro camera bump](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/fingerprint-smudges-on-the-google-pixel-8-pro-camera-bump-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  My biggest (and really only) complaint with the Pixel 8 Pro's design is Google's use of polished aluminum on the camera bar. The matte glass is so good at not showing fingerprints that even the slightest smudge on the reflective metal stands out like a sore thumb. I did my best to keep the bar clean, but because of its location, it's natural for my finger to rest on the protrusion to help stabilize the device in my hand.
 
  Additionally, while I haven't noticed any significant damage on my review unit, the [Pixel 7 Pro's](https://vimeo-videos.techidaily.com/new-2024-approved-how-to-make-youtube-thumbnails-online-and-offline/) camera bar had a similar reflective metal, and it scratched extremely easily. After a year with the phone, I fully expect to see similar wear on the Pixel 8 Pro. I would have preferred the matte finish found on the regular Pixel 8.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Display Checks All the Boxes
 
 Close 
@@ -185,6 +191,9 @@ Justin Duino / How-To Geek
 
 ![AI editing button in Google Photos on the Google Pixel 8 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/ai-editing-button-in-google-photos-on-the-google-pixel-8-pro-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  If you've used any recent version of Android, you will be right at home with Android 14 on the Pixel 8 Pro. There are only minor user-side improvements, including an iOS-style lock screen customization feature where you can swipe between clock styles and colors. This version of Android appears to be focused on under-the-hood refinements, which I greatly appreciate.
@@ -213,10 +222,16 @@ Close
 
  Looking at raw numbers, according to Geekbench 6, the Pixel 7 Pro, with its Tensor G2 CPU, has a 1,409 single-core score and 3,399 multi-core score. The Pixel 8 Pro, with the Tensor G3, comes in with a 1,736 single-core score and 4,405 multi-core score. What does that mean? Basically, the Pixel 8 Pro can handle more powerful processes without succumbing to lag or other disruptions.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  I Never Had to Go Searching for a Charger
 
 ![Battery percentage on the Google Pixel 8 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/battery-percantage-on-the-google-pixel-8-pro-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  Previous Pixel had decent battery life, but with the overheating problems caused by the Tensor G1 and G2 processors, needing to juice up throughout the day wasn't uncommon.
@@ -225,6 +240,9 @@ Justin Duino / How-To Geek
 
  For the most part, I simply dropped the Pixel 8 Pro on a [second-gen Pixel Stand](https://store.google.com/us/product/pixel%5Fstand%5F2nd%5Fgen?hl=en-US) to wirelessly charge overnight. But if you need a quick top-off, the phone charges at up to 30W when plugged into its USB-C port. A full charge from 0 to 100% takes a little over 70 minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The King of Taking Great Photos Reliably
 
 Close 
@@ -243,6 +261,9 @@ Close
 
  Am I a fan of the ultra-wide camera's fisheye effect? Not really, but I understand its usefulness when capturing some scenes. What I do love is the 50MP and 48MP sensors behind the main and telephoto cameras. These collect so much data and, once the phone is done processing the image, returns fantastic-looking photos.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  You'll Miss Out on More Than a Camera With the Pixel 8
 
 ![Person holding up the Google Pixel 8 and Google Pixel 8 Pro side by side](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/person-holding-up-the-google-pixel-8-and-google-pixel-8-pro-side-by-side.jpg) 
@@ -279,6 +300,9 @@ Justin Duino / How-To Geek
 
 ![pixel 8pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/pixel-8pro.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
 
 #####  Google Pixel 8 Pro
@@ -305,3 +329,61 @@ The Google Pixel 8 Pro includes the search giant's latest CPU, the Tensor G3, is
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-cutting-edge-6-urban-designs-in-mc/"><u>[New] Cutting-Edge 6 Urban Designs in MC</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-screen-grabber-gadgets-for-youtube-channels/"><u>[New] In 2024, Best Screen Grabber Gadgets for YouTube Channels</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-navigating-facebooks-copyright-enforcement-on-live-feeds-for-2024/"><u>[New] Navigating Facebook's Copyright Enforcement on Live Feeds for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-snap-with-precision-essential-camera-angles-for-images/"><u>[New] Snap with Precision  Essential Camera Angles for Images</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-celestial-craftsmanship-perfecting-night-portraits-step-by-step/"><u>[Updated] 2024 Approved  Celestial Craftsmanship  Perfecting Night Portraits Step-by-Step</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-mastering-format-conversion-for-mac-screenshots/"><u>[Updated] 2024 Approved  Mastering Format Conversion for Mac Screenshots</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-unpacking-twitter-video-sharing-the-whatsapp-connection-for-2024/"><u>[Updated] Unpacking Twitter Video Sharing  The WhatsApp Connection for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-swift-solution-for-clownfish-vocal-alteration-on-pc-systems/"><u>2024 Approved  Swift Solution for Clownfish Vocal Alteration on PC Systems</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-utilizing-b-footage-an-essential-filmmaking-skill/"><u>2024 Approved  Utilizing B-Footage  An Essential Filmmaking Skill</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/amd-radeon-rx-460-drivers-download-easily/"><u>AMD Radeon RX 460 Drivers Download Easily</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-xs-max-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On Apple iPhone XS Max?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-honor-x9b-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Honor X9b using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-apple-iphone-12-mini-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T Apple iPhone 12 mini with 3 Methods</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-efficient-techniques-to-preserve-webcam-dialogues/"><u>In 2024, Efficient Techniques to Preserve Webcam Dialogues</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-oneplus-12r-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On OnePlus 12R For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-oppo-a79-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Oppo A79 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-vivo-y100a-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Vivo Y100A For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Realme Narzo 60x 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-htc-u23-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix HTC U23 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Share Location in Messenger On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Samsung Galaxy S23+? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Vivo Y56 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Motorola Moto G13? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy A24? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Xiaomi 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-5-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Realme GT 5 Phone with Broken Screen</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pinnacle-of-brainy-content-general-knowledge-top-11/"><u>In 2024, Pinnacle of Brainy Content  General Knowledge Top 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-radiance-in-android-video-editing/"><u>In 2024, Radiance in Android Video Editing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-13-pro-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 13 Pro Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/prime-low-cost-recording-software-tops-for-2024/"><u>Prime Low-Cost Recording Software Tops for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/prime-practices-for-streaming-live-cricket-events-for-2024/"><u>Prime Practices for Streaming Live Cricket Events for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-honor-100-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722967855656-seamless-connectivity-find-download-and-update-drivers-for-netgear-wireless-adapters-today/"><u>Seamless Connectivity: Find, Download & Update Drivers for NETGEAR Wireless Adapters Today</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/tips-for-retro-revival-using-instagram-filters-on-previous-imagesvideos-for-2024/"><u>Tips for Retro Revival  Using Instagram Filters on Previous Images/Videos for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-unleash-your-gopro-footage-a-quik-review-and-top-pc-video-editing-alternatives-for-2024/"><u>Updated Unleash Your GoPro Footage A Quik Review and Top PC Video Editing Alternatives for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-lava-blaze-2-pro-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Lava Blaze 2 Pro Device</u></a></li>
+<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Infinix Note 30 | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Affordable Quality in Sound Isolation: A Deep Dive Review of the EarFun Free Pro 3 True Wireless ANC Earbuds"
-date: 2024-08-26 10:33:28
-updated: 2024-08-29 11:42:46
+date: 2024-08-29T06:38:59.408Z
+updated: 2024-08-30T06:38:59.408Z
 tags:
   - product-reviews
 categories:
@@ -105,6 +105,9 @@ Jerome Thomas / How-To Geek
 
  One of the handiest features that some people may overlook is the small size of the charging case. Even compared to some flagship models, this is a thin and compact case that will fit into many more pockets than other comparable earbuds.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Fun Sound Signature
 
 ![Single Earfun Free Pro 3 earbud at an angle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/single-earfun-free-pro-3-earbud-at-an-anglejpg_53519673390_o.jpg) 
@@ -119,10 +122,16 @@ Jerome Thomas / How-To Geek
 
  Queuing up "[Chicken Bone Circuit](https://www.youtube.com/watch?v=QONWi3q8Y%5Fc)" by RJD2, I was somewhat surprised that the low end wasn't as impressive as the previous song, but everything sounded nice and snappy. The bass organ line was present without being overwhelming, and the drums sounded surprisingly wide and pleasantly distorted without any annoying overtones.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ##  Surprising Noise Canceling and Clear Calls
 
 ![Single Earfun Free Pro 3 earbud](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/single-earfun-free-pro-3-earbudjpg_53519244896_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  One thing I wasn't expecting when I began reviewing the EarFun Free Pro 3 was how impressed I'd be by the [active noise cancellation (ANC)](https://facebook-clips.techidaily.com/updated-step-by-step-sharing-twitch-on-your-fb-page-for-2024/). To be completely fair, it won't blow away the technology you'll find in flagship earbuds, but it's still surprisingly good. For less than $100, it's seriously impressive.
@@ -139,6 +148,9 @@ Jerome Thomas / How-To Geek
 
 ![Earfun Free Pro 3 with one earbud outside of the charging case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/earfun-free-pro-3-with-one-earbud-oustide-of-the-charging-casejpg_53519561014_o-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  While EarFun has been making great-sounding affordable earbuds for years, the company hasn't yet nailed everything, and the controls are one issue. On multiple products from EarFun, I've noticed the controls are either overly sensitive, too sensitive, or both, somehow. That remains the case for the Free Pro 3.
@@ -151,6 +163,9 @@ Jerome Thomas / How-To Geek
 
 ![Bottom of the charging case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/bottom-of-the-charging-casejpg_53519674910_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  EarFun claims a maximum battery life of 7.5 hours for the Free Pro 3, but that's assuming you're not using ANC. With ANC enabled, you can expect a maximum of up to six hours, but this will drop if you crank the volume. Including the charging case, you can expect a maximum playback time of 33 hours.
@@ -175,6 +190,9 @@ Jerome Thomas / How-To Geek
 
 ![EarFun Free Pro 3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/earfun-free-pro-3.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 #####  EarFun Free Pro 3
 
 7/ 10 
@@ -197,3 +215,67 @@ The EarFun Free Pro 3 aren't just a good set of earbuds for the price, they're a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-creating-an-impactful-film-short-summary-for-2024/"><u>[New] Creating an Impactful Film Short Summary for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-decoding-digital-dazzle-an-initial-journey-into-video-standards/"><u>[New] In 2024, Decoding Digital Dazzle  An Initial Journey Into Video Standards</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-techniques-for-perfecting-instagram-video-loops/"><u>[New] The Ultimate Techniques for Perfecting Instagram Video Loops</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-understanding-and-utilizing-facebooks-live-feature-a-complete-overview-for-2024/"><u>[New] Understanding and Utilizing Facebook's Live Feature  A Complete Overview for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-decoding-vlc-player-mac-usage-tips/"><u>2024 Approved  Decoding VLC Player Mac Usage Tips</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-transforming-unboxing-into-art/"><u>2024 Approved  Transforming Unboxing Into Art</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-xiaomi-redmi-note-13-proplus-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Xiaomi Redmi Note 13 Pro+ 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cut-down-on-starfields-resource-hogging-behavior-advanced-tweaks-and-settings-adjustments-for-a-better-pc-gaming-experience/"><u>Cut Down on Starfield’s Resource Hogging Behavior: Advanced Tweaks and Settings Adjustments for a Better PC Gaming Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-iphone-photography-using-hdr-for-2024/"><u>Expert iPhone Photography Using HDR for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/final-cut-pro-x-insider-market-vertical-videos-for-instagram-enthusiasts/"><u>Final Cut Pro X Insider' Market  Vertical Videos for Instagram Enthusiasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-this-non-genuine-adobe-app-will-be-disabled-soon-pop-up-on-windows/"><u>How to Fix the “This Non-Genuine Adobe App Will Be Disabled Soon” Pop-Up on Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Samsung Galaxy M34? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-vivo-x-fold-2-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Vivo X Fold 2 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-apple-iphone-se-2022-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Fake GPS On Apple iPhone SE (2022) For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-honor-x7b-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Honor X7b For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-motorola-edgeplus-2023-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Motorola Edge+ (2023) For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-poco-f5-pro-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Poco F5 Pro 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-xiaomi-civi-3-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Xiaomi Civi 3 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Realme C55? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Tecno Spark 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Infinix Smart 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-motorola-moto-g-5g-2023-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Motorola Moto G 5G (2023) Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-nokia-c22-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Nokia C22 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-poco-x6-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Poco X6 Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-realme-c67-4g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Realme C67 4G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-vivo-y100i-power-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Vivo Y100i Power 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-t2-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo T2 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Itel P55? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Vivo Y78+? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to share/fake gps on Uber for Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Honor X8b? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Vivo V30? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Honor X9b? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Nokia 130 Music? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On OnePlus 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-leading-5-video-editors-outside-youtube-realm/"><u>In 2024, Leading 5 Video Editors Outside YouTube Realm</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-the-art-of-making-gifs-directly-from-an-iphone-tips-and-tricks/"><u>Mastering the Art of Making GIFs Directly From an iPhone: Tips and Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mobile-platform-battle-exploring-the-distinctions-between-apples-app-store-and-google-play-store/"><u>Mobile Platform Battle: Exploring the Distinctions Between Apple's App Store and Google Play Store</u></a></li>
+<li><a href="https://review-topics.techidaily.com/navigating-the-gadget-galaxy-with-toms-detailed-hardware-reviews/"><u>Navigating the Gadget Galaxy with Tom's Detailed Hardware Reviews</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-bluetooth-hiccups-in-windows-11-for-smooth-experiences-tutorial-available/"><u>Resolving Bluetooth Hiccups in Windows 11 for Smooth Experiences [Tutorial Available!]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-10-alternatives-to-chatgpt-enhance-your-ai-conversations/"><u>Top 10 Alternatives to ChatGPT: Enhance Your AI Conversations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-5-voice-alteration-apps-for-professional-vtuber-artistry-for-2024/"><u>Top 5 Voice Alteration Apps for Professional Vtuber Artistry for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-y27s-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-8-affordable-srt-services-for-flawless-translation-for-2024/"><u>Top 8 Affordable SRT Services for Flawless Translation for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unleash-youtube-potential-with-smart-tags-and-titles/"><u>Unleash YouTube Potential with Smart Tags and Titles</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+</ul></div>

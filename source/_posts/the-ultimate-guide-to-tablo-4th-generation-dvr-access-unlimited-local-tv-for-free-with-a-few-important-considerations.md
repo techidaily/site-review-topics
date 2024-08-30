@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Tablo (4Th Generation) DVR: Access Unlimited Local TV for Free with a Few Important Considerations"
-date: 2024-08-27 14:25:57
-updated: 2024-08-29 12:28:24
+date: 2024-08-29T06:38:54.152Z
+updated: 2024-08-30T06:38:54.152Z
 tags:
   - product-reviews
 categories:
@@ -75,6 +75,9 @@ Watch and record live TV, subscription-free. Just one Tablo delivers antenna TV 
 
 ![Ports on the Tablo 4th Gen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo-4th-gen-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
  The USB 2.0 port can be used to add more storage for recordings. Tablo claims you can connect USB hard drives up to 8TB in size, which would give you around 1,000 hours of HD storage. Any external USB hard drive or solid-state drive should work, but not flash drives, since most of them can't sustain the read and write speeds required for streaming media. The new Tablo DVR has enough built-in flash storage for 50 hours of HD recordings.
@@ -85,10 +88,17 @@ Corbin Davenport / How-To Geek
 
 ![Holding a TV antenna from Tablo 4th Gen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo-4th-gen-4.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
 ![Holding a TV antenna from Tablo 4th Gen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo-4th-gen-5.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
 Close 
@@ -115,12 +125,18 @@ Close
 
  The player interface is pretty simple. There's a play and pause button in the center, and you can jump forwards and backward using the 15-second buttons or the timeline scrubber. There's also some basic information at the top, including the channel name and number, age rating, and program title. However, you can't switch channels from the player (you have to close the stream first), and there's no option to use a Chromecast or AirPlay device. I also noticed on my iPhone 15 that the app wasn't properly rotating when switching to the player. The video feed was rotated, but the app remained in portrait mode, leaving the phone's gesture button on the wrong side. The Android and iPad apps didn't have the same issue.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Performance and Playback
 
  The Tablo DVR has two built-in tuners, meaning you can watch and record up to two live channels simultaneously, and the Tablo can stream TV to up to six devices simultaneously. For example, two people could be watching different live TV channels while four other people are watching recordings, or six people could watch recordings while the Tablo DVR records shows on two channels. That can be helpful for large households, but not for sharing with friends or family somewhere else—the 4th Gen Tablo DVR can't be accessed from outside your local network, unlike [Plex live TV](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2000923/https://www.plex.tv/tv/) and [previous Tablo models](https://support.tablotv.com/hc/en-us/articles/201445346-Can-I-watch-live-TV-and-recorded-programs-outside-my-home-).
 
 ![Tablo player](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_5401.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Tablo says in [the FAQ section on its website](https://www.tablotv.com/product/) that a 4-tuner Tablo is under development, which would allow more simultaneous recordings and/or more devices streaming live TV at once. If you _absolutely_ need more tuners right now, you could buy another Tablo unit and switch between them as needed in the Tablo app. You would also need another antenna for the other Tablo, or you could share the same antenna across multiple devices with an [amplified splitter](https://www.amazon.com/Amplified-Splitter-Pixelated-Low-Strength-Distributes/dp/B083KKFJLY?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000923&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftablo-4th-generation-dvr-review%2F&asc%5Fcampaign=Affiliate).
 
  With the Tablo connected to my router with an ethernet cable, I didn't have any problems watching TV. Live channels opened within a few seconds (as long as the antenna signal was strong), and playback for recordings started instantly. Tablo also passes through 5.1 Surround Sound when available, so audio quality in live TV and recordings should match the original broadcast. The video quality also looked great for me, but the resolution will depend on the given channel. Many broadcast channels in the US are still 720p or 480p/480i.
@@ -153,6 +169,9 @@ Corbin Davenport / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 #####  Tablo 4th Gen
 
 8/ 10 
@@ -175,3 +194,59 @@ Watch and record live TV, subscription-free. Just one Tablo delivers antenna TV 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-superior-zero-price-switch-emulators/"><u>[New] 2024 Approved  Superior Zero Price Switch Emulators</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-twice-the-joy-twice-the-fun-televised-repetition-made-easy/"><u>[New] 2024 Approved  Twice the Joy, Twice the Fun  Televised Repetition Made Easy</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-maximizing-view-count-for-facebook-videos-for-2024/"><u>[New] Maximizing View Count for Facebook Videos for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-simply-your-way-of-capturing-igtv-on-devices-for-2024/"><u>[New] Simply Your Way of Capturing IGTV on Devices for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-apex-top-youtube-videos-watch-count-heaven/"><u>[Updated] 2024 Approved  Apex Top YouTube Videos  Watch Count Heaven</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capturing-virtual-reality-iphone-edition/"><u>[Updated] Capturing Virtual Reality  IPhone Edition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-game-on-djis-new-contenders-mavic-air-vs-spark-in-combat/"><u>[Updated] Game On  DJI's New Contenders – Mavic Air Vs. Spark in Combat</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-early-birds-guide-to-youtube-skip-these-8-potential-pitfalls-for-2024/"><u>[Updated] The Early Bird's Guide to YouTube  Skip These 8 Potential Pitfalls for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-oppo-reno-10-proplus-5g-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-realme-11-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Realme 11 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-sony-xperia-5-v-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Sony Xperia 5 V For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Vivo Y100? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Xiaomi 14? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-gionee-f3-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Gionee F3 Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-honor-100-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Honor 100 Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-vivo-y200e-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Vivo Y200e 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-xiaomi-redmi-note-12r-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Xiaomi Redmi Note 12R Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-leave-a-life360-group-on-tecno-phantom-v-fold-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Tecno Phantom V Fold Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-leave-a-life360-group-on-vivo-s18e-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Vivo S18e Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Itel A05s? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Samsung Galaxy A05? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Honor Magic 5 Lite? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Realme V30? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Honor X9a? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Phone with Broken Screen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-iphone-experts-guide-to-capturing-and-reducing-pace-in-footage/"><u>In 2024, The iPhone Expert’s Guide to Capturing and Reducing Pace in Footage</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-poco-c55-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Poco C55 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-screen-and-webcam-recording-the-top-10-windows-10-tools/"><u>New Screen and Webcam Recording The Top 10 Windows 10 Tools</u></a></li>
+<li><a href="https://review-topics.techidaily.com/resolved-troubleshooting-steps-for-a-non-functional-camera-during-google-meet/"><u>Resolved: Troubleshooting Steps for a Non-Functional Camera During Google Meet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-llms-insights-into-their-operation-and-applications/"><u>Unveiling LLMs: Insights Into Their Operation & Applications</u></a></li>
+<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+</ul></div>

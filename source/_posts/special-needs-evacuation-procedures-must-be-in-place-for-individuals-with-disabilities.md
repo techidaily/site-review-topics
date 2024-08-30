@@ -1,7 +1,7 @@
 ---
 title: Special Needs Evacuation Procedures Must Be in Place for Individuals with Disabilities.
-date: 2024-08-28 14:40:23
-updated: 2024-08-29 10:40:57
+date: 2024-08-29T06:39:44.801Z
+updated: 2024-08-30T06:39:44.801Z
 tags:
   - product-reviews
 categories:
@@ -121,6 +121,9 @@ Bill Loguidice / How-To Geek
 
 ![Origin PC EON16-X Laptop open a table top running Fortnite](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/2024-07-28-16-49-18.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  One of my favorite games to play is _Fortnite_, and I would never consider using Wi-Fi over wired Ethernet for a competitive online shooter like this, except in this case. There was not a single connectivity issue with Wi-Fi and performance was as smooth as I've ever experienced. While there were the usual frame rate drops until shortly after landing, once in-game, the frame rate remained a solid 60fps. This was when paired with very high settings, and it felt like a fresh experience even after previously logging over 1,100 hours of playtime. Of course, if you want to run the game with a frame rate in the hundreds, that's always an option, but you'll sacrifice some of the higher-end visuals that really shine on this display.
@@ -147,6 +150,9 @@ Bill Loguidice / How-To Geek
 
  Switching to Office mode, running from battery, 53% screen brightness, and leaving the keyboard and light bar lighting on, I ran the [UL Procyon](https://benchmarks.ul.com/procyon/battery-life-benchmark) benchmark and its Office Productivity One-Hour Battery Consumption test. It gave a performance score of 18,400, noting a 33% drop in battery life over the first hour of use. This translates to roughly three to four hours of maximum battery life, even with minimal screen brightness and no GPU usage. This falls in line with Origin PC's own estimates of three to six hours under normal usage and one and a half to two hours under heavy loads, such as gaming. In any case, you'll probably want to be close to an outlet even when you're not gaming.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Design and Hardware: Basic Good Looks with Power** 
 
 ![Origin PC EON16-X Laptop open on a table top next to its AC adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/2024-07-28-16-25-03.jpg) 
@@ -179,36 +185,54 @@ Bill Loguidice / How-To Geek
 
 ![Rear of Origin PC EON16-X Laptop open on a table top](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/2024-07-28-16-29-08.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  The EON16-X has a robust port selection. On the right side is a USH-I full-size SD card reader and two USB-A 3.2 Gen 1 ports. On the left side is a 3.5mm combination microphone and headset audio port, USB-C 3.2 Gen 1 port, another USB-A 3.2 Gen 1 port, and a Kensington Lock Port. At the rear is a USB-C Thunderbolt 4/USB 4 port with power delivery, a full-size HDMI 2.1 port, Ethernet port, and DC power port. Using the Thunderbolt 4 ports you can drive up to two 4K displays or one 8K display.
 
 ![Right side of open Origin PC EON16-X Laptop on a table top](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/2024-07-28-16-29-41.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  I was not particularly impressed by the quality of the built-in speakers. The default sound profile sounds good at about 60% volume, but beyond that level I noted some muddiness. There's a little bit of bass, which is nice, but not a great deal of overall presence or noticeable surround effects. In short, these speakers will do in a pinch, but you're better off using external wired or Bluetooth speakers or headphones.
 
 ![Left side of open Origin PC EON16-X Laptop on a table top](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/2024-07-28-16-28-27.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  The built-in microphone is serviceable and did a good job of picking up my voice, but also recorded some background noise. Similarly, the full HD webcam, which, in a nice touch, has a physical switch to block the camera when needed, does a good job with keeping focus, but is otherwise unremarkable in terms of image quality or handling challenging lighting conditions.
 
 ![Origin PC EON16-X Laptop webcam example image showing a man in a chair](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/win_20240806_22_54_33_pro.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
 A sample image from the full HD webcam.
 
  There's no Windows Hello or fingerprint security validation, so you're limited to entering a passcode from the keyboard. This is yet another example of how this is designed as a relatively no-frills laptop primarily dedicated to delivering top-notch gaming performance.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## **Should You Buy the Origin PC EON16-X Laptop?** 
 
  There's no question that Origin PC has delivered an ultimate gaming, and performance-oriented laptop (with a price to match) in the [EON16-X](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004606/https://www.originpc.com/gaming/laptops/eon16-x/). As expected, battery life is not one of the EON16-X's strong suits, making it more of a transportable workstation than a truly mobile companion. However, if you're a dedicated gamer and general power user, it would be difficult to find a better performer, especially with such a big screen size in such a relatively understated, and customizable, package.
 
 ![Origin PC EON16-X Laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/eon16-x-top-open.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 #####  Origin PC EON16-X Laptop
@@ -233,3 +257,52 @@ The Origin PC EON16-X boasts premier gaming power with an understated and custom
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-jokes-in-jams-best-funny-video-concepts-under-five-minutes/"><u>[New] 2024 Approved  Jokes in Jams  Best Funny Video Concepts Under Five Minutes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-enhancing-ps5-10-powerful-external-drives-for-2024/"><u>[New] Enhancing PS5  10 Powerful External Drives for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-4-ways-to-record-facebook-live-stream/"><u>[New] In 2024, 4 Ways to Record Facebook Live Stream</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-ultimate-playlist-guide-for-youtube-enthusiasts-online-and-mobile-for-2024/"><u>[New] The Ultimate Playlist Guide for YouTube Enthusiasts Online & Mobile for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-expert-tag-analyzer-devices-for-popular-platforms-fbtwitterinsta/"><u>[Updated] 2024 Approved  Expert Tag Analyzer Devices for Popular Platforms (FB/Twitter/Insta)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-revealing-the-best-of-both-worlds-1-tiktoks-on-twitter-for-2024/"><u>[Updated] Revealing the Best of Both Worlds  #1 TikToks on Twitter for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-screen-recorder-rivalry-unveiling-the-strengths-of-bandicam-and-camtasia/"><u>[Updated] Screen Recorder Rivalry  Unveiling the Strengths of Bandicam & Camtasia</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-sing-along-entertainment-a-comprehensive-guide-to-karaoke-usa-below-150/"><u>Affordable Sing-Along Entertainment: A Comprehensive Guide to Karaoke USA Below $150</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-precise-time-indicators-in-youtubes-for-2024/"><u>Crafting Precise Time Indicators in YouTubes for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-success-easy-instructions-for-making-your-own-professional-grade-projector-screen/"><u>DIY Success: Easy Instructions for Making Your Own Professional-Grade Projector Screen</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-features-on-the-newly-released-cycwagen-e-cargo-bicycle/"><u>Exploring Features on the Newly Released CycWagen E-Cargo Bicycle</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-motorola-g54-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Motorola G54 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-oppo-easily-by-drfone-android/"><u>How To Unlock a Oppo Easily?</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-3-ways-to-track-apple-iphone-xs-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Track Apple iPhone XS without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-embarking-on-a-shared-tiktok-experience-your-instructional-path/"><u>In 2024, Embarking on a Shared TikTok Experience  Your Instructional Path</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-nubia-red-magic-9-proplus-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Nubia Red Magic 9 Pro+ For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Nokia 130 Music? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-motorola-edge-40-neo-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Motorola Edge 40 Neo Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-apple-iphone-14-plus-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix My Apple iPhone 14 Plus Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-oppo-reno-11f-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Oppo Reno 11F 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-s18-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo S18 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-y17s-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo Y17s Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-xiaomi-redmi-note-12-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Xiaomi Redmi Note 12 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Vivo Y27s? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Xiaomi 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-guide-capturing-screenshots-in-windows-7-step-by-step/"><u>Quick Guide: Capturing Screenshots in Windows 7 - Step-by-Step</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/revolutionize-your-mobile-viewing-experience/"><u>Revolutionize Your Mobile Viewing Experience</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-best-virtual-playground-for-ps3-games-on-windows-pcs/"><u>The Best Virtual Playground for PS3 Games on Windows PCs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/winning-steps-for-turning-pinners-sounds-into-music-files/"><u>Winning Steps for Turning Pinners' Sounds Into Music Files</u></a></li>
+</ul></div>

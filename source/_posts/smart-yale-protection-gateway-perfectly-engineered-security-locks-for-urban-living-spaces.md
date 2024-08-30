@@ -1,7 +1,7 @@
 ---
 title: Smart Yale Protection Gateway - Perfectly Engineered Security Locks for Urban Living Spaces
-date: 2024-08-27 15:45:56
-updated: 2024-08-29 10:41:38
+date: 2024-08-29T06:38:48.284Z
+updated: 2024-08-30T06:38:48.284Z
 tags:
   - product-reviews
 categories:
@@ -118,6 +118,9 @@ Jerome Thomas / How-To Geek
 
  Every Approach Lock also comes with a Yale Connect Wi-Fi bridge and a magnetized DoorSense module. The former requires an AC outlet and is about the size of a doorbell chime or smart plug. The latter is no bigger than my thumb and is designed to be mounted on the door frame or jamb. Additional contents include installation hardware and user manuals.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ##  Installation and Setup: Just Bring a Screwdriver
 
 ![The Yale Approach Lock with tools and accessories](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-yale-approach-lock-with-tools-and-accessories_53678553938_o.jpg) 
@@ -136,6 +139,9 @@ Close
 
  After the Connect finishes updating, I recommend performing a deadbolt calibration. I was having issues getting the Approach Lock to fully extend my deadbolt, but this problem disappeared after I took a couple of minutes to get things fine-tuned. You can find the “Calibrate” option on the “Lock Settings” screen, housed under “Utilities.”
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Using the Yale Approach Lock: More Pros than Cons
 
  I had a couple of issues when using the Yale Approach Lock, but for the most part, I was very satisfied with my overall experience. So how about we get the cons out of the way?
@@ -160,10 +166,16 @@ Michael Bizzaco / How-To Geek
 
 ![The House Settings screen in the Yale Access app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/yale-access-house-settings-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 Michael Bizzaco / How-To Geek
 
 ![The Lock Settings screen in the Yale Access app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/yale-access-lock-settings-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 Michael Bizzaco / How-To Geek
 
 Close 
@@ -178,6 +190,9 @@ Close
 
  One major complaint here: Unfortunately, the Yale Access app doesn't have a battery life indicator as part of its UI. If the batteries start running low, you _will_ receive a notification, but there's still no way to check how much charge is left before these low-battery alerts go out. Maybe standard AA batteries were a way to cut engineering costs. A rechargeable lithium-ion battery pack for the Approach Lock makes more sense to me though.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the Yale Approach Lock with Wi-Fi?
 
  The [Yale Approach Lock with Wi-Fi](https://www.amazon.com/dp/B0CWVYQ6YH?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003210&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fyale-approach-lock-with-wi-fi-review%2F&asc%5Fcampaign=Authority) isn’t the best smart lock ever made, but it’s a fantastic way to add security to an apartment home, dorm, business, or other important locations. It’s also a terrific buy for those of us operating Airbnb rentals. All your guests will have to do is download the Yale app and input the lock code you’ve assigned to them.
@@ -186,6 +201,9 @@ Close
 
 ![The Yale Approach Lock](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/yale-approach-lock-product-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 #####  Yale Approach Lock
 
 7/ 10 
@@ -234,3 +252,44 @@ Expand
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-exquisite-android-screen-capture-solutions-ranked-five/"><u>[New] Exquisite Android Screen-Capture Solutions Ranked Five</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-beat-batch-downloads-and-review-rhythmical-sounds/"><u>[New] In 2024, Beat Batch  Downloads & Review Rhythmical Sounds</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-merge-moments-seamlessly-from-tiktok-to-facebook/"><u>[New] In 2024, Merge Moments Seamlessly  From TikTok, To Facebook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fixed-most-effective-4-solutions-for-iphone-hdr-video-washed-out-in-premiere-pro/"><u>[New][Fixed] Most-Effective 4 Solutions for iPhone HDR Video Washed-Out in Premiere Pro</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-experience-the-next-wave-watching-fb-live-on-roku/"><u>[Updated] In 2024, Experience the Next Wave  Watching FB Live on Roku</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-step-by-step-guide-to-youtube-video-editing-mastery/"><u>[Updated] In 2024, Step by Step Guide to YouTube Video Editing Mastery</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-essential-tools-for-every-mac-user-free-screen-recorder-guide/"><u>2024 Approved  Essential Tools for Every Mac User – Free Screen Recorder Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-complexities-of-macos-srt-changes/"><u>2024 Approved  Navigating the Complexities of macOS SRT Changes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-methods-to-skip-microsofts-lock-screen-in-windows-10-setup/"><u>Easy Methods to Skip Microsoft's Lock Screen in Windows 10 Setup</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/expert-methods-for-flipping-image-colors-for-2024/"><u>Expert Methods for Flipping Image Colors for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-windows-10-upside-down-display-issue/"><u>Fix: Windows 10 Upside-Down Display Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009453153-how-to-fix-fifa-21-crashing-on-pc-full-guide/"><u>How to Fix FIFA 21 Crashing on PC – [Full Guide]</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-y100-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo Y100?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Oppo A79 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Xiaomi 13T Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-oppo-f25-pro-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Oppo F25 Pro 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Realme C55? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Simulate GPS Movement in AR games On Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Honor Play 40C? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Vivo S18e? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Xiaomi Redmi A2? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-13t-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi 13T Phone without Any Data Loss</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-poco-f5-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Poco F5 5G FRP Without Computer</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/mastering-the-marketplace-30-advanced-fb-techniques-explored/"><u>Mastering the Marketplace  30 Advanced FB Techniques Explored</u></a></li>
+<li><a href="https://review-topics.techidaily.com/urgent-update-acemagic-mini-pc-manufacturer-discovers-spyware-in-pre-setup-systems-on-first-shipment-only/"><u>Urgent Update: AceMagic Mini PC Manufacturer Discovers Spyware in Pre-Setup Systems on First Shipment Only</u></a></li>
+</ul></div>

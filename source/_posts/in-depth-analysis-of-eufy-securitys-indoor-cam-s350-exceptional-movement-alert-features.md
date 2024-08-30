@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis of Eufy Security's Indoor Cam S350: Exceptional Movement Alert Features"
-date: 2024-08-28 23:53:20
-updated: 2024-08-29 10:16:58
+date: 2024-08-29T06:39:21.467Z
+updated: 2024-08-30T06:39:21.467Z
 tags:
   - product-reviews
 categories:
@@ -71,10 +71,17 @@ algorithm ensures precise control and optimal zoom.
 
  Yes 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ##  Tell Me It Doesn’t Look Like a Little Robot
 
 ![The Eufy Security Indoor Cam S350 powered on via USB-C and connected to Eufy app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/eufy-security-indoor-cam-s350-powered-on-via-usb-c-cable-and-connected-to-eufy-appjpg_53511169588_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  First impressions matter, right? If your own judgments are based on the S350’s marketing, you may walk away with incorrect assumptions; chiefly, that the camera is wire-free. That’s not the case, though the reality isn’t too tough to bear. Like most other indoor smart cams (and we've got [a big roundup](https://screen-capture.techidaily.com/updated-in-2024-enhance-your-game-experience-with-these-5-screen-capture-techniques-for-minecraft-mac/) of these), the little camera comes with a USB cable and power adapter.
@@ -105,6 +112,9 @@ Michael Bizzaco / How-To Geek
 
 ![2K resolution on the Eufy Security Indoor Cam S350](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/eufy-security-cam-s350-2k-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Michael Bizzaco / How-To Geek
 
 2K resolution captured by the Eufy S350
@@ -113,6 +123,9 @@ _2K resolution captured by the Eufy S350_
 
 ![1080p resolution on the Eufy Security Indoor Cam S350](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/eufy-security-cam-s350-1080p-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 Michael Bizzaco / How-To Geek
 
 1080p resolution captured by the Eufy S350
@@ -133,6 +146,9 @@ _720p resolution captured by the Eufy S350_
 
 ![Telephoto zoom on the Eufy Security Indoor Cam S350](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/eufy-security-cam-s350-telephoto-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 Michael Bizzaco / How-To Geek
 
  The S350 also delivers solid IR night vision, illuminating subjects up to 40 feet away, and faces up to 30 feet.
@@ -141,6 +157,9 @@ Michael Bizzaco / How-To Geek
 
 Michael Bizzaco / How-To Geek
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Motion Detection Meets Snappy AI
 
 ![Activity Zones in the Eufy app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/eufy-security-cam-s350-activity-zones-1.jpeg) 
@@ -155,20 +174,32 @@ Michael Bizzaco / How-To Geek
 
 ![The The Eufy Security Indoor Cam S350 with mounting plate screws and USB-C cable in front of box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/eufy-security-indoor-cam-s350-with-mounting-plate-screws-and-usb-c-cable-in-front-of-boxjpg_53511002581_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The S350 checks all the boxes in the audio department. I ran some test audio from my MacBook at 50% volume in both my master bedroom (about 30 feet away from the S350’s main testing location) and office (around 40 feet away). Both sound tests were a bit muffled when listening through the Eufy app, but I could still tell the difference between vocals and instruments through the S350 mic.
 
  Most importantly, human voices in the same room as the camera were full-bodied and plenty loud. The sound of my own voice booming through the S350 speaker was sufficiently audible, albeit a bit compressed.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Using the Eufy Security App
 
 ![The main S350 dashboard in the Eufy app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/eufy-security-cam-s350-main-dashboard-1.jpeg) 
 
 ![Dual view in the Eufy app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/eufy-security-cam-s350-app-dual-view-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Settings in the Eufy app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/eufy-security-cam-s350-settings-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Motion detection settings in the Eufy app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/eufy-security-cam-s350-motion-detection-settings-1.jpeg) 
 
 Close 
@@ -216,3 +247,41 @@ algorithm ensures precise control and optimal zoom.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-methods-to-rectify-obs-fullscreen-crash/"><u>[New] 2024 Approved  Methods to Rectify OBS Fullscreen Crash</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-social-media-savviness-mastering-4-techniques-to-record-facebook-lives-for-2024/"><u>[New] Social Media Savviness  Mastering 4 Techniques to Record Facebook Lives for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-boost-your-channels-crafting-captivating-yt-descriptions-using-custom-templates/"><u>[Updated] In 2024, Boost Your Channels  Crafting Captivating YT Descriptions Using Custom Templates</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-elevate-your-drawings-top-artistic-tools-on-chrome-os/"><u>2024 Approved  Elevate Your Drawings  Top Artistic Tools on Chrome OS</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-huawei-nova-y91-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-free-epson-scan-now-v39-drivers-for-windows-7-8-or-10-operating-systems/"><u>Get Your Free Epson Scan-Now V39 Drivers for Windows 7, 8 or 10 Operating Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Tecno Spark 10C? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-your-zte-nubia-z60-ultra-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your ZTE Nubia Z60 Ultra Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-apple-iphone-14-pro-max-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Fake GPS On Apple iPhone 14 Pro Max For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-infinix-note-30i-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Infinix Note 30i Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Infinix Note 30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On OnePlus 12R? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-nokia-c210-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Nokia C210 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-vivo-g2-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Vivo G2 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-nokia-c300-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Nokia C300 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-realme-gt-3-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Realme GT 3 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Infinix Note 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Poco F5 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How to share/fake gps on Uber for Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, How to share/fake gps on Uber for Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Vivo Y100? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Lava Yuva 3? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Infinix Smart 8? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/navigating-the-start-of-a-zoom-call-android-edition/"><u>Navigating the Start of a Zoom Call  Android Edition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-launch-checklist-essential-tasks-for-bringing-your-review-channel-to-life-for-2024/"><u>Quick Launch Checklist  Essential Tasks for Bringing Your Review Channel to Life for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-fixing-your-lol-lag-problems/"><u>Solution Guide: Fixing Your LoL Lag Problems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-how-to-download-and-set-up-canon-mf4500-drivers/"><u>Step-by-Step: How to Download and Set Up Canon MF4500 Drivers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/stream-or-download-films-at-zero-cost-our-selection-of-11-prime-sources/"><u>Stream or Download Films at Zero Cost: Our Selection of 11 Prime Sources</u></a></li>
+<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo Y17s | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Expert Review: Unveiling the Features and Benefits of Brother MFC-L2#DKXL, A Straightforward Yet Impressive Multifunction Device"
-date: 2024-08-28 17:21:18
-updated: 2024-08-29 11:25:55
+date: 2024-08-29T06:39:10.721Z
+updated: 2024-08-30T06:39:10.722Z
 tags:
   - product-reviews
 categories:
@@ -98,10 +98,16 @@ Bryan M. Wolfe / How-To Geek
 
  Cost-wise, new drum units cost around $130 to replace for this unit, while toner cartridges begin at around $50 (for 1,200) and can go up to $145 (for 3,000 pages). It weighs 22.7 pounds and measures 16.1 inches x 15.7 inches x 12.5 inches.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Starting Up
 
  The easiest way to get started is to use the printer's 2.7-inch color touchscreen to connect the printer to your home or office's Wi-Fi. Once you do, you can find the machine through AirPrint, Wi-Fi Direct, Mopria, and Brother Mobile Connect. You can also connect it through standard ethernet or USB 2.0\. The printer works with all modern operating systems, including Windows, Mac, Linux, and Chrome. It also works with Android and Apple devices.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Printing, Copying, Scanning, and Faxing: Living Up to Expectations
 
 ![Brother MFC L2820DW XL open showing scanner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/brother-mfc-l2820dw-xl-scanner.jpeg) 
@@ -120,6 +126,9 @@ Bryan M. Wolfe / How-To Geek
 
  Don’t get me wrong, the content on the LCD is easy to read, and the menu is simple to follow. It was just a bit too small for me, someone with worsening eyes.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Using the Brother App: Easy to Use
 
 Close 
@@ -128,6 +137,9 @@ Close
 
  You can also use the apps to order new supplies. Like most printer manufacturers, Brother offers a subscription service for toner. If you print a lot, don't like to keep track of toner life, or just want the convenience a service like this provides, using the Brother EZ Print Subscription plan is a worthy consideration.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ##  Should You Buy the Brother MFC-L2820DW XL?
 
 ![Brother MFC L2820DW XL showing paper tray](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/brother-mfc-l2820dw-xl-paper.jpeg) 
@@ -140,8 +152,14 @@ Bryan M. Wolfe / How-To Geek
 
 ![Brother MFC-L2820DW XL](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/brother-mfc-l2820dw-xl.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 #####  Brother MFC-L2820DW XL
 
 8/ 10 
@@ -164,3 +182,43 @@ With the Brother MFC-L2820DW XL monochrome laser printer, you get an all-in-one 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-from-creator-to-business-transforming-your-youtube-experience/"><u>[New] 2024 Approved  From Creator to Business  Transforming Your YouTube Experience</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-memetic-masterpieces-behind-the-scenes/"><u>2024 Approved  Memetic Masterpieces  Behind the Scenes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/giggles-galore-crafting-memes-in-adobe-for-2024/"><u>Giggles Galore  Crafting Memes in Adobe for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-mount-and-blade-2-bannerlord-from-crashing-complete-guide/"><u>How To Stop Mount & Blade 2: Bannerlord From Crashing [Complete Guide]</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-12-mini-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 12 mini Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-nokia-g310-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Nokia G310 Fingerprint Lock</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changefake-your-google-pixel-fold-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Google Pixel Fold Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-infinix-smart-8-hd-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Infinix Smart 8 HD For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-honor-magic-5-lite-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Honor Magic 5 Lite Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-realme-v30-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Realme V30 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-realme-12-proplus-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Realme 12 Pro+ 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-tecno-spark-10-4g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Tecno Spark 10 4G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Honor Magic 5 Lite? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Motorola Moto G84 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Realme 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop Life360 from Tracking You On Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-silent-playback-on-chrome-how-to-restore-audio/"><u>Resolved: Silent Playback on Chrome – How to Restore Audio</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/spanish-english-grammar-clash-por-que-vs-por-que/"><u>Spanish-English Grammar Clash: Por Que vs Por Qué</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-quick-route-to-true-profile-ages-on-tiktok-for-2024/"><u>The Quick Route to True Profile Ages on TikTok for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-90-pro-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-professionalism-in-your-applications-chatgpt-for-perfecting-cover-letters/"><u>Unlock Professionalism in Your Applications: ChatGPT for Perfecting Cover Letters</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-secrets-of-the-turing-test-can-ai-ever-triumph/"><u>Unveiling the Secrets of the Turing Test: Can AI Ever Triumph?</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-from-cloud-to-disk-the-comprehensive-guide-to-extracting-songs-from-spotify-playlists-for-2024/"><u>Updated From Cloud to Disk The Comprehensive Guide to Extracting Songs From Spotify Playlists for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/youtuber-in-training-mobile-livestream-without-1000plus-subs/"><u>YouTuber in Training  Mobile Livestream WITHOUT 1000+ Subs</u></a></li>
+</ul></div>
