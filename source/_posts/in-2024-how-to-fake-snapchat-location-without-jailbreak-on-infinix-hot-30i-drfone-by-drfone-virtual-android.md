@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fake Snapchat Location without Jailbreak On Infinix Hot 30i | Dr.fone
-date: 2024-09-02T22:43:07.295Z
-updated: 2024-09-03T22:43:07.295Z
+date: 2024-09-07T09:14:02.231Z
+updated: 2024-09-08T09:14:02.231Z
 tags: 
   - virtual location change
   - social app
@@ -24,6 +24,12 @@ Imagine that you are standing at the Niagara Falls and want to share with people
 Thankfully, there are ways in which you can spoof our device, allowing you to access Geofilters anywhere in the world. Today, you learn several ways in which you can achieve this objective with ease.
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Benefits that faking Snapchat brings to us
 
 Snapchat comes with a lot of filters, both sponsored and crowdsourced, which you can use to interact with different people. When Geofilters was introduced, it meant that you could only access filters that were designed for specific locations.
@@ -34,6 +40,12 @@ The main benefit that you get from faking Snapchat is getting access to these fi
 
 When you spoof your device, Snapchat thinks that you are actually in the area that you have spoofed to. This virtual location will then allow you to access the filters that are available in that area.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: A free but complicated way to fake Snapchat location no jailbreak
 
 One of the best ways to fake Snapchat without jailbreak is to use XCode. This is an app on your Infinix Hot 30i that allows you to tweak certain aspects of the apps that you have on your device, including Snapchat.
@@ -50,10 +62,22 @@ Launch XCode and then create a new project
 
 ![Create a new project in XCode](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Then choose the option marked “Single View iOS application.
 
 ![Choose the ](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Now customize the project options and give it any name that you desire.
 
 ![Name the project as you wish](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-4.jpg)
@@ -68,6 +92,12 @@ Now go ahead and save the project to a location on your computer. Since the vers
 
 ![Save your app](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2: transfer and run the created app on your iOS device**
 
 People who do not have the latest version of XCode will run into the error shown below.
@@ -106,12 +136,24 @@ Now your iOS device will be showing at the top. Select it and proceed.
 
 ![select your iOS device in the app ](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Hit the “Play” icon that is found at the top left side of your screen.
 
 Wait for the process to be complete. You might as well get a cup of coffee as this can take quite a while.
 
 ![Wait for the process to be complete](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 When the process is complete, XCode will install the app on your iOS device. You will get the following error if your device has not been unlocked; unlocking the iOS device will put off the error message.
 
 ![XCode error for locked iPhone](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-12.jpg)
@@ -136,9 +178,6 @@ Now you can proceed and see if you have access to Geo-filters in the new locatio
 
 Now you can launch Snapchat and then access the filters in the area that you have teleported to. Remember that you can move from one location to the next on XCode without having to close Snapchat. Just cancel the current snap after changing the location and create a new snap to see the filters in the new location. If this fails to respond, then go back to Google maps or iOS map app and then ensure that you are in the desired location. Once you have done so, close Snapchat and restart it again, and you will be in the new location once more.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: A paid but easy way to fake Snapchat location without jailbreak
 
 You can also fake your Snapchat GPS location using a premium app such as iTools. This is a popular application, used to spoof many other apps that require geo-location data to work. Another point to note is that the latest iPhone models cannot be jailbroken. The iOS version today is very secure and you cannot tweak it like before.
@@ -156,24 +195,27 @@ Thankfully, you can use a premium, not free, iTools to change your virtual locat
 ![select Virtual Location in Toolbox](https://www.virtuallocation.com/images/pokemon-go/itools-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Step 4:** Type in the location that you want to teleport to and then click on ‘Move Here”.
 
 ![Select your desired location](https://www.virtuallocation.com/images/pokemon-go/itools-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 **Step 5:** Now open your Snapchat and you will be able to access the filters found in the location that you typed in.
 
 Once you are finished with this spoofed location, you can simply select “Stop Simulation” in iTools. This is a premium tool, but very simple to use. It is the best tool to use, especially if you are having a device with the latest iOS version.
 
 ![stop simulation after you have finished with the new location](https://www.virtuallocation.com/images/pokemon-go/itools-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: A brief comparison of XCode vs. iTools to fake Snapchat GPS location
 
 From the steps used in both methods, it is very clear that iTools is the best app to use to fake your Snapchat GPS location for several reasons. Here are some of them:
@@ -189,12 +231,24 @@ When you want to spoof Snapchat to access Geo-Filters in any part of the world, 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Change Location On Facebook Dating for your Infinix Hot 30i
 
 Facebook is a social media platform that puts many things at your disposal. Thanks to Facebook, you can get some entertainment, shop, or even search for your soulmate through Facebook dating. Unfortunately, if you choose to try out the latter, one thing needs to be done. You need to **change your Facebook dating location** to interact with people outside your local area. In this way, you can have the chance to match more people from other regions.
 
 Interestingly, you also enjoy other additional features such as online buying, marketing, and entertainment simultaneously. This article teaches you **how to change your location on Facebook dating**. Read on to find out.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Change Location On Facebook Dating in an Official Way
 
 As far as Facebook Dating is concerned, you can change your location quickly to start seeing profiles from people outside your local area. You most likely think that it is a challenging task. On the contrary, **changing location on Facebook dating** is a breeze. The following steps summarize **how to change your dating location on Facebook dating**.
@@ -208,10 +262,10 @@ As far as Facebook Dating is concerned, you can change your location quickly to 
 ![fb dating location](https://images.wondershare.com/drfone/article/2022/05/how-to-change-location-on-facebook-dating-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 2: Fake Location to Match More Friends
 
@@ -219,10 +273,6 @@ Here is another option, significantly if you **can't change your Facebook dating
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -238,10 +288,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3: How to Turn Facebook Location Services On and Off
 
@@ -255,6 +305,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![turn off location ios](https://images.wondershare.com/drfone/article/2022/05/how-to-change-location-on-facebook-dating-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - Toggle the corresponding button on or off depending on the current situation demands.
 
 **For Android**
@@ -271,14 +327,29 @@ Android users can also turn the Facebook Location services on or off. The proced
 ![turn off facebook location android](https://images.wondershare.com/drfone/article/2022/05/how-to-change-location-on-facebook-dating-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 4: FAQs About Facebook Dating
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1.Can my friends see if I use Facebook Dating?
 
 It is one of the many advantages of using Facebook dating. It will ensure that no one, even your friends can see your Facebook dating profile. This hiding of the dating profile is automatic. So, don't expect your friends who are using Facebook dating to notice that you are using the platform. In the same vein, don't expect to see your friends who are using Facebook Dating.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. What happens when you like someone on Facebook Dating?
 
 If you notice a profile that matches what you are looking for, Facebook Dating requires you to do something about it. You can choose to begin a conversation by either tapping the person's photo or hitting the love icon. Let's elaborate on how you do either of the two.
@@ -304,15 +375,15 @@ One must admit that knowing whether someone is on Facebook Dating can be quite h
 That said and done, there are other more specific ways of identifying if that person is using Facebook Dating. If you can access their phone, grab it and check Facebook notifications. If you notice the likes of someone who liked you or has a crush on you, then that's a Facebook Dating user. If the person doesn't mind answering, go straight to the point and ask them. Other alternatives include spying on their phones and using online tools.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 4.Can someone see once you read a message sent via Facebook Dating?
 
 Unfortunately, Facebook Dating doesn't support read receipts. Your option is to keep waiting for the response until they respond or hope to forget about it altogether. For someone genuinely interested, the wait can be pretty frustrating. It could mean that the other parties are genuinely busy or not interested. If the case is the latter, the other party will most likely see the message and ignore it. Please tell him whether they have yet to see your message or chose not to respond.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. How anonymous is a Facebook Dating profile?
 
 Seeing someone's Facebook Dating profile can be a daunting task. Despite that being the case, anonymity is something you can't expect from this platform. If someone gets lucky and sees your dating profile, recognizing you are pretty high. After all, your profile displays the name you use on Facebook.
@@ -324,17 +395,20 @@ It is an excellent way of meeting new friends who live outside your residence ar
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Change/Fake Your Infinix Hot 30i Location on Viber
 
 Viber is one of the most commonly used messenger apps. It allows you to send short messages like texts, videos, images, audio, and documents. Viber also has another exciting feature that will enable you to share your location. But sometimes, you might want to **change location on Viber** to prank your friends or for security purposes. So, read on to learn how to **fake location on Viber** with some simple solutions.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 1: What is the My Location feature on Viber?
 
@@ -342,6 +416,12 @@ If you’ve used WhatsApp’s location feature before, you’ll know what Viber�
 
 But as good as it sounds, this live location feature is enabled by default on your Infinix Hot 30i/Android browser. Therefore, you can send a location on Viber without knowing. This can be advantageous to stalkers or even cause misunderstanding in your relationship. What’s worse, it shares your actual location with every text you send. But fret not because this post will help you **disable or enable My Location on Viber** according to your needs.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to disable or enable My Location on Viber?
 
 So, without wasting too much time, let’s find out the steps to disable/enable Viber location-sharing feature. It’s straightforward.
@@ -351,7 +431,10 @@ Step 1. Fire up your Viber app on mobile or PC and tap the **Chats** button. Her
 ![change location on Viber open chats](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of the screen and choose **Chat Info**. Alternatively, simply swipe the screen to the left.
 
@@ -361,6 +444,12 @@ Step 3. On the Chat Info window, simply enable or disable the **Attach location 
 
 ![change location on Viber to allow location sharing](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Pro tip**: You might be wondering how to share your actual Viber location with a chat or group. Again, this is very straightforward. Simply open the conversation and tap the three dots on the text field. Then, click the **Share Location** button and choose your location on the Google map. Lastly, tap **Send location** to share the Viber location with your selected contact.
 
 ![change location on Viber share location](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-4.jpg)
@@ -392,7 +481,10 @@ Steps to change Viber location with Dr.Fone:
 ![change location on Viber, open virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Install and run Wondershare Dr.Fone on your Windows/Mac computer, and then tap the **Virtual Location** tab on the Home page.
 
@@ -410,6 +502,12 @@ Press the **Next** button to begin connecting your phone to Dr.Fone. If the conn
 
 ![change location on Viber, choose location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 If the connection is successful, the Virtual Location map will launch automatically on Dr.Fone. Now enter the coordinates or address in the location field at the top-left corner. After finding the exact location that you want, simply tap **Move Here** before sharing your new location on Viber. That is easy, right?
 
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
@@ -428,6 +526,18 @@ If the connection is successful, the Virtual Location map will launch automatica
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Why send fake location on Viber?
 
 Now that you know how to spoof location on Viber. Let’s discuss some reasons to spoof location on this messaging app. Below are some common ones:
@@ -445,7 +555,10 @@ Do you want to show your friends that you’re in London or New York when you’
 If you’re a digital marketer, you might want to convince your potential clients that the goods are from a specific region or city close to them. Believe it or not, this can lead to more sales closures.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Wrap it Up
 

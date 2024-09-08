@@ -1,7 +1,7 @@
 ---
 title: 4 Feasible Ways to Fake Location on Facebook For your Infinix Note 30i | Dr.fone
-date: 2024-07-17T06:47:15.202Z
-updated: 2024-07-18T06:47:15.202Z
+date: 2024-09-07T09:06:53.804Z
+updated: 2024-09-08T09:06:53.804Z
 tags: 
   - virtual location change
   - social app
@@ -13,12 +13,21 @@ keywords: change facebook location for Android,fake facebook location for Androi
 thumbnail: https://thmb.techidaily.com/bdaef56e02cc4aa00f3e70ad3df4b912e80b691b8ee44c6197adf88943656c52.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4 Feasible Ways to Fake Location on Facebook For your Infinix Note 30i
 
 There are many reasons to **fake location on Facebook**. For example, you may want to hide your ideal address and protect your safety. Also, you might want to change the Facebook location to get better search results for products, friends, groups, and so on. But whichever the case, creating a **fake GPS on Facebook** is relatively easy. So, in this post, I want to introduce you to several methods to spoof your Facebook location quickly and easily.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Method 1: Spoof Facebook Location on Computer
 
@@ -36,6 +45,12 @@ Step 4. Finally, tap the **Save** button, and Facebook will automatically update
 
 ![changing location on facebook settings](https://images.wondershare.com/drfone/article/2022/02/fake-gps-location-on-facebook-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Note:** Although you can successfully change your bio, Facebook will still access your actual location. Now this means your Facebook recommendations and adverts will still be based on your locality. So, keep reading to learn other reliable ways to spoof your Facebook location.
 
 ## Method 2: Change Facebook Location on Android phone
@@ -52,9 +67,6 @@ Step 3. Now go to the Fake GPS location app and choose a new location for your d
 
 Step 4. Finally, head to Facebook and change your location settings.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 3: Create A Fake Check-In Location on Facebook
 
 Sometimes you might want to prank your Facebook friends with a new location announcement. In other words, you can make them believe that you're in a particular location when in reality, you're not. In that case, the Facebook Check-In feature will come in handy. It's a simple but highly effective feature that adds your fake location to a Facebook post. Just think of it as a status update.
@@ -69,9 +81,6 @@ Step 2. Next, tap the GPS icon. You'll see all the locations near you. Or, key i
 
 Step 3. Now write whatever is on your mind and add the location to your latest post. It's that easy!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 4: Fake Location for Facebook's Nearby Friends via a Tool
 
 While signing up on Facebook, you'll be requested to allow the platform access to your actual GPS location. This will enable Facebook to correctly tailor adverts, friends, and other recommendations based on your location. But unfortunately, it can be challenging to change the actual location unless you're willing to spend top dollar on a VPN service. Put, you'll need to spoof your IP address to change the exact location.
@@ -92,33 +101,75 @@ Here is a video tutorial for you to learn and preview how to fake location on Fa
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Below is how to fake location on Facebook for Android and iPhone using Dr.Fone:
 
 **Step 1. Download and open Dr.Fone.**
 
 ![download virtual location and get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Install and run Dr.Fone on your Mac or Windows PC and then connect your phone to your computer using a USB cable. After that, select the file transfer option on your phone and then tap **Virtual Location** on Dr.Fone.
 
 **Step 2. Connect your phone to the software.**
 
 ![connect phone with virtual location](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 You'll see a new Dr.Fone window, where you'll click the **Get Started** button. Then, enable USB debugging on your phone before clicking **Next.**
 
 **Step 3. Choose a location and start moving.**
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![search a location on virtual location and go](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The Virtual Location map will launch after successfully connecting your smartphone to Dr.Fone. Now enter and select a location you wish to move to and click **Move Here**. Alternatively,  you can tap an area to move to on the map and choose whether to move by foot, bicycle, scooter, or car. Your iPhone and Android device will save your new location automatically.
 
 ![changing location completed](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Wrap it up
 
@@ -126,10 +177,19 @@ See, you don't need an expensive VPN service to fake your GPS location on Facebo
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Proven Ways in How To Hide Location on Life360 For Infinix Note 30i
 
@@ -141,20 +201,26 @@ Building trust can foster a sense of autonomy. Help maintain a healthy parent-te
 
 ![how to hide life360 location banner](https://images.wondershare.com/drfone/article/2024/01/hide-location-on-life360-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. Best Method To Hide Location on Life360 Without Them Knowing
 
 Keep reading if you need to know **how to hide your location on Life360 without anyone knowing**. The most effective method is using a virtual location changer. These tools can alter the GPS coordinates your phone sends. It allows you to appear in a different location than where you are. Here are five tools you can use to hide location on Life360.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Wondershare Dr.Fone
 
 [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Virtual Location is a versatile and reliable virtual location changer. The tool is compatible with both iOS and Android devices. Known for its diverse functions, it allows you to hide your real location. The platform provides a solution for those seeking privacy on location-sharing apps like Life360. Here are its key strengths:
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone virtual location main window](https://images.wondershare.com/drfone/guide/restart-decive.png)
 
 - **Hide location without being tracked.** Fone - VirtualLocation allows you to hide your real location from Life360 without leaving any traces.
@@ -174,15 +240,18 @@ Follow the steps to learn **how to hide your location on Life360 without anyone 
 
 - **Step 2:** Go to the top-right section and select the **One-Stop Route** function. Whether you’ve already teleported or are using your current location, tap anywhere on the map to set your destination.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![dr.fone virtual location map interface](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
 - **Step 3**: Input the desired number of back-and-forth movements. Choose between a **Round** trip or a **Loop** trip. Adjust the walking speed using the slider. Click **Move Here** at the bottom to initiate movement. To pause the simulation, click **Pause**, or tap **Clear** to revert to your original state.
 
 ![dr.fone moving your gps simulation](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 4:** Activate **Teleport Mode** by selecting the first icon from the left. Use the **Search** bar to type in your desired location. Hit **Enter**, and the map will display the specified location. To shift your smartphone’s location, click **Move Here**. The map will reflect the change, confirming the successful teleportation.
 
 ### ExpressVPN
@@ -191,18 +260,18 @@ ExpressVPN, a renowned VPN service, enhances online privacy by masking your IP a
 
 ![expressvpn website interface](https://images.wondershare.com/drfone/article/2024/01/hide-location-on-life360-07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fake GPS Location Spoofer
 
 Fake GPS Go Location Spoofer is an Android app that allows users to change their GPS location. Unlike some other tools, it does not support PC use or provide additional features like joystick simulation. The app is a simple solution for Android users seeking to modify their location without complicating the process.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fake gps location spoofer app](https://images.wondershare.com/drfone/article/2024/01/hide-location-on-life360-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### A Comparison Among the Five Virtual Location Changer
 
 Among the various apps available, [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) is the most versatile and reliable choice for both iOS and Android devices. Here’s a quick table comparing all the tools.
@@ -224,23 +293,38 @@ Enabling Airplane Mode on your smartphone disables all wireless communication, i
 ![iphone airplane mode](https://images.wondershare.com/drfone/article/2024/01/hide-location-on-life360-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Turn Off WiFi and Data
 
 Disabling WiFi and mobile data prevents your phone from sending location updates to Life360. Note that the method may raise suspicion if others notice your lack of connectivity.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Turn Off Location Services or Precise Mode
 
 You can turn off Location Services or switch to a less precise location mode in your phone settings. Keep in mind that this may affect other apps relying on location information, and it’s not a foolproof solution.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone location services and precise mode](https://images.wondershare.com/drfone/article/2024/01/hide-location-on-life360-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Low Data Mode
 
@@ -251,14 +335,20 @@ Some devices offer a Low Data Mode. The feature reduces the amount of data your 
 Disabling location sharing within the circle settings can prevent your location from being visible to other members. Be cautious, as this action may prompt questions from circle members.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Use a Burner Phone
 
 Using a secondary or temporary phone for Life360 can provide a discreet way to manage your location. The method requires an additional device and may not be practical for everyone.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Uninstall Life360 on Your Infinix Note 30i
 
@@ -268,9 +358,6 @@ The most direct method to prevent Life360 from tracking your location is to unin
 
 Whether to hide your location on Life360 involves weighing the advantages and drawbacks. Here’s a concise list of pros and cons to help you make an informed decision about managing your location visibility on Life360.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hiding your life360 location banner](https://images.wondershare.com/drfone/article/2024/01/hide-location-on-life360-13.jpg)
 
 **Pros of Hiding Your Location on Life360**
@@ -291,19 +378,25 @@ Discovering that your child learned **how to hide location on Life360** can be a
 
 ![discovering kids turning off life360 location](https://images.wondershare.com/drfone/article/2024/01/hide-location-on-life360-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Be Open and Honest
 
 Approach the situation with openness and honesty. Start a non-confrontational conversation to understand the reasons behind their decision. Creating a safe space for dialogue encourages trust and helps address concerns.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Discuss the Positive Side of Life360
 
 Highlight the positive aspects of Life360. Focus on its role in ensuring safety and maintaining family connections. Reinforce that the app is intended for security rather than invasive monitoring. Help your child see the benefits of using it.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Offer an Alternative App as a Backup
 
@@ -315,22 +408,22 @@ While options like Airplane Mode and disabling location services exist, the most
 
 For those seeking to master **how to hide your location on Life360 without anyone knowing**, Dr.Fone is the preferred solution. The tool ensures a reliable and inconspicuous experience.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Change/Fake Your Infinix Note 30i Location on Viber
 
 Viber is one of the most commonly used messenger apps. It allows you to send short messages like texts, videos, images, audio, and documents. Viber also has another exciting feature that will enable you to share your location. But sometimes, you might want to **change location on Viber** to prank your friends or for security purposes. So, read on to learn how to **fake location on Viber** with some simple solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: What is the My Location feature on Viber?
 
 If you’ve used WhatsApp’s location feature before, you’ll know what Viber’s “My Location” is all about. With this feature, you can share your live location for whatever reasons you may have. For example, you may want to share your live location with your kids or vice-versa. Or, you might simply want to share a fake location on Viber with your nosy friends.
 
 But as good as it sounds, this live location feature is enabled by default on your Infinix Note 30i/Android browser. Therefore, you can send a location on Viber without knowing. This can be advantageous to stalkers or even cause misunderstanding in your relationship. What’s worse, it shares your actual location with every text you send. But fret not because this post will help you **disable or enable My Location on Viber** according to your needs.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to disable or enable My Location on Viber?
 
 So, without wasting too much time, let’s find out the steps to disable/enable Viber location-sharing feature. It’s straightforward.
@@ -343,6 +436,12 @@ Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of 
 
 ![change location on Viber, tap chat info](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 3. On the Chat Info window, simply enable or disable the **Attach location always** toggle. It’s done!
 
 ![change location on Viber to allow location sharing](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-3.jpg)
@@ -351,9 +450,6 @@ Step 3. On the Chat Info window, simply enable or disable the **Attach location 
 
 ![change location on Viber share location](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Can I send a fake location on Viber, and How?
 
 So, is it possible to **Viber's fake location**? Unfortunately, Viber doesn’t allow users to share a different place from the real one. That’s because the app asks to automatically access your actual location data using Wi-Fi or GPS while signing up. Therefore, based on the permission you set yourself, the answer is NO.
@@ -390,24 +486,36 @@ Connect your smartphone to your PC using a USB wire and tap **Get Started** on t
 
 ![change location on Viber, connect the phone](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Press the **Next** button to begin connecting your phone to Dr.Fone. If the connection fails, enable USB debugging on your phone by following the on-screen instructions. On Android phones, tap **Settings > Additional settings > Developer options > USB debugging**. In addition, set Dr.Fone as the mock location app on your phone.
 
 **Step 4. Enter the GPS coordinates or location address.**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change location on Viber, choose location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 If the connection is successful, the Virtual Location map will launch automatically on Dr.Fone. Now enter the coordinates or address in the location field at the top-left corner. After finding the exact location that you want, simply tap **Move Here** before sharing your new location on Viber. That is easy, right?
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
@@ -436,9 +544,6 @@ Do you want to show your friends that you’re in London or New York when you’
 
 If you’re a digital marketer, you might want to convince your potential clients that the goods are from a specific region or city close to them. Believe it or not, this can lead to more sales closures.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### Wrap it Up
 
 You can share your live location on Viber just like you would on Facebook, WhatsApp, and other social media apps. But because most of these apps don’t allow you to share fake locations, I recommend [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) change your area to anywhere in the world. Give it a try!
@@ -460,3 +565,40 @@ You can share your live location on Viber just like you would on Facebook, Whats
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discovering-the-top-tools-for-engaging-video-beginnings/"><u>[New] 2024 Approved Discovering the Top Tools for Engaging Video Beginnings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-behind-the-scenes-of-podcast-scripts-tips-and-examples/"><u>[Updated] Behind the Scenes of Podcast Scripts Tips and Examples</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-text-treatments-elevating-ae-titles/"><u>[Updated] Innovative Text Treatments Elevating AE Titles</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-poverty-earning-in-beauty-media-for-2024/"><u>Avoiding Poverty Earning in Beauty Media for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enhance-your-broadcasts-with-manycam-advanced-live-video-platform-and-virtual-camcorder-solutions/"><u>Enhance Your Broadcasts with ManyCam: Advanced Live Video Platform & Virtual Camcorder Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpu-gestutzte-videokomprimierung-mit-handbrake-ihre-wichtigsten-fragen-beantworten/"><u>GPU-Gestützte Videokomprimierung Mit HandBrake: Ihre Wichtigsten Fragen Beantworten</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-restore-functionality-fixing-search-glitches-in-windows-11/"><u>How to Restore Functionality: Fixing Search Glitches in Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xs-max-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XS Max to other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-phantom-v-flip-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Phantom V Flip Without Password?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-archive-adrenaline-fueled-moments-in-galaxy-games/"><u>In 2024, Archive Adrenaline-Fueled Moments in Galaxy Games</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Lava Blaze Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-a59-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo A59 5G Phones with/without a PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/iphone-macro-mastery-tips-for-clear-detail-focused-photos-for-2024/"><u>IPhone Macro Mastery Tips for Clear, Detail-Focused Photos for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/iphone-x-data-recovery-software-to-recover-lost-ios-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone X® Data Recovery Software to Recover Lost iOS® Data | Stellar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-music-recovery-recover-deleted-music-from-motorola-by-fonelab-android-recover-music/"><u>Motorola Music Recovery - Recover Deleted Music from Motorola</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-tecno-phantom-v-flip-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Tecno Phantom V Flip</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-honor-v-purse-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Honor V Purse</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-google-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Google</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-tecno-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Tecno</u></a></li>
+<li><a href="https://review-topics.techidaily.com/red-magic-9-pro-messages-recovery-recover-deleted-messages-from-red-magic-9-pro-by-fonelab-android-recover-messages/"><u>Red Magic 9 Pro Messages Recovery - Recover Deleted Messages from Red Magic 9 Pro</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/k-your-creativity-editing-and-revamping-youtube-clips-in-wmm/"><u>Unlock Your Creativity Editing and Revamping YouTube Clips in WMM</u></a></li>
+</ul></div>

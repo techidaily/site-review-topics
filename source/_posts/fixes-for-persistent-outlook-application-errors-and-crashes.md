@@ -1,7 +1,7 @@
 ---
 title: Fixes for Persistent Outlook Application Errors & Crashes
-date: 2024-09-02T22:40:18.058Z
-updated: 2024-09-03T22:40:18.058Z
+date: 2024-09-07T09:14:06.001Z
+updated: 2024-09-08T09:14:06.001Z
 tags:
   - win11
   - win10
@@ -28,6 +28,18 @@ Outlook keeps crashing on your computer? This is quite annoying and you’re cer
 5. **[Rebuild the Outlook data file](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Office 365](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Restart your computer
 
  Some programs running on the back of your computer may conflict with Outlook and cause Outlook to crash. To see if that’s the problem for you, restart your computer, and then reopen Outlook to see if it runs correctly.
@@ -39,6 +51,12 @@ Outlook keeps crashing on your computer? This is quite annoying and you’re cer
 **[How to Enter Safe Mode in Windows 8 & 8.1](https://tools.techidaily.com/drivereasy/download/)**
 **[How to Enter Safe Mode in Window 7, Vista & XP](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Update Outlook
 
  Sometimes, an outdated version of Outlook may also be the cause of your issue. In this case, an update is very likely the solution to it. Here is how to do it:
@@ -49,27 +67,29 @@ Outlook keeps crashing on your computer? This is quite annoying and you’re cer
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-11-56-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **3)** Click **Office Account** , and then click **Update Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-15-27-1024x620.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 **4)**  Click **Update Now.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-15-22.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)** Wait for the program to detect the latest version of Outlook, and then follow the on-screen instructions to update your Outlook.
 
  After the update, reopen Outlook to see if it can work correctly. If not, read on and check the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 3: Repair your Outlook account
 
@@ -80,21 +100,39 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-12-31_10-30-58.jpg)
 2. **Click Account Settings, and then click Account Settings in the drop-down menu.**  
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Click **Account Settings** , and then click **Account Settings** in the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-12-31_10-32-45.jpg)
 3. **Select your account, then click Repair.**  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Select**your account** , then click**Repair** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-12-31_10-33-28.jpg)
 4. **Click Next, then follow the on-screen instructions to repair your account.**  
  Click **Next,** then follow the on-screen instructions to repair your account.![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-12-31_10-33-54.jpg)
 5. **Reopen Outlook to check if it runs smoothly now.**  
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Reopen Outlook to check if it runs smoothly now.
 
 If your problem persists, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 4: Remove unnecessary Outlook add-ins
 
@@ -107,15 +145,15 @@ If your problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-11-56-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **3)** Click **Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-13-48.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Click **Add-ins.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-13-36.jpg)
@@ -125,7 +163,10 @@ If your problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-12-59.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **6)** Uncheck the box next to the unessential add-ins to disable them. Then, click **OK.**
 
@@ -149,6 +190,12 @@ If your problem persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-11-41.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **4)**  Click the **Data Files tab** . Then, select **your account** and click **Open File Location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-11-13.jpg)
@@ -159,25 +206,16 @@ If your problem persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-55.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 **6)**  Change the file name extension to **.old** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-45.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 **7)** Reopen Outlook and wait for it to rebuild your data file.
 
  This may take several minutes or even an hour, depending on the number of Outlook files you have. Please don’t close Outlook while it’s rebuilding your data file.
 
  Reopen Outlook to see if this worked for you. If your problem still exists, check the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Reinstall Office 365
 
  If none of the above fixes helped, reinstalling Office 365 may be the solution for you. Here is how to do it:
@@ -191,14 +229,20 @@ If your problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-14.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **3)** Right-click **Microsoft Office 365** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **4)** Go to[](https://www.office.com/) **[Office 365](https://www.office.com/)**  official website and click **Sign in** to sign in your account.
 
@@ -208,6 +252,18 @@ If your problem persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-09-21.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **6)**  Open the **downloaded file** and follow the on-screen instructions to install Office 365 again.
 
 **7)** After the process is finished, reopen Outlook to see if this worked for you.

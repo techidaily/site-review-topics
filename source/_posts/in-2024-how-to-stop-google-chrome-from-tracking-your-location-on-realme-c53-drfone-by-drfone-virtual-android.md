@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Stop Google Chrome from Tracking Your Location On Realme C53? | Dr.fone
-date: 2024-09-02T22:39:54.637Z
-updated: 2024-09-03T22:39:54.637Z
+date: 2024-09-07T09:14:06.536Z
+updated: 2024-09-08T09:14:06.536Z
 tags: 
   - virtual location chang
   - location changer
@@ -22,19 +22,34 @@ Are you wondering how to **fake the browser location** or which tool to use? You
 
 ![google chrome featured image](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How Does Chrome Know Your Location?
 
 Before discussing Google **Chrome's fake location**, it is important to know how Chrome detects your physical location. Google Chrome uses many ways to pinpoint your exact location, like your IP address, GPS, Wi-Fi, Bluetooth, and Cell Tower data. Every internet connection has an IP address bound to a location that enables Chrome to identify your location.
 
 Similarly, GPS location can easily be tracked if your phone device has it enabled. All the Wi-Fi and Bluetooth connections around you also have location information embedded in them. They can help Chrome track you as long as your device can detect them. If you use cell data, Google Chrome can also track you through cell towers.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Hide Location Services in Chrome?
 
 If you are worried about Google Chrome detecting your physical location and sharing it with websites and apps, you can hide it easily. The process of hiding your location on Google Chrome is simple, even if you are using multiple devices. Below is the step-by-step process of hiding location services in Google Chrome on computer, Android, and iOS devices.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: For Laptop and Desktop PCs
 
 **Step 1:** Launch Google Chrome on your computer and click the "Three Dots" icon to open the Google Chrome Settings. Here, tap "Privacy and Security" from the left sidebar and select "Site Settings."
@@ -45,22 +60,22 @@ If you are worried about Google Chrome detecting your physical location and shar
 
 ![enable the dont allow option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2: For iPhone or iPad
 
 **Step 1:** Navigate to "Settings" on your iPhone and open it. Scroll down until you find the "Chrome" app option and select it.
 
 ![proceed with the chrome option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2:** Press "Location" on the next screen to open the location options for Google Chrome. Here, choose "Never" to stop Google Chrome from detecting your location.
 
 ![choose the never option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: For Android
 
 **Step 1:** Open Google Chrome on your Realme C53, press the "Three-Dots" icon, and tap "Settings" from the options.
@@ -72,7 +87,16 @@ If you are worried about Google Chrome detecting your physical location and shar
 ![disable the location option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 One way to protect your privacy and stop websites from tracking your location is to turn off the location, but it has many disadvantages. If you have turned off your location, you can't use any location base service like food delivery, e-shopping, ride-sharing, etc. That's why it is better to use a fake location on your browser. Below we have explained four methods for **Chrome fake location**.
 
@@ -100,9 +124,6 @@ Connect your Android or iOS phone to your computer using a USB cable. Launch the
 
 ![select the virtual location tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 2: Activate the Teleport Mode**
 
 Press "Get Started" on the next page to open the map window. First, select your actual location by pressing the "Center On" icon from the right sidebar. Afterward, click on the "Teleport" icon from the top right corner to activate the Teleport Mode.
@@ -117,9 +138,6 @@ Once the Teleport Mode is activated, add your desired location and press "Go." Y
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2. Manually Change Your Location Using Google Chrome DevTools
 
 It is also possible to **fake browser location** on Chrome using the Google Chrome Developer Tools. It is a built-in feature of Chrome and can be used to manually change or turn off your browser's location. Follow these steps for changing location on Chrome with DevTools:
@@ -128,9 +146,6 @@ It is also possible to **fake browser location** on Chrome using the Google Chro
 
 ![choose the developer tools](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 **Step 2:** A window will open on the right side with all the developing tools you can use in Chrome. Click on the three-dots icon located near "Console" in the bottom left corner of the window. Choose "Sensors" from the pop-up menu.
 
 ![select the sensors option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-12.jpg)
@@ -140,7 +155,10 @@ It is also possible to **fake browser location** on Chrome using the Google Chro
 ![select your location](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Limitations**
 
@@ -155,6 +173,12 @@ Many **fake location Chrome extensions** are available on Google Chrome which ca
 
 ![install the location guard extension](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2:** In the options, you can choose different options like Privacy Levels, Protection Area, and Time for Location Cache. It is recommended you choose a higher level for more protection.
 
 ![customize the settings](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-15.jpg)
@@ -163,11 +187,29 @@ Many **fake location Chrome extensions** are available on Google Chrome which ca
 
 ![confirm the fixed location position](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Limitations**
 
 - Location Guard doesn't protect your IP address. It means some websites can still detect your real location using the IP address.
 - The app is not updated for quite a while, that's why the map of the fixed location feature is quite restricted.
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 4. Spoof Your IP Using a VPN Server
 
 Another way you can fool websites and your browser by displaying a **fake location online** is to use a VPN server. VPNs fake your IP address to fool websites and apps into detecting your location. [NordVPN](https://nordvpn.com/) is a VPN that can be used to spoof your IP by following these steps:
@@ -178,9 +220,6 @@ Another way you can fool websites and your browser by displaying a **fake locati
 
 ![tap on the quick connect button](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 **Step 3:** You can also choose the desired location as your fake Chrome location in NordVPN. To do that, scroll down the list of countries and locations and choose your desired locations to connect to.
 
 **Limitations**
@@ -189,17 +228,35 @@ Another way you can fool websites and your browser by displaying a **fake locati
 - Using a VPN usually affects your internet speed and can make browsing slower and more difficult.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 4: FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 1.What is Geolocation?
 
 Geolocation is a term used for the process of pinpointing the location of a device connected to the internet. The location can be determined using methods like IP address, GPS, and mobile tower data. Apps and websites commonly use it to provide location-based services.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.What is the HTML5 Geolocation API?
 
 The HTML5 Geolocation API is a browser API used to determine a user's geographical location. Developers use it to build location-aware websites and apps that use users' locations as the basis for providing their services. It can detect location through GPS, Wi-Fi, Bluetooth, IP addresses, etc.
@@ -208,9 +265,6 @@ The HTML5 Geolocation API is a browser API used to determine a user's geographic
 
 Hiding or spoofing your location protects your privacy and stop application and websites from tracking you. It also allows you to access geo-restricted apps and play location-based games. You can also fake your location to get the latest updates of your favorite apps.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Conclusion
 
 The fact that Google Chrome in your devices can track your location with an accuracy of up to 20 meters is very unsettling for users. Even when you try to be careful in granting location permissions to apps and websites, many can still bypass this by adding location access requirements in terms and conditions.
@@ -219,25 +273,22 @@ That's why having a tool like [Dr.Fone - Virtual Location](https://tools.techida
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Does Airplane Mode Turn off GPS Location On Realme C53?
 
 Airplane mode is a feature available on all smartphones and other electronic devices that stops the signal transmissions from the Realme C53 devices. Also known as flight or airplane mode, this feature will disconnect the wireless functions, including cellular connection, Wi-Fi, and Bluetooth.
 
 ![airplane mode](https://images.wondershare.com/drfone/article/2022/03/airplane-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 The feature's name says that it was introduced to cut off any radio transmission during the flight to avoid any communication interference. However, the feature must be enabled while taking a flight, and if you need to be disconnected from the signals, you can even use the feature outside the plane.
 
 If you have **enabled airplane mode on your Realme C53** or Android device and think it will also block your GPS location, you are wrong. Know why airplane mode does not turn off GPS location and other ways to **avoid getting tracked with or without Airplane Mode.**
 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 1: Does Airplane Mode Turn off location?
 
@@ -250,16 +301,26 @@ The GPS works on a different technology where the signals are received from the 
 Yes, if you have not disabled the GPS feature, your location can be tailed on an Airplane mode as the flight mode only disables the cellular connection and Wi-Fi. So, it can be concluded that Airplane Mode is no solution for stopping the GPS tracking on your phone, though there are other workarounds available for this.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3: How to Prevent Phones from Being Tailed?
 
 The GPS feature of your phone, besides assisting you, is also a way any person or third-party app can keep track, which can hamper your privacy and be annoying. So, for privacy or any other reason, if you are looking for ways to prevent your phones from being tailed, check out the solutions for iDevices and Android below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 3.1. How to stop GPS tracking on Realme C53s?
 
@@ -269,9 +330,6 @@ To hide the location on your Realme C53 and iPad, below listed are the steps.
 
 ![switch off gps on idevices](https://images.wondershare.com/drfone/article/2022/03/switch-off-gps-idevice-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Step 2**. Enable the Airplane Mode or turn off the Wi-Fi and Cellular icon.
 
 **Step 3**. Next, you need to disable the GPS radio. On some of the Realme C53 devices, there is a separate setting for this. Go to Settings > Privacy> Location Services. The list of the apps using the location services will appear. Move the toggle at the Location Services to turn it off.
@@ -279,7 +337,10 @@ To hide the location on your Realme C53 and iPad, below listed are the steps.
 ![switch off gps on idevices](https://images.wondershare.com/drfone/article/2022/03/switch-off-gps-idevice-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 3.2. How to stop GPS tracking on Android Devices?
 
@@ -296,7 +357,10 @@ The process to turn off GPS location on Android devices may vary from device to 
 ![drfone virtual location switch off gps on android devices](https://images.wondershare.com/drfone/article/2022/03/switch-off-gps-android-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 4: Spoof Location to prevent GPS Tracing without Turning on Airplane Mode
 
@@ -322,19 +386,28 @@ You can check out this video for further instruction.
 
 ![home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2**. On the leading software, tap on the **Virtual Location** option and then connect your Realme C53 or Android device to your system using a USB cable.
 
 ![download virtual location and get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3**. Click on the **Get Start** button.
 
 **Step 4**. The software will open a new window, and your connected device's actual location will be shown. If the location is not coming correctly, tap on the **Center On** icon present in the lower-right of the interface.
 
 ![virtual location map interface](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 5**. Next, in the upper-right corner, click on the teleport mode icon. Next, enter the desired location at the upper left-hand side that you wish to teleport to. Finally, click on the **Go** button after entering the site.
 
 ![search a location on virtual location and go](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -344,31 +417,39 @@ You can check out this video for further instruction.
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 5: People Also ask about Airplane Mode
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Q1: Can An iPhone Be Traced While off?
 
 No, it cannot be traced when an iPhone or any other phone is switched off. For example, when an iPhone is switched off, its GPS is not activated, and thus it cannot be traced.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### Q2: Does Find My iPhone Work on Airplane Mode?
 
 No, the Find My iPhone feature does not work in Airplane mode because the location services need a network connection, and thus in Airplane mode, the Realme C53 device is offline, and it isn't easy to track the Realme C53 device.
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q3: Does airplane mode turn off life360
 
 Life360 is a helpful app for tracking your friends, family, and other people. This app tracks your GPS location and displays it to all the selected members in a circle. When the airplane mode on your device is enabled, the network will be disconnected, and thus Life360 will not be able to update your location to the members in the circle. Therefore, during **airplane mode, Life360** will not update your site.
@@ -379,21 +460,33 @@ So, it can be concluded that Airplane Mode disconnects you from the cellular net
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Stop Life360 from Tracking You On Realme C53?
 
 This is the era of smartphones, and most of the people in the world own a smartphone. The advancement in technology brings many apps, including child surveillance apps for smartphones. The apps like Life360 helps parents to track their teenagers and children. But, on the other hand, for some teenagers or adults, Life360 invades their privacy, and they are not like 24\*7 tracking by the app.
 
 ![life360 introduction](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 This is where spoofing Life360 comes handy. No matter whether you own an iPhone or Android, you can spoof Life360 with the right tricks and tools. In this article, we will discuss the different ways to stop Life360 from tracking you. But, before that, let's take a look at what is Life360.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### What is Life360?
 
@@ -403,10 +496,28 @@ Life360 supports both iOS and Android devices. To use, you will need to install 
 
 But as we said before, it is quite uncomfortable to know that someone is tracking you everywhere. So, if you want to hide location on Life360, then this article to know the amazing tricks to stop Life360 from tracking you.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Turn Off Location on Life360
 
 ![turn off location on life360](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 You can turn off the location to stop the Life360 tracking feature. But, with this, keep the background app refresh off. Follow the following steps to turn off the location on life360.
 
 - Open the Life360 on your phone and go to 'Settings' in the lower right corner
@@ -416,9 +527,6 @@ You can turn off the location to stop the Life360 tracking feature. But, with th
 
 **Note:** If you ever press the Check In button, it will update your location in Life360 even if it is turned off. Further, if you press the Help Alert button, this will also turn on the location-sharing feature.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Part 2: Fake Location Apps to Spoofing Life360
 
 The best way to stop Life360 from tracking you is to use fake GPS apps on Android and iOS. There are many fake location apps that you can install in your device to spoof Life360 without any risk to your device.
@@ -430,7 +538,10 @@ To spoof GPS on the iPhone is tricky, and it requires reliable as well as safest
 ![how to spoof life360](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -443,7 +554,10 @@ Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
 ![download dr.fone from official site](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 - After this, install it and launch it. Now connect your iOS device to the system with the USB cable and click on the "get started" button.
 
@@ -454,11 +568,23 @@ Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
 
 ![select teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - After a search for the desired location, click on the "move here" button.
 - Finally, you are ready to spoof to any location in Life360.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -479,6 +605,12 @@ But, before using the app, you will need to enable the developer option and need
 
 ![how to fake life360 location](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Now, follow the following steps to install any fake GPS on Android.
 
 - Open Google Play Store and search for the fake location app
@@ -488,19 +620,18 @@ Now, follow the following steps to install any fake GPS on Android.
 - Under enable developer option go to allow mock location app and select the app you installed from the list
 - Now open the app, and fill your desired location on the map. It is simple to spoof Life360 on Android
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Use a Burner Phone for Life360 Fake Location
 
 The burner is a phone on which you can install Life360 and can put it in one place while going out with another phone. It is a great trick to stop Life360 from tracking you. The only thing is that you should need to have two phones.
 
 For the burner, you can use any device with Google play store or App store, and it can be an old phone as well.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Life360 is a very helpful app for parents and friends group, but still, it becomes irritating sometime to know that people are tracking you. Therefore, you can use tricks to hide your current location from Life360. There are many ways that you can apply Life360 fake location, but if you own iPhone, it needs a reliable tool. [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) (iOS) is best to spoof Life360 without putting your device's security at risk. Try it once!

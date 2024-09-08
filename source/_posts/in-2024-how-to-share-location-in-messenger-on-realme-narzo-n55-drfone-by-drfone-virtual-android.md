@@ -1,0 +1,757 @@
+---
+title: In 2024, How to Share Location in Messenger On Realme Narzo N55? | Dr.fone
+date: 2024-09-07T09:25:32.476Z
+updated: 2024-09-08T09:25:32.476Z
+tags: 
+  - virtual location chang
+  - location changer
+  - location spoofer
+categories:
+  - android
+description: This article describes How to Share Location in Messenger On Realme Narzo N55?
+excerpt: This article describes How to Share Location in Messenger On Realme Narzo N55?
+keywords: change location on Narzo N55,fake location on android,change location on android,fake gps location on android,change gps location on android,fake location on Narzo N55
+thumbnail: https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b3192524b647f6f87b51df7e044d8.png
+---
+
+## How to Share Location in Messenger On Realme Narzo N55?
+
+We usually host a gathering once in a while and invite our friends to come over. Most of us are already used to organizing such activities because we’ve been doing that for a long time now. However, we cannot deny that it’s much easier nowadays than years ago. Why so? Simply because the communication channels available today at our disposal are more digital and more capable. For instance, Facebook Messenger now allows users to share their whereabouts in a snap of a finger. Yes. That feature is called Live Location.
+
+The Live Location feature on Messenger works beyond sending the address or coordinates of your exact location. It basically visualizes your whereabouts by means of an interactive map and updates the details from time to time. That means the receiver can view not only your position but also your movements. Is that helpful? Absolutely yes. It’s indeed a game-changer in today’s already convenient world. Is it highly recommended? With proper handling and adequate caution, Messenger’s Live Location can definitely do more good than harm to the users.
+
+In this article, we will delve into the highlights and benefits of Facebook Messenger’s location-sharing features. We will also provide some tutorials on **how to share Live Location** on Messenger. Continue reading below to learn more.
+
+
+
+## Part 1. Everything You Should Know About Messenger’s Live Location
+
+Facebook is well aware that sharing location details is essential to its users. That’s why developers have come up with a brilliant idea and rolled out Live Location on Messenger. It basically works like other location-sharing features. However, Live Location provides more precise and thorough location information. It’s in map form, where you can view the exact location and track the movements of the sender. You’ll continue to see updates for as long as the sharing is not halted on the other end. To navigate it properly, try to read tutorials on how to share Live Location on Messenger.
+
+![facebook messenger live location](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-1.jpg)
+
+What if you wish to send a particular address from another location? There is no problem with that. Messenger allows users to search for a specific place, trace it on the map, and share the details. The receiver can view it in map form and get directions if necessary. See? It’s very easy and convenient. No need to type in long addresses just to share a particular location with your friend. You just have to find it precisely on the map and send the information afterward.
+
+Convenience is just one thing. Messenger’s location-sharing feature has a lot more to offer to users. One of which is the accuracy of the shared location information. Since the details are automatically generated through GPS, you can be sure that it is correct and definite. If you go out and track it down the neighborhood, you can certainly find the location in no time. Just make sure that the location services on your smartphone are activated so you can view your progress in real time. Also, stay vigilant while you’re out and keep yourself safe from any harm. Remember that safety remains a priority and comes above convenience.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### How to Grant Facebook Messenger the Permission to Access Your Location?
+
+Facebook Messenger’s location-sharing feature will not work without the necessary access. That’s why you should first configure the permission settings on your mobile device to avoid unwanted disruptions. Don’t worry. It’s indeed a piece of cake. Check out the tutorial provided below.
+
+- **1:** Go to **Settings.**
+- **Step 2:** Click **Apps.**
+
+![apps settings](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-2.jpg)
+
+- **Step 3:** Find and click **Messenger.**
+
+![messenger settings](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+- **Step 4:** Click **Permissions.**
+
+![messenger permission settings](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+- **Step 5:** Click **Location.**
+
+![location permission on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-5.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+- **Step 6:** Select **Allow Only While Using the App.** If you’re quite conservative regarding this matter, click **Ask Every Time** instead. After that, Facebook Messenger will have access to your location information.
+
+![allow messenger access](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 2. How to Share My Location on Messenger?
+
+How do I share my location on Messenger? As mentioned earlier, it’s very easy to use Facebook Messenger for location sharing. All it takes is just a few clicks on the platform. No need to manually type in the address or sketch the landmarks. Messenger does the rest of the work for you. In actuality, there are three ways to share your location on Messenger. Any of them can be of great help to you, depending on your current situation. Do you want to try them now? Check out the tutorials below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Method 1: Share location on Facebook Messenger via Live Location
+
+How to share my location on Messenger? Well, the first option you can try is through Live Location. It works best if you wish to tell somebody where exactly you are and give updates from time to time. Don’t worry. Although it looks complicated at a glance, in reality, it’s actually not rocket science. It only takes a few seconds to complete. Below is a tutorial on how to share Live Location on Messenger in easy steps.
+
+- **Step 1:** Open the **Facebook Messenger** application on your mobile device.
+- **Step 2:** Browse through your conversation feed and find the contact with whom you wish to share your Live Location. Click on it.
+- **Step 3:** Click the **More (+)** icon at the bottom-left corner of the screen.
+
+![more button messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-7.jpg)
+
+- **Step 4:** Right after, click **Location.**
+
+![location option on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-8.jpg)
+
+- **Step 5:** Click **Start Sharing Live Location.** Immediately, your current location details will be available and forwarded to the intended receiver. Live Location lasts for 60 minutes at maximum. If you wish to terminate it, simply click **Stop Sharing Live Location.**
+
+![share live location on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-9.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Method 2: Share location on Facebook Messenger via Pinned Location
+
+Let’s say there is a specific place you want to visit with your friend. Is there a way to share the address of the venue without you being there at the moment? Fortunately, it is possible. Apart from sharing your current location in real-time via Live Location, you can also send pinned locations on Messenger. You just need to search for it and then redirect the details to your friend. Yes. It’s just as simple as that. Do you want to try it on your smartphone? If so, follow the guide below.
+
+- **Step 1:** Launch the **Facebook Messenger** application on your mobile device.
+- **Step 2:** Scroll through your conversations and find the receiver from the list. Click on it.
+- **Step 3:** On the text field, click the **More (+)** icon at the bottom-left corner.
+- **Step 4:** Then, click **Location.**
+- **Step 5:** Locate the search bar above the interactive map and type in the location you want to share.
+
+![search location on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-10.jpg)
+
+- **Step 6:** Choose one from the suggested results and then click on it. The details will then be forwarded immediately to the intended receiver.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Method 3: Share location on Facebook Messenger via Google Maps location
+
+How do I share my location in Messenger if I cannot find it on the map provided? Yes. That happens sometimes. There are certain places that are untraceable on the messaging platform. As a result, it doesn’t appear on the map when you try to search for it. But don’t sweat it. If you experience the same issue, you can instead use Google Maps to share location details. How to do it? Check out the tutorial provided below.
+
+- **Step 1:** Launch the **Google Maps** application on your mobile device.
+- **Step 2:** Click on the **Search** bar at the top and then type in the location.
+
+![google maps search bar](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+- **Step 3:** Choose one from the suggestions and then tap on it. Make sure that it is exactly what you’re looking for.
+
+![location choices](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-12.jpg)
+
+- **Step 4:** Access the menu bar below the map and then click **Share.**
+
+![share google maps location](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-13.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+- **Step 5:** From there, click **Chats** or the **Facebook Messenger** logo.
+- **Step 6:** Find the receiver from the provided list and then click the **Send** button next to its name.
+
+![send google maps location](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**NOTE:** Of course, you can only send pinned locations via Google Maps. The Facebook Messenger’s Live Location is available within the platform only.
+
+## BONUS TIP: Protect Your Privacy With [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+
+There’s no denying that the location-sharing feature of Facebook Messenger is useful to many of us. It always comes in very handy whenever we need to meet people somewhere or invite them to our places. However, we should not become too complacent and let our guard down. Sharing sensitive information like whereabouts always comes with risk, regardless of the platform and the intention. Therefore, make it a habit to protect your privacy at all costs. In this regard, Wondershare Dr.Fone has something special to offer. Its Virtual Location feature, capable of modifying and simulating your location records, can be of great help for you. Don’t worry. It’s very easy to use. Here’s a short guide for you.
+
+
+
+- **Step 1:** Download Wondershare Dr.Fone from its [<u>official website.</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) Right after, install it on your computer.
+- **Step 2:** Launch the newly installed software on your desktop. Once it fully loads up, connect your smartphone using a data cable. Follow the on-screen instructions and perform the steps accordingly to ensure the connection between the two devices is stable enough to handle the succeeding operations.
+- **Step 3:** Navigate to the left-side panel and then click **Toolbox.** On the main dashboard, click **Virtual Location.** Is it your first time using this feature? If so, allow Wondershare Dr.Fone to download additional resources. Don’t sweat it. It will only take a few minutes to complete.
+- **Step 4:** Once the downloading process has concluded, Wondershare Dr.Fone - Virtual Location will automatically open on a separate window. From there, go to the top-right menu bar and then click **Teleport Mode.** It is the first icon that appears in the row.
+
+![wondershare drfone teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+- **Step 5:** Head over to the top-left corner and enter your desired location into the search bar. Choose one from the suggested results. After that, click the **Enter** icon.
+
+![search preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+- **Step 6:** The details regarding your chosen location will be displayed on the computer screen. Review the information and make sure that it is the specific location you’re looking for. Once confirmed, click **Move Here** to proceed.
+
+![move to the selected location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+- **Step 7:** Immediately, the location settings on your smartphone will be changed according to the inputs you have provided to Wondershare Dr.Fone. You can verify it by checking the current location registered on your Maps app. After confirming that your mobile device is now showing a different location, you can now start browsing without worrying about your location’s privacy.
+
+![location changed on smartphone](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
+
+**NOTE:** Resort to Wondershare Dr.Fone - Virtual Location if your internet browsing does not require you to provide your real address. If you wish to restore your original location settings, simply close the Wondershare Dr.Fone application and restart your smartphone.
+
+## Conclusion
+
+Gone are the days when you had to write invitation cards manually and deliver them one by one. Nowadays, all you need to do is go online and use Messenger’s location-sharing feature. Have you already tried it? If not, you should take it into consideration and use it on your next agenda. Refer to the tutorial above on how to share Live Location on Messenger. It can certainly help you get started. How do I share my location on Messenger without physically being there? That’s simple. Use Messenger or Google Maps’s pinned location. Furthermore, download [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) on your computer. Its Virtual Location feature, capable of modifying your location settings, can provide protection for your privacy. Just connect your Realme Narzo N55 to the computer and set it up from there.
+
+
+
+## How to Stop Life360 from Tracking You On Realme Narzo N55?
+
+This is the era of smartphones, and most of the people in the world own a smartphone. The advancement in technology brings many apps, including child surveillance apps for smartphones. The apps like Life360 helps parents to track their teenagers and children. But, on the other hand, for some teenagers or adults, Life360 invades their privacy, and they are not like 24\*7 tracking by the app.
+
+![life360 introduction](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+This is where spoofing Life360 comes handy. No matter whether you own an iPhone or Android, you can spoof Life360 with the right tricks and tools. In this article, we will discuss the different ways to stop Life360 from tracking you. But, before that, let's take a look at what is Life360.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### What is Life360?
+
+Life360 is basically a tracking app that you can use to share your location with friends or to track your teenager. Also, with this app, you can also do chit-chatting with your friends and family members via the in-app chat feature.
+
+Life360 supports both iOS and Android devices. To use, you will need to install it on your device and have to turn on location services so the members in your group name can track you.
+
+But as we said before, it is quite uncomfortable to know that someone is tracking you everywhere. So, if you want to hide location on Life360, then this article to know the amazing tricks to stop Life360 from tracking you.
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 1: Turn Off Location on Life360
+
+![turn off location on life360](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-2.jpg)
+
+You can turn off the location to stop the Life360 tracking feature. But, with this, keep the background app refresh off. Follow the following steps to turn off the location on life360.
+
+- Open the Life360 on your phone and go to 'Settings' in the lower right corner
+- You will see a circle switcher on the screen, select the circle you want to stop sharing location
+- Now, click on 'Location Sharing' and toggle off to turn off the location setting
+- Now, you can see on the map that "Location Sharing Paused."
+
+**Note:** If you ever press the Check In button, it will update your location in Life360 even if it is turned off. Further, if you press the Help Alert button, this will also turn on the location-sharing feature.
+
+## Part 2: Fake Location Apps to Spoofing Life360
+
+The best way to stop Life360 from tracking you is to use fake GPS apps on Android and iOS. There are many fake location apps that you can install in your device to spoof Life360 without any risk to your device.
+
+### 2.1 How to spoof life 360 iPhone
+
+To spoof GPS on the iPhone is tricky, and it requires reliable as well as safest tools like [Dr.Fone – Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/).
+
+![how to spoof life360](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+This tool is specially designed for iOS users that help to spoof location without causing any risk to your data. The best thing is that it is very easy to use and easy to install, as well. Also, in Dr.Fone – Virtual Location (iOS), you can teleport anywhere and can customize your speed. With just one click, you are able to spoof Life360 and other location-based apps.
+
+Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
+
+- First, you will need to download it from the official site on your PC or system.
+
+![download dr.fone from official site](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+- After this, install it and launch it. Now connect your iOS device to the system with the USB cable and click on the "get started" button.
+
+![click on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+- Now you will see a map interface with your current location.
+- On the map, you can select teleport mode from the top right corner and can search for the desired location.
+
+![select teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+
+- After a search for the desired location, click on the "move here" button.
+- Finally, you are ready to spoof to any location in Life360.
+
+
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+
+1-Click Location Changer for both iOS and Android
+
+- Teleport from one location to another across the world from the comfort of your home.
+- With just a few selections on your computer, you can make members of your circle believe you’re anywhere you want.
+- Stimulate and imitate movement and set the speed and stops you take along the way.
+- Compatible with both iOS and Android systems.
+- Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
+
+**3981454** people have downloaded it
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 2.2 How To Fake Life360 Location On Android
+
+To spoof Life360 on Android, you can install ant fake location app on your device. There are many fake GPS apps available for Android, some of which are free, and some are paid.
+
+But, before using the app, you will need to enable the developer option and need to allow mock location feature of android devices. For this, go to about phone under settings and look for the build number. Once you found the build number, tap on it seven times to enable the developer option.
+
+![how to fake life360 location](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Now, follow the following steps to install any fake GPS on Android.
+
+- Open Google Play Store and search for the fake location app
+- Now, from the list, install any app that suits you it can be free or paid
+- Now, launch the fake GPS on your device by following the process
+- After this, go back to the settings of the phone and look for enable developer
+- Under enable developer option go to allow mock location app and select the app you installed from the list
+- Now open the app, and fill your desired location on the map. It is simple to spoof Life360 on Android
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 3: Use a Burner Phone for Life360 Fake Location
+
+The burner is a phone on which you can install Life360 and can put it in one place while going out with another phone. It is a great trick to stop Life360 from tracking you. The only thing is that you should need to have two phones.
+
+For the burner, you can use any device with Google play store or App store, and it can be an old phone as well.
+
+## Conclusion
+
+Life360 is a very helpful app for parents and friends group, but still, it becomes irritating sometime to know that people are tracking you. Therefore, you can use tricks to hide your current location from Life360. There are many ways that you can apply Life360 fake location, but if you own iPhone, it needs a reliable tool. [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) (iOS) is best to spoof Life360 without putting your device's security at risk. Try it once!
+
+
+
+
+
+## A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme Narzo N55
+
+Mozilla Firefox is one of the most famous browsers known for its security. Like other browsers, it also tracks your location and shares it with websites. Although Firefox asks for your permission before sharing your location, it can still be a privacy concern for many people. For many reasons, disabling your location is disadvantageous, so **Firefox spoof location** can resolve your concerns.
+
+It is not hard to change or spoof your location in Mozilla Firefox. Stick with this article to learn different ways to **fake a location in Firefox** on devices.
+
+![firefox featured image](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 1: Preparations Before Spoofing Your Location in Firefox
+
+Before starting with **Firefox location spoof**, you must be aware of how the platform and websites determine your location. There are many ways a browser can detect your location. It includes services like IP addresses, GPS tracking, Wi-Fi, and Bluetooth. The main tool browsers and websites use to determine your location is HTML5 Geolocation API.
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 1\. Basic Understanding of the HTML5 Geolocation API
+
+Basically, a browser API called HTML5 Geolocation API is used by websites and browsers to detect a user's location using longitude and latitude coordinates. It is strictly based on user permissions for detecting location. That means you will receive a permission prompt whenever a website or browser uses it to detect your location. If you refuse the permission, they can't use this API for location determination.
+
+### 2\. How Does HTML5 Geolocation Work?
+
+HTML5 Geolocation determines your location using the longitude and latitude coordinates with the help of GPS. If your device doesn't have GPS tracking, it uses Wi-Fi and cell tower signals to detect the Realme Narzo N55 device's location. The location detected by HTML5 Geolocation is highly accurate with accuracy up to street level. Due to its high precision in locating users, it can create privacy issues for users.
+
+## Part 2: How to Fake Your Location in Mozilla Firefox on Computers
+
+Many ways are available for you to fake or disable your desktop location in Mozilla Firefox to address your privacy concerns. You can either disable or change the location in the browser or use a third-party app or extension. Below, we have explained the three most common ways to fake or disable your location in Firefox.
+
+### Method 1: Disable Geolocation in Firefox
+
+If you want to stop websites from accessing your location from Mozilla Firefox, you can disable the geolocation feature using Firefox Settings. The process to disable your location in Mozilla Firefox is covered using these steps:
+
+**Step 1:** Open Mozilla Firefox on your computer to disable its location. Click the "Three Vertical Bars" icon to select "Settings." Now, tap "Privacy & Security" from the left sidebar and navigate to "Permissions."
+
+![access privacy and security](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-2.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**Step 2:** Click "Settings" in front of "Location" to manage the location settings. It will open a window with a list of all the websites that can access your location. Depending on your needs, you can choose between "Remove Web Site" or "Remove All Web Sites" to remove their location access.
+
+![remove the specific or all websites](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**Step 3:** If you want to block the websites from accessing your location indefinitely, you can select the "Block new requests asking to access your location" option. Once selected, click "Save Changes" to disable your geolocation on Firefox.
+
+![enable the block new option](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Method 2: Manually Change Your Firefox Location
+
+Disabling your location on Mozilla Firefox can stop websites from accessing your location. It also means websites with location-based services will no longer work. That's why it is better to **spoof the location on Firefox** rather than disabling it. Firefox allows you to manually change your location using its advanced settings. The steps required for this process are given below:
+
+**Step 1:** Once Mozilla Firefox is open, type "about:config" and press Enter. You will see a warning screen as you modify advanced settings. You have to click on the "Accept the Risk and Continue" button to proceed further.
+
+![hit the accept the risk button](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-5.jpg)
+
+**Step 2:** First search for "Geo.enabled," and when it appears, toggle its value from "True" to "False" to disable geolocation. To spoof your location, search for "geo.provider.network.url" and press the "Pen" icon to edit it.
+
+![tap on the edit button](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-6.jpg)
+
+**Step 3:** You can enter your desired location using its latitude and longitude coordinates. The format to enter your location coordinates should be:
+
+**"data:application/json,{"location": {"lat": LATITUDE VALUE, "lng": LONGITUDE VALUE}, "accuracy": 27000.0}."**
+
+Once done, your geolocation will be changed to your desired location.
+
+![add your fake firefox location](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Method 3: Use The Location Guard Firefox Extension
+
+Another way you can protect your location from websites is to use the "[Location Guard](https://addons.mozilla.org/en-US/firefox/addon/location-guard/)" add-on in Mozilla Firefox. It is generally recognized as an extension, also available in the Add-Ons Store of Firefox. The steps to add "Location Guard" and use it to alter your location are following:
+
+**Step 1:** Click on the "Three Vertical Bars" icon from the top left corner of your Firefox and select "Add-ons and themes." Tap "Extensions" from the left sidebar and search for "Location Guard" in the Add-Ons Store. Once located, click "Add to Firefox" to add it to your browser.
+
+![add the extension to firefox](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-8.jpg)
+
+**Step 2:** You can choose between two options to protect your location's privacy. Using the "Privacy Levels" option, you can select a privacy level and location range to add noise when a website tries to locate you. It stops websites from detecting your accurate location, though they can still locate the general area.
+
+![set the privacy levels](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-9.jpg)
+
+**Step 3:** Using its "Fixed Location" feature from the left sidebar, you can change your location. Here, select any location from the map by placing the "Marker" on it to change your browser's location.
+
+![set the fixed location](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 3: How to Fake Your Location in Mozilla Firefox on Phones
+
+It is not only on computers where you can use Firefox fake location but also on smartphones. You can easily disable or change your Firefox location on your iOS or Android device. Three different methods to disable or change the location in Mozilla Firefox are summarized below:
+
+### Method 1: Disable Geolocation Sharing on the Firefox Browser
+
+If you use the Firefox browser on your phone, it allows you to disable your location using a couple of simple steps. Disabling location services for the Firefox browser differs on Android and iOS devices. A detailed step-by-step process for disabling location is given below for both platforms:
+
+**On Android**
+
+**Step 1:** Open the Firefox browser on your phone and press the "Three Dots" icon from the bottom right corner. Select "Settings" from the menu and navigate to the "Privacy and Security" section.
+
+![access the firefox settings](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-11.jpg)
+
+**Step 2:** Now, tap "Site Permissions" and select "Location." In the "Location" option, select "Blocked" to disable the location access on the Firefox browser.
+
+![enable the blocked option](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**On iPhone**
+
+**Step 1:** On your iPhone, open "Settings" and scroll down to "Firefox." After locating the app, select it and press "Location" on the next screen.
+
+![choose the firefox app](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-13.jpg)
+
+**Step 2:** In the "Location" menu, you can select "Never" to completely disable the location access for the Firefox browser. To only stop Firefox from detecting your accurate location, turn off the toggle of the "Precise Location" option.
+
+![disable the firefox ios location](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Method 2: Spoof Your Location in Firefox Using Dr.Fone - Virtual Location
+
+Nowadays, many websites work with the help of location-based services. Disabling geolocation from the Firefox browser means they won't work. It means you need a tool that can change your Firefox location without affecting your favorite platforms.
+
+[Wondershare Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) provides you with an excellent way to do **Firefox location spoofing**. You will not have to worry about websites or apps detecting your location as fake when using this tool.
+
+
+
+### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+
+1-Click Location Changer for both iOS and Android
+
+- Teleport from one location to another across the world from the comfort of your home.
+- With just a few selections on your computer, you can make members of your circle believe you’re anywhere you want.
+- Stimulate and imitate movement and set the speed and stops you take along the way.
+- Compatible with both iOS and Android systems.
+- Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
+
+**3981454** people have downloaded it
+
+**Main Features of Dr.Fone - Virtual Location**
+
+- Dr.Fone - Virtual Location allows you to play location-based games. It includes games like Pokémon Go, Minecraft Earth, and Jurassic World Alive, all from the comfort of your bed.
+- If you use a dating app like Tinder or Bumble, you can increase your likes and matches using this tool.
+- You can bypass the geo-restriction of apps and enjoy their content with the tool's help.
+
+
+
+**Steps Required for Spoofing Location in Firefox via Dr.Fone - Virtual Location**
+
+Using Dr.Fone- Virtual Location to spoof your location in Mozilla Firefox is simple and quick. You will need to install Dr.Fone on your computer and follow these steps for location spoofing:
+
+**Step 1: Install Dr.Fone on Your System**
+
+Download and install Dr.Fone on your computer and connect your phone to it. Access Dr.Fone, select "Virtual Location," and click "Get Started" on the next screen to begin the process.
+
+![choose the virtual location tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+**Step 2: Activate the Teleport Mode on Dr.Fone**
+
+After clicking "Get Started, " a map will open where you must select your original location. It can be done using the "Center On" icon from the right sidebar. To choose your fake location, you will need to activate "Teleport Mode" from the top right corner.
+
+![activate the teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+
+**Step 3: Spoof Your Location in Firefox**
+
+Enter your desired fake location in the provided space and press "Go" once the mode is activated. It will take you to the entered location, where you need to select "Move Here" to complete the process. You can confirm the location spoof by opening any location-based app on your phone.
+
+![confirm the fake location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+### Method 3: Change Your Location in Firefox Using ExpressVPN
+
+Browsers like Mozilla Firefox tracks your location by using your IP address. You can use a VPN to spoof your IP location to protect your actual location from websites. [ExpressVPN](https://www.expressvpn.com/) is a VPN that is available for both Android and iOS devices. You can use these steps to change your location using ExpressVPN:
+
+**Step 1:** Install ExpressVPN on your phone and create an account for it. If you are already a user of ExpressVPN, then log in with your account.
+
+**Step 2:** Select your desired fake location from the "Smart Location" tab after logging in. Once a location is selected, press "Connect" to change to the desired fake location.
+
+![select the expressvpn location](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-18.jpg)
+
+### Conclusion
+
+In today's digital world, you have to compromise your privacy to some extent. However, it doesn't mean that you should not try to use tools available to you to protect your privacy to the limit. [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) solves your concerns regarding location sharing with ease. With this tool, you can **fake location in Firefox** and still enjoy all the features and services offered by location-based websites and apps.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-apex-10-virtual-warrior-battles/"><u>[New] 2024 Approved Apex 10 Virtual Warrior Battles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-obscured-feedback-on-youtube-videos/"><u>[New] Exploring Obscured Feedback on YouTube Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-reality-vs-virtuality-sustaining-vr-creativity-innovation/"><u>[New] Reality Vs. Virtuality Sustaining VR Creativity Innovation</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-leveraging-built-in-recorders-on-mate-1020-and-p2010-series-to-screen-capture/"><u>[Updated] In 2024, Leveraging Built-In Recorders on Mate 10/20 & P20/10 Series to Screen Capture</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-speed-ramping-to-create-a-footage/"><u>2024 Approved How to Use Speed Ramping to Create a Footage</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/call-of-duty-enthusiasts-unraveling-the-mystery-behind-black-ops-cold-war-error-code-887a0005/"><u>Call of Duty Enthusiasts: Unraveling the Mystery Behind Black Ops Cold War Error Code 887A0005</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-your-ride-with-these-10-sj4000-essentials/"><u>Elevate Your Ride with These 10 SJ4000 Essentials</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-z-flip-5-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Samsung Galaxy Z Flip 5 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-apple-iphone-7-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Fake GPS On Apple iPhone 7 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Poco M6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-honor-90-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Honor 90 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-motorola-edge-40-neo-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Motorola Edge 40 Neo Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-oppo-a18-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Oppo A18 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-oppo-k11x-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Oppo K11x Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-samsung-galaxy-a15-4g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Samsung Galaxy A15 4G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Vivo Y100 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Vivo V30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-vivo-s18-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essential-companion-for-new-diablo-players/"><u>The Essential Companion for New Diablo Players</u></a></li>
+<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Tecno Spark 10 Pro | Dr.fone</u></a></li>
+</ul></div>

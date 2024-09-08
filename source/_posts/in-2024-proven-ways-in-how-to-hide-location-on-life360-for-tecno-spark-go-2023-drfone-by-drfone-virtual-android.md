@@ -1,7 +1,7 @@
 ---
 title: In 2024, Proven Ways in How To Hide Location on Life360 For Tecno Spark Go (2023) | Dr.fone
-date: 2024-09-02T22:45:50.901Z
-updated: 2024-09-03T22:45:50.901Z
+date: 2024-09-07T09:13:58.332Z
+updated: 2024-09-08T09:13:58.332Z
 tags: 
   - virtual location change
   - social app
@@ -23,10 +23,34 @@ Building trust can foster a sense of autonomy. Help maintain a healthy parent-te
 
 ![how to hide life360 location banner](https://images.wondershare.com/drfone/article/2024/01/hide-location-on-life360-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. Best Method To Hide Location on Life360 Without Them Knowing
 
 Keep reading if you need to know **how to hide your location on Life360 without anyone knowing**. The most effective method is using a virtual location changer. These tools can alter the GPS coordinates your phone sends. It allows you to appear in a different location than where you are. Here are five tools you can use to hide location on Life360.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Wondershare Dr.Fone
 
 [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Virtual Location is a versatile and reliable virtual location changer. The tool is compatible with both iOS and Android devices. Known for its diverse functions, it allows you to hide your real location. The platform provides a solution for those seeking privacy on location-sharing apps like Life360. Here are its key strengths:
@@ -52,6 +76,12 @@ Follow the steps to learn **how to hide your location on Life360 without anyone 
 
 ![dr.fone virtual location map interface](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 3**: Input the desired number of back-and-forth movements. Choose between a **Round** trip or a **Loop** trip. Adjust the walking speed using the slider. Click **Move Here** at the bottom to initiate movement. To pause the simulation, click **Pause**, or tap **Clear** to revert to your original state.
 
 ![dr.fone moving your gps simulation](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
@@ -59,7 +89,10 @@ Follow the steps to learn **how to hide your location on Life360 without anyone 
 - **Step 4:** Activate **Teleport Mode** by selecting the first icon from the left. Use the **Search** bar to type in your desired location. Hit **Enter**, and the map will display the specified location. To shift your smartphone’s location, click **Move Here**. The map will reflect the change, confirming the successful teleportation.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### ExpressVPN
 
@@ -67,6 +100,12 @@ ExpressVPN, a renowned VPN service, enhances online privacy by masking your IP a
 
 ![expressvpn website interface](https://images.wondershare.com/drfone/article/2024/01/hide-location-on-life360-07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fake GPS Location Spoofer
 
 Fake GPS Go Location Spoofer is an Android app that allows users to change their GPS location. Unlike some other tools, it does not support PC use or provide additional features like joystick simulation. The app is a simple solution for Android users seeking to modify their location without complicating the process.
@@ -74,10 +113,10 @@ Fake GPS Go Location Spoofer is an Android app that allows users to change their
 ![fake gps location spoofer app](https://images.wondershare.com/drfone/article/2024/01/hide-location-on-life360-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### A Comparison Among the Five Virtual Location Changer
 
@@ -90,14 +129,26 @@ Among the various apps available, [<u>Wondershare Dr.Fone</u>](https://tools.tec
 | Fake GPS Go Location Spoofer Free | Android | No | No | Single |
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part II. 7 Other Methods To Hide Location on Life360
 
 Here are alternative solutions to hide your location on Life360 without resorting to third-party apps. These methods might not provide a foolproof solution, and their effectiveness can vary.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Turn On Airplane Mode
 
@@ -105,6 +156,18 @@ Enabling Airplane Mode on your smartphone disables all wireless communication, i
 
 ![iphone airplane mode](https://images.wondershare.com/drfone/article/2024/01/hide-location-on-life360-11.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Turn Off WiFi and Data
 
 Disabling WiFi and mobile data prevents your phone from sending location updates to Life360. Note that the method may raise suspicion if others notice your lack of connectivity.
@@ -116,7 +179,10 @@ You can turn off Location Services or switch to a less precise location mode in 
 ![iphone location services and precise mode](https://images.wondershare.com/drfone/article/2024/01/hide-location-on-life360-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Low Data Mode
 
@@ -141,7 +207,10 @@ Whether to hide your location on Life360 involves weighing the advantages and dr
 ![hiding your life360 location banner](https://images.wondershare.com/drfone/article/2024/01/hide-location-on-life360-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Pros of Hiding Your Location on Life360**
 
@@ -156,7 +225,16 @@ Whether to hide your location on Life360 involves weighing the advantages and dr
 - **Violation of agreements.** If you’re part of a Life360 circle, hiding your location might violate agreements within the circle. It can lead to misunderstandings and conflicts.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Bonus. For Parents: Your Child Hid Life360 Location – What Now?
 
@@ -164,6 +242,12 @@ Discovering that your child learned **how to hide location on Life360** can be a
 
 ![discovering kids turning off life360 location](https://images.wondershare.com/drfone/article/2024/01/hide-location-on-life360-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Be Open and Honest
 
 Approach the situation with openness and honesty. Start a non-confrontational conversation to understand the reasons behind their decision. Creating a safe space for dialogue encourages trust and helps address concerns.
@@ -176,21 +260,39 @@ Highlight the positive aspects of Life360. Focus on its role in ensuring safety 
 
 Suggest exploring alternative location-sharing apps that may align better with your child’s comfort level. Involving them in the decision-making process allows for compromise. It helps strike a balance between privacy and safety concerns.
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 While options like Airplane Mode and disabling location services exist, the most secure and comprehensive choice is Wondershare Dr.Fone. The virtual location changer allows discreet location adjustments without alerting anyone. With features like teleportation and joystick simulation, it’s the safest method for maintaining privacy on Life360.
 
 For those seeking to master **how to hide your location on Life360 without anyone knowing**, Dr.Fone is the preferred solution. The tool ensures a reliable and inconspicuous experience.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Change/Fake Your Tecno Spark Go (2023) Location on Viber
 
 Viber is one of the most commonly used messenger apps. It allows you to send short messages like texts, videos, images, audio, and documents. Viber also has another exciting feature that will enable you to share your location. But sometimes, you might want to **change location on Viber** to prank your friends or for security purposes. So, read on to learn how to **fake location on Viber** with some simple solutions.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 1: What is the My Location feature on Viber?
 
@@ -206,6 +308,12 @@ Step 1. Fire up your Viber app on mobile or PC and tap the **Chats** button. Her
 
 ![change location on Viber open chats](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of the screen and choose **Chat Info**. Alternatively, simply swipe the screen to the left.
 
 ![change location on Viber, tap chat info](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-2.jpg)
@@ -214,12 +322,21 @@ Step 3. On the Chat Info window, simply enable or disable the **Attach location 
 
 ![change location on Viber to allow location sharing](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Pro tip**: You might be wondering how to share your actual Viber location with a chat or group. Again, this is very straightforward. Simply open the conversation and tap the three dots on the text field. Then, click the **Share Location** button and choose your location on the Google map. Lastly, tap **Send location** to share the Viber location with your selected contact.
 
 ![change location on Viber share location](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3: Can I send a fake location on Viber, and How?
 
@@ -248,12 +365,10 @@ Steps to change Viber location with Dr.Fone:
 ![change location on Viber, open virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Install and run Wondershare Dr.Fone on your Windows/Mac computer, and then tap the **Virtual Location** tab on the Home page.
 
@@ -266,7 +381,10 @@ Connect your smartphone to your PC using a USB wire and tap **Get Started** on t
 ![ change location on Viber, connect the phone](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Press the **Next** button to begin connecting your phone to Dr.Fone. If the connection fails, enable USB debugging on your phone by following the on-screen instructions. On Android phones, tap **Settings > Additional settings > Developer options > USB debugging**. In addition, set Dr.Fone as the mock location app on your phone.
 
@@ -274,18 +392,24 @@ Press the **Next** button to begin connecting your phone to Dr.Fone. If the conn
 
 ![change location on Viber, choose location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 If the connection is successful, the Virtual Location map will launch automatically on Dr.Fone. Now enter the coordinates or address in the location field at the top-left corner. After finding the exact location that you want, simply tap **Move Here** before sharing your new location on Viber. That is easy, right?
 
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -298,9 +422,6 @@ If the connection is successful, the Virtual Location map will launch automatica
 
 **3981454** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4: Why send fake location on Viber?
 
 Now that you know how to spoof location on Viber. Let’s discuss some reasons to spoof location on this messaging app. Below are some common ones:
@@ -317,13 +438,16 @@ Do you want to show your friends that you’re in London or New York when you’
 
 If you’re a digital marketer, you might want to convince your potential clients that the goods are from a specific region or city close to them. Believe it or not, this can lead to more sales closures.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Wrap it Up
 
 You can share your live location on Viber just like you would on Facebook, WhatsApp, and other social media apps. But because most of these apps don’t allow you to share fake locations, I recommend [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) change your area to anywhere in the world. Give it a try!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## How to Share/Fake Location on WhatsApp for Tecno Spark Go (2023)
 
 Whether you have Android or iPhone, at some point, you need to trick your phone that you are somewhere else. It can be weird as most of us use the GPS app to get our real location, find directions, and see weather updates. However, in some situations, we need to **[fake locations](https://www.virtuallocation.com/fake-location/)** to get access to some features on our phones or do something else legitly. So, if you want to know how to send a fake location on WhatsApp, then we have a detailed guide for you.
@@ -340,9 +464,6 @@ Whatever your reason is to fake location on WhatsApp, you can use a third-party 
 
 ## Part 2. All You Want to Know about WhatsApp Location Function
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.1 Send Location on WhatsApp
 
 #### 2.1.1 Merits & Demerits
@@ -362,7 +483,10 @@ As you've learned some essential merits and demerits about sharing locations on 
 ![send whatsapp location](https://images.wondershare.com/drfone/article/2024/01/share-fake-location-on-whatsapp-android-iphone-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 2.2. Pin a Location in WhatsApp Location Service
 
@@ -382,22 +506,28 @@ The live location feature is entirely optional, and it depends on whether you wa
 
 ![choose the Location option](https://images.wondershare.com/drfone/article/2019/10/select-location-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3\. There you will see the "Share Live Location" option and then continue. The GPS will automatically pin down your current location, and you will get an option to select the duration for which you want to share the location.
 
 ![Share Live Location](https://images.wondershare.com/drfone/article/2019/10/pin-your-location.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Specify the period and continue you begin the sharing.
 
 And that’s how you pin a location. If at some point, you decide that you don’t want to share your location, then you can stop it manually.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3. Use a Location Spoofer to Fake Location On both Android and iPhone WhatsApp
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3.1 Fake location or Live Location on WhatsApp using Dr.Fone Location Spoofer
 
 There are times when we want to share a fake location or send fake live location on WhatsApp with our contacts. While Android users can use a readily available fake location app, both Android and iOS users can try a dedicated tool like [Dr.Fone - Virtual Location (iOS & Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this user-friendly application, you can change your location to anywhere in the world with a single tap. You can start and stop the simulation anytime and even simulate movement between different spots, which is helpful for sharing fake live location.
@@ -422,9 +552,6 @@ Using an authentic lightning cable, connect your Tecno Spark Go (2023) to the co
 
 ![connect your Tecno Spark Go (2023) to the computer](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 _Step 2: Look for any location of your choice_
 
 A map-like interface would be launched on the screen with dedicated options at the top-right corner. Just click on the teleport feature, which is the first option here.
@@ -441,9 +568,6 @@ To change your location, move the pin as per your requirements, and click on the
 
 ![mock your location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 This will display the changed location of your device on the interface, and you can stop the simulation whenever you want.
 
 ![stop the simulation](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
@@ -452,9 +576,6 @@ You can also open any app on your Tecno Spark Go (2023) and see the new location
 
 ![go to WhatsApp](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 #### Send Fake Live Location with One-Stop Route/Multi-Stop Route
 
 You already know how to send fake locations on WhatsApp via teleport mode, you can show your friends or family like you are moving in real life with the help of the One-Stop/Multi-Stop Route feature of Wondershare Dr.Fone – Virtual Location. Follow the instructions provided below to fake live location on WhatsApp:
@@ -463,18 +584,23 @@ Step 1: Activate the "One-Stop Route" or "Multi-Stop Route" feature from the top
 
 ![click one-stop route](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 Step 2: Afterward, select the trip type, number of rounds, and speed according to your requirements and press the “Start Moving” button to initiate the multi-stop route feature.
 
 ![go to WhatsApp](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 3.2 Fake location on WhatsApp using iTools location spoofer
 
@@ -493,17 +619,30 @@ Step 3: Now, launch the WhatsApp app and click on the Share Location option. The
 To get your real location back, you will have to reboot your Tecno Spark Go (2023). But you can only do this only 3 times for free. Also, this trick works on any iPhone running on iOS 12 and older.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 4. Use Location Faking App from Google Play (Android Specific)
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 4.1. How to Select a Good App to Fake Location?
 
@@ -516,6 +655,12 @@ The main purpose of using [third-party apps to fake locations](https://drfone.wo
 
 You can use [Fake GPS Location](https://play.google.com/store/apps/details?id=com.lexa.fakegps&&hl=en) (or any other app you see proper) to help fake WhatsApp locations on Android. You can also use any other app considered suitable. The operations are just similar.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. How to Fake Your Location?
 
 You will be glad to know that it is not that hard to fake live location for WhatsApp if you are using the right application. Here, we will explore using the Fake GPS Location app to share a fake location.
@@ -525,7 +670,16 @@ Step 1: Open Settings > Privacy > Location Services and turn the setting on. Als
 ![Play Store](https://images.wondershare.com/drfone/article/2019/10/fake-gps-location-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step 2: Go to the Settings and open "About Phone" info. Find the Build number and tap on 7 times to access the Developer Settings. From developer options, enable the "Allow Mock Locations" option.
 
@@ -535,18 +689,18 @@ Step 3: Now, open the app and search the location that you want to send. Once yo
 
 ![Set Location option](https://images.wondershare.com/drfone/article/2019/10/set-fake-location.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Step 4: Now, open WhatsApp and click on the Share location option. Choose the option whether you want to send your current location or you want to share your Live Location and press send.
 
 ![Live Location](https://images.wondershare.com/drfone/article/2019/10/share-fake-location.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 If you have shared the fake live location, remember to change it after 15 or 30 minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 5. Can I Find My Friend Has Faked WhatsApp Location?
 
 Some people often wonder if they share fake locations on WhatsApp, then there is a slight chance that their friends do the same with them. But it is a simple trick to figure out if someone has sent a fake location to you.
@@ -554,7 +708,16 @@ Some people often wonder if they share fake locations on WhatsApp, then there is
 ![identify fake location](https://images.wondershare.com/drfone/article/2019/10/identify-fake-location.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 It is pretty simple, and if someone has sent you a fake location, you will see a red pin dropped on the location with the address text. However, there will be no text address if the location that is shared is original. And that’s how you identify that someone has shared a fake location.
 
@@ -562,6 +725,12 @@ Bonus Tip: How to transfer WhatsApp data from one device to another device witho
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - WhatsApp Transfer](https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/)
 
 One-click to transfer WhatsApp messages from One Device to Another Device.

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix Sony Xperia 1 V Find My Friends No Location Found? | Dr.fone
-date: 2024-09-02T22:40:05.924Z
-updated: 2024-09-03T22:40:05.924Z
+date: 2024-09-07T09:14:06.259Z
+updated: 2024-09-08T09:14:06.259Z
 tags: 
   - virtual location chang
   - location changer
@@ -14,6 +14,12 @@ keywords: fake gps location on android,change gps location on android,fake locat
 thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad2338e40c998d0c7dc6ff96d9a.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Fix Sony Xperia 1 V Find My Friends No Location Found?
 
 [![avatar](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
@@ -40,9 +46,21 @@ _**Option #4:**_ The other user must have set up the wrong date and time. If the
 
 ![no location found](https://images.wondershare.com/drfone/article/2022/06/find-my-friends-no-location-found-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - _**Step 1:**_ Go to "Settings" and then "Privacy".
 - _**Step 2:**_ You can then go to "Location Services" and make sure that the application "Find My Friends" is enabled to track your location.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Tips To Fix "No Location Found" Available
 
 If you encounter an issue that says "No Location Found", there are numerous ways you can fix the "No Location Found" message on "Find My Friends" and we will share them with you.
@@ -51,6 +69,12 @@ _**Option #1:**_ Adjust your phone's date and time. You can reset your time by f
 
 ![iphone date & time](https://images.wondershare.com/drfone/article/2022/06/find-my-friends-no-location-found-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - _Step 1:_ Go to "Settings" and choose "General".
 - _Step 2:_ Then click on "Date & Time" and you can manually or automatically set the time.
 
@@ -74,17 +98,38 @@ If you want to share your location in the "Find My Friends" application, you can
 ![share your location](https://images.wondershare.com/drfone/article/2022/06/find-my-friends-no-location-found-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 - _**Step 1:**_ Open the "Find My Friends" application and select "People".
 - **_Step 2:_** Then you can tap on "Share My Location" and from there, you can type the phone number of the person you want to share your location too. You can also specify the amount of time you will share your location.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to Share a Fake Location to Others in Find App?
 
 Sometimes we want our location to be kept secret and send a fake one to our friends and family. You can do that in our app, "[Dr. Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)" which allows you to share a fake location with your friends.
 
 
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -103,16 +148,10 @@ _**Step 1:**_ Download the "Dr. Fone - Virtual Location" software on your laptop
 
 ![start drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 **_Step 2:_** You can then connect your phone to your computer and click on "Get Started".
 
 ![start the virtual location feature](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **_Step 3:_** You will then be redirected to your current location on the new page.
 
 ![locate yourself](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
@@ -121,12 +160,27 @@ _**Step 4:**_ If you want to change your location, you will need to turn on the 
 
 ![one stop teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **_Step 5:_** Click on "Move Here" and your current location will show up as the location that you typed on Your Sony Xperia 1 V.
 
 ![teleport to desired location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
@@ -139,20 +193,25 @@ Pokémon Go is the phenomenon that hit us in 2016 and made us obsessed with the 
 ![pokemon go](https://images.wondershare.com/drfone/2020/202010/pokemon-go.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Pokémon Go relies on GPS coordinates and real-time tracking to let players catch Pokémon s in real locations. Hence, spoofing comes to the discussion of "catching them all."
 
 'Spoofing' location makes your phone, and thereby the game thinks that you're in another location, which opens up the possibility to catch new and rare Pokémon s from gyms and PokeStops around the world.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## **Part 1: Is Pgsharp legal?**
 
 ![pgsharp](https://images.wondershare.com/drfone/2020/202010/pgsharp.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 No game developer likes to see their game played in unfair ways. Thus, Niantic (PoGo's Dev) made some strict rules against exploiting their game, giving some players an unfair advantage over others.
 
 So, ****is PGSharp legal?**** No, Spoofing location, in general, is illegal. Hence, any apps like PGSharp, or Fake GPS Go, used to disguise actual real-time location and fake it, will result in an account ban.
@@ -173,7 +232,16 @@ So, ****is PGSharp legal?**** No, Spoofing location, in general, is illegal. H
 ![niantic-warning](https://images.wondershare.com/drfone/2020/202010/niantic-warning.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## ****Part 2: Three ways to spoof on Android****
 
@@ -181,10 +249,6 @@ So, ****is PGSharp legal?**** No, Spoofing location, in general, is illegal. H
 
 ![pgsharp-interface](https://images.wondershare.com/drfone/2020/202010/pgsharp-interface.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 PGSharp is one of the most reliable ways to spoof your location while playing Pokémon Go. Niantic does not easily recognize its simple map-like UI as a fake location app.
 
 ****Note:**** It is recommended not to use your main account while spoofing; rather, you should use your PTC (Pokémon Trainer Club) account.
@@ -203,9 +267,6 @@ You must note that it may take two or more tries to generate a working key, and 
 
 ![fake gps go](https://images.wondershare.com/drfone/2020/202010/fake-gps-go.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 Fake GPS Go is another location spoofer app for Android that is reliable and free. This app allows you to fake your real-time location and enables you to spoof it to any place in the world. This is one of the easiest solutions to playing Pokémon   Go while spoofing location without getting detected with its real-map-like UI. Moreover, this app does not even require root access.
 
 - To install Fake GPS Go, go to Google's "Play store," search "Fake GPS Go," and install it.
@@ -217,6 +278,18 @@ Fake GPS Go is another location spoofer app for Android that is reliable and fre
 
 ![vpn](https://images.wondershare.com/drfone/2020/vpn.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Using a Virtual Private Network (VPN) App is the safest option to spoof your location while playing PoGo, as it masks your IP address and uses a server in any other location.
 
 Moreover, some VPNs would also encrypt your data, so it would not be easy for Game Devs to track it.
@@ -241,17 +314,26 @@ Step 2: Now, have your iPhone connected to your computer. Then select "Get Start
 
 ![launch the Virtual Location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 3: Enable the "teleport mode" by the third icon in the right-upper corner of the map. Then, enter the location you want to spoof your phone's GPS to in the text box in the map's left-upper section. Select "Go".
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 4: Now select "Move here." And you will have successfully spoofed your location on your iOS device. To confirm, open the maps app on your device.
 
 ![launch the Virtual Location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ****Pro-Tips:****
 
 - Do not spoof or change location very frequently, as this might raise suspicion to the Game Dev (Niantic), and the account may get terminated, stating violation of terms.
@@ -264,7 +346,10 @@ Step 4: Now select "Move here." And you will have successfully spoofed your loca
 Following these tips will help you to behave like an actual traveler who's on a Pokémon hunt. This will make it even harder for game devs to detect any discrepancies.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 8 Solutions to Fix 'Find My Friends Location Not Available' On Sony Xperia 1 V
 
@@ -273,7 +358,16 @@ There is no doubt that Find My Friends is an excellent application for location 
 ![find my friends location not available](https://images.wondershare.com/drfone/article/2023/05/find-my-friends-location-not-available.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 1: What Does "Location Not Available" Mean on Find My Friends?
 
@@ -304,6 +398,12 @@ Why does Find My Friends say location not available? Before we get to the soluti
 
 All these reasons can be the ones causing trouble on your Sony Xperia 1 V  and Android phones. Hence, you will have to look for some conventional methods to fix the unavailable location error.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: 8 Tips To Make "Find My Friends Location" Available
 
 When the Find My Friends app location is not available, here are some more tips that can help get rid of this issue.
@@ -312,6 +412,12 @@ When the Find My Friends app location is not available, here are some more tips 
 
 The foremost thing you should do when the Find My Friends location is not available is to check the region/country's location. Apple Inc still hasn't provided the Find My Friends feature in all countries and regions due to local laws and technical issues. So, the most plausible reason for the app not working properly is solely because it is not available in that particular country/region.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tip 2: Quit and enable GPS or Location Services again
 
 After verifying that the feature is available in your region, enable the GPS & Location Services. In case you've already enabled the feature, turn it off, quit the app, and again enable the service. It might fix the location not found on the Find My Friends issue you've been facing. Just open Settings > Privacy & Security > Location Services and toggle the bar to turn the feature on or off.
@@ -319,7 +425,10 @@ After verifying that the feature is available in your region, enable the GPS & L
 ![enable location services](https://www.virtuallocation.com/images/pokemon-go/enable-location-services.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Tip 3: Adjust Sony Xperia 1 V  Date and Time
 
@@ -327,9 +436,6 @@ As we stated in the possible reasons, incorrect dates and times also result in t
 
 ![adjust date and time](https://www.virtuallocation.com/images/pokemon-go/adjust-date-and-time.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Tip 4: Check the Internet
 
 Before you conclude that there is something wrong with the Find My Friends app, check your internet connection. There is a chance that location is not available on the Sony Xperia 1 V  because your device doesn't have internet access. Try opening Settings > Mobile Data/Wi-Fi and turning it on and off. Alongside, make sure that you have signal strength, whether you are connecting to cellular data or a Wi-Fi network.
@@ -337,8 +443,22 @@ Before you conclude that there is something wrong with the Find My Friends app, 
 ![check internet connection](https://www.virtuallocation.com/images/pokemon-go/check-internet-connection.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Tip 5: Enable Share My Location
 
@@ -348,30 +468,29 @@ Another tip to try out when your friend's location is not available is to make c
 
 ![enable share my location](https://www.virtuallocation.com/images/pokemon-go/enable-share-my-location.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 Toggle on the option to enable it. Once the feature is enabled, your friends will see your location, and you can see theirs.
 
 For Android users, go to "Settings" > "Additional settings" > "Privacy" > "Location", and choose the location mode to enable it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Tip 6: Restart the Sony Xperia 1 V  or Android Phones
 
 The next tip to use when Find My Friends says location not available is restarting your phone. For most devices, the method is common. But for Sony Xperia 1 V  X and 11, the steps are slightly different. For other Sony Xperia 1 V  models, press the Power button and wait until the slider appears. For Sony Xperia 1 V  X and 11/12/13/14, you'll have to hold the Volume button and the Power button together to make the slider appear on the screen.
 
 ![restart Sony Xperia 1 V ](https://www.virtuallocation.com/images/pokemon-go/restart-Sony Xperia 1 V .jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 Drag the Power slider to the right side and wait for the Sony Xperia 1 V device to shut down. Wait for a minute before you restart the Sony Xperia 1 V device, and hopefully, the feature will start working again as usual.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Tip 7: Check That Your Friend Has Signed into Find My Friends
 
@@ -380,7 +499,16 @@ Another tip that can help you resolve to **Find My Friends location not availabl
 Open the Find Friends app, log into it, and enable the location-sharing feature.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Tip 8: Quit Find My Friends App and Open It Again
 
@@ -400,20 +528,26 @@ To use Dr.Fone - Virtual Location, here are the steps you need to follow:
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 **Step 2:** The next step is to set up the phone's connection. Connect your Sony Xperia 1 V  and click on the "Get Started" button. Now, detect your current virtual location by clicking on the "Current Virtual Location" icon.
 
 ![detect actual location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Step 3:** Now go to the search box and type the location you want to switch to. Once the location gets detected, click on the "Move Here" option, and the location of your Sony Xperia 1 V  or Android phone will change to the one you specified.
 
 ![move to virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 As you can see, when you have Dr.Fone - Virtual Location software, you can share any location with just one click. And it would seem that your Find My Friends app is working fine.
 
 ## FAQs You May Want to Know about Sony Xperia 1 V  Location
@@ -450,9 +584,6 @@ Taking these precautions can help safeguard your phone's location and enhance yo
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android

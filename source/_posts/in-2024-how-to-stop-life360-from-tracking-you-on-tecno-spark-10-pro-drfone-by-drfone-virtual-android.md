@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Stop Life360 from Tracking You On Tecno Spark 10 Pro? | Dr.fone
-date: 2024-09-02T22:45:42.929Z
-updated: 2024-09-03T22:45:42.929Z
+date: 2024-09-07T09:13:58.543Z
+updated: 2024-09-08T09:13:58.543Z
 tags: 
   - virtual location chang
   - location changer
@@ -22,6 +22,12 @@ This is the era of smartphones, and most of the people in the world own a smartp
 
 This is where spoofing Life360 comes handy. No matter whether you own an iPhone or Android, you can spoof Life360 with the right tricks and tools. In this article, we will discuss the different ways to stop Life360 from tracking you. But, before that, let's take a look at what is Life360.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What is Life360?
 
 Life360 is basically a tracking app that you can use to share your location with friends or to track your teenager. Also, with this app, you can also do chit-chatting with your friends and family members via the in-app chat feature.
@@ -30,10 +36,22 @@ Life360 supports both iOS and Android devices. To use, you will need to install 
 
 But as we said before, it is quite uncomfortable to know that someone is tracking you everywhere. So, if you want to hide location on Life360, then this article to know the amazing tricks to stop Life360 from tracking you.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Turn Off Location on Life360
 
 ![turn off location on life360](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 You can turn off the location to stop the Life360 tracking feature. But, with this, keep the background app refresh off. Follow the following steps to turn off the location on life360.
 
 - Open the Life360 on your phone and go to 'Settings' in the lower right corner
@@ -43,22 +61,28 @@ You can turn off the location to stop the Life360 tracking feature. But, with th
 
 **Note:** If you ever press the Check In button, it will update your location in Life360 even if it is turned off. Further, if you press the Help Alert button, this will also turn on the location-sharing feature.
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Fake Location Apps to Spoofing Life360
 
 The best way to stop Life360 from tracking you is to use fake GPS apps on Android and iOS. There are many fake location apps that you can install in your device to spoof Life360 without any risk to your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.1 How to spoof life 360 iPhone
 
 To spoof GPS on the iPhone is tricky, and it requires reliable as well as safest tools like [Dr.Fone – Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/).
 
 ![how to spoof life360](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 This tool is specially designed for iOS users that help to spoof location without causing any risk to your data. The best thing is that it is very easy to use and easy to install, as well. Also, in Dr.Fone – Virtual Location (iOS), you can teleport anywhere and can customize your speed. With just one click, you are able to spoof Life360 and other location-based apps.
@@ -70,7 +94,16 @@ Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
 ![download dr.fone from official site](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 - After this, install it and launch it. Now connect your iOS device to the system with the USB cable and click on the "get started" button.
 
@@ -81,14 +114,22 @@ Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
 
 ![select teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - After a search for the desired location, click on the "move here" button.
 - Finally, you are ready to spoof to any location in Life360.
 
 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -103,7 +144,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 **3981454** people have downloaded it
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 2.2 How To Fake Life360 Location On Android
 
@@ -122,42 +166,40 @@ Now, follow the following steps to install any fake GPS on Android.
 - Under enable developer option go to allow mock location app and select the app you installed from the list
 - Now open the app, and fill your desired location on the map. It is simple to spoof Life360 on Android
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## Part 3: Use a Burner Phone for Life360 Fake Location
 
 The burner is a phone on which you can install Life360 and can put it in one place while going out with another phone. It is a great trick to stop Life360 from tracking you. The only thing is that you should need to have two phones.
 
 For the burner, you can use any device with Google play store or App store, and it can be an old phone as well.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Life360 is a very helpful app for parents and friends group, but still, it becomes irritating sometime to know that people are tracking you. Therefore, you can use tricks to hide your current location from Life360. There are many ways that you can apply Life360 fake location, but if you own iPhone, it needs a reliable tool. [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) (iOS) is best to spoof Life360 without putting your device's security at risk. Try it once!
 
 
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Can Life360 Track You When Your Tecno Spark 10 Pro is off?
 
 [![avatar](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Did you know that your Tecno Spark 10 Pro tracks your location even when turned off? And if you're a member of any social media network, it means you could be tracked. Do you like to have your privacy? Do you want to protect your kids from being tracked by strangers?
 
 Of course Yes! Well, then you should know that Your Tecno Spark 10 Pro can track your movements even when switched off. But is that true?
@@ -171,7 +213,16 @@ Should we trust Life360, the social media company that recently merged with Goog
 - [Part 3: 3 Ways to Stop Life360 from Tracking You![hot icon](https://images.wondershare.com/drfone/article/2022/05/hot-tip.png)](https://drfone.wondershare.com/virtual-location/can-life360-track-you-when-your-phone-is-off.html#Part3)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 1: What Is Life360 And How Does It Work?
 
@@ -202,7 +253,16 @@ Disabling Life360's Wi-Fi and Data may result in a warning to parents that their
 Alternatively, you should disable background app refresh, mobile network, physical activity, and WIFI to save battery life. An issue with your Internet connection will come up instead of location stopped in this situation. So don't connect to any Wi-Fi at all.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 2\. Fake Locations
 
@@ -216,9 +276,6 @@ It has several other noticeable features that can help you in your daily life.
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ### 3\. Setting Wi-Fi and Data Services to "Off."
 
 Another typical method kids use to prevent their parents from monitoring their position is to disable Life360's Wi-Fi and Data. It works like this. If you don't want applications updating in the background, enable power-saving mode.
@@ -230,7 +287,10 @@ Use a wired connection. Adolescents can turn off Wi-Fi and data when using the L
 All these methods can be used to Stop Life360 from Tracking You. However, the best all-in-one solution is a third-party application called Dr.Fone. This Virtual Location Software helps you keep your tracking off, but you can also fake your location very easily in minutes.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Conclusion
 
