@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Simulate GPS Movement in AR games On Motorola Defy 2? | Dr.fone
-date: 2024-10-01T22:37:25.121Z
-updated: 2024-10-03T06:19:22.607Z
+date: 2024-10-01T20:34:51.278Z
+updated: 2024-10-08T08:36:25.364Z
 tags: 
   - virtual location chang
   - location changer
@@ -33,13 +33,6 @@ In AR games that come with GPS tracking software, they track the real motion of 
 - Some players can't travel in the first place for various reasons like financial constraints, health concerns, and current location.
 
 In these cases, using a **fake GPS route** helps simulate the location of players, so they can still take part without actually moving around.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2. 4 Effective Ways to Simulate GPS Movement On AR games?
 
@@ -101,13 +94,6 @@ Below is the video showcasing all steps necessary to simulate GPS movement while
 
 ![joystick will appear](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 6**: You can choose the Multi-Stop Route icon to see different points on the screen. The software automatically detects the best way to reach the destination, joining all selected points into one overall route for automatic GPS movement.
 
 **Step 7**: Exit the app and go to Pokémon Go. Use the joystick that appears when you activate this software to control your movement during standard Teleport Mode.
@@ -146,13 +132,6 @@ It is possible to run this app on different iPhones and iPads simultaneously. Th
 
 ![tap on move here](https://images.wondershare.com/drfone/article/2022/12/how-to-simulate-gps-movement-on-ar-games-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Simulate GPS Movement Android
 
 Like in the case of iOS, searches related to **Pokémon Go spoofing Android Reddit** are also available. Therefore, let us discuss the best Android app to use for fake GPS route spoofing.
@@ -188,6 +167,13 @@ Get multiple spoofing options here, like expert mode and various routes to set u
 **Step 2**: Select the faked location and tap on the Play button.
 
 ![tap on the play button](https://images.wondershare.com/drfone/article/2022/12/how-to-simulate-gps-movement-on-ar-games-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3**: The app will automatically show the spoofed fly GPS after inserting the fake location.
 
@@ -255,25 +241,11 @@ Indeed, there are different methods you can use to spoof your location to play A
 
 The best step while using them is to follow the gameplay rules respectfully and use a safe and reliable GPS movement simulator like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) for the task.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Life360 Circle: Everything You Need to Know On Motorola Defy 2
 
 In order to keep in touch with the persons that matter most to you, you may use circles to create private groups. There are a lot of different situations in which the Circle is useful. Please make sure everything is where it should be. Since Check-Ins, Location Sharing, and Messaging are all exclusive to each Circle, no one who does not need to view a particular piece of information will. You've got the upper hand here. You have complete control over who is and isn't included in your Circle. Privacy is something we take very seriously.
 
 Paying for a Life360 package gives you access to all the Circles. To ensure that everyone in your Circle is able to take advantage of the perks that come with a Life360 Membership, each paid plan for Life360 includes all members in your Circle.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: What Is Life360 Circle?
 
@@ -282,13 +254,6 @@ Life360 is a family safety service that offers a variety of services. Its primar
 For parents who want to monitor their children from a distance, Life360 is a valuable tool. It is a mapping system that allows your family members to know exactly where you or anybody else in the Family Circle, where Life 360 circle is located at any specified instant, regardless of whether they are in your house or elsewhere.
 
 Since the technology was introduced in 2014, we can safely say that it is no longer considered revolutionary. But, aside from that, some people want to know more than simply where they are, such as how fast they're going when driving.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How Life360 Circle Works?
 
@@ -346,6 +311,19 @@ The gadget is entirely safe to use and has a superb record for doing its job wel
 
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4:** The three life360 symbols at the upper right of the screen are visible. Activating the Teleport Mode requires you to tap on the third icon. Click "Go" when ready to go to your desired location.
 
 ![choose destination you want](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -390,13 +368,6 @@ Price: $172
 
 ![Cisco Systems Gigabit Dual WAN VPN](https://images.wondershare.com/drfone/2023/virtuallocation/hardware-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Zyxel Next Generation VPN Firewall
 
 This VPN hardware by Zyxel will help you meet your business needs for sure. It is one of the most secure devices that you can try to get an access to around 100 VPNs.
@@ -432,6 +403,20 @@ Price: $22
 
 ![vpn hardware device - GL.iNet GL-AR150 Mini Travel Router VPN](https://images.wondershare.com/drfone/2023/virtuallocation/hardware-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. UTT HiPER 518 VPN
 
 It doesn’t matter if you like to use VPN for your home network or small business, this Amazon hardware VPN will come handy to you on numerous occasions. It comes with a quick setup wizard as well to assist you.
@@ -451,6 +436,13 @@ Price: $40
 
 ![vpn hardware - UTT HiPER 518 VPN](https://images.wondershare.com/drfone/2023/virtuallocation/hardware-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Dell Sonicwall TZ300 VPN
 
 Another secure Amazon hardware VPN that you can try is from the house of Dell. Even though it is a high-performance router, you might need to walk an extra mile to setup its VPN compared to other products.
@@ -466,6 +458,13 @@ Price: $554
 
 ![vpn hardware - Dell Sonicwall TZ300 VPN](https://images.wondershare.com/drfone/2023/virtuallocation/hardware-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6\. Linksys Business Dual WAN VPN Router
 
 This hardware VPN router by Linksys is majorly designed for small and medium-sized offices. This site-to-site VPN supports Ethernet connectivity and has a remarkable data transfer rate of 1000 Mbps.
@@ -480,6 +479,13 @@ Price: $165
 [Buy it here](https://www.amazon.com/Linksys-Business-Gigabit-Router-LRT224/dp/B00GK640D6)
 
 ![vpn hardware for home use - Linksys Business Dual WAN VPN Router](https://images.wondershare.com/drfone/2023/virtuallocation/hardware-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7\. D-link 8-port Gigabit VPN Router
 
@@ -515,6 +521,13 @@ Price: $57
 
 ![vpn hardware for home use - TP-Link SafeStream VPN Router](https://images.wondershare.com/drfone/2023/virtuallocation/hardware-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Alternative: Set Up VPN on Common Hardware Devices
 
 With any of the above VPN hardware devices, you can set up reliable VPN services in your home or office.
@@ -532,13 +545,6 @@ Many users choose [NordVPN](https://go.nordvpn.net/SH1EC) to do it for the follo
 - As low as roughly 3 USD per month.
 
 Now when you know about the various options for hardware VPN for home use and business purposes, you can easily pick a VPN hardware of your choice. We have listed different kinds of options in this post, helping you make up your mind. You can always visit their Amazon page and get more information about them. Go ahead and pick the hardware VPN of your choice and let us know about it as well.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -566,20 +572,24 @@ Now when you know about the various options for hardware VPN for home use and bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-downloadfacebooknow-a-comprehensive-guide-to-browser-tools-for-firefox/"><u>[New] DownloadFacebookNow! - A Comprehensive Guide to Browser Tools for Firefox</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-auditory-storytelling-at-a-high-level/"><u>[Updated] Auditory Storytelling at a High Level</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-elevate-your-ppt-shows-with-advanced-techniques/"><u>[Updated] Elevate Your PPT Shows with Advanced Techniques</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-mastering-content-the-key-to-engaging-yt-shorts/"><u>[Updated] Mastering Content The Key to Engaging YT Shorts</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-update-for-hp-printer-support-software-today/"><u>Download & Update for HP Printer Support Software Today</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-12-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-to-effortlessly-transform-and-burn-flv-files-into-dvd-for-zero-cost/"><u>How to Effortlessly Transform and Burn FLV Files Into DVD for Zero Cost</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-8-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 8 Plus without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-v30t-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from V30T.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-realme-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Realme .</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-galaxy-z-flip-5-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Galaxy Z Flip 5</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-honor-x9b-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Honor X9b</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/transcodificar-archivos-gif-a-videoclips-en-el-formato-3gp-sin-coste-guia-y-enfoque-de-programas-como-movavi/"><u>Transcodificar Archivos GIF a Videoclips en El Formato 3GP Sin Coste: Guía Y Enfoque De Programas Como Movavi</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-logitechs-secret-weapon-video-recordings-unveiled/"><u>[New] In 2024, Logitech's Secret Weapon Video Recordings Unveiled</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-leveraging-likes-and-comments-enhancing-engagement-on-instagram-stories-for-2024/"><u>[Updated] Leveraging Likes and Comments Enhancing Engagement on Instagram Stories for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-symphony-of-silence-starting-with-a-soft-fade-in-for-2024/"><u>[Updated] The Symphony of Silence Starting with a Soft Fade In for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unleash-potential-superior-strategies-for-personalized-facebook-profiles/"><u>[Updated] Unleash Potential Superior Strategies for Personalized Facebook Profiles</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-capturing-moments-top-webcams-for-pcs-in-windows/"><u>2024 Approved Capturing Moments Top Webcams for PCs in Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-8-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 8 to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-14-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 14 without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-discover-the-power-of-windows-movie-maker-advanced-video-editing-techniques/"><u>In 2024, Discover the Power of Windows Movie Maker Advanced Video Editing Techniques</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-sony-xperia-1-v-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Sony Xperia 1 V Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/optimize-your-collection-with-quality-80s-movie-downloads-and-copies/"><u>Optimize Your Collection with Quality 80'S Movie Downloads & Copies</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-honor-100-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Honor 100 has been deleted.</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-s18e-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo S18e Device</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-vn-video-editor-for-computer-a-concise-review-and-guide/"><u>Updated VN Video Editor for Computer A Concise Review and Guide</u></a></li>
 </ul></div>
 

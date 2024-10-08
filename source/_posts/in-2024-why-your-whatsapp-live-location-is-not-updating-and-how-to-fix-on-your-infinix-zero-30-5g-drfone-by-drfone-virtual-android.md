@@ -1,7 +1,7 @@
 ---
 title: In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Infinix Zero 30 5G | Dr.fone
-date: 2024-09-17T17:30:51.435Z
-updated: 2024-09-19T16:06:22.396Z
+date: 2024-10-05T16:44:27.095Z
+updated: 2024-10-07T20:55:36.268Z
 tags: 
   - virtual location change
   - social app
@@ -44,6 +44,13 @@ Now that you already know why WhatsApp's Live Location isn't updating, it's time
 
 Sometimes, it only takes a simple phone restart to get things back on track. Another thing, you can enable and disable "flight mode" to restart your data connection. Of course, this will also sort out any bugs in your WhatsApp app.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Update the app and phone
 
 When last did you update your system and apps? It is very easy! You should constantly update your apps and phone system to enjoy better performance and security.
@@ -60,19 +67,6 @@ iPhone users can try to reset the Location & Service settings. To do that, open 
 - Tap the Location icon;
 - If you can't find the Location icon, please go to settings, or tap the "Edit" icon to go on;
 - Turn **Google Location Accuracy** on or off**.**
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Uninstall and reinstall WhatsApp
 
@@ -101,6 +95,13 @@ Install and launch Dr.Fone on PC and connect your phone to PC with a USB firewir
 **Step 2. Connect your phone to Dr.Fone.**
 
 ![connect phone with virtual location](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To connect your phone to this all-in-one software, first, enable "transfer files" instead of "charging" on your phone. Then, enable USB debugging under the settings tab. On Android, just click Settings >Additional Settings > Developer options > USB debugging.
 
@@ -152,13 +153,6 @@ Thanks to the fast-paced mobile technology, it's inevitable to migrate to a new 
 
 Having a WhatsApp Business account is vital if you're an online marketer. Here, you can create a business profile and enjoy quick replies, automatic messaging, accurate statistics, and so on. So, to avoid losing your invoices and other business chats, use Dr.Fone to back up and transfer your WhatsApp Business chats to a new phone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Final Words
 
 See, there's nothing complex about the WhatsApp live location not updating issue. Just edit and restart the app or check your location settings if it's enabled. And, of course, use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to share a fake location on WhatsApp and perform other WhatsApp tasks like backing up and transferring data. Thank me later!
@@ -208,6 +202,13 @@ Dr.Fone offers the flexibility of 360-degree directions. It gives you precise co
 
 The keyboard control feature allows for effortless navigation, making it user-friendly for both novices and experienced users.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Activate Ghost Mode With Dr.Fone - Virtual Location
 
 Follow these step-by-step instructions to activate **Ghost Mode on Life360** using Dr.Fone - Virtual Location:
@@ -216,13 +217,6 @@ Follow these step-by-step instructions to activate **Ghost Mode on Life360** usi
 
 ![dr.fone connecting to smartphone](https://images.wondershare.com/drfone/guide/vl-connect-ios-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2:** Follow the on-screen instructions. Once connected, click **Manage Device** to control your location without moving. Choose the “One-Stop Route” function from the top right. Tap anywhere on the map to set your destination.
 
 ![dr.fone connecting to smartphone](https://images.wondershare.com/drfone/guide/vl-connect-android-ios-4.png)
@@ -230,13 +224,6 @@ Follow these step-by-step instructions to activate **Ghost Mode on Life360** usi
 - **Step 3**: Input the number of movements, and select **Round** or **Loop** **trip**. Adjust the walking speed and click **Move Here** to start the simulation. You can **Pause** or **Clear** at any point to start again.
 
 ![dr.fone connecting to smartphone](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 4**: Activate **Teleport Mode** by choosing the first icon in the top-right. Enter your desired location in the **Search** bar, press **Enter**, and confirm on the map. Click **Move Here** to change your smartphone’s location. Ensure alignment with the spoofed location on your computer. You are now under **Life360 Ghost Mode**.
 
@@ -278,6 +265,13 @@ Here are some unwanted scenarios if you’re under **Life360 Ghost Mode**.
 
 When Ghost Mode feels too troublesome, alternative methods exist to turn off location sharing on Life360 temporarily. Here’s a guide on six different approaches:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Turning Off WiFi and Data
 
 Disabling WiFi and data on Life360 is a common method to prevent location tracking. Here’s a step-by-step guide:
@@ -285,6 +279,13 @@ Disabling WiFi and data on Life360 is a common method to prevent location tracki
 - **Step 1**: Launch Life360 on your phone. Turn off WiFi and data; you can specifically disable them on iPhones for the Life360 app.
 
 ![turning off life360 wifi and data](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-08.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2**: In **Settings**, locate Life360 Disable **Cellular Data**, **Background Refresh**, and **Motion & Fitness**. Once done, the Life360 location will then remain static at the current position.
 
@@ -296,6 +297,13 @@ Disabling location services provides an effective solution for pausing Life360 w
 - **Step 1 (Android):** Go to **Settings** > **Apps** > **Life360**.
 
 ![turning off life360 location services](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-09.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2 (Android):** Tap **Permissions** > **Location**. Choose **Deny** or **Ask every time** to deactivate location access for Life360.
 - **Step 2 (iOS):** Tap on it and opt for **Never** to turn off location access for Life360.
@@ -309,6 +317,13 @@ Disabling WiFi and Data on Life360 might trigger notifications, alerting anyone 
 ![turning on low data mode](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-10.jpg)
 
 **For Android**: Open the **Settings** app. Scroll and tap on **Cellular** or **Mobile Data**. Tap on **Cellular Data Options** or **Mobile Data Options**. Toggle on the **Low Data Mode** switch.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Turn on Airplane Mode
 
@@ -386,19 +401,6 @@ Privacy concerns arise, especially regarding the questions by its users. “**Ca
 
 You need to be aware of what the app can and can’t do. It balances convenience and privacy when using tracking services like Life360. So, here’s the deal – always think twice before faking, hiding, or changing your location. Now, let’s explore whether you can bypass these concerns and keep your location hidden or fake on Life360.
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Can You Change Your Location on Life360 Without Anyone Knowing?
 
 Yes, you can change your location on Life360 without anyone knowing. But it doesn’t have that built-in feature. The best way to fake your location on Life360 without anyone knowing is to use spoofing apps on your device, such as [Wondershare Dr.Fone.](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) This tool can change your real-time location on several apps, including Life360, whether you have an iOS or Android device.
@@ -474,6 +476,13 @@ Some Life360 plans offer location Bubble. It shares your general vicinity withou
 
 ![life360 bubble feature](https://images.wondershare.com/drfone/article/2024/01/change-your-location-on-life-360-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Open Communication
 
 Talk with your family about your concerns about location sharing. Explain your desire for more privacy while emphasizing your commitment to safety. Discuss boundaries and compromise on situations where location sharing feels necessary.
@@ -500,5 +509,19 @@ But of course, there are certain situations in which you will need to fake your 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-recording-your-games-in-hd-ps4-and-obs-studio-guide/"><u>[New] In 2024, Recording Your Games in HD PS4 & OBS Studio Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/composing-prime-canon-temporal-vignettes/"><u>Composing Prime Canon Temporal Vignettes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/experience-the-best-mobile-tech-with-a-spin-team-insider-picks-for-your-next-buy/"><u>Experience the Best Mobile Tech with a Spin Team - Insider Picks for Your Next Buy</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-poco-c51-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Poco C51</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2020-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2020) To Others devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-x50-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to X50 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nubia-z50s-pro-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Nubia Z50S Pro Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-poco-x6-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Poco X6</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-permanently-deleted-or-erased-excel-2013-files-for-free-by-stellar-guide/"><u>Recover Permanently Deleted or Erased Excel 2013 Files for Free</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/rhythms-of-romance-most-beloved-ballads-for-engagement-for-2024/"><u>Rhythms of Romance Most Beloved Ballads for Engagement for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720670953233-stellar-launches-speedup-mac-an-user-friendly-utility-to-optimize/"><u>Stellar Launches Speedup Mac - An User-Friendly Utility to Optimize</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo V29 Pro | Dr.fone</u></a></li>
+</ul></div>
 

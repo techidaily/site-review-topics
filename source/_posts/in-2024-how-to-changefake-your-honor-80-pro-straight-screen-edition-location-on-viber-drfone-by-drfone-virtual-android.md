@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Change/Fake Your Honor 80 Pro Straight Screen Edition Location on Viber | Dr.fone
-date: 2024-09-13T16:48:28.864Z
-updated: 2024-09-19T16:36:10.064Z
+date: 2024-10-03T18:30:54.293Z
+updated: 2024-10-07T22:51:35.938Z
 tags: 
   - virtual location change
   - social app
@@ -36,9 +36,23 @@ Step 1. Fire up your Viber app on mobile or PC and tap the **Chats** button. Her
 
 ![change location on Viber open chats](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of the screen and choose **Chat Info**. Alternatively, simply swipe the screen to the left.
 
 ![change location on Viber, tap chat info](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3. On the Chat Info window, simply enable or disable the **Attach location always** toggle. It’s done!
 
@@ -47,6 +61,13 @@ Step 3. On the Chat Info window, simply enable or disable the **Attach location 
 **Pro tip**: You might be wondering how to share your actual Viber location with a chat or group. Again, this is very straightforward. Simply open the conversation and tap the three dots on the text field. Then, click the **Share Location** button and choose your location on the Google map. Lastly, tap **Send location** to share the Viber location with your selected contact.
 
 ![change location on Viber share location](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Can I send a fake location on Viber, and How?
 
@@ -106,13 +127,6 @@ If the connection is successful, the Virtual Location map will launch automatica
 
 **3981454** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: Why send fake location on Viber?
 
 Now that you know how to spoof location on Viber. Let’s discuss some reasons to spoof location on this messaging app. Below are some common ones:
@@ -133,6 +147,13 @@ If you’re a digital marketer, you might want to convince your potential client
 
 You can share your live location on Viber just like you would on Facebook, WhatsApp, and other social media apps. But because most of these apps don’t allow you to share fake locations, I recommend [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) change your area to anywhere in the world. Give it a try!
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Does find my friends work on Honor 80 Pro Straight Screen Edition
 
 Find my friends app is becoming a norm for most people. The Smartphone and app developers are now aware of this. As a result, most Smartphone platforms are adding tools that allow users to share their whereabouts with others. Apple has its native Find my friends for their iPhone. The app works great for a group of iOS users, but you may need to share location with Android devices, which the built-in app can't help you with. When you want to use the "find friends" app, they certainly need to add people from Android and iPhone users. And, you can't dictate what people are choosing as their smartphone platform. While some prefer Android, many of us are dedicated to the iPhone too. Therefore, if you need to keep track of the real-time location of your family members or friends, you need the assistance of a third-party tool. These apps are the most logical way to create a link to find my friends app for Android and iPhone.
@@ -140,16 +161,10 @@ Find my friends app is becoming a norm for most people. The Smartphone and app d
 ![find my friends app](https://images.wondershare.com/drfone/2023/virtuallocation/find-my-friends-app.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part1: How to track friends using iPhone or Android
@@ -178,6 +193,13 @@ If you want to share your location, launch the app first. Then Tap "Me." Then, k
 
 ![How to use Find my friends app 3](https://images.wondershare.com/drfone/2023/virtuallocation/How-to-use-Find-my-friends-app-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1.2 Tracking Friends Using Android
 
 Android users can also use this find my friends app. Even if someone in your group does not use a smartphone (seriously?), you can track them. You can send an invite, and if they agree, you can find your friend anytime. Remember, iPhone or Android, whatever the platform, all the members of the group have to agree with location sharing; otherwise, you cannot track them.
@@ -185,13 +207,6 @@ Android users can also use this find my friends app. Even if someone in your gro
 You can use find my friends from iPhone to an android user via Google Maps. You need to download the app and activate location service by taping "Allow While Using App" Then you have to select" "Share your location" You can then send your location to your android user friend from the message icon of the Google map.
 
 ![Using Google map](https://images.wondershare.com/drfone/2023/virtuallocation/Using-Google-map.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part2: 3 best find my friends apps compatible both Android and iPhone
 
@@ -204,19 +219,6 @@ This app is straightforward and pretty simple to use. You can look at the map an
 You can also issue an alert to your friends whenever you are in an emergency. All your loved ones will get the address details, current time, and the remaining battery life. If your group has a mix of Android, iOS, and Blackberry, this app is excellent for you.
 
 ![find my friends](https://images.wondershare.com/drfone/2023/virtuallocation/find-my-friends.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2.2 Familo
 
@@ -328,6 +330,13 @@ Do you want to spoof your location so your friends can’t find you? For this pu
 
 Thus, you can fake location with flexible GPS movement on the Find My Friends app. Moreover, with this location spoofer, you can fake your location on almost any app, such as Snapchat, Instagram, Tinder, and Find My iPhone. If you want to know more about this virtual location changer, delve into the details below.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Notable Features of Dr.Fone - Virtual Location
 
 1. This GPS location changer can spoof your location across apps to protect your privacy. You can even prank your friends on social media platforms and mock locations on dating apps.
@@ -346,18 +355,24 @@ Head to the main interface of Dr.Fone - Virtual Location by launching it on your
 
 ![press the get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2: Enable the Teleport Mode and Start Spoofing Your Location**
 
 Following this, confirm your actual location and move to activate the teleport mode. For this, move your cursor to the top right side and click the third icon of “Teleport Mode.” Now, set the location and hit the “Move Here” button so the system can start spoofing the location on the Find My Friends app.
 
 ![hit the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -375,5 +390,26 @@ Would you like to add an App to the above-mentioned list? Or want to share your 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-complete-screencast-cheat-sheet-must-knows/"><u>[New] The Complete Screencast Cheat Sheet Must-Knows</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-premier-software-selection-for-youtube-intros/"><u>[New] The Premier Software Selection for YouTube Intros</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-mastering-ringtones-on-ios-a-comprehensible-process-for-2024/"><u>[Updated] Mastering Ringtones on iOS A Comprehensible Process for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-social-media-synopsis-top-trending-twitvideos/"><u>[Updated] Social Media Synopsis Top Trending TwitVideos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-expert-techniques-for-removing-audio-disturbances/"><u>2024 Approved Expert Techniques for Removing Audio Disturbances</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-conversion-of-avi-files-to-mpeg-2-discover-three-free-techniques/"><u>Effortless Conversion of AVI Files to MPEG-2: Discover Three Free Techniques</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-pro-max-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Pro Max to other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-note-30i-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Note 30i</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-y100t-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Y100t Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-realme-narzo-n55-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Realme Narzo N55 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-honor-play-7t-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Honor Play 7T.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722963980767-quick-installation-of-asus-maximus-xi-extreme-z370-motherboard-secure-your-latest-drivers-now/"><u>Quick Installation of ASUS Maximus XI Extreme Z370 Motherboard - Secure Your Latest Drivers Now</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-nokia-130-music-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Nokia 130 Music has been deleted.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-m6-pro-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on M6 Pro 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/the-overlooked-duo-of-windows-monitoring-metrics/"><u>The Overlooked Duo of Windows Monitoring Metrics</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unlocking-the-power-of-full-hd-on-a-budget-exploring-the-lenovo-tab-m10s-display-brilliance-2020-model/"><u>Unlocking the Power of Full HD on a Budget - Exploring the Lenovo Tab M10's Display Brilliance (2020 Model)</u></a></li>
+</ul></div>
 

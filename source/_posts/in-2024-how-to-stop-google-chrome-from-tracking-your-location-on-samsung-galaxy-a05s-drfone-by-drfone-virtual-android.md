@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy A05s? | Dr.fone
-date: 2024-09-30T04:34:27.746Z
-updated: 2024-10-03T00:04:20.012Z
+date: 2024-10-03T06:03:12.808Z
+updated: 2024-10-08T11:27:04.904Z
 tags: 
   - virtual location chang
   - location changer
@@ -37,28 +37,28 @@ Similarly, GPS location can easily be tracked if your phone device has it enable
 
 If you are worried about Google Chrome detecting your physical location and sharing it with websites and apps, you can hide it easily. The process of hiding your location on Google Chrome is simple, even if you are using multiple devices. Below is the step-by-step process of hiding location services in Google Chrome on computer, Android, and iOS devices.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: For Laptop and Desktop PCs
 
 **Step 1:** Launch Google Chrome on your computer and click the "Three Dots" icon to open the Google Chrome Settings. Here, tap "Privacy and Security" from the left sidebar and select "Site Settings."
 
 ![access the site settings option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Navigate to "Permissions" and click on "Location." To hide the location on Google Chrome, select the "Don't allow sites to see your location" option.
 
 ![enable the dont allow option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: For iPhone or iPad
@@ -71,20 +71,6 @@ If you are worried about Google Chrome detecting your physical location and shar
 
 ![choose the never option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 3: For Android
 
 **Step 1:** Open Google Chrome on your Samsung Galaxy A05s, press the "Three-Dots" icon, and tap "Settings" from the options.
@@ -94,6 +80,19 @@ If you are worried about Google Chrome detecting your physical location and shar
 **Step 2:** In Chrome Settings, press "Site Settings." Now select "Location" and hide your location by toggling off the "Location" option.
 
 ![disable the location option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-7.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 One way to protect your privacy and stop websites from tracking your location is to turn off the location, but it has many disadvantages. If you have turned off your location, you can't use any location base service like food delivery, e-shopping, ride-sharing, etc. That's why it is better to use a fake location on your browser. Below we have explained four methods for **Chrome fake location**.
 
@@ -139,16 +138,16 @@ It is also possible to **fake browser location** on Chrome using the Google Chro
 
 ![choose the developer tools](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** A window will open on the right side with all the developing tools you can use in Chrome. Click on the three-dots icon located near "Console" in the bottom left corner of the window. Choose "Sensors" from the pop-up menu.
 
 ![select the sensors option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3:** Access the newly selected "Sensor" option, and here you can change the browser's location by either selecting a Google's pre-set location or adding your desired location manually. Once the location is selected or added, your browser's location will change.
 
@@ -179,6 +178,19 @@ Many **fake location Chrome extensions** are available on Google Chrome which ca
 
 - Location Guard doesn't protect your IP address. It means some websites can still detect your real location using the IP address.
 - The app is not updated for quite a while, that's why the map of the fixed location feature is quite restricted.
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4. Spoof Your IP Using a VPN Server
 
@@ -299,13 +311,6 @@ The location has changed now; you can check it by clicking "Center On." The same
 
 There could be many reasons to hide your location; one of them could be that you don’t like being checked or you’re a person who prefers his privacy over anything. However, hiding your location is not a difficult task today for Android users because many advanced apps do the job for you without any hassle. Here’s how you can hide your location on Android devices while playing Mobile Legends.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1. Use Fake GPS Location App
 
 Fake GPS Location App is developed by Lexa that is free to use. An exceptional **fake** **GPS for ML** app provides an Android user with a great spoofing experience. This app comes with different features that allow the user to keep track of all the previous locations that can be used in the future.
@@ -323,28 +328,15 @@ Hola **Fake GPS Mobile Legends** VPN Service is only available across Samsung Ga
 ![hola vpn service](https://images.wondershare.com/drfone/article/2022/04/fake-gps-mobile-legends-7.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: A Comparison of the 3 Fake GPS Methods
 
 <table><tbody><tr><td></td><td><p><strong>Easy-to-Use</strong></p></td><td><p><strong>OS Supported</strong></p></td><td><p><strong>Specific Map Location</strong></p></td><td><p><strong>Route Movement</strong></p></td><td><p><strong>Keyboard GPS Movement</strong></p></td></tr><tr><td><strong>Dr.Fone – Virtual Location</strong></td><td><p><strong>✔</strong></p></td><td><p>Android/iOS</p></td><td><p><strong>✔</strong></p></td><td><p><strong>✔</strong></p></td><td><p><strong>✔</strong></p></td></tr><tr><td><strong>Fake GPS Location App</strong></td><td><p>✖</p></td><td><p>Only Android</p></td><td><p><strong>✔</strong></p></td><td><p>✖</p></td><td><p>✖</p></td></tr><tr><td><strong>Hola VPN Service</strong></td><td><p><strong>✔</strong></p></td><td><p>iOS/Samsung/Huawei</p></td><td><p>✖</p></td><td><p>✖</p></td><td><p>✖</p></td></tr></tbody></table>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -393,6 +385,13 @@ After getting to know about so many free PPTP VPN Singapore, USA, Canada, UK, an
 
 ![Use my Internet Connection ](https://images.wondershare.com/drfone/2023/virtuallocation/pptp-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5\. Great! Now, you need to provide information related to the host and server. You can refer the free PPTP VPN list we have provided in the previous section and pick the server (and hostname) of your choice.
 
 6\. As you would proceed to the next window, you need to provide the username and password of the PPTP VPN free you are using. The same can be obtained from our free PPTP VPN list.
@@ -406,6 +405,13 @@ After getting to know about so many free PPTP VPN Singapore, USA, Canada, UK, an
 9\. Go to the Security tab and make sure the type of VPN is listed as PPTP (Point to Point Tunneling Protocol). Also, the data encryption option should be “Optional Encryption (Connect even if no encryption)” and the option for “Challenge Handshake Authentication Protocol (CHAP)” should be selected for “Allow these protocols”.
 
 ![pptp vpn properties](https://images.wondershare.com/drfone/2023/virtuallocation/pptp-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 10\. Furthermore, you can go to the General tab to make sure the server is specified correctly.
 
@@ -456,17 +462,24 @@ Some of its advantages are as follows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-top-5-alternative-editors-beyond-youtubes-limits/"><u>[New] 2024 Approved Top 5 Alternative Editors Beyond Youtube's Limits</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-essential-amazon-discoveries-the-hottest-tiktok-trends/"><u>[Updated] Essential Amazon Discoveries The Hottest TikTok Trends</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-effortless-screen-capture-on-chrome-os-devices/"><u>[Updated] In 2024, Effortless Screen Capture on Chrome OS Devices</u></a></li>
-<li><a href="https://review-topics.techidaily.com/does-find-my-friends-work-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-realme-gt-3-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Realme GT 3 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-plus-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 Plus To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-samsung-galaxy-z-flip-5-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Samsung Galaxy Z Flip 5</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-enhancing-webcam-gaming-experience-and-quality/"><u>In 2024, Enhancing WebCam Gaming Experience & Quality</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-13c-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi 13C to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-0x8024401c-update-glitches-in-microsofts-latest-operating-systems-a-comprehensive-guide-for-windows-10-and-11-users/"><u>Overcoming 0X8024401c Update Glitches in Microsoft's Latest Operating Systems: A Comprehensive Guide for Windows 10 and 11 Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-art-of-using-videos-in-education/"><u>The Art of Using Videos in Education</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-coordinated-duet-clips-with-tiktok-twist-for-2024/"><u>[New] Coordinated Duet Clips with TikTok Twist for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-radial-magic-transforming-ordinary-photos-into-art/"><u>[New] Radial Magic Transforming Ordinary Photos Into Art</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimizing-data-preservation-top-5-cloud-storage-providers/"><u>[Updated] Optimizing Data Preservation Top 5 Cloud Storage Providers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-list-free-online-video-conferencing-software/"><u>[Updated] The Ultimate List Free Online Video Conferencing Software</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-70-lite-5g-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor 70 Lite 5G Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-xs-screen-lock-without-data-loss-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone XS screen lock without data loss?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-s17e-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my S17e</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-11-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 11 without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-honor-magic-6-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Honor Magic 6 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-mkv-video-on-xiaomi-redmi-12-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Issues playing MKV video on Xiaomi Redmi 12</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-generate-tones-with-ease-5-free-online-options/"><u>New In 2024, Generate Tones with Ease 5 Free Online Options</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-connectivity-problems-a-step-by-nstep-guide-to-repairing-your-kotion-each-g2000-mic/"><u>Solving Connectivity Problems: A Step-by-nStep Guide to Repairing Your Kotion Each G2000 Mic</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tiktok-content-mastery-learn-to-alter-digit-scenes-effectively/"><u>TikTok Content Mastery Learn to Alter Digit Scenes Effectively</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-picks-online-tools-for-integrating-photo-frames-for-2024/"><u>Top Picks Online Tools for Integrating Photo Frames for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/ultimate-streams-for-gamers-unveiled-for-2024/"><u>Ultimate Streams for Gamers Unveiled for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Change Your Infinix Smart 8 Location on life360 Without Anyone Knowing? | Dr.fone
-date: 2024-09-13T18:28:35.344Z
-updated: 2024-09-19T18:06:36.718Z
+date: 2024-10-06T00:00:49.928Z
+updated: 2024-10-08T09:28:30.291Z
 tags: 
   - virtual location change
   - social app
@@ -153,13 +153,6 @@ Consider Alternatives
 
 Explore apps with granular privacy controls. Some focus on user privacy and allow for more customized sharing settings. Change your location on Life360 responsibly to balance safety and privacy.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 So, let’s go back to the main question. **Can you change your location on Life360 without anyone knowing?** Yes, it is possible to fake your location using spoofing apps for Android and iOS. But it’s crucial to value trust in relationships. Instead of resorting to faking your location, consider responsible alternatives.
@@ -252,11 +245,25 @@ Using an authentic lightning cable, connect your Infinix Smart 8 to the computer
 
 ![connect your Infinix Smart 8 to the computer](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _Step 2: Look for any location of your choice_
 
 A map-like interface would be launched on the screen with dedicated options at the top-right corner. Just click on the teleport feature, which is the first option here.
 
 ![find new location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now, you can go to the search bar and look for any location (address, city, state, coordinates, etc.) you want to switch to.
 
@@ -268,27 +275,20 @@ To change your location, move the pin as per your requirements, and click on the
 
 ![mock your location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This will display the changed location of your device on the interface, and you can stop the simulation whenever you want.
 
 ![stop the simulation](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can also open any app on your Infinix Smart 8 and see the new location on the interface. Just go to WhatsApp now and send the fake location on WhatsApp to your friends.
 
 ![go to WhatsApp](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Send Fake Live Location with One-Stop Route/Multi-Stop Route
 
@@ -302,6 +302,19 @@ Step 2: Afterward, select the trip type, number of rounds, and speed according t
 
 ![go to WhatsApp](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3.2 Fake location on WhatsApp using iTools location spoofer
 
 Unfortunately, faking your WhatsApp location on iPhone is not as easy as you think. You can't just download an app that will help you to fake WhatsApp live location. Instead, you will have to use a computer program for this. There is a special tool designed by ThinkSky called iTools. It will allow the users to pick any location and trick your Infinix Smart 8 apps into believing that you are actually at that location.
@@ -313,6 +326,13 @@ Step 1: Install the iTools software on your computer and connect your Infinix Sm
 Step 2: Enter the fake location in the search box and let the software detect the location. The marker will automatically land on the map. Tap on the "Move Here" option on the screen, and your Infinix Smart 8 location will instantly move to that particular location.
 
 ![Move Here option](https://images.wondershare.com/drfone/article/2019/10/move-location-on-iPhone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: Now, launch the WhatsApp app and click on the Share Location option. The app will show the new fake location, and you can share it with anyone you want.
 
@@ -342,13 +362,6 @@ Step 1: Open Settings > Privacy > Location Services and turn the setting on. Als
 Step 2: Go to the Settings and open "About Phone" info. Find the Build number and tap on 7 times to access the Developer Settings. From developer options, enable the "Allow Mock Locations" option.
 
 ![Allow Mock Locations](https://images.wondershare.com/drfone/article/2019/10/open-developer-options.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3: Now, open the app and search the location that you want to send. Once you have decided which location you want to share, click on the Set Location option.
 
@@ -384,22 +397,16 @@ One-click to transfer WhatsApp messages from One Device to Another Device.
 
 **3,480,561** people have downloaded it
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Hopefully, now you know how to fake GPS on WhatsApp & how to identify the fake location. So, if you are planning to have some fun with a fake location, then you know what to do. Try [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) today and explore a world of possibilities! Let us know if someone was able to recognize that you shared a fake location. It is a useful feature undoubtedly, don’t forget to share it with people who need it.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Fake Snapchat Location on Infinix Smart 8
 
@@ -414,6 +421,19 @@ If the feature is enabled, then you can also share your location with others and
 ### How to turn it off?
 
 Well, to be honest, a lot of people don't like to share their location with others on Snapchat. Thankfully, you can just disable it by visiting your Snapchat Settings and turning on the Ghost Mode. When the Ghost Mode is enabled, your location won't be shared with others. To start sharing your location, you can just turn off the Ghost Most and select with whom you wish to share your whereabouts (all or selected contacts).
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Why You Might Wish to Fake Snapchat Location?
 
@@ -442,6 +462,13 @@ You can search for a location by its name, address, or specific coordinates and 
 - In the end, you can just adjust the pin around or zoom in/out the map as per your requirements. Once you are done, click on the "Move Here" button to fake GPS location on Snapchat.
 
 ![to fake gps on snapchat](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can later launch Snapchat and check your location, which would be changed now.
 
@@ -473,5 +500,24 @@ There you go! Now when you know how easy it is to use a Snapchat location spoofe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-handbook-for-telegram-web-newbies/"><u>[New] The Complete Handbook for Telegram Web Newbies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pioneering-easy-audio-alterations-for-competitive-play/"><u>[Updated] Pioneering Easy Audio Alterations for Competitive Play</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-full-potential-using-polarrs-image-tools/"><u>2024 Approved Unlock Full Potential Using Polarr's Image Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/complete-scrutiny-of-cutmatic-editor/"><u>Complete Scrutiny of CutMatic Editor</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-ogg-audio-tracks-to-mp3-format-for-free-with-movavis-web-based-tool/"><u>Convert OGG Audio Tracks to MP3 Format for Free with Movavi's Web-Based Tool</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-social-networking-sites-exploring-fb-tw-ig-yt/"><u>Essential Social Networking Sites: Exploring FB, TW, IG, YT</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-asus-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Asus Phones with/without a PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xr-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XR To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-15-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 15 Plus Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-realme-c33-2023-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Realme C33 2023?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-playback-issues-on-galaxy-z-flip-5-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV playback issues on Galaxy Z Flip 5</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nokia-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Nokia support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-infinix-smart-8-hd-by-fonelab-android-recover-data/"><u>Recover lost data from Infinix Smart 8 HD</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-honor-x50-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Honor X50</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-definitive-guide-to-resolving-black-monitor-malfunctions-successfully/"><u>The Definitive Guide to Resolving Black Monitor Malfunctions Successfully</u></a></li>
+</ul></div>
 

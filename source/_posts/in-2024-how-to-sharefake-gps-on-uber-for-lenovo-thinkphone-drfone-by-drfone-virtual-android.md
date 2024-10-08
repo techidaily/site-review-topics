@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to share/fake gps on Uber for Lenovo ThinkPhone | Dr.fone
-date: 2024-09-30T22:05:37.832Z
-updated: 2024-10-02T16:01:09.569Z
+date: 2024-10-03T08:23:11.745Z
+updated: 2024-10-08T05:54:32.256Z
 tags: 
   - virtual location chang
   - location changer
@@ -35,6 +35,13 @@ The Process
 
 ![install i spoofer](https://drfone.wondershare.com/2020/install_i_spoofer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2.** Connect the iDevice with the computer and tap trust on it. Launch the program and it will detect the iDevice with ease and perfection.
 
 ![connect iDevice with computer](https://drfone.wondershare.com/2020/connect_iDevice_with_computer.jpg)
@@ -58,6 +65,13 @@ Faking GPS on android is also super easy and it allows the users to spoof the lo
 **Step 3.** Enable the mock locations on android and select the fake GPS application to get the results.
 
 ![enable mock location android](https://drfone.wondershare.com/2020/enable_mock_location_android.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4.** Select the location where you want to spoof and then press the play button. Your location will be changed and your phone will also show and lock your spoofed location.
 
@@ -135,21 +149,7 @@ The iDevice of your will also show the same location as on the program and this 
 
 ![virtual location 6](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How to share a fake GPS on Uber for Android
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1: Hola Fake Location
 
@@ -169,23 +169,9 @@ It is also one of the easiest ways to make sure that the location is changed. Yo
 
 ![location changer android](https://drfone.wondershare.com/2020/location_changer_android.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 No matter whatever the process you use for the location spoofing it is the [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) that surpasses all with ease and perfection. It is one of the easiest and the most used programs that will make sure that the location spoofing is performed with 100% accuracy. With Dr. Fone changing location has been too easy to perform. The application is backed by a highly technical team and it will get you the results that you have always been longing for.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Read This Guide to Find a Reliable Alternative to Fake GPS On Lenovo ThinkPhone
 
@@ -210,13 +196,6 @@ Here are the drawbacks you might encounter if you're using Fake GPS Mod APK on y
 - Fake GPS Mod APK has no customer support if you encounter any issues with the mod.
 - You need to go to your phone's development section and do some tinkering to allow Fake GPS Mod to work on your smartphone.
 - Fake GPS Mod APK is not available for iOS users.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: The Best Alternative to Fake GPS Mod APK - [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -248,15 +227,22 @@ Simply follow the steps below to start spoofing your GPS Location with Dr.Fone -
 ![drfone get started ios android](https://images.wondershare.com/drfone/article/2022/12/dr-fone-get-started.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3:** Choose the iOS/Android device to connect with Dr.Fone - Virtual Location.
 
 ![connect ios android to drfone](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Tips:**
 
@@ -265,6 +251,13 @@ IPhone users can connect to Dr.Fone - Virtual Location without connecting a USB 
 **Step 4:** Click **Teleport mode** on the upper right of the program window. Enter the location you want to teleport to in the upper left field and click the **Go** icon. Click **Move Here** to spoof your location.
 
 ![teleport using drfone virtual location](https://images.wondershare.com/drfone/article/2022/12/dr-fone-teleport-location.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **(Optional) Step 5-A:** To simulate movement along a route, click **One stop mode** and select a spot you want to go on the map. Drag the slider speed on the pop-up box to select your movement speed from walking, cycling, or more.
 
@@ -300,19 +293,6 @@ With GPS and advanced tracking tools, your whereabouts can be easily located all
 
 In the following parts of this writeup, you can learn how to know if someone is spying on your cell phone, how to stop someone from mirroring your phone, and many other related concerns.
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: How can I tell if my husband or wife is spying on my Lenovo ThinkPhone?
 
 If you are suspecting that your phone is being hacked, several signs will indicate the same. So, if you too are looking for ways **how to know if someone is spying on cell phones, check the below-listed signs.**
@@ -340,6 +320,13 @@ When your emails, phone calls, and text messages are being checked or tracked th
 If your social media accounts like Facebook and others are kept an eye on it means that you are being watched and your phone is being hacked. Tracking you or your vehicle using GPS
 
 ![hack without touching by social media](https://images.wondershare.com/drfone/article/2022/03/hack-without-touching.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Tracking you or your vehicle using GPS
 
@@ -395,10 +382,16 @@ By changing the VPN of your device, you can set a false location and your spouse
 ![stop spouse from spying on you by vpns](https://images.wondershare.com/drfone/article/2022/03/vpn.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. A Reliable location changer, Dr.Fone - Virtual Location
@@ -442,6 +435,19 @@ You can check out this video for further instruction.
 
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Method 3: Take advantage of anti-spyware software**
 
 Another way to stop your spouse from spying on you is by using anti-spy software. Just like spy software sends your location and other information to the hacking spouse, an anti-spyware tool will prevent tracking your device and will prevent from sharing your device information like calls, messages, and others. There are several anti-spyware tools for Android and iOS available in the market and some of the popular ones are Mobile Security & Anti-Theft Protection, iAmNotified, Avira Mobile Security, Cell Spy Catcher, Lookout, and more.
@@ -482,24 +488,24 @@ The technological advancements may have brought a lot of convenience to the user
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-apex-titles-for-hd-video-recording-technologies-for-2024/"><u>[New] Apex Titles for HD Video Recording Technologies for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhancing-youtube-videos-for-superior-quality/"><u>[New] In 2024, Enhancing YouTube Videos for Superior Quality</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-leveraging-social-media-power-optimal-use-of-hash-tags-on-fb-for-2024/"><u>[New] Leveraging Social Media Power Optimal Use of Hash Tags on FB for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-precisely-how-to-disconnect-from-your-outdated-linkedin-account-for-2024/"><u>[New] Precisely How To Disconnect From Your Outdated LinkedIn Account for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-selecting-sacred-sounds-for-smartphone-ringtones/"><u>[Updated] In 2024, Selecting Sacred Sounds for Smartphone Ringtones</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-pixelperfect-video-creator/"><u>2024 Approved PixelPerfect Video Creator</u></a></li>
-<li><a href="https://review-topics.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/expecting-a-surge-in-commercials-understanding-youtubes-latest-ad-strategy/"><u>Expecting a Surge in Commercials - Understanding YouTube's Latest Ad Strategy</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-leave-a-life360-group-on-xiaomi-13-ultra-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Xiaomi 13 Ultra Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-apple-iphone-6-plus-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the Apple iPhone 6 Plus Without Previous Owner?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 to others devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo S17? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mic-testing-how-to-test-your-microphone-quickly-and-easily/"><u>Mic Testing: How to Test Your Microphone Quickly & Easily</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-camon-20-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Camon 20</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-edge-40-by-fonelab-android-recover-data/"><u>Recover lost data from Edge 40</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-oppo-reno-10-proplus-5g-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Oppo Reno 10 Pro+ 5G has been deleted.</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721479462350-safari-not-responding-on-iphone-here-are-10-fixes-to-try-now/"><u>Safari Not Responding on iPhone? Here Are 10 Fixes to Try Now</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-optimal-orientation-for-fb-content-creation/"><u>[Updated] In 2024, Optimal Orientation for FB Content Creation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-ultimate-playbook-for-recording-live-gaming-events/"><u>[Updated] In 2024, The Ultimate Playbook for Recording Live Gaming Events</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-windows-0xfffffff-confusion-quick-fixes/"><u>Clearing Windows' 0XFFFFFFF Confusion: Quick Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-setup-for-gmail-users-integrating-with-apple-watch/"><u>Easy Setup for Gmail Users: Integrating with Apple Watch</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/facebook-vids-made-simple-as-mp4-downloads/"><u>Facebook Vids Made Simple as MP4 Downloads</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-f23-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from F23 5G?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-6s-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 6s to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-y27s-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Vivo Y27s Device</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974868416-lenovo-tap-issue-now-solved/"><u>Lenovo Tap Issue, Now Solved!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/poco-data-recovery-recover-lost-data-from-poco-x6-by-fonelab-android-recover-data/"><u>Poco Data Recovery – recover lost data from Poco X6</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-oppo-a59-5g-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Oppo A59 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-zte-nubia-z60-ultra-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after ZTE Nubia Z60 Ultra has been deleted.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-realme-12-proplus-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Realme 12 Pro+ 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-nubia-red-magic-9-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Nubia Red Magic 9 Pro</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-wastelands-2-directors-edition-critique-an-engrossing-tactical-roleplay-experience/"><u>The Wastelands 2 - Director's Edition Critique: An Engrossing Tactical Roleplay Experience</u></a></li>
 </ul></div>
 

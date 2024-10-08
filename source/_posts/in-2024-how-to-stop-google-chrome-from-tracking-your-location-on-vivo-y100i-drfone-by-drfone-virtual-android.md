@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Stop Google Chrome from Tracking Your Location On Vivo Y100i? | Dr.fone
-date: 2024-09-29T21:24:34.307Z
-updated: 2024-10-02T17:00:36.694Z
+date: 2024-10-06T16:49:10.264Z
+updated: 2024-10-08T11:59:16.843Z
 tags: 
   - virtual location chang
   - location changer
@@ -70,10 +70,10 @@ If you are worried about Google Chrome detecting your physical location and shar
 One way to protect your privacy and stop websites from tracking your location is to turn off the location, but it has many disadvantages. If you have turned off your location, you can't use any location base service like food delivery, e-shopping, ride-sharing, etc. That's why it is better to use a fake location on your browser. Below we have explained four methods for **Chrome fake location**.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1. Best Tool to Fake Chrome Location On iOS and Android Phones
@@ -98,6 +98,13 @@ Connect your Android or iOS phone to your computer using a USB cable. Launch the
 
 ![select the virtual location tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2: Activate the Teleport Mode**
 
 Press "Get Started" on the next page to open the map window. First, select your actual location by pressing the "Center On" icon from the right sidebar. Afterward, click on the "Teleport" icon from the top right corner to activate the Teleport Mode.
@@ -117,13 +124,6 @@ It is also possible to **fake browser location** on Chrome using the Google Chro
 **Step 1:** After opening Google Chrome, click the three-dots icon from the top right corner. It will open the Chrome menu where you need to select "Developer Tools" after clicking "More Tools."
 
 ![choose the developer tools](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2:** A window will open on the right side with all the developing tools you can use in Chrome. Click on the three-dots icon located near "Console" in the bottom left corner of the window. Choose "Sensors" from the pop-up menu.
 
@@ -178,20 +178,33 @@ Another way you can fool websites and your browser by displaying a **fake locati
 
 ## Part 4: FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1.What is Geolocation?
 
 Geolocation is a term used for the process of pinpointing the location of a device connected to the internet. The location can be determined using methods like IP address, GPS, and mobile tower data. Apps and websites commonly use it to provide location-based services.
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.What is the HTML5 Geolocation API?
 
 The HTML5 Geolocation API is a browser API used to determine a user's geographical location. Developers use it to build location-aware websites and apps that use users' locations as the basis for providing their services. It can detect location through GPS, Wi-Fi, Bluetooth, IP addresses, etc.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3.Why should you hide or spoof your Location?
 
@@ -239,13 +252,6 @@ Utilizing Smart DNS to change country on Netflix without VPN actually works in t
 
 ![change dns server wifi properties](https://images.wondershare.com/drfone/article/2023/01/change-dns-server-netflix-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4**: Input your DNS Server address. Click **Ok** once done and restart your computer. The DNS address should activate once you reconnect to the internet.
 
 **Pros**
@@ -265,18 +271,18 @@ Proxy Servers work the same as VPNs as it routes traffic to a third-party server
 
 ![change proxy settings for netflix](https://images.wondershare.com/drfone/article/2023/01/change-proxy-netflix-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2**: Choose between **Automatic** or **Manual proxy setup**.
 
 **Step 3A**: For **Automatic proxy setup**, turn on **Automatically detect settings** and **Use setup script.** Afterward, enter the **Script address** and click **Save.**
 
 ![automatic proxy settings for netflix](https://images.wondershare.com/drfone/article/2023/01/change-proxy-netflix-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3B**: For **Manual proxy setup,** click **Use a proxy server**. Input **Address** and **Port** numbers. Click **Save** afterward.
 
@@ -319,13 +325,6 @@ Tor Browser is available across all major platforms, including Windows, macOS, L
 **Cons**
 
 - You can't control the region you have access to, so your Netflix content is not guaranteed to have what you're looking for.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -381,6 +380,13 @@ Faking GPS on android is also super easy and it allows the users to spoof the lo
 
 ![enable developer options android](https://drfone.wondershare.com/2020/enable_developer_options_android.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3.** Enable the mock locations on android and select the fake GPS application to get the results.
 
 ![enable mock location android](https://drfone.wondershare.com/2020/enable_mock_location_android.jpg)
@@ -392,6 +398,13 @@ Faking GPS on android is also super easy and it allows the users to spoof the lo
 ## Part 2: How to share a fake GPS on Uber for iPhone
 
 For fake GPS Uber, many applications can be used to get the work done on the iPhone. It is however advised to make sure that the best application is chosen for the results.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2.1 How to select a Good Location Application for iPhone?
 
@@ -443,6 +456,13 @@ To make sure that you get yourself located make sure that you press the “cente
 
 ![virtual location 3](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4: Teleportation**
 
 From the upper right corner click on the icon on the third and this will make sure that the process of teleportation begins.
@@ -463,31 +483,11 @@ The iDevice of your will also show the same location as on the program and this 
 
 ## Part 3: How to share a fake GPS on Uber for Android
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Hola Fake Location
 
 For Uber fake GPS 2019 this is the best and the easiest method that you can perform. Simply download and install the Hola fake GPS application and get going with the process. Select the location to GPS only > select the position > click the play button to finish.
 
 ![Hola fake GPS android](https://drfone.wondershare.com/2020/Hola_fake_GPS_android.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Use Fake GPS Go
 
@@ -519,19 +519,24 @@ No matter whatever the process you use for the location spoofing it is the [Dr.F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-achieving-high-clickthrough-rates-with-yt-thumbnails/"><u>[New] 2024 Approved Achieving High Clickthrough Rates with YT Thumbnails</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-much-cash-can-you-score-for-watching-a-million-videos/"><u>[New] In 2024, How Much Cash Can You Score for Watching A Million Videos?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-share-facebook-videos-to-whatsapp-for-2024/"><u>[Updated] How to Share Facebook Videos to WhatsApp for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/10-best-cars-surveillance-systems-decoded-for-2024/"><u>10 Best Cars Surveillance Systems Decoded for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/effortless-photo-tidying-up-top-6-iphone-object-removing-programs/"><u>Effortless Photo Tidying Up Top 6 iPhone Object-Removing Programs</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-evaluating-video-editing-tools-bandicam-vs-camtasia/"><u>In 2024, Evaluating Video Editing Tools Bandicam vs Camtasia</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Oppo A2? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/issues-playing-mov-videos-on-14-pro-by-aiseesoft-video-converter-play-mov-on-android/"><u>Issues playing MOV videos on 14 Pro</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-asus-rog-phone-7-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Asus ROG Phone 7</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-poco-x6-pro-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Poco X6 Pro has been deleted.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-tecno-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Tecno has been deleted.</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-precision-in-production-5-advanced-methods-for-trimming-on-vimeo-platform/"><u>[Updated] 2024 Approved Precision in Production 5 Advanced Methods for Trimming on Vimeo Platform</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-pro-video-tips-add-borders-and-raise-quality-on-ig/"><u>[Updated] 2024 Approved Pro Video Tips Add Borders and Raise Quality on IG</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-compre-written-analysis-hero4-black-operations/"><u>[Updated] In 2024, Compre Written Analysis Hero4 Black Operations</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-echoes-of-entertainment-adding-sound-to-snapchat-vids/"><u>[Updated] In 2024, Echoes of Entertainment Adding Sound to Snapchat Vids</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-maximizing-potential-key-know-how-for-technological-progress/"><u>[Updated] Maximizing Potential Key Know-How for Technological Progress</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-ultimate-angular-ui-toolkit-pro-advanced-bootstrap-compatible-frontend-framework-by-creative-tim/"><u>1. Ultimate Angular UI Toolkit Pro: Advanced Bootstrap-Compatible Frontend Framework by Creative Tim</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-xcover-7-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cultivation-of-a-connected-crowd-the-subscriber-surge-strategy/"><u>Cultivation of a Connected Crowd The Subscriber Surge Strategy</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/efficient-screenshot-and-video-recorder-choice-guide-for-pc/"><u>Efficient Screenshot & Video Recorder Choice Guide for PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-pro-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Pro To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/htc-u23-video-recovery-recover-deleted-videos-from-htc-u23-by-fonelab-android-recover-video/"><u>HTC U23 Video Recovery - Recover Deleted Videos from HTC U23</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On OnePlus Ace 3? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo G2? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-realme-gt-5-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Realme GT 5 has been deleted.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/video-flipping-techniques-on-wmm-and-comparing-alternatives-for-optimal-results/"><u>Video Flipping Techniques on WMM and Comparing Alternatives for Optimal Results</u></a></li>
 </ul></div>
 

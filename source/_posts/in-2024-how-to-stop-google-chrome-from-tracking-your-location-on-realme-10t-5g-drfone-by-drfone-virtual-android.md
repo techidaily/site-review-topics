@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Stop Google Chrome from Tracking Your Location On Realme 10T 5G? | Dr.fone
-date: 2024-09-14T16:59:51.647Z
-updated: 2024-09-19T19:05:58.963Z
+date: 2024-10-04T23:39:57.916Z
+updated: 2024-10-07T21:30:34.996Z
 tags: 
   - virtual location chang
   - location changer
@@ -43,9 +43,30 @@ If you are worried about Google Chrome detecting your physical location and shar
 
 ![access the site settings option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Navigate to "Permissions" and click on "Location." To hide the location on Google Chrome, select the "Don't allow sites to see your location" option.
 
 ![enable the dont allow option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: For iPhone or iPad
 
@@ -66,13 +87,6 @@ If you are worried about Google Chrome detecting your physical location and shar
 **Step 2:** In Chrome Settings, press "Site Settings." Now select "Location" and hide your location by toggling off the "Location" option.
 
 ![disable the location option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 One way to protect your privacy and stop websites from tracking your location is to turn off the location, but it has many disadvantages. If you have turned off your location, you can't use any location base service like food delivery, e-shopping, ride-sharing, etc. That's why it is better to use a fake location on your browser. Below we have explained four methods for **Chrome fake location**.
 
@@ -110,6 +124,13 @@ Once the Teleport Mode is activated, add your desired location and press "Go." Y
 
 ![hit the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2. Manually Change Your Location Using Google Chrome DevTools
 
 It is also possible to **fake browser location** on Chrome using the Google Chrome Developer Tools. It is a built-in feature of Chrome and can be used to manually change or turn off your browser's location. Follow these steps for changing location on Chrome with DevTools:
@@ -117,6 +138,13 @@ It is also possible to **fake browser location** on Chrome using the Google Chro
 **Step 1:** After opening Google Chrome, click the three-dots icon from the top right corner. It will open the Chrome menu where you need to select "Developer Tools" after clicking "More Tools."
 
 ![choose the developer tools](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2:** A window will open on the right side with all the developing tools you can use in Chrome. Click on the three-dots icon located near "Console" in the bottom left corner of the window. Choose "Sensors" from the pop-up menu.
 
@@ -169,13 +197,6 @@ Another way you can fool websites and your browser by displaying a **fake locati
 - NordVPN can only spoof your IP address and will not work for geo-restricted applications.
 - Using a VPN usually affects your internet speed and can make browsing slower and more difficult.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: FAQs
 
 ### 1.What is Geolocation?
@@ -190,18 +211,18 @@ The HTML5 Geolocation API is a browser API used to determine a user's geographic
 
 Hiding or spoofing your location protects your privacy and stop application and websites from tracking you. It also allows you to access geo-restricted apps and play location-based games. You can also fake your location to get the latest updates of your favorite apps.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 The fact that Google Chrome in your devices can track your location with an accuracy of up to 20 meters is very unsettling for users. Even when you try to be careful in granting location permissions to apps and websites, many can still bypass this by adding location access requirements in terms and conditions.
 
 That's why having a tool like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to **fake GPS online** is essential nowadays. It can ensure your privacy and helps in protecting you from the dangers of the internet.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing Foneazy MockGo Not Working On Realme 10T 5G
 
@@ -269,13 +290,6 @@ Our product, **“Dr. Fone - Virtual Location” (**[**https://drfone.wondershar
 ### Conclusion
 
 There you have it, these are the tricks that you can do on your own to fix any issue that comes up when using Foneazy MockGo or when this application is not working. Despite the advantages of using this application, you will for sure still encounter some limitations so you can look for an alternative that does the same job of sharing a spoof location and that is using **[Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)** which will help you to advance your levels in your AR games or find out other options in other locations in the world.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Realme 10T 5G
 
@@ -347,6 +361,13 @@ Now, the program will get your location and click on “Move Here” that comes 
 
 ![Fake location on Find My Friends](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3.2 Use a burner iPhone to fake location in Find My Friends
 
 Using a burner can also be a good option to take help of when your goal is to fake GPS on Find My Friends. It is nothing but a secondary device where the Find My Friends app can be downloaded and used it to swindle the people you want. This will allow you to keep more privacy as no one will be able to peep into your matter or location.
@@ -368,19 +389,6 @@ If you have done jailbreaking, you can have FMFNotifier. Jailbreaking will be wo
 - One of the amazing things about this app to fake Find My Friends location is it sends you the notification each time when someone want to track your location. Whenever your friend attempts to ping your location, it will notify you as “Someone has requested your location through Find My Friends app”. And this is the moment where you can fake your location on Find My Friends. You can right away set a fake location when you know someone requires your location.
 
 ![FMFNotifier notification](https://images.wondershare.com/drfone/article/2019/09/fmfnotifier-notification.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Secondly, you can do configurations from the Settings app easily. Like, you can customize the text of the notification. Besides, the app allows you to set and save several false locations preset.
 
@@ -415,6 +423,13 @@ You will get the notification no matter your screen is locked or not. A notifica
 - Have a look on the location request logs i.e. each time when the location is pinged
 
 ![antitracker settings](https://images.wondershare.com/drfone/article/2019/09/antitracker-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: How to Fake Find My Friends location on Android
 
@@ -454,5 +469,17 @@ When you install it rightly, this is how to do a little twisting to set it up wi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-quick-diy-tricks-for-professional-quality-homemade-films/"><u>[Updated] 2024 Approved Quick DIY Tricks for Professional-Quality Homemade Films</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-essential-tips-for-instagrams-query-tagging-for-2024/"><u>[Updated] Essential Tips for Instagram's Query Tagging for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/enhancing-presentations-with-vo-techniques-in-ppt/"><u>Enhancing Presentations with VO Techniques in PPT</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2019-file-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2019 File</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2020-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2020) To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Xiaomi Redmi A2? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-moto-g24-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Motorola Moto G24 can’t play AVCHD .mts video</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-unleash-your-creativity-top-free-video-editing-software-for-32-bit-windows/"><u>New In 2024, Unleash Your Creativity Top Free Video Editing Software for 32-Bit Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-8-plus-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 8 Plus Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/windows-11-to-get-a-price-tag-discover-microsofts-new-policy-on-charging-for-future-updates-from-next-year-zdnets-breakdown-of-costs/"><u>Windows 11 to Get a Price Tag: Discover Microsoft’s New Policy on Charging for Future Updates From Next Year - ZDNet's Breakdown of Costs</u></a></li>
+</ul></div>
 

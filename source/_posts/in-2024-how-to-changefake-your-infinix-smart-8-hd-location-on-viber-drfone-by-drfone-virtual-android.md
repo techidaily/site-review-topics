@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Change/Fake Your Infinix Smart 8 HD Location on Viber | Dr.fone
-date: 2024-09-26T00:03:02.158Z
-updated: 2024-10-02T17:07:46.357Z
+date: 2024-10-03T20:28:16.047Z
+updated: 2024-10-08T11:17:24.524Z
 tags: 
   - virtual location change
   - social app
@@ -36,13 +36,6 @@ Step 1. Fire up your Viber app on mobile or PC and tap the **Chats** button. Her
 
 ![change location on Viber open chats](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of the screen and choose **Chat Info**. Alternatively, simply swipe the screen to the left.
 
 ![change location on Viber, tap chat info](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-2.jpg)
@@ -50,13 +43,6 @@ Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of 
 Step 3. On the Chat Info window, simply enable or disable the **Attach location always** toggle. It’s done!
 
 ![change location on Viber to allow location sharing](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Pro tip**: You might be wondering how to share your actual Viber location with a chat or group. Again, this is very straightforward. Simply open the conversation and tap the three dots on the text field. Then, click the **Share Location** button and choose your location on the Google map. Lastly, tap **Send location** to share the Viber location with your selected contact.
 
@@ -99,10 +85,10 @@ Connect your smartphone to your PC using a USB wire and tap **Get Started** on t
 ![ change location on Viber, connect the phone](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Press the **Next** button to begin connecting your phone to Dr.Fone. If the connection fails, enable USB debugging on your phone by following the on-screen instructions. On Android phones, tap **Settings > Additional settings > Developer options > USB debugging**. In addition, set Dr.Fone as the mock location app on your phone.
@@ -110,13 +96,6 @@ Press the **Next** button to begin connecting your phone to Dr.Fone. If the conn
 **Step 4. Enter the GPS coordinates or location address.**
 
 ![change location on Viber, choose location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If the connection is successful, the Virtual Location map will launch automatically on Dr.Fone. Now enter the coordinates or address in the location field at the top-left corner. After finding the exact location that you want, simply tap **Move Here** before sharing your new location on Viber. That is easy, right?
 
@@ -133,6 +112,13 @@ If the connection is successful, the Virtual Location map will launch automatica
 - Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
 
 **3981454** people have downloaded it
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: Why send fake location on Viber?
 
@@ -212,6 +198,13 @@ Yes, you can change your location on Life360 without anyone knowing. But it does
 
 ![dr.fone life360 virtual location changer](https://images.wondershare.com/drfone/images2022/iphone-data-recovery/s3img1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The question of hiding or changing your location on Life360 might be discreetly on your mind. You’re not alone in this. If you’re a teenager, maybe you seek a bit of freedom without constant oversight. As a working professional, you might be figuring out how to balance work and life while keeping things private. Perhaps you aim to lessen your digital footprint. Or to gain an advantage in competitive play.
 
 In different scenarios, the same question – “**Can you change your location on Life360 without anyone knowing?**” Let’s explore this together. No matter what your reasons are, as long as you have good intentions, keep reading. In the next section, you’ll learn more about Dr.Fone and its one-click virtual location changer feature.
@@ -245,20 +238,27 @@ Give yourself some breathing room on Life360. Dr.Fone Virtual Location helps you
 
 ![dr.fone virtual location map](https://images.wondershare.com/drfone/guide/virtual-location-01-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4:** Choose the iOS or Android device to connect, then click **Next**. Wait while your device connects to your computer.
 
 ![connect ios or android device](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 5:** Follow the on-screen steps to put your device in the Developer mode and wait for the Dr.Fone app to detect it.
 
 ![open the developer mode](https://images.wondershare.com/drfone/guide/vl-connect-ios-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 6:** Select the travel mode you want from the top-right side and set your destination on the map.
 
@@ -302,13 +302,6 @@ So, let’s go back to the main question. **Can you change your location on Life
 
 But of course, there are certain situations in which you will need to fake your location. In such cases, Dr. Fone’s Virtual Location changer is a responsible solution. This tool enables temporary location modifications with precise control and ethical features. Use them responsibly and prioritize genuine communication for healthy, secure connections.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How To Leave a Life360 Group On Infinix Smart 8 HD Without Anyone Knowing?
 
 Do you keep asking yourself **how do I leave a Life360 group?** If so, you’re on the right page. In a world where connectivity is key, Life360 has emerged as a trusted family safety app. It provides a digital reach through its innovative location tracking “Circle.” However, sometimes, you might want to leave it without raising eyebrows.
@@ -341,16 +334,16 @@ Here’s **how to leave a circle in Life360** that you’re a part of. Here are 
 
 ![leaving circle where you are member](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2:** Choose **Circle Management** from the list. Tap on **Leave Circle** at the bottom of the screen. Confirm your decision by selecting **Yes** in the popup. You’ll no longer be associated with the Circle, and it won’t appear in your Circles list. If you wish to rejoin, you’ll need a new invitation from the Circle Admin.
 
 ![leaving circle confirmation window](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-05.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2. How To Leave a Life360 Circle Without Anyone Knowing
 
@@ -383,6 +376,13 @@ Follow the steps below to learn **how to leave a Life360 Circle without anyone k
 
 ![dr.fone simulate movement with map](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4:** To activate **Teleport Mode**, click the **Search** bar. Type a location and hit **Enter**. Click **Move Here** to change the smartphone location on the map. Verify on your smartphone’s maps application. Once done, you spoofed a Life360 circle without anyone knowing.
 
 ![dr.fone teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
@@ -409,13 +409,6 @@ Another option is to activate Airplane Mode, severing all connections, including
 ### Method 4: Turning Off Your Infinix Smart 8 HD
 
 A straightforward yet noticeable method involves turning off your device. While it suspends location tracking on Life360, frequent use may draw attention.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Disabling Background App Refresh
 
@@ -450,6 +443,13 @@ Life360’s Circle feature serves as the cornerstone of the app. It fosters conn
 ### Can You Remove Someone From a life360 Circle?
 
 As the admin, you have the authority to remove someone from a Life360 Circle. The control ensures that you can manage the group dynamics and permissions.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How To Know if Someone Leaves the Circle?
 
@@ -487,17 +487,17 @@ The platform is proficient in location spoofing without alerting the Circle. Whe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-famous-gamers-software-choices-for-2024/"><u>[Updated] Famous Gamers' Software Choices for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-multiplatform-iptv-encoding/"><u>2024 Approved Multiplatform IPTV Encoding</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/conquer-japanese-online-paths-for-independent-and-free-learning/"><u>Conquer Japanese: Online Paths for Independent and Free Learning</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-12-mini-using-itunes-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 12 mini using itunes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-12-mini-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 12 mini without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oppo-reno-8t-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Oppo Reno 8T via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/indoor-natural-lighting-tips/"><u>Indoor Natural Lighting Tips</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-screen-to-share-3-easy-video-game-recording-methods/"><u>New From Screen to Share 3 Easy Video Game Recording Methods</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-no-wi-fi-signals-with-your-surface-pro-tips-and-fixes/"><u>Overcoming No-Wi-Fi Signals with Your Surface Pro - Tips & Fixes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-13-ultra-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from 13 Ultra</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-15-pro-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 15 Pro Data From iOS iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/step-by-step-tutorial-for-fast-and-easy-dvd-cloning-on-windows-11-pcs/"><u>Step-by-Step Tutorial for Fast and Easy DVD Cloning on Windows 11 PCs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-premier-mac-studio-for-high-quality-recordings/"><u>[New] In 2024, Premier Mac Studio for High-Quality Recordings</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-a-professionals-approach-to-video-editing-on-youtube-for-2024/"><u>[Updated] A Professional's Approach to Video Editing on YouTube for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-transforming-your-living-space-into-a-podcast-studio/"><u>[Updated] Transforming Your Living Space Into a Podcast Studio</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-solo-sounder-snafu-remedy-plan/"><u>2024 Approved Solo Sounder Snafu Remedy Plan</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/1723262386645-experience-unmatched-performance-cybertruck-inspired-mini-pc-comes-with-amd-ryzen-7-and-up-to-64gb-ram-no-bug-cleaning-needed/"><u>Experience Unmatched Performance: Cybertruck-Inspired Mini PC Comes With AMD Ryzen 7 and Up To 64GB RAM - No Bug Cleaning Needed</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-tvplus-on-iphone-xs-max-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple TV+ on iPhone XS Max</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-monster-hunter-world-conquering-fearsome-creatures/"><u>In-Depth Analysis of 'Monster Hunter: World': Conquering Fearsome Creatures</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-xiaomi-13t-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Xiaomi 13T.</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/snapchat-to-subscribers-jake-pauls-youtube-quest-for-2024/"><u>Snapchat to Subscribers Jake Paul’s Youtube Quest for 2024</u></a></li>
 </ul></div>
 

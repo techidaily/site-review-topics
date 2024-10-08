@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to share/fake gps on Uber for Tecno Spark Go (2023) | Dr.fone
-date: 2024-10-01T05:01:15.828Z
-updated: 2024-10-03T01:55:47.888Z
+date: 2024-10-02T21:44:00.388Z
+updated: 2024-10-08T11:25:08.798Z
 tags: 
   - virtual location chang
   - location changer
@@ -55,6 +55,13 @@ Faking GPS on android is also super easy and it allows the users to spoof the lo
 
 ![enable developer options android](https://drfone.wondershare.com/2020/enable_developer_options_android.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3.** Enable the mock locations on android and select the fake GPS application to get the results.
 
 ![enable mock location android](https://drfone.wondershare.com/2020/enable_mock_location_android.jpg)
@@ -62,13 +69,6 @@ Faking GPS on android is also super easy and it allows the users to spoof the lo
 **Step 4.** Select the location where you want to spoof and then press the play button. Your location will be changed and your phone will also show and lock your spoofed location.
 
 ![spoof location on android](https://drfone.wondershare.com/2020/spoof_location_on_android.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to share a fake GPS on Uber for iPhone
 
@@ -87,6 +87,13 @@ To select the best application for iPhone it is advised to keep in mind the foll
 ### 2.2 App and desktop which is better
 
 For Uber GPS spoofing the desktop application is awesome. It allows more control and therefore it also lets the users get the best results. The desktop application will also let the users know about the exact location as compared to the mobile application.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### The Best Desktop Location Spoofer for iPhone
 
@@ -136,13 +143,6 @@ Click move here and you will get to the teleported location. It will also make s
 
 ![virtual location 5](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 6: Complete the Process**
 
 The iDevice of your will also show the same location as on the program and this completes the process in full.
@@ -150,10 +150,16 @@ The iDevice of your will also show the same location as on the program and this 
 ![virtual location 6](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to share a fake GPS on Uber for Android
@@ -163,6 +169,13 @@ The iDevice of your will also show the same location as on the program and this 
 For Uber fake GPS 2019 this is the best and the easiest method that you can perform. Simply download and install the Hola fake GPS application and get going with the process. Select the location to GPS only > select the position > click the play button to finish.
 
 ![Hola fake GPS android](https://drfone.wondershare.com/2020/Hola_fake_GPS_android.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Use Fake GPS Go
 
@@ -207,6 +220,13 @@ Facebook Messenger’s location-sharing feature will not work without the necess
 
 ![apps settings](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3:** Find and click **Messenger.**
 
 ![messenger settings](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-3.jpg)
@@ -223,6 +243,13 @@ Facebook Messenger’s location-sharing feature will not work without the necess
 
 ![allow messenger access](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2. How to Share My Location on Messenger?
 
 How do I share my location on Messenger? As mentioned earlier, it’s very easy to use Facebook Messenger for location sharing. All it takes is just a few clicks on the platform. No need to manually type in the address or sketch the landmarks. Messenger does the rest of the work for you. In actuality, there are three ways to share your location on Messenger. Any of them can be of great help to you, depending on your current situation. Do you want to try them now? Check out the tutorials below.
@@ -238,28 +265,15 @@ How to share my location on Messenger? Well, the first option you can try is thr
 ![more button messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - **Step 4:** Right after, click **Location.**
 
 ![location option on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-8.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 5:** Click **Start Sharing Live Location.** Immediately, your current location details will be available and forwarded to the intended receiver. Live Location lasts for 60 minutes at maximum. If you wish to terminate it, simply click **Stop Sharing Live Location.**
 
@@ -301,6 +315,13 @@ How do I share my location in Messenger if I cannot find it on the map provided?
 
 ![send google maps location](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **NOTE:** Of course, you can only send pinned locations via Google Maps. The Facebook Messenger’s Live Location is available within the platform only.
 
 ## BONUS TIP: Protect Your Privacy With [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
@@ -328,23 +349,9 @@ There’s no denying that the location-sharing feature of Facebook Messenger is 
 
 **NOTE:** Resort to Wondershare Dr.Fone - Virtual Location if your internet browsing does not require you to provide your real address. If you wish to restore your original location settings, simply close the Wondershare Dr.Fone application and restart your smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Gone are the days when you had to write invitation cards manually and deliver them one by one. Nowadays, all you need to do is go online and use Messenger’s location-sharing feature. Have you already tried it? If not, you should take it into consideration and use it on your next agenda. Refer to the tutorial above on how to share Live Location on Messenger. It can certainly help you get started. How do I share my location on Messenger without physically being there? That’s simple. Use Messenger or Google Maps’s pinned location. Furthermore, download [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) on your computer. Its Virtual Location feature, capable of modifying your location settings, can provide protection for your privacy. Just connect your Tecno Spark Go (2023) to the computer and set it up from there.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Stop Life360 from Tracking You On Tecno Spark Go (2023)?
 
@@ -404,19 +411,6 @@ Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
 
 ![select teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - After a search for the desired location, click on the "move here" button.
 - Finally, you are ready to spoof to any location in Life360.
 
@@ -473,22 +467,22 @@ Life360 is a very helpful app for parents and friends group, but still, it becom
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-essential-video-editing-apps-for-youtube-creators/"><u>[New] 2024 Approved Essential Video Editing Apps for YouTube Creators</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-stepwise-approach-to-resolve-facebook-story-errors/"><u>[New] Stepwise Approach to Resolve Facebook Story Errors</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-defining-your-visual-and-stylistic-identity-high-relevance/"><u>[Updated] In 2024, Defining Your Visual and Stylistic Identity [High Relevance]</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-find-x7-ultra-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Find X7 Ultra Without Password?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-90-lite-by-drfone-android-unlock-android-unlock/"><u>How to unlock Honor 90 Lite</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-u23-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on U23?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-bottom-line-gear-collect-all-these-trendsetting-tools-to-win-in-business/"><u>In 2024, Bottom Line Gear Collect All These Trendsetting Tools to Win in Business</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-fuser-crashes-ultimate-solutions-for-a-smooth-windows-experience/"><u>Mastering Fuser Crashes: Ultimate Solutions for a Smooth Windows Experience</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/maximize-your-gameplay-in-depth-tips-and-tricks-for-freefirers/"><u>Maximize Your Gameplay In-Depth Tips & Tricks for FreeFirers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-xiaomi-redmi-12-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Xiaomi Redmi 12</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-inverted-display-issue-in-wins11-update/"><u>Overcoming Inverted Display Issue in Wins11 Update</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-sony-xperia-1-v-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Sony Xperia 1 V.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-samsung-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Samsung</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-x-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone X Data From iCloud | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/revamped-ultimate-guide-to-overcoming-the-recent-fnaf-security-glitch-in-your-game-on-pc/"><u>Revamped: Ultimate Guide to Overcoming the Recent 'FNAF Security Glitch' In Your Game on PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-correcting-the-error-of-x3daudiodll-failure-to-load/"><u>Step-by-Step Guide: Correcting the Error of x3daudio.dll Failure to Load</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-honor-v-purse-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-the-latest-mpow-bluetooth-drivers-for-windows-1087/"><u>Download and Install the Latest MPOW Bluetooth Drivers for Windows 10/8/7</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/first-impressions-count-indonesian-greeting-basics/"><u>First Impressions Count: Indonesian Greeting Basics</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-crossfade-audio-with-audacity/"><u>How to Crossfade Audio with Audacity</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-pro-max-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 Pro Max to other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-se-2022-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone SE (2022) to Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-drivers-in-windows-11107-by-drivereasy-guide/"><u>How to use Device Manager to update drivers in Windows 11/10/7</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-quick-settings-on-windows-11/"><u>How to Use Quick Settings on Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-oneplus-nord-ce-3-lite-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost OnePlus Nord CE 3 Lite 5G Device</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-transforming-frost-into-warmth-video-backdrops-guide/"><u>In 2024, Transforming Frost Into Warmth Video Backdrops Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-data-recovery-recover-lost-data-from-infinix-hot-40-by-fonelab-android-recover-data/"><u>Infinix Data Recovery – recover lost data from Infinix Hot 40</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-hidden-delights-of-pokemon-shining-pearl-unearthing-gaming-bliss/"><u>The Hidden Delights of Pokemon Shining Pearl: Unearthing Gaming Bliss</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-oppo-reno-10-pro-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Oppo Reno 10 Pro 5G? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

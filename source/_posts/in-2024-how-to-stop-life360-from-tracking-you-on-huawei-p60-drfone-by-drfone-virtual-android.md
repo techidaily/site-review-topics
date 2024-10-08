@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Stop Life360 from Tracking You On Huawei P60? | Dr.fone
-date: 2024-09-16T17:46:15.042Z
-updated: 2024-09-19T18:51:54.669Z
+date: 2024-10-01T16:00:05.045Z
+updated: 2024-10-08T11:25:29.112Z
 tags: 
   - virtual location chang
   - location changer
@@ -35,6 +35,13 @@ Life360 supports both iOS and Android devices. To use, you will need to install 
 
 But as we said before, it is quite uncomfortable to know that someone is tracking you everywhere. So, if you want to hide location on Life360, then this article to know the amazing tricks to stop Life360 from tracking you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: Turn Off Location on Life360
 
 ![turn off location on life360](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-2.jpg)
@@ -52,18 +59,18 @@ You can turn off the location to stop the Life360 tracking feature. But, with th
 
 The best way to stop Life360 from tracking you is to use fake GPS apps on Android and iOS. There are many fake location apps that you can install in your device to spoof Life360 without any risk to your device.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2.1 How to spoof life 360 iPhone
 
 To spoof GPS on the iPhone is tricky, and it requires reliable as well as safest tools like [Dr.Fone – Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/).
 
 ![how to spoof life360](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -134,6 +141,13 @@ However, there's a good chance that you've seen this message multiple times: "Yo
 
 As a result, your contacts, photos, and messages are not showing. Life360 may be using cellular data instead of Wi-Fi, but it's not certain. To avoid this, let us read what we should know.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: Why is Life360 Location Wrong?
 
 ### Interference From Nearby Devices/Networks
@@ -192,6 +206,13 @@ If you want reliable results, you must be logged in from the same device. If you
 
 Two of the most important and easy ways to keep your location on life360 in one place are:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Stopping both Wi-Fi and Cellular Data Transmissions
 
 If you disconnect from the internet, Life360 will no longer work, and your last known position will be shown.
@@ -237,6 +258,13 @@ To free yourself from any hassle, consider using a third-party tool instead, suc
 
 ![wa stickers](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Advantages:**
 
 - The application is easy to install and use.
@@ -262,6 +290,13 @@ To free yourself from any hassle, consider using a third-party tool instead, suc
 
 Life360 has released a major update for Android and iPhone users, fixing the shows being sent to the wrong location. This has caused many problems for many users and is a rather annoying problem to fix. However, you can get help from [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) application which is an absolute fix to all of your problems.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Huawei P60
 
 Find My Friends is an app developed for Android and iOS devices. You can say it as a location-sharing application. This app can be used to share the location of each other among the friends. When your contacts install the app on their device, the application makes everyone eligible to share their location with you and you can too share the location with your friends.
@@ -273,13 +308,6 @@ It is helpful if you are having a hang out plan with your friends. And if you fr
 When location sharing is enabled in the Huawei P60 device, the map will show the current locations. The [Find My Friends app](https://www.virtuallocation.com/find-my-friends/) also has an inbuilt chat option where you can contact your friend and interact about with them. It also automatically informs you when your friend reaches at the target location, leave a location etc. You can customize and configure the alerts as per your choice.
 
 ![Find My Friends app](https://images.wondershare.com/drfone/article/2019/09/find-my-friends-intro.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How it is different in iOS 13
 
@@ -300,16 +328,10 @@ Look at some of the things we feel not beneficial about Find My Friends.
 In such cases, the need of hiding or faking Find My Friends location rises. This is because we are sharing some ways to fake location on Find My Friends on your iOS and Android.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: 4 Solutions to Fake Find My Friends Location on iOS
@@ -352,13 +374,6 @@ Now, the program will get your location and click on “Move Here” that comes 
 
 ![Fake location on Find My Friends](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3.2 Use a burner iPhone to fake location in Find My Friends
 
 Using a burner can also be a good option to take help of when your goal is to fake GPS on Find My Friends. It is nothing but a secondary device where the Find My Friends app can be downloaded and used it to swindle the people you want. This will allow you to keep more privacy as no one will be able to peep into your matter or location.
@@ -381,6 +396,13 @@ If you have done jailbreaking, you can have FMFNotifier. Jailbreaking will be wo
 
 ![FMFNotifier notification](https://images.wondershare.com/drfone/article/2019/09/fmfnotifier-notification.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Secondly, you can do configurations from the Settings app easily. Like, you can customize the text of the notification. Besides, the app allows you to set and save several false locations preset.
 
 **Guide on How to Use FMFNotifier**
@@ -400,13 +422,6 @@ When privacy is everything for you, you cannot tolerate anyone peeping into your
 You will get the notification no matter your screen is locked or not. A notification that is “You’re being tracked” along with the Find My Friends icon will appear when someone tries to track you.
 
 ![find tracks using the antitracker](https://images.wondershare.com/drfone/article/2019/09/antitracker-notification.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Guide on How to Use AntiTracker**
 
@@ -460,5 +475,19 @@ When you install it rightly, this is how to do a little twisting to set it up wi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-the-art-of-profit-from-20-second-videography-a-guide-for-creators/"><u>[New] In 2024, The Art of Profit From 20-Second Videography A Guide for Creators</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-premium-mp4-uploader-for-fb-networks-for-2024/"><u>[Updated] Premium MP4 Uploader for FB Networks for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/9-steps-to-combat-chromes-video-blackout/"><u>9 Steps to Combat Chrome's Video Blackout</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/cutting-edge-free-livestream-platforms-and-programs-reviewed-here/"><u>Cutting-Edge Free Livestream Platforms and Programs Reviewed Here</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xr-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XR To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-xiaomi-redmi-note-13-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Xiaomi Redmi Note 13 5G Without PUK Codes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-launching-a-successful-vlog-a-guide-to-profitability/"><u>In 2024, Launching a Successful Vlog A Guide to Profitability</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-realme-gt-3-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Realme GT 3? Fixed | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-honor-v-purse-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Honor V Purse.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-21-screen-recording-tools-without-watermarks-discover-the-best-free-options-by-movavi/"><u>Top 21 Screen Recording Tools Without Watermarks - Discover the Best Free Options by Movavi</u></a></li>
+</ul></div>
 

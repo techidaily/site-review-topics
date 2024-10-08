@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to share/fake gps on Uber for Motorola Defy 2 | Dr.fone
-date: 2024-09-15T19:00:52.064Z
-updated: 2024-09-19T16:30:27.879Z
+date: 2024-10-03T11:27:49.930Z
+updated: 2024-10-08T06:32:16.402Z
 tags: 
   - virtual location chang
   - location changer
@@ -35,6 +35,13 @@ The Process
 
 ![install i spoofer](https://drfone.wondershare.com/2020/install_i_spoofer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2.** Connect the iDevice with the computer and tap trust on it. Launch the program and it will detect the iDevice with ease and perfection.
 
 ![connect iDevice with computer](https://drfone.wondershare.com/2020/connect_iDevice_with_computer.jpg)
@@ -62,6 +69,13 @@ Faking GPS on android is also super easy and it allows the users to spoof the lo
 **Step 4.** Select the location where you want to spoof and then press the play button. Your location will be changed and your phone will also show and lock your spoofed location.
 
 ![spoof location on android](https://drfone.wondershare.com/2020/spoof_location_on_android.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to share a fake GPS on Uber for iPhone
 
@@ -144,10 +158,10 @@ For Uber fake GPS 2019 this is the best and the easiest method that you can perf
 ![Hola fake GPS android](https://drfone.wondershare.com/2020/Hola_fake_GPS_android.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Use Fake GPS Go
@@ -161,6 +175,13 @@ This is another important method that can be used to make sure to easily fake GP
 It is also one of the easiest ways to make sure that the location is changed. You need to enable mock location on your android and select this application to get the work done. It is a 100% practical method to get the work done.
 
 ![location changer android](https://drfone.wondershare.com/2020/location_changer_android.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -224,13 +245,6 @@ After following the second step, all you need is to look for your actual locatio
 
 ![look for your actual location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4: Enable Teleport Mode**
 
 In this step, you should activate the teleport mode. This will be done by clicking the third icon in the upper right of the screen. You can now input the place you want to teleport.
@@ -242,6 +256,13 @@ In this step, you should activate the teleport mode. This will be done by clicki
 Now, the program will get your location and click on “Move Here” that comes in the next dialog box. The location will be changed now. You can see that in your iPhone and its location-based app.
 
 ![Fake location on Find My Friends](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3.2 Use a burner iPhone to fake location in Find My Friends
 
@@ -264,13 +285,6 @@ If you have done jailbreaking, you can have FMFNotifier. Jailbreaking will be wo
 - One of the amazing things about this app to fake Find My Friends location is it sends you the notification each time when someone want to track your location. Whenever your friend attempts to ping your location, it will notify you as “Someone has requested your location through Find My Friends app”. And this is the moment where you can fake your location on Find My Friends. You can right away set a fake location when you know someone requires your location.
 
 ![FMFNotifier notification](https://images.wondershare.com/drfone/article/2019/09/fmfnotifier-notification.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Secondly, you can do configurations from the Settings app easily. Like, you can customize the text of the notification. Besides, the app allows you to set and save several false locations preset.
 
@@ -400,9 +414,23 @@ Another way you can protect your location from websites is to use the "[Location
 
 ![add the extension to firefox](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** You can choose between two options to protect your location's privacy. Using the "Privacy Levels" option, you can select a privacy level and location range to add noise when a website tries to locate you. It stops websites from detecting your accurate location, though they can still locate the general area.
 
 ![set the privacy levels](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** Using its "Fixed Location" feature from the left sidebar, you can change your location. Here, select any location from the map by placing the "Marker" on it to change your browser's location.
 
@@ -411,13 +439,6 @@ Another way you can protect your location from websites is to use the "[Location
 ## Part 3: How to Fake Your Location in Mozilla Firefox on Phones
 
 It is not only on computers where you can use Firefox fake location but also on smartphones. You can easily disable or change your Firefox location on your iOS or Android device. Three different methods to disable or change the location in Mozilla Firefox are summarized below:
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1: Disable Geolocation Sharing on the Firefox Browser
 
@@ -432,13 +453,6 @@ If you use the Firefox browser on your phone, it allows you to disable your loca
 **Step 2:** Now, tap "Site Permissions" and select "Location." In the "Location" option, select "Blocked" to disable the location access on the Firefox browser.
 
 ![enable the blocked option](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **On iPhone**
 
@@ -496,6 +510,13 @@ Enter your desired fake location in the provided space and press "Go" once the m
 
 ![confirm the fake location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 3: Change Your Location in Firefox Using ExpressVPN
 
 Browsers like Mozilla Firefox tracks your location by using your IP address. You can use a VPN to spoof your IP location to protect your actual location from websites. [ExpressVPN](https://www.expressvpn.com/) is a VPN that is available for both Android and iOS devices. You can use these steps to change your location using ExpressVPN:
@@ -522,5 +543,24 @@ In today's digital world, you have to compromise your privacy to some extent. Ho
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-step-by-step-guide-for-ios-users-jpgpng-to-pdf-transformation/"><u>[New] Step-by-Step Guide for iOS Users JPG/PNG to PDF Transformation</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-maximizing-ram-for-enhanced-minecraft-experience/"><u>[Updated] In 2024, Maximizing RAM for Enhanced Minecraft Experience</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-revolutionary-alternative-tools-for-fbx-file-capture/"><u>[Updated] In 2024, Revolutionary Alternative Tools for FBX File Capture</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/coming-soon-the-new-macbook-with-touchscreen-technology-insights-into-release-schedule-pricing-forecasts-and-specs-breakdown/"><u>Coming Soon: The New MacBook with Touchscreen Technology - Insights Into Release Schedule, Pricing Forecasts, and Specs Breakdown</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/descubre-las-herramientas-ripeadoras-de-dvd-gratuitos-mas-eficientes-para-mac-big-sur-ranking-2020-update/"><u>Descubre Las Herramientas Ripeadoras De DVD Gratuitos Más Eficientes Para Mac Big Sur: Ranking 2020 Update</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Infinix GT 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-and-prevent-chrome-from-crashing-or-hanging/"><u>How to Fix and Prevent Chrome From Crashing or Hanging</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-8-plus-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 8 Plus to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Oppo Reno 8T 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-h265-hevc-video-on-htc-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on HTC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-motorola-defy-2-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Motorola Defy 2, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-google-pixel-8-pro-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Google Pixel 8 Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-tips-for-persistent-among-us-malfunctions-in-2/"><u>Ultimate Troubleshooting Tips for Persistent Among Us Malfunctions in 2지급</u></a></li>
+</ul></div>
 
