@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Simulate GPS Movement in AR games On Lenovo ThinkPhone? | Dr.fone
-date: 2024-10-02T17:52:41.570Z
-updated: 2024-10-07T23:54:11.861Z
+date: 2024-10-12T23:00:37.625Z
+updated: 2024-10-14T01:28:18.633Z
 tags: 
   - virtual location chang
   - location changer
@@ -33,13 +33,6 @@ In AR games that come with GPS tracking software, they track the real motion of 
 - Some players can't travel in the first place for various reasons like financial constraints, health concerns, and current location.
 
 In these cases, using a **fake GPS route** helps simulate the location of players, so they can still take part without actually moving around.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2. 4 Effective Ways to Simulate GPS Movement On AR games?
 
@@ -88,13 +81,6 @@ Below is the video showcasing all steps necessary to simulate GPS movement while
 **Step 2**: Use a USB cable to sync your iOS phone with the Lenovo ThinkPhone device where you downloaded this software. Tap on Get Started.
 
 ![tap on get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3**: You will see your real-time location on the map. Tap on the Teleport Mode icon at the top-right and type your fake location name.
 
@@ -276,13 +262,6 @@ Disadvantages:
 - You need to be tech-savvy to fake GPS location with a GPS joystick.
 - Fake GPS joystick for Pokemon Go cannot perform well for it as reported by the users. Also, it drives the same result for other popular location-based apps or games.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to set up GPS JoyStick
 
 Though, it is quite difficult to get through the process of setting up the GPS joystick apk to a fake GPS location. Remember, we’ve always got your back. Therefore, we would like to bring you up with a detailed streak of steps (if followed properly) to install and set up the fake GPS joystick apk easily.
@@ -306,6 +285,13 @@ First, you need to make sure that the Google Play Services app installed over yo
 **Note:** To verify the Play Services version, launch “Settings” followed by selecting “Apps/Applications”. Scroll down to “Google Play Services” and hit on it. You will then see the app version at the top of the screen.
 
 ![Google Play Services](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 But if that’s not the case, you’re required to disable the Play Store's auto-updates. For this, launch the Play Store and hit the “3 horizontal bars” at the top. Then, tap on “Settings” option from the appearing left panel followed by Auto-update apps available under “General” settings. Lastly, hit on the “Do not auto-update apps” option.
 
@@ -370,10 +356,10 @@ Download and then install the most recent version of GPS JoyStick apk. Now, laun
 ![Quick Options](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Next, you need the generated app installed and get through with the setup process with the streak of steps listed below.
@@ -387,10 +373,17 @@ Lastly, utilize the “Update” button after hitting on the “Privacy Mode” 
 ![bypass the blacklist of games](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: How to Use GPS Joystick to Fake Location on iPhone
@@ -406,6 +399,19 @@ You would have ended up with a conclusion that there are no reliable and effecti
 Dr. Fone's specialist team presents [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) for the gaming lovers to fake GPS Joystick on iPhone. You can now move the joystick to the desired location in no time using Dr.Fone.
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/FfhgWxnARqo"></iframe>
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Stepwise procedure to fake GPS with a joystick on iPhone
 
@@ -427,13 +433,6 @@ Tap ‘Get Started’ option then add a new address in the ‘Teleport’ mode. 
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4: Changed Location in the app**
 
 Now the Dr.Fone app displays your desired address as your current location. You can verify it by spotting the location on the map view.
@@ -445,6 +444,13 @@ Now the Dr.Fone app displays your desired address as your current location. You 
 Next, you must check your default current location in map view on iPhone, and you will witness the modified location in pace with your desired address.
 
 ![witness the modified location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 6: Play Pokemon Go without moving**
 
@@ -483,13 +489,6 @@ So, ****is PGSharp legal?**** No, Spoofing location, in general, is illegal. H
 
 ![niantic-warning](https://images.wondershare.com/drfone/2020/202010/niantic-warning.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ****Part 2: Three ways to spoof on Android****
 
 1. **PGSharp :**
@@ -497,10 +496,16 @@ So, ****is PGSharp legal?**** No, Spoofing location, in general, is illegal. H
 ![pgsharp-interface](https://images.wondershare.com/drfone/2020/202010/pgsharp-interface.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 PGSharp is one of the most reliable ways to spoof your location while playing Pokémon Go. Niantic does not easily recognize its simple map-like UI as a fake location app.
@@ -520,6 +525,19 @@ You must note that it may take two or more tries to generate a working key, and 
 2. ****Fake GPS Go:****
 
 ![fake gps go](https://images.wondershare.com/drfone/2020/202010/fake-gps-go.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Fake GPS Go is another location spoofer app for Android that is reliable and free. This app allows you to fake your real-time location and enables you to spoof it to any place in the world. This is one of the easiest solutions to playing Pokémon   Go while spoofing location without getting detected with its real-map-like UI. Moreover, this app does not even require root access.
 
@@ -589,24 +607,21 @@ Following these tips will help you to behave like an actual traveler who's on a 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-making-it-big-on-youtube-your-strategy-playbook/"><u>[New] 2024 Approved Making It Big on YouTube Your Strategy Playbook</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unleashing-potential-11-steps-to-enhance-facebook-traffic-through-video/"><u>[New] 2024 Approved Unleashing Potential 11 Steps to Enhance Facebook Traffic Through Video</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-next-gen-ai-for-professional-visual-editing/"><u>[Updated] Next Gen AI for Professional Visual Editing</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-choreographing-an-impactful-tiktok-finale-dance/"><u>2024 Approved Choreographing an Impactful TikTok Finale Dance</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-complete-guide-to-videdit-studio-pro-features-and-more/"><u>A Complete Guide to VidEdit Studio Pro, Features and More</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-your-clips-to-life-a-compreenased-way-to-post-on-youtube/"><u>Bring Your Clips to Life A Compreenased Way to Post on YouTube</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-15-plus-how-to-unlock-a-disabled-iphone-15-plus-drfone-by-drfone-ios/"><u>Disabled iPhone 15 Plus How to Unlock a Disabled iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Apple iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Google Pixel 7a? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mov-files-are-unwatchable-on-xiaomi-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV files are unwatchable on Xiaomi</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-xiaomi-redmi-note-12-4g-by-fonelab-android-recover-data/"><u>Recover lost data from Xiaomi Redmi Note 12 4G</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-edge-40-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Edge 40</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-boosting-backyard-connectivity-in-depth-look-at-the-netgeer-orbi-rbs50y/"><u>The Ultimate Guide to Boosting Backyard Connectivity: In-Depth Look at the Netgeer Orbi RBS50Y</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-lava-blaze-pro-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Lava Blaze Pro 5G</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unpacking-the-necessity-of-instagram-written-verification-for-2024/"><u>Unpacking the Necessity of Instagram’ Written Verification for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-newbies-netflix-nook-deciphering-resolution-ratings/"><u>[New] In 2024, Newbie's Netflix Nook Deciphering Resolution Ratings</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-conversational-flow-in-cinematic-storytelling-for-2024/"><u>[Updated] Conversational Flow in Cinematic Storytelling for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-solutions-for-restarting-frozen-obs-fullscreen/"><u>[Updated] Solutions for Restarting Frozen OBS Fullscreen</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-magic-vs-2-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-your-infinix-smart-7-hd-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Infinix Smart 7 HD Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-apple-iphone-15-pro-max-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Fake GPS On Apple iPhone 15 Pro Max For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-honor-x50-gt-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Honor X50 GT for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-veeerfotos-schoon-cr2-in-png-codeeren-zonder-kosten-online-instant/"><u>Movavi: Veeërfoto's Schoon CR2 in PNG Codeeren Zonder Kosten, Online-Instant</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premiere-virtual-artist-streams-for-2024/"><u>Premiere Virtual Artist Streams for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/shoot-straight-best-tripods-for-smartphones-today-for-2024/"><u>Shoot Straight Best Tripods for Smartphones Today for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-ai-chatbots-the-reason-behind-their-rising-popularity/"><u>Understanding AI Chatbots: The Reason Behind Their Rising Popularity</u></a></li>
 </ul></div>
 

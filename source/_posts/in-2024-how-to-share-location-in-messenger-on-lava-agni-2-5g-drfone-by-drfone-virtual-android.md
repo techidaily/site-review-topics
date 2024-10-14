@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Share Location in Messenger On Lava Agni 2 5G? | Dr.fone
-date: 2024-09-16T17:36:59.917Z
-updated: 2024-09-19T16:51:11.330Z
+date: 2024-10-06T17:14:50.506Z
+updated: 2024-10-13T17:10:33.715Z
 tags: 
   - virtual location chang
   - location changer
@@ -62,6 +62,13 @@ Facebook Messenger’s location-sharing feature will not work without the necess
 
 ![allow messenger access](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2. How to Share My Location on Messenger?
 
 How do I share my location on Messenger? As mentioned earlier, it’s very easy to use Facebook Messenger for location sharing. All it takes is just a few clicks on the platform. No need to manually type in the address or sketch the landmarks. Messenger does the rest of the work for you. In actuality, there are three ways to share your location on Messenger. Any of them can be of great help to you, depending on your current situation. Do you want to try them now? Check out the tutorials below.
@@ -83,6 +90,13 @@ How to share my location on Messenger? Well, the first option you can try is thr
 - **Step 5:** Click **Start Sharing Live Location.** Immediately, your current location details will be available and forwarded to the intended receiver. Live Location lasts for 60 minutes at maximum. If you wish to terminate it, simply click **Stop Sharing Live Location.**
 
 ![share live location on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Share location on Facebook Messenger via Pinned Location
 
@@ -111,6 +125,13 @@ How do I share my location in Messenger if I cannot find it on the map provided?
 
 ![location choices](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4:** Access the menu bar below the map and then click **Share.**
 
 ![share google maps location](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-13.jpg)
@@ -137,6 +158,13 @@ There’s no denying that the location-sharing feature of Facebook Messenger is 
 
 ![search preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 6:** The details regarding your chosen location will be displayed on the computer screen. Review the information and make sure that it is the specific location you’re looking for. Once confirmed, click **Move Here** to proceed.
 
 ![move to the selected location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
@@ -150,13 +178,6 @@ There’s no denying that the location-sharing feature of Facebook Messenger is 
 ## Conclusion
 
 Gone are the days when you had to write invitation cards manually and deliver them one by one. Nowadays, all you need to do is go online and use Messenger’s location-sharing feature. Have you already tried it? If not, you should take it into consideration and use it on your next agenda. Refer to the tutorial above on how to share Live Location on Messenger. It can certainly help you get started. How do I share my location on Messenger without physically being there? That’s simple. Use Messenger or Google Maps’s pinned location. Furthermore, download [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) on your computer. Its Virtual Location feature, capable of modifying your location settings, can provide protection for your privacy. Just connect your Lava Agni 2 5G to the computer and set it up from there.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fake the Location to Get Around the MLB Blackouts on Lava Agni 2 5G
 
@@ -192,18 +213,18 @@ Then connect your phone to the PC. If you are an iPhone user, you can connect it
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3: Activate the Teleport Mode**
 
 You will now be able to see your current location on the map. If you cannot find it, tap on the "Center On" icon on the right side of the screen. Now, enable the "Teleport Mode" through the first icon on the upper right side.
 
 ![enable teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4: Set your Location**
 
@@ -243,6 +264,13 @@ Moreover, NordVPN is equipped with Threat Protection Lite Technology, which save
 
 ![nordvpn for mlb](https://images.wondershare.com/drfone/article/2022/04/mlb-blackout-restrictions-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Advantages of NordVPN**
 
 -   NordVPN provides a Kill Switch feature. So, if your NordVPN server goes down, Kill Switch will help you stop all the internet activities and communications.
@@ -262,6 +290,13 @@ With CyberGhost VPN, you can enjoy the live broadcast of MLB on your Windows or 
 You don't have to instantly subscribe to their services, as you can avail of the free 7-day trial and experience the features.
 
 ![cyberghost vpn interface](https://images.wondershare.com/drfone/article/2022/04/mlb-blackout-restrictions-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Plus-Points of CyberGhost VPN**
 
@@ -332,6 +367,13 @@ Through your Lava Agni 2 5Gs, you can change the location on both Google Play St
 
 ![access account and device preferences](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** Now click on "Switch to the Country Play Store" to change the location. For verification, click on "Continue" when a pop-up message appears on your screen asking if you want to change the location.
 
 ![tap on continue to confirm](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-3.jpg)
@@ -352,19 +394,6 @@ To use this powerful VPN tool, we have jotted down some basic steps through whic
 
 ![vpn locations displayed](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-5.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** Select any country from the displayed list by tapping on it. Meanwhile, make sure that your phone is connected to a strong internet connection. This tool will automatically change your Google location by tapping on the country’s name.
 
 ![mobile vpn connected](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-6.jpg)
@@ -384,13 +413,6 @@ In this situation, we will help you change the country's location on your Google
 **Step 3:** To connect with the new country's location, tap on the option "Create a new profile." Afterward, you can see the on-screen instructions on your computer, so follow them to complete the process. Once done, Google Play will change the location after 48 hours, and you can search for the applications you want to install.
 
 ![tap on create new profile](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Situation 2: How to Change Google Account Location on Computer**
 
@@ -430,13 +452,6 @@ To change country Google Play using Dr.Fone - Virtual Location, here are the ste
 Begin with launching the tool of Dr.Fone on your computer. Open its interface and tap on the “Virtual Location” option from the home page.
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2: Connect your Phone**
 
@@ -482,5 +497,20 @@ There are plenty of ways to execute **Google One change location across various 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-legendary-loops-leading-10-rogues/"><u>[New] 2024 Approved Legendary Loops Leading 10 Rogues</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-maximize-impact-sharing-youtube-videos-on-social-media-fb/"><u>[New] In 2024, Maximize Impact Sharing YouTube Videos on Social Media (FB)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/uick-tips-for-easy-youtube-thumbnail-acquisition-zero-price-for-2024/"><u>[New] Quick Tips for Easy YouTube Thumbnail Acquisition – Zero Price for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pros-picks-5-best-low-frame-rate-recorders/"><u>[Updated] Pros' Picks 5 Best Low Frame Rate Recorders</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-silence-sputtering-screens/"><u>How to Silence Sputtering Screens</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-8-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 8 without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/huion-graphics-tablet-pen-not-functioning-heres-how-to-resolve-it-in-no-time/"><u>Huion Graphics Tablet Pen Not Functioning? Here's How to Resolve It in No Time</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Nokia G42 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-virtual-venue-verdict-which-streamer-prevails/"><u>In 2024, Virtual Venue Verdict Which Streamer Prevails?</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/mxf-mxf/"><u>MXF 파일 변환기 - 무바이비 금지: MXF 데이터를 원활하게 전환하십시오!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-tecno-camon-20-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Tecno Camon 20 has been deleted</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-alert-asus-rog-zephyrus-g14-laptop-featuring-rtx-graphics-now-just-1099-at-best-buy/"><u>Unbeatable Deal Alert: Asus ROG Zephyrus G14 Laptop Featuring RTX Graphics Now Just $1099 at Best Buy</u></a></li>
+</ul></div>
 
