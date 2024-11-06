@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Simulate GPS Movement With Location Spoofer On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone
-date: 2024-10-29T21:21:04.572Z
-updated: 2024-10-31T19:02:21.240Z
+date: 2024-11-03T03:56:44.955Z
+updated: 2024-11-06T05:30:26.067Z
 tags: 
   - virtual location chang
   - location changer
@@ -73,12 +73,26 @@ Dr.Fone has integrated the joystick feature into the Virtual Location program to
 
 ![try joystick movement for simulation](https://images.wondershare.com/drfone/guide/virtual-location-15.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The joystick, like one-stop route or multi-stop route modes, aims to facilitate GPS movement on the map. But what's better? The joystick lets you move on the map by changing directions in real time. Here are the two main scenes where you will definitely love the joystick.
 
 - **Automatic GPS movement:** Click the Start button in the middle, and the automatic movement starts. Then just change the directions as you like by 1) clicking the left or right arrows, 2) dragging the spot around the circle, 3) pressing keys A and D on the keyboard, or 4) pressing keys Left and Right on the keyboard.
 - **Manual GPS movement:** Move forward by constantly clicking the Up arrow in the program and long-pressing the key W or Up on the keyboard. Reverse by constantly clicking the Down arrow, or long-pressing the key S or Down on the keyboard. You can also tweak the directions using the four ways above before moving forward or reverse.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/r2GiOQxwfQc" frameborder="0" allowfullscreen=""></iframe>
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Can I Use a Fake GPS Without Mock Location On Xiaomi Civi 3 Disney 100th Anniversary Edition?
 
@@ -102,13 +116,6 @@ In android phones, mock location is a hidden developer setting that allows you t
 
 There are many free location spoofing apps available in the Google Play Store that can exploit this hidden mock location setting.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: What Can Mock Locations Be Used For?
 
 Under the developer option, allow mock location apk is very popular and useful due to its diverse use. You can use a mock location apk to test your virtual location settings and to test the functions of the fake location app. If you area app developer, you can test how your apps are working on a particular location.
@@ -118,6 +125,13 @@ In the below section, we have discussed some of the major uses of mock location 
 ### 2.1 For AR Games
 
 ![mock location for ar games](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 People who love to play AR location-based games allow mock location apk to spoof AR gaming apps. Augmented reality games offer real-world experience to players, and to play these games, and you will need to move out of your house. Also, when you play AR games, you have limited access to levels and characters, as you can only play it on your current location.
 
@@ -145,23 +159,9 @@ Most of the latest android phones come with the inbuilt mock location feature. T
 
 ![allow mock location android](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Now, tap on the Build Number option seven times without a break to enable the developer option.
 
 ![tap on build number seven times](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3:** After this, go back to Settings, and there you will newly added Developer Options.
 
@@ -209,16 +209,16 @@ Here are the steps that you will need to follow to install Dr. Fone in your devi
 
 ![connect your iphone](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** You will see a world map with three modes on the right top side.
 
 ![world map with three mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4:** Select any one mode from the teleport, two-stop mode, and multi-stop mode to spoof your location.
 
@@ -230,6 +230,13 @@ Now you are ready to spoof iPhone without compromising the privacy of the Phone.
 
 ## Part 4: Mock Location Feature On Different Android Models
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mock Location on Samsung and Motto
 
 In Samsung and Motto device, the mock location feature is available under the “Debugging” section of Developer Options.
@@ -239,6 +246,13 @@ In Samsung and Motto device, the mock location feature is available under the �
 ### Allow mock location on LG
 
 Smartphones from LG have a dedicated “Allow Mock Locations” feature that you can easily access by enabling Developer Options.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mock location on Xiaomi and
 
@@ -310,6 +324,13 @@ But if that’s not the case, you’re required to disable the Play Store's auto
 
 ![Do not auto-update apps](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Next, get hold of Google Play Services (an older version) from the link here: _<https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-6-85-release/>_
 
 **Note:** Ensure to download the Google Play Services apk file that is closest to your Android version. But, remember not to install it now.
@@ -321,13 +342,6 @@ Once done, if “Find My Device” is enabled over your device, you need to get 
 Likewise, disable “Google Play” and uninstall all its updates as well. To remove updates, get into “Settings” followed by “Apps/Applications”. Scroll down to “Google Play Services” and hit on “Uninstall updates”.
 
 ![Uninstall updates](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** If you’re unable to get this done, then you may need to disable the Android device manager in the first place. For this, get to “Settings” > “Security” > “Device Administrators” > disable “Android Device Manager first”.
 
@@ -341,6 +355,13 @@ Lastly, launch the “GPS JoyStick app” and navigate to “Settings” followe
 
 ![Enable Suspended Mocking](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.2 For Android 6.0 and Above (Old Security Patch) - BEFORE March 5, 2017
 
 That was a detailed tutorial about the Android security patch level released “AFTER March 5, 2017”. But if your Android security patch level is before March 5, 2017, what would you have to do? Well, worry not, here is exactly what steps you need to follow to make use of the GPS joystick app to fake GPS location.
@@ -352,13 +373,6 @@ First, you need to navigate to the “Settings”. Then, opt for “Developer Op
 Lastly, launch the “GPS JoyStick app” to fake GPS location and navigate to “Settings”. Thereafter, toggle on the “Indirect Mocking” switch, and you’re done.
 
 ![Indirect Mocking](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2.3 For Android 4 or 5
 
@@ -406,13 +420,6 @@ Dr. Fone's specialist team presents [Dr.Fone - Virtual Location](https://tools.t
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/FfhgWxnARqo"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Stepwise procedure to fake GPS with a joystick on iPhone
 
 **Step 1: Launch the app**
@@ -420,13 +427,6 @@ Dr. Fone's specialist team presents [Dr.Fone - Virtual Location](https://tools.t
 After a successful download, install the app through the guiding wizard. Click the Dr.Fone app icon to explore its features. Using a USB cable, attach your iPhone with your PC.
 
 ![attach your iPhone with your PC](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2: Set a virtual location**
 
@@ -470,18 +470,22 @@ Now use the “one-stop route” or “multi-stop route” to simulate the real-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-facebook-group-video-downloader-for-2024/"><u>[New] Facebook Group Video Downloader for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-privacy-prioritized-procedures-uploading-and-sending-youtube-files-via-google/"><u>2024 Approved Privacy-Prioritized Procedures Uploading and Sending YouTube Files via Google</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitters-viral-top-10-all-about-tiktoks/"><u>2024 Approved Twitter's Viral Top 10 All About TikToks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-journey-through-creativity-using-movie-maker-to-make-animated-dreams-for-2024/"><u>A Journey Through Creativity Using Movie Maker to Make Animated Dreams for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xs-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XS To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-some-outdated-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Identify some outdated drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Apple iPhone SE (2020)? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installation-guide-intel-me-driver-setup-for-windows-operating-systems/"><u>Installation Guide: Intel ME Driver Setup for Windows Operating Systems</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-effortless-vlc-trimming-on-mac-no-compression-no-loss/"><u>New Effortless VLC Trimming on Mac No Compression, No Loss</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-y100i-power-5g-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Y100i Power 5G.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-nokia-xr21-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Nokia XR21 has been deleted.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essence-of-custom-window-placement-in-windows-via-powertoys/"><u>The Essence of Custom Window Placement in Windows via PowerToys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-list-for-muting-windows-folders/"><u>The Ultimate List for Muting Windows Folders</u></a></li>
+<li><a href="https://driver-error.techidaily.com/corrected-previous-software-installation-issue-resolved/"><u>[CORRECTED] Previous Software Installation Issue Resolved</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-syncing-to-success-unveiling-youtubes-musical-shortcuts/"><u>[New] 2024 Approved Syncing to Success Unveiling YouTube's Musical Shortcuts</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-future-shaped-by-quantum-hdr-tech/"><u>[New] The Future Shaped by Quantum HDR Tech</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-facebooks-2023-video-innovations-embracing-the-short-form-approach/"><u>[Updated] 2024 Approved Facebook’s 2023 Video Innovations Embracing the Short-Form Approach</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-expert-picks-laptops-that-transform-raw-footage/"><u>[Updated] In 2024, Expert Picks Laptops That Transform Raw Footage</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-art-of-timely-and-effective-google-meet-planning/"><u>[Updated] The Art of Timely and Effective Google Meet Planning</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-potential-of-multi-stream-video-on-microsoft-edge/"><u>2024 Approved Unlocking the Potential of Multi-Stream Video on Microsoft Edge</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-deep-dive-into-facebooks-evolution-why-it-resonates-with-users-and-the-fundamentals-you-need-to-know/"><u>A Deep Dive Into Facebook's Evolution: Why It Resonates with Users & The Fundamentals You Need to Know</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211291289-constraint-c-use-a-template-like-see-event-historical-event-date-event-description-this-relates-to-economic-term-as-it-exemplifies/"><u>Constraint C: Use a Template Like See Event [Historical Event Date]: [Event Description]. This Relates to '[Economic Term]' As It Exemplifies</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/new-iphone-6s-plus-restore-from-icloud-stuck-on-time-remaining-estimating-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>New iPhone 6s Plus Restore from iCloud Stuck on Time Remaining Estimating | Stellar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-xiaomi-redmi-k70-pro-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Xiaomi Redmi K70 Pro, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-infinix-hot-40-pro-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Infinix Hot 40 Pro.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/reinstall-drivers-with-device-manager-on-windows-1110-by-drivereasy-guide/"><u>Reinstall drivers with Device Manager on Windows 11/10</u></a></li>
 </ul></div>
 

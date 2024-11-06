@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Stop Life360 from Tracking You On Tecno Camon 20? | Dr.fone
-date: 2024-10-29T17:34:29.486Z
-updated: 2024-10-31T20:16:05.671Z
+date: 2024-11-03T22:07:02.672Z
+updated: 2024-11-06T13:06:29.754Z
 tags: 
   - virtual location chang
   - location changer
@@ -36,15 +36,22 @@ Life360 supports both iOS and Android devices. To use, you will need to install 
 But as we said before, it is quite uncomfortable to know that someone is tracking you everywhere. So, if you want to hide location on Life360, then this article to know the amazing tricks to stop Life360 from tracking you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: Turn Off Location on Life360
 
 ![turn off location on life360](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can turn off the location to stop the Life360 tracking feature. But, with this, keep the background app refresh off. Follow the following steps to turn off the location on life360.
 
@@ -75,28 +82,27 @@ Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
 
 ![download dr.fone from official site](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - After this, install it and launch it. Now connect your iOS device to the system with the USB cable and click on the "get started" button.
 
 ![click on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Now you will see a map interface with your current location.
 - On the map, you can select teleport mode from the top right corner and can search for the desired location.
 
 ![select teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - After a search for the desired location, click on the "move here" button.
 - Finally, you are ready to spoof to any location in Life360.
@@ -112,6 +118,13 @@ Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
 - Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
 
 **3981454** people have downloaded it
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2.2 How To Fake Life360 Location On Android
 
@@ -131,10 +144,10 @@ Now, follow the following steps to install any fake GPS on Android.
 - Now open the app, and fill your desired location on the map. It is simple to spoof Life360 on Android
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Use a Burner Phone for Life360 Fake Location
@@ -165,18 +178,18 @@ As the best family locator app, life360 notifies circle members about any user's
 
 There are multiple life160 notifications for different scenarios. Everyone gets a "user removed" notification when a user leaves a circle. As long as the location sharing is on, circle members will get a notification when someone turns their location off. Suppose someone's phone is dead, or there is a poor connection. In that case, life360 puts an exclamation mark next to that user's name to notify other circle members.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How to turn off location on life360 without anyone knowing?
 
 Although life360 provides excellent family location services, it also affects your privacy by tracking your location and texts as long as the phone and location services are on. It is the same for other family tracking apps. For example, suppose users want to attend to some private matters or want others to respect their privacy. The best way is to turn off their location on life360 so no one can track them, but it is not an option because you can't do that on life360. Using a third-party location-changer app is the best solution in this case.
 
 [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is a location-changer application that allows users to change their device's location with one click. It provides a fake location to all tracking applications like life360 to help users protect their privacy. With Dr.Fone, you get an easy-to-use interface where you can navigate your fake GPS location on the map with joystick stimulation. You can change your location data history as well.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -205,20 +218,6 @@ Although life360 provides excellent family location services, it also affects yo
 **STEP 4:** After finding the location, click on "move here" to change your location.
 
 ![choose destination you want](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -373,16 +372,16 @@ Get multiple spoofing options here, like expert mode and various routes to set u
 
 ![tap on the play button](https://images.wondershare.com/drfone/article/2022/12/how-to-simulate-gps-movement-on-ar-games-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3**: The app will automatically show the spoofed fly GPS after inserting the fake location.
 
 ![the app will automatically show](https://images.wondershare.com/drfone/article/2022/12/how-to-simulate-gps-movement-on-ar-games-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Method 2. [Mock Locations](https://play.google.com/store/apps/details?id=ru.gavrikov.mocklocations)**
 
@@ -440,6 +439,13 @@ While Pokémon Go is the most popular of them all, you can expect interesting pl
 
 To learn more about these games, you should read the full article to discover [some great titles that are similar to Pokemon Go](https://drfone.wondershare.com/pokemon-go/top-ar-games-like-pokemon-go.html).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 Indeed, there are different methods you can use to spoof your location to play AR games that require actual movement. While the debate against location spoofing apps is understandable, these software types' also uses effectively improve user experience.
@@ -460,20 +466,22 @@ The best step while using them is to follow the gameplay rules respectfully and 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-4-essential-methods-for-file-delivery-to-pc/"><u>[New] 4 Essential Methods for File Delivery to PC</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-best-practices-in-apple-podcast-file-formatting/"><u>[New] Best Practices in Apple Podcast File Formatting</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-insiders-blueprint-for-commanding-attention-with-posts/"><u>[New] The Insider's Blueprint for Commanding Attention with Posts</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-history-on-your-flip-watching-old-fb-stories/"><u>[Updated] 2024 Approved History on Your Flip Watching Old FB Stories</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/achieve-stunning-visual-impact-top-color-grading-tutorials-for-2024/"><u>Achieve Stunning Visual Impact - Top Color Grading Tutorials for 2024</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-enhanced-experience-optimizing-your-sites-performance/"><u>Cookiebot-Enhanced Experience: Optimizing Your Site's Performance</u></a></li>
-<li><a href="https://win-online.techidaily.com/free-online-conversion-m4v-a-gif-avec-movavi/"><u>Free Online Conversion : M4V À GIF Avec Movavi</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-se-2022-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone SE (2022) to Android? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/imminent-arrival-new-trademark-discoveries-point-to-a-launch-of-samsungs-990-evo-plus-and-9100-pro-ssds-soon/"><u>Imminent Arrival? New Trademark Discoveries Point to a Launch of Samsung's 990 EVO PLUS and 9100 PRO SSDs Soon</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Realme Note 50? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-motorola-moto-g34-5g-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Motorola Moto G34 5G</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-motorola-moto-g84-5g-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Motorola Moto G84 5G</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-if-microsoft-outlook-fails-to-open/"><u>Troubleshooting Steps If Microsoft Outlook Fails to Open</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-facetime-for-android-the-ten-best-free-alternatives-to-facetime-on-android/"><u>[New] 2024 Approved FaceTime for Android The Ten Best Free Alternatives to FaceTime on Android</u></a></li>
+<li><a href="https://techtrends.techidaily.com/12-premium-quality-free-keyboard-lessons-that-work-across-age-groups/"><u>12 Premium-Quality Free Keyboard Lessons That Work Across Age Groups</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-vivo-y55s-5g-2023-device-sim-by-drfone-android/"><u>Easily Unlock Your Vivo Y55s 5G (2023) Device SIM</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-infinix-hot-40-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Infinix Hot 40 Phone that is Locked?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-instantaneous-srt-to-txt-change-a-step-by-step-process/"><u>In 2024, Instantaneous SRT to TXT Change A Step-by-Step Process</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-pedagogic-pros-the-finest-lecture-recording-devices-for-instructors/"><u>In 2024, Pedagogic Pros The Finest Lecture Recording Devices for Instructors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-start-earning-today-the-top-13-money-making-tips-for-newbies/"><u>In 2024, Start Earning Today The Top 13 Money-Making Tips for Newbies</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-data-retrieval-tool-restore-lost-data-from-motorola-moto-g-stylus-2023-by-fonelab-android-recover-data/"><u>Motorola Data Retrieval tool – restore lost data from Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-a1x-5g-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Oppo A1x 5G support - Forgotten screen lock.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-a38-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on A38</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-tecno-pop-8-by-fonelab-android-recover-data/"><u>Recover lost data from Tecno Pop 8</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-6-free-video-convertors-compatible-with-windows-11-features-and-benefits-explained/"><u>Top 6 Free Video Convertors Compatible with Windows 11: Features & Benefits Explained</u></a></li>
 </ul></div>
 

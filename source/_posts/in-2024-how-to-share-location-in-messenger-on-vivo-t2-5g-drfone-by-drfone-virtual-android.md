@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Share Location in Messenger On Vivo T2 5G? | Dr.fone
-date: 2024-10-30T19:27:27.115Z
-updated: 2024-10-31T16:39:40.166Z
+date: 2024-11-03T03:37:41.244Z
+updated: 2024-11-05T21:58:35.635Z
 tags: 
   - virtual location chang
   - location changer
@@ -54,6 +54,13 @@ Facebook Messenger’s location-sharing feature will not work without the necess
 
 ![messenger permission settings](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 5:** Click **Location.**
 
 ![location permission on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-5.jpg)
@@ -61,6 +68,13 @@ Facebook Messenger’s location-sharing feature will not work without the necess
 - **Step 6:** Select **Allow Only While Using the App.** If you’re quite conservative regarding this matter, click **Ask Every Time** instead. After that, Facebook Messenger will have access to your location information.
 
 ![allow messenger access](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2. How to Share My Location on Messenger?
 
@@ -84,13 +98,6 @@ How to share my location on Messenger? Well, the first option you can try is thr
 
 ![share live location on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Share location on Facebook Messenger via Pinned Location
 
 Let’s say there is a specific place you want to visit with your friend. Is there a way to share the address of the venue without you being there at the moment? Fortunately, it is possible. Apart from sharing your current location in real-time via Live Location, you can also send pinned locations on Messenger. You just need to search for it and then redirect the details to your friend. Yes. It’s just as simple as that. Do you want to try it on your smartphone? If so, follow the guide below.
@@ -104,13 +111,6 @@ Let’s say there is a specific place you want to visit with your friend. Is the
 ![search location on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-10.jpg)
 
 - **Step 6:** Choose one from the suggested results and then click on it. The details will then be forwarded immediately to the intended receiver.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Share location on Facebook Messenger via Google Maps location
 
@@ -155,22 +155,29 @@ There’s no denying that the location-sharing feature of Facebook Messenger is 
 
 ![move to the selected location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 7:** Immediately, the location settings on your smartphone will be changed according to the inputs you have provided to Wondershare Dr.Fone. You can verify it by checking the current location registered on your Maps app. After confirming that your mobile device is now showing a different location, you can now start browsing without worrying about your location’s privacy.
 
 ![location changed on smartphone](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **NOTE:** Resort to Wondershare Dr.Fone - Virtual Location if your internet browsing does not require you to provide your real address. If you wish to restore your original location settings, simply close the Wondershare Dr.Fone application and restart your smartphone.
 
 ## Conclusion
 
 Gone are the days when you had to write invitation cards manually and deliver them one by one. Nowadays, all you need to do is go online and use Messenger’s location-sharing feature. Have you already tried it? If not, you should take it into consideration and use it on your next agenda. Refer to the tutorial above on how to share Live Location on Messenger. It can certainly help you get started. How do I share my location on Messenger without physically being there? That’s simple. Use Messenger or Google Maps’s pinned location. Furthermore, download [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) on your computer. Its Virtual Location feature, capable of modifying your location settings, can provide protection for your privacy. Just connect your Vivo T2 5G to the computer and set it up from there.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Can I Use a Fake GPS Without Mock Location On Vivo T2 5G?
 
@@ -203,13 +210,6 @@ In the below section, we have discussed some of the major uses of mock location 
 ### 2.1 For AR Games
 
 ![mock location for ar games](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 People who love to play AR location-based games allow mock location apk to spoof AR gaming apps. Augmented reality games offer real-world experience to players, and to play these games, and you will need to move out of your house. Also, when you play AR games, you have limited access to levels and characters, as you can only play it on your current location.
 
@@ -249,13 +249,6 @@ Most of the latest android phones come with the inbuilt mock location feature. T
 
 ![add developer option and toggle](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5:** In the list of developer options, locate the “Allow Mock Locations” feature, and enable it.
 
 ### 3.2 How To Change Your Mobile Location By Working With A Spoofer App?
@@ -273,6 +266,13 @@ After enable “allow mock location” on an android mobile phone, you will need
 **Step 4:** Now, go to your device’s Settings > Developer Options and make sure that the allow mock location feature is enabled.
 
 ![enable allow mock location](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 5:** Under developer options, you will see the “Mock Location App” field and tap on it to get a list installed GPS spoofing apps. Select the Fake GPS app from the list to set it the default mock location apk.
 
@@ -298,18 +298,18 @@ Here are the steps that you will need to follow to install Dr. Fone in your devi
 
 ![world map with three mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4:** Select any one mode from the teleport, two-stop mode, and multi-stop mode to spoof your location.
 
 **Step 5:** Search for the desired location on the search bar to fake your current location and click enter.
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now you are ready to spoof iPhone without compromising the privacy of the Phone.
 
@@ -461,13 +461,6 @@ ThinkSky's iTools is a phone GPS location program. It's a desktop app that can l
 - Not support iPhone 13, 12, and 11, iOS 13 and above.
 - It may be hard to use for some new users.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Fake GPS Location Tool
 
 **Link:** <https://apps.apple.com/us/app/fake-gps-location-tool/id1133848135>
@@ -494,6 +487,13 @@ You can travel across the world with this **Fake GPS Location app**. To mock you
 
 - The pointer does not allow for precise location selection.
 - It is not safe to use for some games, unlike Dr.Fone.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. iTeleporter Location Spoofer
 
@@ -648,10 +648,16 @@ This is an all-in-one solution for all your device location-altering needs. With
 **Mock location applications for iOS and Android** come helpful in various situations. Using a competent imitation location app can assist you in doing the task swiftly and efficiently. The spoof location and GPS apps listed here are safe to use. If you want a one-stop way to fake your location on Android and iOS devices, then [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is the best choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
@@ -680,19 +686,24 @@ This is an all-in-one solution for all your device location-altering needs. With
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-roadmap-to-a-top-ranked-facebook-profile/"><u>[New] In 2024, The Roadmap to a Top-Ranked Facebook Profile</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-apply-stunning-radial-blur-to-enhance-digital-images-for-2024/"><u>[Updated] Apply Stunning Radial Blur to Enhance Digital Images for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-cutting-edge-teamblend-skills-for-smoothed-conferencing-borders/"><u>[Updated] Cutting-Edge Teamblend Skills for Smoothed Conferencing Borders</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-elevate-hd-audiovideo-on-your-android-device-with-top-players/"><u>[Updated] Elevate Hd Audio/Video on Your Android Device with Top Players</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expertise-in-iphone-photography-understanding-dimensions/"><u>[Updated] Expertise in iPhone Photography Understanding Dimensions</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-efficiency-in-echoes-aural-recorded-images/"><u>2024 Approved Efficiency in Echoes Aural Recorded Images</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-missing-your-hardware-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>Identify missing your hardware drivers with Windows Device Manager in Windows 10</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-tecno-camon-20-pro-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Tecno Camon 20 Pro 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-matches-mac-and-pc-video-decoders-freepaid/"><u>In 2024, Ideal Matches Mac & PC Video Decoders (FREE/PAID)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-xiaomi-13t-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Xiaomi 13T</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mkv-to-xiaomi-redmi-note-12r-converter-convert-mkv-for-xiaomi-redmi-note-12r-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV to Xiaomi Redmi Note 12R converter - convert MKV for Xiaomi Redmi Note 12R</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-honor-x50iplus-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Honor X50i+.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-lava-agni-2-5g-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Lava Agni 2 5G</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/visionmeter-recording-suite/"><u>VisionMeter Recording Suite</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-expert-recommended-5-top-drones-on-market/"><u>[New] 2024 Approved Expert-Recommended 5 Top Drones on Market</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-a-closer-look-at-vlc-critiques-and-options/"><u>2024 Approved A Closer Look at VLC Critiques and Options</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deceptive-chatbot-plugin-on-chrome-hijacks-your-social-network-logins/"><u>Deceptive Chatbot Plugin on Chrome Hijacks Your Social Network Logins</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-the-8-most-innovative-ai-apps-for-your-smartphone/"><u>Explore the 8 Most Innovative AI Apps for Your Smartphone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-se-2020-without-apple-id-by-drfone-ios/"><u>How to Erase an Apple iPhone SE (2020) without Apple ID?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-plus-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Plus To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-pro-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Pro To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-motorola-moto-g34-5g-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Motorola Moto G34 5G Phone Forgot Password</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-6-plus-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 6 Plus Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Motorola Moto G23? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-xiaomi-civi-3-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Xiaomi Civi 3 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-xperia-10-v-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Xperia 10 V</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-mkv-video-on-xiaomi-redmi-note-13-proplus-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Issues playing MKV video on Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-moto-e13-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Moto E13 and stops randomly</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/strategies-pour-eviter-la-suppression-automatique-des-fichiers-sur-votre-bureau/"><u>Stratégies Pour Éviter La Suppression Automatique Des Fichiers Sur Votre Bureau</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-secret-how-securing-an-early-ipad-pro-bargain-before-prime-day-becomes-your-best-tech-investment-insights-from-zdnet/"><u>Unlocking the Secret: How Securing an Early iPad Pro Bargain Before Prime Day Becomes Your Best Tech Investment - Insights From ZDNet</u></a></li>
 </ul></div>
 

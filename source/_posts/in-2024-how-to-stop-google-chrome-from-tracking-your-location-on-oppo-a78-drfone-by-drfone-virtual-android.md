@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Stop Google Chrome from Tracking Your Location On Oppo A78? | Dr.fone
-date: 2024-10-27T18:01:19.972Z
-updated: 2024-10-31T18:58:27.114Z
+date: 2024-11-01T06:48:42.575Z
+updated: 2024-11-05T16:29:26.916Z
 tags: 
   - virtual location chang
   - location changer
@@ -68,20 +68,13 @@ If you are worried about Google Chrome detecting your physical location and shar
 ![disable the location option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 One way to protect your privacy and stop websites from tracking your location is to turn off the location, but it has many disadvantages. If you have turned off your location, you can't use any location base service like food delivery, e-shopping, ride-sharing, etc. That's why it is better to use a fake location on your browser. Below we have explained four methods for **Chrome fake location**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1. Best Tool to Fake Chrome Location On iOS and Android Phones
 
@@ -111,6 +104,13 @@ Press "Get Started" on the next page to open the map window. First, select your 
 
 ![activate the teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Add the Desired Fake Location**
 
 Once the Teleport Mode is activated, add your desired location and press "Go." Your desired location will open on the map. Select it, and a pop-up window will appear where you need to press "Move Here." With that, your Android or iPhone's Chrome location has been changed.
@@ -133,17 +133,23 @@ It is also possible to **fake browser location** on Chrome using the Google Chro
 
 ![select your location](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Limitations**
 
 - The interface of the Google Chrome DevTools can be very confusing and overwhelming for non-technical users.
 - Apart from pre-added locations, it can be hard to add a specific location as your fake location.
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3. Fake Your Location Using Chrome Extension
 
@@ -160,19 +166,6 @@ Many **fake location Chrome extensions** are available on Google Chrome which ca
 **Step 3:** You can also use the "Fixed Location" feature to set up a fake location as a permanent location for your browser. The fixed location can be added by using the market or clicking on the desired place on the map.
 
 ![confirm the fixed location position](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-16.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Limitations**
 
@@ -216,18 +209,18 @@ The fact that Google Chrome in your devices can track your location with an accu
 
 That's why having a tool like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to **fake GPS online** is essential nowadays. It can ensure your privacy and helps in protecting you from the dangers of the internet.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best 10 Mock Location Apps Worth Trying On Oppo A78
 
 Location-based apps and games are all the rage right now, and the latest trends indicate that this is not going anywhere but upwards. When you want to access content that is not available to you in your current location, what can you do? Or, when you want to catch Pokémon but aren’t getting any, you can’t give up and stop playing, can you? A location spoofer app to mock location can help you in this situation, and we are going to tell you how to mock location on iPhone and Android along with the top **mock location apps** for Android and iPhone in this guide. Read on!
 
 ![top mock location apps for android ios](https://images.wondershare.com/drfone/article/2023/12/mock-location-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part I: Purpose of Mock Location Apps
 
@@ -238,13 +231,6 @@ The sole purpose of mock location apps or software is to help users spoof/ mock 
 - If you are an avid Snapchat user, certain filters are only available in certain locations, and you can mock location on iPhone or Android to avail of them.
 - Location-based games such as Pokémon GO derive the most benefit from a mock location app because you can change your location and show yourself walking in the streets of London while sipping a mojito at a beach in Hawaii and catching amazing new Pokémon!
 - In dating apps, why pay a fee to unlock worldwide access when you can simply use a mock location app to let the dating app change your current location automatically in accordance with your selection in the location spoofer app on your Android or iPhone?
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part II: Is It Safe to Mock Location? Can It Be Detected?
 
@@ -261,6 +247,19 @@ There are fewer mock location apps on the Apple Store due to Apple's strict poli
 ![drfone virtual location ios](https://images.wondershare.com/drfone/article/2023/12/mock-location.jpg)
 
 This is by far the best one out there. It is designed professionally and inspires trust, unlike some other apps that neither look as polished nor work as flawlessly. When in doubt, trust Wondershare’s Dr.Fone – Virtual Location (iOS) to do the job reliably and professionally in just a few clicks.
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -296,6 +295,13 @@ A quality product from Wootechy, iMoveGo is compatible with the latest iOS 17 an
 
 ![ispoofer](https://images.wondershare.com/drfone/article/2023/12/mock-location-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Probably one of the most known apps at one point in time, iSpoofer was great at spoofing location on iPhone until Niantic, the makers of Pokémon GO, detected the app, and banned it. The app still works with some tricks up its sleeve, but we do not really recommend it, given that it was detected once and if you are detected using the app, you will be banned from the Poke-verse for good.
 
 ## Part IV: Top Mock Location Apps for Android
@@ -311,6 +317,13 @@ GPS Emulator by DigiTools can run on the Android device itself and spoof your lo
 #### 2\. Fake GPS Location-GPS JoyStick
 
 ![gps joystick](https://images.wondershare.com/drfone/article/2023/12/mock-location-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Fake GPS Location-GPS JoyStick by The App Ninjas is a popular mock location spoofer app on Android. This one provides an overlay joystick control to mock location on Android devices, and it might not be everyone’s cup of tea. Some find the joystick incredibly useful and intuitive while some are downright annoyed by it.
 
@@ -342,6 +355,13 @@ Dr.Fone - Virtual Location can be used to effectively spoof GPS coordinates on A
 
 ![vpna for android](https://images.wondershare.com/drfone/article/2023/12/mock-location-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 VPNa - Fake GPS Location Go is a regularly updated mock location app for Android and a good thing about this app is that it does not require you to root your Oppo A78!
 
 ## Part V: Steps To Mock Location on Android Or iPhone with Dr.Fone - Virtual Location
@@ -368,13 +388,6 @@ Step 2: Connect your device and click Get Started button after accepting the dis
 Dr.Fone - Virtual Location opens. Click No Device at the top.
 
 ![drfone virtual location open](https://images.wondershare.com/drfone/guide/virtual-location-01-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3: You will now see a beautiful display showing your connected device. Click it and click Next.
 
@@ -405,13 +418,6 @@ Using a method that has been detected once, such as iSpoofer, is one way to land
 \- The best way to spoof your location when playing games such as Pokémon GO is to be showing yourself traveling from point A to B just as you would in real life. No jumping.
 
 \- One precaution to take when you spoof your location in general is to allow a cooling period before changing location, and once you change your location to anywhere in the world, do not jump to another far-off place the next minute or even the next hour. Be sensible, allow for time it would take in real life to travel that distance, and you should go undetected.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Closing Words
 
@@ -502,19 +508,22 @@ So, that was all about the article. We have discussed 3 simple tricks to get a f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-prime-creators-of-screenplay-world/"><u>[New] Prime Creators of Screenplay World</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-buzz-factor-creating-catch-all-content-for-facebook-for-2024/"><u>[New] The Buzz Factor Creating Catch-All Content for Facebook for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-elevating-your-channels-profits-with-impactful-and-effective-trailers/"><u>[Updated] Elevating Your Channels' Profits with Impactful and Effective Trailers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-rhythm-renders-infusing-sound-into-your-visual-storytelling-fb/"><u>[Updated] In 2024, Rhythm Renders Infusing Sound Into Your Visual Storytelling (FB)</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-science-behind-effective-slug-lines/"><u>[Updated] The Science Behind Effective Slug Lines</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-x-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone X Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/eliminating-common-video-file-blockers/"><u>Eliminating Common Video File Blockers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-pro-max-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 Pro Max to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-se-2022-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone SE (2022) to other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Xiaomi 13T Pro? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-back-time-iphones-video-reversal-trick-for-2024/"><u>Navigating Back Time IPhone's Video Reversal Trick for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-realme-c33-2023-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Realme C33 2023.</u></a></li>
-<li><a href="https://discover-help.techidaily.com/top-10-gratisk-aikommentatorer-online-per-windows-og-mac-optimert/"><u>Top 10 Gratisk AIKommentatorer Online - Per Windows Og Mac Optimert</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-maintaining-your-instagram-circle-health/"><u>[New] 2024 Approved Maintaining Your Instagram Circle Health</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-premium-zero-cost-live-capture-program/"><u>[New] In 2024, Premium Zero-Cost Live Capture Program</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-prime-cameras-unwrapped-the-best-of-2024/"><u>[Updated] Prime Cameras Unwrapped The Best of 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-best-funny-fictional-frequencies/"><u>[Updated] The Best Funny Fictional Frequencies</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-delight-in-these-top-10-insta-memes-that-spark-joy-and-sobs/"><u>2024 Approved Delight in These Top 10 Insta Memes That Spark Joy & Sobs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pixels-of-hilarity-with-adobe-tools/"><u>2024 Approved Pixels of Hilarity with Adobe Tools</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discovering-the-lenovo-9-inch-nook-an-in-depth-user-guide/"><u>Discovering the Lenovo 9-Inch Nook - An In-Depth User Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-decrease-overbearing-cpu-use-by-google-chrome-for-smoother-operation/"><u>How to Decrease Overbearing CPU Use by Google Chrome for Smoother Operation</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-xs-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone XS Max Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-your-drivers-with-windows-device-manager-in-windows-11-by-drivereasy-guide/"><u>Identify missing your drivers with Windows Device Manager in Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-xiaomi-civi-3-disney-100th-anniversary-edition-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Xiaomi Civi 3 Disney 100th Anniversary Edition is off? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-motorola-moto-g-stylus-2023-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Motorola Moto G Stylus (2023).</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-gt-5-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on GT 5</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repair-discrepancies-in-selected-video-files/"><u>Repair Discrepancies in Selected Video Files</u></a></li>
 </ul></div>
 
