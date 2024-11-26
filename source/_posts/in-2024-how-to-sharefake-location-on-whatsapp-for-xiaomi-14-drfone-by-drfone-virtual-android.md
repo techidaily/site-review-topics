@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Share/Fake Location on WhatsApp for Xiaomi 14 | Dr.fone
-date: 2024-11-09T16:51:18.446Z
-updated: 2024-11-16T16:12:01.499Z
+date: 2024-11-23T05:26:42.473Z
+updated: 2024-11-25T18:14:19.623Z
 tags: 
   - virtual location change
   - social app
@@ -100,15 +100,16 @@ To start with, launch the Dr.Fone toolkit on your computer and launch the “Vir
 
 ![launch the Virtual Location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Using an authentic lightning cable, connect your Xiaomi 14 to the computer and click on the “Get Started” button.
 
 ![connect your Xiaomi 14 to the computer](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Step 2: Look for any location of your choice_
@@ -116,13 +117,6 @@ _Step 2: Look for any location of your choice_
 A map-like interface would be launched on the screen with dedicated options at the top-right corner. Just click on the teleport feature, which is the first option here.
 
 ![find new location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now, you can go to the search bar and look for any location (address, city, state, coordinates, etc.) you want to switch to.
 
@@ -138,23 +132,9 @@ This will display the changed location of your device on the interface, and you 
 
 ![stop the simulation](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can also open any app on your Xiaomi 14 and see the new location on the interface. Just go to WhatsApp now and send the fake location on WhatsApp to your friends.
 
 ![go to WhatsApp](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Send Fake Live Location with One-Stop Route/Multi-Stop Route
 
@@ -180,25 +160,15 @@ Step 2: Enter the fake location in the search box and let the software detect th
 
 ![Move Here option](https://images.wondershare.com/drfone/article/2019/10/move-location-on-iPhone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Now, launch the WhatsApp app and click on the Share Location option. The app will show the new fake location, and you can share it with anyone you want.
 
 To get your real location back, you will have to reboot your Xiaomi 14. But you can only do this only 3 times for free. Also, this trick works on any iPhone running on iOS 12 and older.
 
-## Part 4. Use Location Faking App from Google Play (Android Specific)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Part 4. Use Location Faking App from Google Play (Android Specific)
 
 ### 4.1. How to Select a Good App to Fake Location?
 
@@ -222,6 +192,10 @@ Step 1: Open Settings > Privacy > Location Services and turn the setting on. Als
 Step 2: Go to the Settings and open "About Phone" info. Find the Build number and tap on 7 times to access the Developer Settings. From developer options, enable the "Allow Mock Locations" option.
 
 ![Allow Mock Locations](https://images.wondershare.com/drfone/article/2019/10/open-developer-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Now, open the app and search the location that you want to send. Once you have decided which location you want to share, click on the Set Location option.
 
@@ -297,6 +271,10 @@ When it comes to disabling or hiding the location on Snapchat, the tutorial is e
 2. As soon as the SnapMap screen loads up, you need to access the settings by hitting the Gear icon on the top right corner.
 
     ![start Ghost Mode](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Then, make use of the settings to set up your privacy and hit on the “Ghost Mode” toggle switch to turn it on. A pop-up window will appear with 3 different settings:
 
@@ -422,22 +400,12 @@ However, there are moments when you might crave a bit of privacy or a break from
 ![life360 location map](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: What Is Life360 and How To Pause Life360 From the App
 
 Life360 is not just an app; it’s a digital lifeline connecting people with their loved ones. It’s primarily designed for family and close friends. By offering real-time location sharing, it ensures that members of your “Circle” (a group within the app) know where you are at any given moment. This feature is handy for parents monitoring their children’s whereabouts or friends coordinating meet-ups.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### The Purpose of Life360
 
@@ -446,6 +414,10 @@ At its core, Life360 is about safety and connectivity. The app includes features
 - **Safety assurance**. Knowing the whereabouts of your loved ones, especially in emergencies, can be invaluable.
 - **Convenience**. Planning gatherings or ensuring a family member has arrived safely at a destination becomes more manageable.
 - **Emergency response**. The app can alert users to potential emergencies involving Circle members.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Reasons of Pausing Life360
 
@@ -480,17 +452,29 @@ First, navigate to your Xiaomi 14’s **Settings**. Then, look for the section l
 
 By selecting **Force Stop**, you temporarily halt the app’s function without uninstalling it. This operation stops location sharing until you open the app again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pause Life360 From iOS Settings
 
 To **pause the Life360 location** on iOS, you’ll have to open the Settings app on your iOS device. Browse through your apps and select Life360. Alternatively, you can use the search bar and type “Life360”. Once in the app’s menu, change location services to **While Using** the App. Thus, it will not share your location unless you open the app.
 
 ![life360 ios settings](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pause by Using Airplane Mode
 
 This can be done from the quick settings panel on both Android and iOS devices. Turning on **Airplane Mode** disables all wireless connections, including cellular data and GPS, effectively pausing Life360. The great thing is that Life360 will only show your last known location to your circles. It will not say that “location services are off,” unlike the first two methods.
 
 ![airplane mode ios](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Pause by Uninstalling
 
@@ -539,19 +523,24 @@ While it’s always recommended to maintain open communication with your Circle 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-crossing-platforms-upload-video-to-twittertumblr-for-2024/"><u>[New] Crossing Platforms Upload Video to Twitter/Tumblr for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-resolve-instagrams-video-problems-swiftly/"><u>[Updated] In 2024, Resolve Instagram's Video Problems Swiftly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/before-you-buy-the-ultimate-8-point-checklist-for-picking-your-ideal-desktop-computer/"><u>Before You Buy: The Ultimate 8-Point Checklist for Picking Your Ideal Desktop Computer</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/dissecting-the-efficacy-of-vidma-as-a-recorder/"><u>Dissecting the Efficacy of Vidma as a Recorder</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-15-plus-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 15 Plus After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Poco X5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-apple-iphone-se-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Apple iPhone SE Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Honor X50i? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-art-of-troubleshooting-rust-not-responding-glitches/"><u>Mastering the Art of Troubleshooting Rust Not Responding Glitches</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-locked-iphone-6-plus-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 6 Plus without Face ID</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-expert-netflix-tips-maximizing-screenshots-with-your-mac-for-2024/"><u>[New] Expert Netflix Tips Maximizing Screenshots with Your Mac for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/08525226-updated-in-2024-elevate-your-videos-with-complimentary-banners-here/"><u>[Updated] In 2024, Elevate Your Videos with Complimentary Banners, Here</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-youtube-snippets-overview-explained/"><u>[Updated] In 2024, YouTube Snippets Overview Explained</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-smooth-privacy-tear-away-facial-features/"><u>[Updated] Smooth Privacy Tear Away Facial Features</u></a></li>
+<li><a href="https://article-helps.techidaily.com/asmr-and-wellness-what-are-its-promising-side-effects-in-2024/"><u>ASMR & Wellness What Are Its Promising Side-Effects, In 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-gps-location-on-honor-x9a-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Honor X9a Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-xiaomi-redmi-note-12t-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi Redmi Note 12T Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-pause-life360-location-sharing-for-vivo-y27s-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-prevent-fallout-n3-from-crashing-on-a-windows-10-pc-solutions-explored/"><u>How to Prevent Fallout N3 From Crashing on a Windows 10 PC - Solutions Explored</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-itel-p40-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-infinix-gt-10-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Infinix GT 10 Pro in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-huawei-nova-y91-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Huawei Nova Y91 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-data-recovery-recover-lost-data-from-oppo-a78-by-fonelab-android-recover-data/"><u>Oppo Data Recovery – recover lost data from Oppo A78</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-nokia-g310-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Nokia G310</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/set-maximum-characters-for-suggestions-in-emeditor-text-editor/"><u>Set Maximum Characters for Suggestions in EmEditor Text Editor</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/est-of-yt-a-deep-dive-into-music-dance-clips-23/"><u>The Best of YT A Deep Dive Into Music Dance Clips, '23</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-nokia-c22-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Nokia C22 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
 </ul></div>
 

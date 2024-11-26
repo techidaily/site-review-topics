@@ -1,7 +1,7 @@
 ---
 title: Expert Take on the Netgear Nighthawk AX8 - The Most Advanced Wi-Fi 6 Range Extender on the Market
-date: 2024-11-15T16:27:58.768Z
-updated: 2024-11-16T20:26:44.780Z
+date: 2024-11-22T01:30:14.909Z
+updated: 2024-11-26T01:52:45.146Z
 categories:
   - BestProducts
 description: This Article Describes Expert Take on the Netgear Nighthawk AX8 - The Most Advanced Wi-Fi 6 Range Extender on the Market
@@ -21,6 +21,10 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 ## Netgear Nighthawk EAX80 AX6000 Wi-Fi 6 Mesh Extender
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/GshnCnk_G-hNSwDTRjGVB28Nl-o=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_HeroSquare-f1971c8abc1a45b7a589b440ee06f5cf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
@@ -72,10 +76,7 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
  If you don’t already have one of those new Wi-Fi 6 routers, should you spend extra for the Netgear Nighthawk AX8 to futureproof your setup? Here’s what I think after testing the device for several days across everyday web usage, media streaming, playing online games, and more.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Design: Pretty awkward**
@@ -87,10 +88,7 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
  It has a lot more angles and tapered elements than I’d think are necessary, which results in an overall look that’s dynamic but ultimately awkward.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup Process: Avoid the app**
@@ -106,6 +104,10 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/xru8JLL_UOk3sXBYpbrOyAl-ihc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_02-b120eab8816746338c53e4eb1cfc62d6.jpg)
 
  Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Connectivity: Smooth sailing**
 
@@ -123,6 +125,10 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/rtnI3hSe9qP5qFqjhu1LRxe7qYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_03-19da5fea4d0349ce984f52a11493d337.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
 
  As a Wi-Fi mesh extender, the Netgear Nighthawk AX8 will automatically replicate the SSID of your router’s existing Wi-Fi networks and seamlessly keep you connected whenever you’re in range of either. That’s true even with non-Netgear routers and those without Wi-Fi 6 support, and it’s a huge benefit over some cheaper extenders that don’t keep the same network info intact across devices.
@@ -131,25 +137,11 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 
  If you don’t have a Wi-Fi 6 router, then you’ll either want to start there or consider investing in a Wi-Fi mesh system instead.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: More than most**
 
  The Netgear Nighthawk AX8 Wi-Fi 6 Mesh Extender is listed at $250, although it’s being sold for $220 at multiple retailers as of this writing. That’s definitely on the higher end for an extender.
 
  Should you really spend that much on an extender? If you don’t already have a new Wi-Fi 6 router, then probably not. You might see higher peaks of speed as I did, but rather than trying to mix and match old and new tech, you’re probably better off investing in a new Wi-Fi mesh system that can cover the entire house. Netgear’s Orbi is a favorite, as is Google’s similar Nest Wi-Fi system.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Netgear Nighthawk AX8 vs. Netgear Nighthawk X6S (EX8000)**
 
@@ -187,17 +179,20 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-audiovisual-collection-computer-and-voice-archives/"><u>[New] Audiovisual Collection Computer & Voice Archives</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-downloading-made-simple-discover-the-4-aces/"><u>2024 Approved Downloading Made Simple Discover the 4 Aces</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-rhythm-rendezvous-optimal-dj-video-selections/"><u>2024 Approved Rhythm Rendezvous Optimal DJ Video Selections</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-zoom-in-on-minecraft/"><u>How to Zoom in on Minecraft</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-nubia-red-magic-9-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Nubia Red Magic 9 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-realme-gt-neo-5-se-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Realme GT Neo 5 SE to Protect Your Individual Information</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop Life360 from Tracking You On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-step-into-success-10-pivotal-steps-for-exceptional-smm-achievement/"><u>In 2024, Step Into Success 10 Pivotal Steps for Exceptional SMM Achievement</u></a></li>
-<li><a href="https://windows11.techidaily.com/revisiting-the-classics-uncovering-7-older-windows-functionalities-in-11/"><u>Revisiting the Classics: Uncovering 7 Older Windows Functionalities in 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rom-zero-to-hero-youtube-setup-growth-and-profit-strategies-for-2024/"><u>[New] From Zero to Hero YouTube Setup, Growth & Profit Strategies for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-video-capture-perfection-achieving-silence-success/"><u>[Updated] 2024 Approved Video Capture Perfection Achieving Silence Success</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-best-mc-housing-plans-for-vibrant-villages/"><u>[Updated] In 2024, Best MC Housing Plans for Vibrant Villages</u></a></li>
+<li><a href="https://fox-where.techidaily.com/discover-our-story-the-journey-of-aomei-data-recovery-solutions/"><u>Discover Our Story: The Journey of AOMEI Data Recovery Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-infinix-note-30-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Infinix Note 30 Pro in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/essential-templates-for-impactful-business-presentations/"><u>Essential Templates for Impactful Business Presentations</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-tecno-spark-go-2023-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Tecno Spark Go (2023) Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-14-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 14 Pro Max Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-on-apple-iphone-8-plus-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock On Apple iPhone 8 Plus - 4 Easy Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/iphone-12-pro-max-activation-lock-primer-by-drfone-ios-unlock-ios-unlock/"><u>iPhone 12 Pro Max activation lock primer</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-new-york-convention-is-key-to-enforcing-arbitral-awards-across-national-borders-with-over-160-signatory-countries-agreeing-to-recognize-such-awards/"><u>The New York Convention Is Key to Enforcing Arbitral Awards Across National Borders, with over 160 Signatory Countries Agreeing to Recognize Such Awards</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlock-premium-sounds-use-no-cost-music-library-for-video-production/"><u>Unlock Premium Sounds: Use No-Cost Music Library for Video Production</u></a></li>
 </ul></div>
 

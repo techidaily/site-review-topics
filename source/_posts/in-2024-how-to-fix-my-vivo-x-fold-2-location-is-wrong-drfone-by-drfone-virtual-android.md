@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix My Vivo X Fold 2 Location Is Wrong | Dr.fone
-date: 2024-11-11T17:37:48.588Z
-updated: 2024-11-16T19:00:43.263Z
+date: 2024-11-18T23:28:49.236Z
+updated: 2024-11-25T18:08:55.942Z
 tags: 
   - virtual location chang
   - location changer
@@ -44,13 +44,6 @@ Another reason your phone has the incorrect location would be that your phone is
 ### _Reason #4:_ The “Location Services” might not be enabled for the application
 
 If you have not enabled the application to use the GPS, then it will not show you the correct location. Make sure to check whether this application can access the “Location Services” by following the steps below.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Fix Vivo X Fold 2 Location Accuracy Issue?
 
@@ -107,6 +100,10 @@ If you have exhausted all of the tips that we have shared above and still the lo
 
 ![virtual-location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **_Step 3:_** You will then be redirected to your current location on the new page.
 - **_Step 4:_** If you want to change your location, you will need to turn on the “Teleportation” mode by clicking on the first icon and typing the location that you want then click on the “Go” icon.
 - _**Step 5:**_ Click on “Move Here” and your current location will show up as the location that you typed on Your Vivo X Fold 2.
@@ -124,10 +121,11 @@ There are the things that you can do when you have an incorrect location on your
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Prevent Cross-Site Tracking on Vivo X Fold 2 and Browser
@@ -137,6 +135,10 @@ Have you ever wondered why you get the advertisements of the websites you visite
 ![cross site tracking](https://images.wondershare.com/drfone/article/2022/03/cross-site-tracking.jpg)
 
 The CST process is like invading your privacy by collecting your browser history and personal information. So, to prevent these services, there are several ways by which you can cross-site tracking on your system as well as Vivo X Fold 2 phone browsers. Keep reading to learn **how to stop cross-site tracking on both Vivo X Fold 2 and browser.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Why Do We Need to Stop Cross-site Tracking?
 
@@ -154,13 +156,6 @@ _Further reading: [A detailed guide on faking location in Mozilla Firefox](https
 
 Yes, private browsing can be traced. When you work in private browsing mode, the web browser does not save the browsing history, which means that anyone who uses your system will not check your online activities. But websites and cookies can track your browsing history as well as other information.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How to Disable Cross-website Tracking on Safari for iOS Devices?
 
 Safari is the most commonly used platform by iOS users. So, to prevent CST for Safari on your iOS devices and Mac systems, below is a complete guide.
@@ -171,35 +166,19 @@ Safari cross-site tracking can be prevented using the below steps on your iPhone
 
 ![prevent cross-site tracking on iPhone](https://images.wondershare.com/drfone/article/2022/03/prevent-cst-iphone-ipad.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Step 1. Launch the Settings app on your iOS device.
 - Step 2. Find the Safari option by scrolling down the menu.
 - Step 3. Move the slider to turn on “Prevent Cross-Site Tracking” under the PRIVACY & SECURITY option.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Deactivate Safari cross-website tracking for Mac
 
 Use the steps below to **turn off cross-site tracking on Safari** on your Mac systems.
 
 ![stop cross-site tracking on mac](https://images.wondershare.com/drfone/article/2022/03/prevent-cst-mac.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Step 1. On your Mac system, open the Safari app.
 - Step 2. Move to Safari > Preferences > Privacy
@@ -218,13 +197,6 @@ Chrome is used widely on Windows systems and Android devices, and to prevent the
 
 ![stop cross-site tracking on android](https://images.wondershare.com/drfone/article/2022/03/prevent-cst-android.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Enable “Do Not Track” on Google Chrome for Computer
 
 - Step 1. Launch Chrome on your system, and from the menu at the upper-right corner, click on the Settings option.
@@ -234,10 +206,7 @@ Chrome is used widely on Windows systems and Android devices, and to prevent the
 ![prevent -cross-site-tracking on chrome computer](https://images.wondershare.com/drfone/article/2022/03/prevent-cst-computer-chrome.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5: Recommended Solution: Fake a Location to Stop Cross-Site Location Tracking Using Dr. Fone
@@ -306,6 +275,10 @@ When location sharing is enabled in the Vivo X Fold 2 device, the map will show 
 
 ![Find My Friends app](https://images.wondershare.com/drfone/article/2019/09/find-my-friends-intro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How it is different in iOS 13
 
 You can find yourself confused if you are using iOS 13 and looking for Find My Friends app. You may not be able to find it on your device running on iOS 13. To your information, Apple has decided to combine the Find My iPhone and Find My Friends app into one. And they have named it as “Find My”. This new named app has everything what Find My Friends and Find My iPhone has. When you’ll open it, you will find the “People” tab on the bottom. Using this, you can get your friends as you used to get before.
@@ -340,6 +313,10 @@ From the main page of dr.fone – Virtual Location (iOS), download it. After thi
 
 ![install the tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Set up Phone’s Connection**
 
 Now, take your iPhone and keep it connected with the system. After this is done, click on the “Get Started” button to move ahead.
@@ -357,13 +334,6 @@ After following the second step, all you need is to look for your actual locatio
 In this step, you should activate the teleport mode. This will be done by clicking the third icon in the upper right of the screen. You can now input the place you want to teleport.
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 5: Fake Find My Friends Location**
 
@@ -405,6 +375,10 @@ If you have done jailbreaking, you can have FMFNotifier. Jailbreaking will be wo
 
 ![configure the settings](https://images.wondershare.com/drfone/article/2019/09/fmfnotifier-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3.4 Use AntiTracker to protect your location privacy
 
 When privacy is everything for you, you cannot tolerate anyone peeping into your life, especially your location. Find My Friends lets people doing that. You can take help of AntiTracker which is another jailbreak tweak. With this, you will be helped by faking location on Find My Friends. Like the above app, this will also notify you when someone is going to know your location through Find My Friends.
@@ -426,6 +400,10 @@ You will get the notification no matter your screen is locked or not. A notifica
 - Have a look on the location request logs i.e. each time when the location is pinged
 
 ![antitracker settings](https://images.wondershare.com/drfone/article/2019/09/antitracker-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to Fake Find My Friends location on Android
 
@@ -467,24 +445,21 @@ When you install it rightly, this is how to do a little twisting to set it up wi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-broadcasting-higher-integrating-dji-drones-for-facebook-live/"><u>[Updated] In 2024, Broadcasting Higher - Integrating DJI Drones for Facebook Live</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-correcting-the-missing-msvbvm50dll-issue/"><u>Effective Solutions for Correcting the 'Missing msvbvm50.dll' Issue</u></a></li>
-<li><a href="https://win-superb.techidaily.com/effortless-guide-overcome-windows-server-backup-access-issues-without-a-hitch/"><u>Effortless Guide: Overcome Windows Server Backup Access Issues Without a Hitch</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/exploring-the-app-settings-tab-functions-and-use-cases/"><u>Exploring the 'App Settings' Tab: Functions and Use Cases</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-download-andupdate-drivers-for-hp-envy-20-pc-series/"><u>How to Download &Update Drivers for HP ENVY 20 PC Series</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On OnePlus 12R? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Nokia G22? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Motorola Moto G34 5G? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Xiaomi 13T Pro? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-timelapse-techniques-for-samsung-smartphones/"><u>In 2024, Timelapse Techniques for Samsung Smartphones</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-apple-iphone-se-fixed-drfone-by-drfone-virtual-ios/"><u>iSpoofer is not working On Apple iPhone SE? Fixed | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209612308-9781547570041-meditacion-aprender-a-meditar-tecnicas-de-relajacion-y-meditacion-zen/"><u>Meditación: Aprender A Meditar Técnicas De Relajación Y Meditación Zen | Free Book</u></a></li>
-<li><a href="https://program-issues.techidaily.com/payday-2-wont-open-on-pc-discover-effective-fixes-and-workarounds/"><u>Payday 2 Won't Open on PC? Discover Effective Fixes and Workarounds</u></a></li>
-<li><a href="https://win11.techidaily.com/reimagining-os-functionality-with-ai-integration/"><u>Reimagining OS Functionality with AI Integration</u></a></li>
-<li><a href="https://review-topics.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-instagram-stories-your-complete-tune-up-guide/"><u>[New] 2024 Approved Mastering Instagram Stories Your Complete Tune-Up Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-a-step-by-step-approach-to-best-youtube-thumbnails/"><u>[Updated] In 2024, A Step-by-Step Approach to Best YouTube Thumbnails</u></a></li>
+<li><a href="https://review-topics.techidaily.com/change-location-on-yik-yak-for-your-infinix-note-30-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Infinix Note 30 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/change-location-on-yik-yak-for-your-tecno-spark-10-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Tecno Spark 10 Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/engaging-recorders-within-huawei-mate-and-p-series-for-video-capture-for-2024/"><u>Engaging Recorders Within Huawei Mate and P-Series for Video Capture for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/exploring-funimates-full-potential-for-2024/"><u>Exploring Funimate's Full Potential for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-steam-shop-connectivity-issues-with-these-expert-tips/"><u>Fix Your Steam Shop Connectivity Issues with These Expert Tips</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-15-pro-max-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 15 Pro Max without passcode</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-motorola-edge-40-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Motorola Edge 40</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigate-new-technologies-a-journey-through-toms-hardware-world/"><u>Navigate New Technologies: A Journey Through Tom's Hardware World</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-poco-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Poco .</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/preventing-frame-skips-in-live-obs-broadcasts-for-2024/"><u>Preventing Frame Skips in Live OBS Broadcasts for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/slow-taper-strategies-to-compress-sound-in-fl-studio-for-2024/"><u>Slow Taper Strategies to Compress Sound in FL Studio for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-gpt4alls-workings/"><u>Understanding GPT4All's Workings</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Share Location in Messenger On Vivo S18? | Dr.fone
-date: 2024-11-10T20:30:18.180Z
-updated: 2024-11-16T20:42:30.701Z
+date: 2024-11-19T22:01:10.050Z
+updated: 2024-11-25T23:54:39.672Z
 tags: 
   - virtual location chang
   - location changer
@@ -54,6 +54,10 @@ Facebook Messenger’s location-sharing feature will not work without the necess
 
 ![messenger permission settings](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Click **Location.**
 
 ![location permission on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-5.jpg)
@@ -61,6 +65,10 @@ Facebook Messenger’s location-sharing feature will not work without the necess
 - **Step 6:** Select **Allow Only While Using the App.** If you’re quite conservative regarding this matter, click **Ask Every Time** instead. After that, Facebook Messenger will have access to your location information.
 
 ![allow messenger access](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. How to Share My Location on Messenger?
 
@@ -76,27 +84,17 @@ How to share my location on Messenger? Well, the first option you can try is thr
 
 ![more button messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** Right after, click **Location.**
 
 ![location option on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Click **Start Sharing Live Location.** Immediately, your current location details will be available and forwarded to the intended receiver. Live Location lasts for 60 minutes at maximum. If you wish to terminate it, simply click **Stop Sharing Live Location.**
 
 ![share live location on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Share location on Facebook Messenger via Pinned Location
 
@@ -109,6 +107,10 @@ Let’s say there is a specific place you want to visit with your friend. Is the
 - **Step 5:** Locate the search bar above the interactive map and type in the location you want to share.
 
 ![search location on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Choose one from the suggested results and then click on it. The details will then be forwarded immediately to the intended receiver.
 
@@ -124,6 +126,10 @@ How do I share my location in Messenger if I cannot find it on the map provided?
 - **Step 3:** Choose one from the suggestions and then tap on it. Make sure that it is exactly what you’re looking for.
 
 ![location choices](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Access the menu bar below the map and then click **Share.**
 
@@ -151,13 +157,6 @@ There’s no denying that the location-sharing feature of Facebook Messenger is 
 
 ![search preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 6:** The details regarding your chosen location will be displayed on the computer screen. Review the information and make sure that it is the specific location you’re looking for. Once confirmed, click **Move Here** to proceed.
 
 ![move to the selected location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
@@ -166,31 +165,25 @@ There’s no denying that the location-sharing feature of Facebook Messenger is 
 
 ![location changed on smartphone](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **NOTE:** Resort to Wondershare Dr.Fone - Virtual Location if your internet browsing does not require you to provide your real address. If you wish to restore your original location settings, simply close the Wondershare Dr.Fone application and restart your smartphone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
 Gone are the days when you had to write invitation cards manually and deliver them one by one. Nowadays, all you need to do is go online and use Messenger’s location-sharing feature. Have you already tried it? If not, you should take it into consideration and use it on your next agenda. Refer to the tutorial above on how to share Live Location on Messenger. It can certainly help you get started. How do I share my location on Messenger without physically being there? That’s simple. Use Messenger or Google Maps’s pinned location. Furthermore, download [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) on your computer. Its Virtual Location feature, capable of modifying your location settings, can provide protection for your privacy. Just connect your Vivo S18 to the computer and set it up from there.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo S18?
 
 Life360 is a family locator application that brings people closer to their family members with location sharing and place alerts, but people misunderstand its features and compare it to other spying apps and wonder if **can life360 see text messages**. It is a free application that allows users to track the location of their loved ones with text messages and one-tap directions. However, it cannot see text messages from other messaging apps or other devices.
 
 Life360 uses real-time GPS data to notify your group members about your location as a location-sharing app. It also tracks driving habits and the user's safety while on the road. In addition, you don't have to worry about privacy; people outside your circle can't view or access your location or texts. Here we will answer your various questions about Life360, including, can Life360 see internet history, read or show text, etc. You will also learn how to stop life360 from seeing your location data or texts.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: Is Life360 a spy app?
 
@@ -248,6 +241,10 @@ Open the Dr.Fone software on your computer and connect your phone. Next, navigat
 
 ![tap on virtual location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 And click on "Get Started" to open the maps.
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
@@ -273,19 +270,6 @@ There is no way to hide your Life360 history. There are only two ways to remove 
 **FAQ 4: Isn't Life360 an invasion of privacy?**
 
 Life360 is designed for parents to always stay informed about the digital well-being of their children and their location. Children might think this is an invasion of privacy but given what's out there on the internet and in the world, parents are rightfully concerned. If you are using Life360 as a rudimentary spyware to track your ex or any such purposes, then that is on you and that is an invasion of their privacy.
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -328,13 +312,6 @@ _**Option #1:**_ Adjust your phone's date and time. You can reset your time by f
 
 ![iphone date & time](https://images.wondershare.com/drfone/article/2022/06/find-my-friends-no-location-found-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - _Step 1:_ Go to "Settings" and choose "General".
 - _Step 2:_ Then click on "Date & Time" and you can manually or automatically set the time.
 
@@ -351,13 +328,6 @@ _**Option #2:**_ Make sure that you or the other user is connected to the intern
 
 **_Option #4_:** Enable "Location Services" for the "Find My Friends" application. There could be instances where your "Location Services" is not enabled for the application.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How to Share Your Location with Find My Friends App?
 
 If you want to share your location in the "Find My Friends" application, you can do that by following the steps below.
@@ -370,6 +340,10 @@ If you want to share your location in the "Find My Friends" application, you can
 ## Part 4: How to Share a Fake Location to Others in Find App?
 
 Sometimes we want our location to be kept secret and send a fake one to our friends and family. You can do that in our app, "[Dr. Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)" which allows you to share a fake location with your friends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -388,6 +362,10 @@ You can use this application by following the steps below.
 _**Step 1:**_ Download the "Dr. Fone - Virtual Location" software on your laptop. Open and choose "Virtual Location".
 
 ![start drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **_Step 2:_** You can then connect your phone to your computer and click on "Get Started".
 
@@ -423,20 +401,14 @@ We hope the tips we shared helped fix the "No Location Found" issue on your phon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-top-gopro-models-max-vs-hero-11/"><u>[Updated] Unveiling the Top GoPro Models Max Vs. Hero 11</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-capturing-dark-scenes-with-iphone-pros/"><u>2024 Approved Capturing Dark Scenes with iPhone Pros</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/drone-innovation-existing-applications-and-upcoming-potential/"><u>Drone Innovation Existing Applications & Upcoming Potential</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/entendendo-o-formato-de-aberto-mp4-uma-guia-completa/"><u>Entendendo O Formato De Aberto MP4: Uma Guia Completa</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-play-destiny-2-post-2024-patch-tackling-the-notorious-broccoli-bug-once-and-for-all/"><u>How To Play Destiny 2 Post-2024 Patch - Tackling The Notorious Broccoli Bug Once And For All!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Motorola Moto G13? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Honor Magic 6 Lite? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Vivo T2 5G? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-apple-iphone-12-mini-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and Apple iPhone 12 mini iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigating-through-key-considerations-a-guide-before-investing-in-a-wearable-fitness-device/"><u>Navigating Through Key Considerations: A Guide Before Investing in a Wearable Fitness Device</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transformer-facilement-un-fichier-m4v-en-webm-gratuite-ligne-de-telechargement-rapide-avec-movavi/"><u>Transformer Facilement Un Fichier M4V en WEBM Gratuite - Ligne De Téléchargement Rapide Avec Movavi</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-top-pick-for-a-flexible-and-well-built-laptop-wins-over-enthusiasts-alike/"><u>ZDNet's Top Pick for a Flexible and Well-Built Laptop Wins Over Enthusiasts Alike</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-drones-uncovered-the-top-pre-purchase-checklist-for-buyers-for-2024/"><u>[New] Drones Uncovered The Top Pre-Purchase Checklist for Buyers for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/duplicare-un-disco-rigido-con-dimensioni-variabili-in-windows-1011-metodi-securissimi/"><u>Duplicare Un Disco Rigido Con Dimensioni Variabili in Windows 10/11 | Metodi SECURISSIMI</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978126346-effortless-update-for-logitech-m325-drivers-get-it-now/"><u>Effortless Update for Logitech M325 Drivers – Get It Now</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-xiaomi-redmi-note-12-4g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Xiaomi Redmi Note 12 4G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-plus-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Plus To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-podcast-beginnings-eye-catching-strategies/"><u>In 2024, Mastering Podcast Beginnings Eye-Catching Strategies</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-samsung-galaxy-m34-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Samsung Galaxy M34, is it possible?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-greatest-kids-movies-streaming-now-on-disneyplus-for-july-your-childs-summer-guide/"><u>Unveiling the Greatest Kids Movies Streaming Now on Disney+ for July - Your Child’s Summer Guide</u></a></li>
 </ul></div>
 

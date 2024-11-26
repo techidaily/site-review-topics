@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to share/fake gps on Uber for Vivo Y28 5G | Dr.fone
-date: 2024-11-13T19:14:39.209Z
-updated: 2024-11-16T20:12:15.216Z
+date: 2024-11-19T20:43:35.006Z
+updated: 2024-11-25T19:08:09.067Z
 tags: 
   - virtual location chang
   - location changer
@@ -27,13 +27,6 @@ For both the iPhone and the android users faking GPS has many advantages. If you
 
 There are 5 apps in total that are used by Uber to make sure they get the exact location. Many of you are unaware of the fact that Uber has its navigation application called Uber Nav. Apart from this, the other 4 apps which Uber uses are Google Maps, Waze, Sygig, and Navmii.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Change GPS on iPhone?
 
 The Process
@@ -47,10 +40,7 @@ The Process
 ![connect iDevice with computer](https://drfone.wondershare.com/2020/connect_iDevice_with_computer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3.** Use the single simulation mode to make sure that you get to the desired location as expected. Click on the move and the GPS location will be faked and the iDevice will also show the same location as on the iSpoofer. This completes the process in full.
@@ -73,13 +63,6 @@ Faking GPS on android is also super easy and it allows the users to spoof the lo
 
 ![enable mock location android](https://drfone.wondershare.com/2020/enable_mock_location_android.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4.** Select the location where you want to spoof and then press the play button. Your location will be changed and your phone will also show and lock your spoofed location.
 
 ![spoof location on android](https://drfone.wondershare.com/2020/spoof_location_on_android.jpg)
@@ -98,13 +81,6 @@ To select the best application for iPhone it is advised to keep in mind the foll
 
 **iii.** The application in question should have the versions for both desktop and mobile for better control.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2.2 App and desktop which is better
 
 For Uber GPS spoofing the desktop application is awesome. It allows more control and therefore it also lets the users get the best results. The desktop application will also let the users know about the exact location as compared to the mobile application.
@@ -112,6 +88,10 @@ For Uber GPS spoofing the desktop application is awesome. It allows more control
 ### The Best Desktop Location Spoofer for iPhone
 
 [Dr. Fone Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is the best and the most advanced program that can be used to make sure that the location on iPhone is spoofed. From the interface to using the program is too simple to use and it also allows the users to GPS spoofing Uber and therefore as a driver you can get more rides and it is a guarantee.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -140,10 +120,7 @@ Connect the iPhone with the system and click the get started on the computer to 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3: Locate your Phone**
@@ -184,13 +161,6 @@ This is another important method that can be used to make sure to easily fake GP
 
 ![gps go fake location android](https://drfone.wondershare.com/2020/gps_go_fake_location_android.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 3: Use Location Changer
 
 It is also one of the easiest ways to make sure that the location is changed. You need to enable mock location on your android and select this application to get the work done. It is a 100% practical method to get the work done.
@@ -207,18 +177,15 @@ Fake GPS is an Android application for tweaking your GPS settings. It will help 
 
 In other words, it is called GPS spoofing. Some users believe in a misconception that the Vivo Y28 5G device will have to be rooted for GPS spoofing. But that’s wrong. It’s possible to alter the location without rooting your phone. If you have no idea how to **fake GPS no root** and want to know more, keep reading this article. We created this guide to curb your worries and help you fix your issue! Let’s begin now!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: The one-stop way to fake GPS on your iOS and Android without root
 
 Have trouble catching Pokemon? Or maybe you're trying to get a date. Whatever your reason, with Dr. Fone's Virtual Location, you can quickly teleport your phone to anywhere in the world with a single click. You can even move along a route that you draw!
 
 Try it with location-based apps like Pokemon Go or Tinder to fake movement and enjoy all the fun on the go. It works perfectly with any application to **fake GPS without root**. The app is compatible with Windows and macOS devices to use any of them for GPS spoofing on your smartphone.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -314,6 +281,10 @@ You'll have fun letting your friends think you're partying like a rock star or r
 
 ![gps emulator](https://images.wondershare.com/drfone/article/2022/05/gps-emulator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Pros**
 
 - Provides access to three map types for allowing you to teleport location conveniently.
@@ -326,9 +297,17 @@ You'll have fun letting your friends think you're partying like a rock star or r
 - No updates for so long.
 - May heat up the phone if used for long.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 If you plan to root your device to **fake GPS without mock location no root**, drop that idea. You are now aware of some of the best ways to fake GPS without rooting your device. It’s highly recommended to use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) when you want to do more and change your GPS location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 Best Route Generator Apps You Should Try On Vivo Y28 5G
 
@@ -337,6 +316,10 @@ If you plan to root your device to **fake GPS without mock location no root**, d
 Do you find it hard to look for places without an active internet connection? Well, in this case, you should consider using a route generator app. For instance, with a reliable GPX file generator, you can easily track a route offline. This can help you navigate your way without an active internet connection or even let you excel in games like Pokemon Go. Therefore, in this post, I will let you know about running route generator and Pokemon map generator apps in detail.
 
 ![Route Generator App Banner](https://images.wondershare.com/drfone/article/2021/04/best-route-generator-apps-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is a Route Generator App (And Why to Use it)?
 
@@ -380,6 +363,10 @@ _Runs on_: Android
 _Price_: Free
 
 ![Routes GPX Generator App](https://images.wondershare.com/drfone/article/2021/04/best-route-generator-apps-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. **Map My Run**
 
@@ -426,13 +413,6 @@ _Price_: Free or $1.99
 
 ![GPX Viewer Android App](https://images.wondershare.com/drfone/article/2021/04/best-route-generator-apps-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How to View GPX Files Offline on your PC?
 
 As you can see, with the help of a GPX file generator, you can easily save your routes offline. Though, if you are looking for a Pokemon Map Generator app or a solution to view your GPX files on your PC, then try Dr.Fone – Virtual Location (iOS). Developed by Wondershare, it can be used to view GPX files, spoof the location of your device, and even simulate its movement.
@@ -446,6 +426,10 @@ As you can see, with the help of a GPX file generator, you can easily save your 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ![drfone](https://images.wondershare.com/drfone/guide/wait-import-gpx.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 I’m sure that after reading this guide, you would be able to pick the best route generator app to meet your requirements. I have listed Pokemon map generator as well as running route generator apps that you can consider. Once you have got a GPX generator, you can also use a tool like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to import/export GPX files and can also use it to play Pokemon Go remotely with its location spoofing feature.
 
@@ -463,18 +447,18 @@ I’m sure that after reading this guide, you would be able to pick the best rou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-download-screen-recorder-pro-for-windows-10/"><u>[New] 2024 Approved Download Screen Recorder Pro for Windows 10</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-edge-speech-recognition-tools/"><u>2024 Approved Leading Edge Speech Recognition Tools</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amds-cutting-edge-ryzen-7-7800x3d-zen-5-architecture-leaves-zen-4-gaming-flagship-behind-with-a-staggering-23-performance-boost/"><u>AMD's Cutting-Edge Ryzen 7 7800X3D: Zen 5 Architecture Leaves Zen 4 Gaming Flagship Behind with a Staggering 23% Performance Boost!</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/boosted-by-8-top-android-tools-no-more-slow-motion/"><u>Boosted by 8 Top Android Tools, No More Slow Motion</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/control-screen-size-with-swift-iphone-adjustments/"><u>Control Screen Size with Swift iPhone Adjustments</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-xiaomi-redmi-a2plus-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Xiaomi Redmi A2+ Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Realme GT Neo 5 SE? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Motorola Edge 2023? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/quick-start-inserting-images-into-your-instagram-feed-for-2024/"><u>Quick Start Inserting Images Into Your Instagram Feed for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unearth-hidden-gems-with-our-selection-of-17-platforms-for-free-ebook-downloads/"><u>Unearth Hidden Gems with Our Selection of 17 Platforms for Free eBook Downloads</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-windows-10-keys-a-step-by-step-guide/"><u>Unlocking Windows 10 Keys: A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-instagrams-hidden-gems-tips-for-viral-content-creation/"><u>[New] In 2024, Instagram's Hidden Gems Tips for Viral Content Creation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-top-5-web-streaming-recorders/"><u>[New] In 2024, Top 5 Web Streaming Recorders</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-guide-to-enable-dynamic-hdr-in-windows-11/"><u>[Updated] Guide to Enable Dynamic HDR in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-app-dev-editors-top-15-selection/"><u>2024 Approved Superior App Dev Editors Top 15 Selection</u></a></li>
+<li><a href="https://win-top.techidaily.com/windows-11-ghost-window/"><u>迷你指南：啟用四大途徑搶救Windows 11 Ghost Window</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp2-video-moviavi/"><u>無料のオンラインmp2 Videoコンバーター: Moviaviが解説します!</u></a></li>
+<li><a href="https://win-trending.techidaily.com/einfache-installation-von-windows-10-auf-einer-neuen-ssd-schritt-fur-schritt-anleitung/"><u>Einfache Installation Von Windows 10 Auf Einer Neuen SSD: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-realme-gt-5-pro-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Realme GT 5 Pro Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-pro-max-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 Pro Max To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone XS Max</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-samsung-galaxy-a24-by-fonelab-android-recover-data/"><u>Recover lost data from Samsung Galaxy A24</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-blaze-2-pro-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Blaze 2 Pro has been deleted</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-lava-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Lava has been deleted</u></a></li>
 </ul></div>
 

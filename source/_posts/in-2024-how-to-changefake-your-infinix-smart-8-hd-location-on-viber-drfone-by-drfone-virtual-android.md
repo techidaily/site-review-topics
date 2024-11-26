@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Change/Fake Your Infinix Smart 8 HD Location on Viber | Dr.fone
-date: 2024-11-13T19:56:31.603Z
-updated: 2024-11-16T16:52:40.034Z
+date: 2024-11-20T21:32:23.141Z
+updated: 2024-11-25T21:36:23.042Z
 tags: 
   - virtual location change
   - social app
@@ -36,6 +36,10 @@ Step 1. Fire up your Viber app on mobile or PC and tap the **Chats** button. Her
 
 ![change location on Viber open chats](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of the screen and choose **Chat Info**. Alternatively, simply swipe the screen to the left.
 
 ![change location on Viber, tap chat info](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-2.jpg)
@@ -49,10 +53,7 @@ Step 3. On the Chat Info window, simply enable or disable the **Attach location 
 ![change location on Viber share location](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Can I send a fake location on Viber, and How?
@@ -141,6 +142,10 @@ Understanding this question is crucial. Here, we’ll break down the possibility
 
 ![life360 location sharing app interface](https://images.wondershare.com/drfone/article/2024/01/change-your-location-on-life-360-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What Is Life360 and What Does It Do?
 
 Life360 is a popular family safety app that allows users to share their real-time location with others they trust. Think of it as a digital family map where everyone can see where everyone else is. It’s popular with families who want to stay connected and ensure everyone’s safety.
@@ -164,13 +169,6 @@ Life360 tracks a variety of things, including:
 - **Driving habits:**Life360 tracks speed, braking, and other driving behaviors. It provides insights into how safely family members drive.
 
 ![life360 driver reports feature](https://images.wondershare.com/drfone/article/2024/01/change-your-location-on-life-360-03.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Benefits
 
@@ -197,13 +195,6 @@ You need to be aware of what the app can and can’t do. It balances convenience
 Yes, you can change your location on Life360 without anyone knowing. But it doesn’t have that built-in feature. The best way to fake your location on Life360 without anyone knowing is to use spoofing apps on your device, such as [Wondershare Dr.Fone.](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) This tool can change your real-time location on several apps, including Life360, whether you have an iOS or Android device.
 
 ![dr.fone life360 virtual location changer](https://images.wondershare.com/drfone/images2022/iphone-data-recovery/s3img1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The question of hiding or changing your location on Life360 might be discreetly on your mind. You’re not alone in this. If you’re a teenager, maybe you seek a bit of freedom without constant oversight. As a working professional, you might be figuring out how to balance work and life while keeping things private. Perhaps you aim to lessen your digital footprint. Or to gain an advantage in competitive play.
 
@@ -238,13 +229,6 @@ Give yourself some breathing room on Life360. Dr.Fone Virtual Location helps you
 
 ![dr.fone virtual location map](https://images.wondershare.com/drfone/guide/virtual-location-01-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** Choose the iOS or Android device to connect, then click **Next**. Wait while your device connects to your computer.
 
 ![connect ios or android device](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
@@ -257,9 +241,17 @@ Give yourself some breathing room on Life360. Dr.Fone Virtual Location helps you
 
 ![setup travel mode and destination](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 7:** Choose your route type, adjust speed, and click **Move Here** to launch the simulation.
 
 ![adjust travel speed and route type](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 8:** Simulation initiated. Track your movement on the map at your set speed. You can click **Pause** or **Clear** to control the flow.
 
@@ -281,6 +273,10 @@ Some Life360 plans offer location Bubble. It shares your general vicinity withou
 
 ![life360 bubble feature](https://images.wondershare.com/drfone/article/2024/01/change-your-location-on-life-360-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Open Communication
 
 Talk with your family about your concerns about location sharing. Explain your desire for more privacy while emphasizing your commitment to safety. Discuss boundaries and compromise on situations where location sharing feels necessary.
@@ -289,11 +285,19 @@ Consider Alternatives
 
 Explore apps with granular privacy controls. Some focus on user privacy and allow for more customized sharing settings. Change your location on Life360 responsibly to balance safety and privacy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 So, let’s go back to the main question. **Can you change your location on Life360 without anyone knowing?** Yes, it is possible to fake your location using spoofing apps for Android and iOS. But it’s crucial to value trust in relationships. Instead of resorting to faking your location, consider responsible alternatives.
 
 But of course, there are certain situations in which you will need to fake your location. In such cases, Dr. Fone’s Virtual Location changer is a responsible solution. This tool enables temporary location modifications with precise control and ethical features. Use them responsibly and prioritize genuine communication for healthy, secure connections.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Leave a Life360 Group On Infinix Smart 8 HD Without Anyone Knowing?
 
@@ -302,6 +306,10 @@ Do you keep asking yourself **how do I leave a Life360 group?** If so, you’re 
 Whether it’s a matter of privacy or a brief escape, the art of leaving a Life360 group unnoticed is subtle. The article will show you **how to leave a Life360 Circle without anyone knowing**. Read to learn more.
 
 ![leaving a life360 group banner](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. How To Leave a Life360 Circle
 
@@ -318,13 +326,6 @@ The default method of leaving a Life360 Circle is straightforward but comes with
 - **Step 2:** Choose the option **Leave Circle**. If you were the admin, ensure that you designated a new admin before leaving. Apart from that, the process is straightforward. Follow the on-screen instructions.
 
 ![life360 leave circle option](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-03.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How To Leave a Life360 Circle You’re a Part Of
 
@@ -420,18 +421,15 @@ Switching to “Battery saving” or “Power saving” mode can affect the freq
 
 Acquiring a secondary, inexpensive phone for Life360 use may be an alternative if all else fails. This method involves monetary considerations and may not be practical for everyone.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3. A Deep Dive on Life360’s Circle Feature
 
 Life360’s Circle feature serves as the cornerstone of the app. It fosters connectivity and safety among its users. After diving into **how to leave a Circle on Life360** in the above parts, it’s time to have a comprehensive look at essential aspects of the Circle feature:
 
 ![life360 app interface](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Can You Remove Someone From a life360 Circle?
 
@@ -449,29 +447,9 @@ While Life360 is designed for family safety, you can include non-family members 
 
 The Circle Place Alerts feature proves valuable for users. It allows predefined locations to trigger alerts when members enter or leave those areas. While useful for safety monitoring, its practicality may vary depending on individual preferences and needs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What if People in the Circle Feel Micromanaged?
 
 Knowing the feeling of being micromanaged, especially among kids and teens, Life360 introduces the Bubble feature. The Bubble feature allows users to set a custom safety zone. It balances monitoring and granting a sense of autonomy within a designated area.
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -493,16 +471,22 @@ The platform is proficient in location spoofing without alerting the Circle. Whe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-iphones-and-gifs-perfecting-your-visual-playlist/"><u>[New] IPhones & GIFs Perfecting Your Visual Playlist</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-amplify-your-brands-voice-with-these-pivotal-promotion-tactics-for-2024/"><u>[Updated] Amplify Your Brand's Voice with These Pivotal Promotion Tactics for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-fb-quick-views-snap-and-share/"><u>2024 Approved FB Quick Views Snap & Share</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-stability-showcase-premium-phone-compatible-tripods/"><u>2024 Approved Stability Showcase Premium Phone-Compatible Tripods</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722964506381-get-the-latest-nvidia-quadro-rtx-8000-windows-drivers-for-a-smooth-gamingcad-experience-on-os-1087/"><u>Get the Latest Nvidia Quadro RTX 8000 Windows Drivers for a Smooth Gaming/CAD Experience on OS 10/8/7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-easily-install-lenovo-t430-drivers-compatible-with-all-windows-versions-including-10-8-and-asterisk7/"><u>How to Easily Install Lenovo T430 Drivers: Compatible with All Windows Versions Including 10, 8 & Asterisk7</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Honor 70 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Vivo V30 Pro? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-camon-20-pro-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Camon 20 Pro 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-fine-tuning-zoom-visuals-top-techniques/"><u>[Updated] 2024 Approved Fine-Tuning Zoom Visuals Top Techniques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-techniques-for-increasing-youtube-video-size/"><u>2024 Approved Techniques for Increasing YouTube Video Size</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solutions-for-unresponsive-laptop-trackballs-under-windows/"><u>Comprehensive Solutions for Unresponsive Laptop Trackballs Under Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/diy-pc-building-made-simple-an-engaging-how-to-for-young-makers/"><u>DIY PC Building Made Simple: An Engaging How-To for Young Makers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-find-someone-a-guide-to-the-top-8-search-engines/"><u>How to Find Someone: A Guide to the Top 8 Search Engines</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-x50-by-fonelab-android-recover-photos/"><u>How to get back lost photos from X50.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xs-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XS To Other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>Identify missing or malfunctioning drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-sony-xperia-5-v-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Sony Xperia 5 V</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-oppo-k11-5g-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Oppo K11 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-11-pro-max-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 11 Pro Max Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-14-plus-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 14 Plus Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-meizu-21-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/why-upgrading-to-free-antivirus-solutions-is-the-future-insights-from-zdnet/"><u>Why Upgrading to Free Antivirus Solutions Is the Future: Insights From ZDNet</u></a></li>
 </ul></div>
 

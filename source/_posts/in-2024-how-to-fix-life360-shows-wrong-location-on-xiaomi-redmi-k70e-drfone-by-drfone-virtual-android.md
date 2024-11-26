@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix Life360 Shows Wrong Location On Xiaomi Redmi K70E? | Dr.fone
-date: 2024-11-11T20:41:53.073Z
-updated: 2024-11-16T16:20:25.929Z
+date: 2024-11-25T03:45:05.707Z
+updated: 2024-11-26T07:13:04.591Z
 tags: 
   - virtual location chang
   - location changer
@@ -43,9 +43,17 @@ Therefore, it is important to keep an eye on the network lines to determine whet
 
 To get more information about how often does life360 update location, read about the Life360: Learn How Everything Works!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Fix Life360 Shows Wrong Location Issue?
 
 There are several ways to fix the Life360app problems that life360 not updating its location. Let's check them out one by one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Review the Internet settings
 
@@ -63,13 +71,6 @@ The "switch off low power mode" option may be found in the "Settings"> "Battery"
 
 Android users should also follow this procedure if life360 displays an incorrect location. For battery conservation, numerous programs are disabled when the low power state is engaged.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Double-check Your Current Location in the Settings
 
 If life360 shows the incorrect location, the smartphone's location services significantly come into play. The location settings must be activated to prevent the life360 location issue, and the current program must be updated accordingly.
@@ -77,13 +78,6 @@ If life360 shows the incorrect location, the smartphone's location services sign
 Scrolling horizontally on the status bar on an Android device is all that is required for consumers to visit the website. Of course, you can also run the software in the background, which may be accomplished in a variety of straightforward but distinct ways based on the Xiaomi Redmi K70E device's model.
 
 ![double-check your current location](https://images.wondershare.com/drfone/article/2022/06/how-to-fix-life360-shows-wrong-location_2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You may access the Background App Refresh function by going to the settings menu on your iOS device and selecting "Settings," followed by "General," and then selecting "Background App Refresh." Next, launch the location services function by navigating to "Settings"> "Privacy"> "location services" and selecting "Location Services" from the drop-down menu.
 
@@ -99,13 +93,6 @@ If you want reliable results, you must be logged in from the same device. If you
 
 Two of the most important and easy ways to keep your location on life360 in one place are:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Stopping both Wi-Fi and Cellular Data Transmissions
 
 If you disconnect from the internet, Life360 will no longer work, and your last known position will be shown.
@@ -113,6 +100,10 @@ If you disconnect from the internet, Life360 will no longer work, and your last 
 Because all other applications are disconnected, this solution has a significant drawback: it prevents alerts, instant messengers, and other applications from working properly. In addition to the fact that you're unable to use the internet, people in your circle will notice something wrong. In addition, it may not be adequate to fake your location.
 
 ![stopping both wi-fi and cellular data transmissions](https://images.wondershare.com/drfone/article/2022/06/how-to-fix-life360-shows-wrong-location_3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Those with an iPhone have the advantage of being able to disable the usage of cellular data directly inside the application's settings. However, those with an Android device will need to resort to other approaches.
 
@@ -151,6 +142,10 @@ To free yourself from any hassle, consider using a third-party tool instead, suc
 
 ![wa stickers](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Advantages:**
 
 - The application is easy to install and use.
@@ -184,13 +179,6 @@ Are you wondering how to **fake the browser location** or which tool to use? You
 
 ![google chrome featured image](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: How Does Chrome Know Your Location?
 
 Before discussing Google **Chrome's fake location**, it is important to know how Chrome detects your physical location. Google Chrome uses many ways to pinpoint your exact location, like your IP address, GPS, Wi-Fi, Bluetooth, and Cell Tower data. Every internet connection has an IP address bound to a location that enables Chrome to identify your location.
@@ -206,6 +194,10 @@ If you are worried about Google Chrome detecting your physical location and shar
 **Step 1:** Launch Google Chrome on your computer and click the "Three Dots" icon to open the Google Chrome Settings. Here, tap "Privacy and Security" from the left sidebar and select "Site Settings."
 
 ![access the site settings option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Navigate to "Permissions" and click on "Location." To hide the location on Google Chrome, select the "Don't allow sites to see your location" option.
 
@@ -231,14 +223,11 @@ If you are worried about Google Chrome detecting your physical location and shar
 
 ![disable the location option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 One way to protect your privacy and stop websites from tracking your location is to turn off the location, but it has many disadvantages. If you have turned off your location, you can't use any location base service like food delivery, e-shopping, ride-sharing, etc. That's why it is better to use a fake location on your browser. Below we have explained four methods for **Chrome fake location**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1. Best Tool to Fake Chrome Location On iOS and Android Phones
 
@@ -274,6 +263,10 @@ Once the Teleport Mode is activated, add your desired location and press "Go." Y
 
 ![hit the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2. Manually Change Your Location Using Google Chrome DevTools
 
 It is also possible to **fake browser location** on Chrome using the Google Chrome Developer Tools. It is a built-in feature of Chrome and can be used to manually change or turn off your browser's location. Follow these steps for changing location on Chrome with DevTools:
@@ -281,6 +274,10 @@ It is also possible to **fake browser location** on Chrome using the Google Chro
 **Step 1:** After opening Google Chrome, click the three-dots icon from the top right corner. It will open the Chrome menu where you need to select "Developer Tools" after clicking "More Tools."
 
 ![choose the developer tools](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** A window will open on the right side with all the developing tools you can use in Chrome. Click on the three-dots icon located near "Console" in the bottom left corner of the window. Choose "Sensors" from the pop-up menu.
 
@@ -335,19 +332,6 @@ Another way you can fool websites and your browser by displaying a **fake locati
 
 ## Part 4: FAQs
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1.What is Geolocation?
 
 Geolocation is a term used for the process of pinpointing the location of a device connected to the internet. The location can be determined using methods like IP address, GPS, and mobile tower data. Apps and websites commonly use it to provide location-based services.
@@ -355,6 +339,10 @@ Geolocation is a term used for the process of pinpointing the location of a devi
 ### 2.What is the HTML5 Geolocation API?
 
 The HTML5 Geolocation API is a browser API used to determine a user's geographical location. Developers use it to build location-aware websites and apps that use users' locations as the basis for providing their services. It can detect location through GPS, Wi-Fi, Bluetooth, IP addresses, etc.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3.Why should you hide or spoof your Location?
 
@@ -369,13 +357,6 @@ That's why having a tool like [Dr.Fone - Virtual Location](https://tools.techida
 ## Which is the Best Fake GPS Joystick App On Xiaomi Redmi K70E?
 
 In a world where location-based apps and services have become an integral part of our daily lives, having the ability to manipulate your GPS location can be both intriguing and practical. Whether you're looking to play location-based games, maintain privacy, or explore apps that are otherwise geographically restricted, the question often arises: "Which is the Best Fake GPS Joystick App?" In this exploration, we'll delve into the world of GPS spoofing and joystick apps to help you find the ideal solution for your needs. We'll navigate through the options, assessing their features and functionality, so you can make an informed choice on the best app to manipulate your GPS location.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: Do You Really Know Fake GPS Joystick?
 
@@ -559,10 +540,7 @@ If you want more realistic and flexible movements, you can use the joystick feat
 ![use joystick to move](https://images.wondershare.com/drfone/guide/virtual-location-15.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -585,22 +563,16 @@ Hence, you must choose the best one to effectively fulfill all your expectations
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-navigating-steam-with-your-switch-pro-controller/"><u>[New] In 2024, Navigating Steam With Your Switch Pro Controller</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-evaluating-itop-as-a-screen-recording-solution/"><u>[Updated] 2024 Approved Evaluating ITop as a Screen Recording Solution?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-top-9-webcam-filters-for-professional-streamers/"><u>[Updated] Unveiling Top 9 Webcam Filters for Professional Streamers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-music-syncing-for-iphones-and-androids-in-fb/"><u>2024 Approved Music Syncing for iPhones & Androids in FB</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-sound-innovation-at-hand-dive-into-free-easy-voice-overhaul-tools/"><u>2024 Approved Sound Innovation at Hand Dive Into Free, Easy Voice Overhaul Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/building-a-game-collection-on-sony-platforms/"><u>Building a Game Collection on Sony Platforms</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Vivo S17 Pro? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Asus ROG Phone 8? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Samsung Galaxy S24? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-maximizing-video-reach-through-title-and-tag-synergy/"><u>In 2024, Maximizing Video Reach Through Title & Tag Synergy</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/sonuclarin-guvenli-yeniden-yayilmasindaki-tahminat-edinelmedigi-ozellikleri-anlatiyor-bedeli-uzerinde-degil/"><u>Sonuçların Güvenli Yeniden Yayılmasındaki Tahminat Edinelmediği Özellikleri Anlatıyor | Bedeli Üzerinde Değil</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ten-proven-methods-for-correcting-unresponsive-or-ghostly-touch-sensitivity-on-iphones/"><u>Ten Proven Methods for Correcting Unresponsive or Ghostly Touch Sensitivity on iPhones</u></a></li>
-<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-earn-through-engagement-securing-youtube-partnership-membership/"><u>2024 Approved Earn Through Engagement Securing YouTube Partnership Membership</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/google2024/"><u>雲端救回：Google雲端完全消失後如何復原2024最新解決方案</u></a></li>
+<li><a href="https://techtrends.techidaily.com/error-code-31-unraveled-advanced-techniques-to-rectify-dhcp-issues-in-the-windows-environment/"><u>Error Code 31 Unraveled: Advanced Techniques to Rectify DHCP Issues in the Windows Environment</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-much-money-flows-from-a-million-views-on-youtube-for-2024/"><u>How Much Money Flows From A Million Views On YouTube for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-google-pixel-fold-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Google Pixel Fold Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-hidefake-snapchat-location-on-your-vivo-g2-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-poco-x5-by-drfone-android/"><u>How to Show Wi-Fi Password on Poco X5</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Motorola Moto E13? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-find-n3-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Find N3 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-a60s-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on A60s</u></a></li>
 </ul></div>
 

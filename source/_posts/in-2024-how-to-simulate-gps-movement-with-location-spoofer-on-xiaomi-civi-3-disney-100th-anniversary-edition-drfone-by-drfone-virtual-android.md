@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Simulate GPS Movement With Location Spoofer On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone
-date: 2024-11-14T20:18:40.657Z
-updated: 2024-11-16T18:55:53.445Z
+date: 2024-11-21T16:43:13.718Z
+updated: 2024-11-26T06:58:40.001Z
 tags: 
   - virtual location chang
   - location changer
@@ -67,18 +67,15 @@ As the simulation starts, click **Pause** at any instance where you want to stop
 
 ![execute multi stop route simulation](https://images.wondershare.com/drfone/guide/virtual-location-12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Part 3: Use Joystick for More Flexible GPS Control (Joystick Movement)
 
 Dr.Fone has integrated the joystick feature into the Virtual Location program to spare 90% of the labor for GPS control. You can always find the joystick on the lower left part in teleport mode. And you can also click the joystick button in the upper right (the 5th one) to use the joystick feature.
 
 ![try joystick movement for simulation](https://images.wondershare.com/drfone/guide/virtual-location-15.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The joystick, like one-stop route or multi-stop route modes, aims to facilitate GPS movement on the map. But what's better? The joystick lets you move on the map by changing directions in real time. Here are the two main scenes where you will definitely love the joystick.
 
@@ -115,13 +112,6 @@ Under the developer option, allow mock location apk is very popular and useful d
 
 In the below section, we have discussed some of the major uses of mock location feature on Android devices.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2.1 For AR Games
 
 ![mock location for ar games](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-1.jpg)
@@ -156,16 +146,13 @@ Most of the latest android phones come with the inbuilt mock location feature. T
 
 ![tap on build number seven times](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** After this, go back to Settings, and there you will newly added Developer Options.
 
 ![newly added developer options](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4:** Tap on the newly added developer option and toggle on its field.
 
@@ -180,13 +167,6 @@ After enable “allow mock location” on an android mobile phone, you will need
 **Step 1:** Go to Play Store and search for a spoofing app on the search bar.
 
 ![go to play store and search](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2:** From the list, you can download any free or paid spoofing apps on your device. Some other free apps are Fake GPS and GPS Emulator.
 
@@ -226,13 +206,6 @@ Here are the steps that you will need to follow to install Dr. Fone in your devi
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now you are ready to spoof iPhone without compromising the privacy of the Phone.
 
 ## Part 4: Mock Location Feature On Different Android Models
@@ -253,6 +226,10 @@ Most of the Xiaomi devices have MIUI numbers instead of Build Number. So, to ena
 
 ![mock location on LG](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-14.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Huawei
 
 In Huawei devices, there is the EMUI, for this, go to Settings > Software Information and tap on EMUI to turn on Developer Options.
@@ -266,6 +243,10 @@ We hope that after reading the above article, you would be able to allow mock lo
 The web world offers many apps, including Google, Facebook, Uber, etc. that provide location-based services. This means such apps will need your location to work. However, there are some rare occasions when users don’t find this service welcoming and thus, they wish to fake GPS location.
 
 One of the instances comprises a well-known location-based game – Pokemon Go, where users might want to mislead the app and make the phone not understand where they exactly are. There might be other cases as well. No matter what reason you want this to be done, we are here to introduce you GPS joystick app that helps you for the same. Here we go!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Fake GPS Location - GPS JoyStick the App
 
@@ -303,6 +284,10 @@ Basically, the tutorial is categorized into 3 different streaks depending upon t
 
 **Note:** Remember the date mentioned besides the “Android security patch level” is when it was first released. Please do not take it otherwise, that it is the date when you might have installed Google’s security patch.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.1 For Android 6.0 and Above (New Security Patch) - AFTER March 5, 2017
 
 If you own an Android device that runs on the Android OS version 6.0 or higher updated to “New Security Patch” released “AFTER March 5, 2017”. You need to follow the steps mentioned below.
@@ -312,6 +297,10 @@ First, you need to make sure that the Google Play Services app installed over yo
 **Note:** To verify the Play Services version, launch “Settings” followed by selecting “Apps/Applications”. Scroll down to “Google Play Services” and hit on it. You will then see the app version at the top of the screen.
 
 ![Google Play Services](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 But if that’s not the case, you’re required to disable the Play Store's auto-updates. For this, launch the Play Store and hit the “3 horizontal bars” at the top. Then, tap on “Settings” option from the appearing left panel followed by Auto-update apps available under “General” settings. Lastly, hit on the “Do not auto-update apps” option.
 
@@ -341,6 +330,10 @@ Lastly, launch the “GPS JoyStick app” and navigate to “Settings” followe
 
 ![Enable Suspended Mocking](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.2 For Android 6.0 and Above (Old Security Patch) - BEFORE March 5, 2017
 
 That was a detailed tutorial about the Android security patch level released “AFTER March 5, 2017”. But if your Android security patch level is before March 5, 2017, what would you have to do? Well, worry not, here is exactly what steps you need to follow to make use of the GPS joystick app to fake GPS location.
@@ -352,6 +345,10 @@ First, you need to navigate to the “Settings”. Then, opt for “Developer Op
 Lastly, launch the “GPS JoyStick app” to fake GPS location and navigate to “Settings”. Thereafter, toggle on the “Indirect Mocking” switch, and you’re done.
 
 ![Indirect Mocking](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.3 For Android 4 or 5
 
@@ -385,13 +382,6 @@ Lastly, utilize the “Update” button after hitting on the “Privacy Mode” 
 
 ![bypass the blacklist of games](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: How to Use GPS Joystick to Fake Location on iPhone
 
 When you fake GPS Joystick location, you can double the joy in playing location-based games like Pokemon go, Ingress, Zombies, Run, Geocaching, etc. All these games make use of the phone location, and it will be quite interesting if you move on with exciting places worldwide.
@@ -406,6 +396,10 @@ Dr. Fone's specialist team presents [Dr.Fone - Virtual Location](https://tools.t
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/FfhgWxnARqo"></iframe>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Stepwise procedure to fake GPS with a joystick on iPhone
 
 **Step 1: Launch the app**
@@ -414,31 +408,11 @@ After a successful download, install the app through the guiding wizard. Click t
 
 ![attach your iPhone with your PC](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2: Set a virtual location**
 
 On the first screen of Dr.Fone app, choose the ‘Virtual Location’ option.
 
 ![choose Virtual Location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3: Modify the location address**
 
@@ -458,6 +432,10 @@ Next, you must check your default current location in map view on iPhone, and yo
 
 ![witness the modified location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6: Play Pokemon Go without moving**
 
 Now use the “one-stop route” or “multi-stop route” to simulate the real-world movement without moving. Just play Pokemon go to explore new Pokemons on different locations and gain more points through an effective fake GPS joystick location app Dr.Fone.
@@ -476,18 +454,20 @@ Now use the “one-stop route” or “multi-stop route” to simulate the real-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-capture-and-share-immedienas-unprecedented-journey-with-dslr-and-facebook-live-for-2024/"><u>[New] Capture and Share Immedienas Unprecedented Journey with DSLR & Facebook LIVE for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-integrating-youtube-into-the-world-of-instagram-stories/"><u>[New] In 2024, Integrating YouTube Into the World of Instagram Stories</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-ultimate-vr-eyewear-selection-for-drone-contests/"><u>[Updated] In 2024, Ultimate VR Eyewear Selection for Drone Contests</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1-unlocking-your-dvd-collection-a-step-by-step-guide-to-removing-regional-restrictions/"><u>1. Unlocking Your DVD Collection: A Step-by-Step Guide to Removing Regional Restrictions</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-x100-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-12-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 12 with iTunes | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-tecno-spark-10c-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Tecno Spark 10C Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-xiaomi-redmi-12-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Xiaomi Redmi 12 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/tomtom-bandit-camera-update-the-ultimate-guide/"><u>TomTom Bandit Camera Update – The Ultimate Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-audio-editing-software-in-shaping-your-vtuber-image/"><u>[New] Leading Audio Editing Software in Shaping Your VTuber Image</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-effortless-installation-apple-podcasts-made-simple/"><u>[Updated] In 2024, Effortless Installation Apple Podcasts Made Simple</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-s24-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Samsung Galaxy S24</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-iphone-13-evaluation-guide/"><u>Comprehensive iPhone 13 Evaluation Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-find-my-friends-work-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-gpd-win-4s-exceptional-performance/"><u>Game On: GPD Win 4'S Exceptional Performance</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-vivo-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Vivo Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-drivers-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to use Device Manager to reinstall drivers on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-drivers-on-windows-10-and-7-by-drivereasy-guide/"><u>How to use Device Manager to update drivers on Windows 10 & 7</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Location Changers for Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-samsung-galaxy-s23-tactical-edition-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Samsung Galaxy S23 Tactical Edition Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-realme-12-5g-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Realme 12 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-tecno-camon-20-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Tecno Camon 20</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-g22-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on G22</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-motorola-moto-g04-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Motorola Moto G04? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

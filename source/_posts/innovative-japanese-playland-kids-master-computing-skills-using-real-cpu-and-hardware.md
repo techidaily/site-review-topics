@@ -1,7 +1,7 @@
 ---
 title: "Innovative Japanese Playland: Kids Master Computing Skills Using Real CPU & Hardware"
-date: 2024-11-10T16:04:06.272Z
-updated: 2024-11-16T18:27:25.380Z
+date: 2024-11-23T22:13:25.974Z
+updated: 2024-11-25T16:18:06.620Z
 tags:
   - desktop
 categories:
@@ -41,6 +41,10 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -64,23 +68,24 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-professional-edge-mastering-bordered-videos-on-insta/"><u>[New] Professional Edge Mastering Bordered Videos on Insta</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/nveiling-the-leaders-free-top-6-youtube-snackers/"><u>[New] Unveiling the Leaders Free Top 6 YouTube Snackers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-your-itel-p55plus-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Itel P55+ Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Realme V30? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Itel P40? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Vivo Y77t? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-resource-for-computer-enthusiasts-delving-into-toms-hardware-expertise/"><u>The Ultimate Resource for Computer Enthusiasts: Delving Into Tom's Hardware Expertise</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-realme-narzo-60x-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Realme Narzo 60x 5G Phone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-estimated-price-tech-insights-and-leak-speculations-on-the-future-of-samsung-galaxy-z-fold-7/"><u>Unlocking the Secrets: Estimated Price, Tech Insights & Leak Speculations on the Future of Samsung Galaxy Z Fold 7</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unrestricted-creativity-the-ultimate-android-editing-selection-for-2024/"><u>Unrestricted Creativity The Ultimate Android Editing Selection for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-premium-guide-capturing-and-storing-tweets-jokes-on-pc/"><u>[New] 2024 Approved Premium Guide Capturing and Storing Tweets Jokes on PC</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-rhythmic-rebellion-top-audio-anomaly-apps-for-mobile/"><u>[New] 2024 Approved Rhythmic Rebellion Top Audio Anomaly Apps for Mobile</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-pinnacle-mac-studio-for-unparalleled-video-and-audio-recording/"><u>[New] In 2024, Pinnacle Mac Studio for Unparalleled Video & Audio Recording</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-from-creator-to-consumer-securing-a-spot-on-apples-listings/"><u>[Updated] 2024 Approved From Creator to Consumer Securing a Spot on Apple’s Listings</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-undoing-streams-a-complete-list-of-25-procedures-for-twitch/"><u>2024 Approved Undoing Streams A Complete List of 25 Procedures for Twitch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/avoid-overheating-in-your-hp-spectre-x360-top-techniques-for-cooler-performance/"><u>Avoid Overheating in Your HP Spectre X360: Top Techniques for Cooler Performance</u></a></li>
+<li><a href="https://review-topics.techidaily.com/change-location-on-yik-yak-for-your-google-pixel-fold-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Google Pixel Fold to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-find-my-friends-work-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Realme Narzo 60x 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-engage-entertain-enlighten-crafting-compelling-live-thumbnails/"><u>In 2024, Engage, Entertain, Enlighten Crafting Compelling Live Thumbnails</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-zero-to-hero-with-photoshop-basics-in-snapseed/"><u>In 2024, From Zero to Hero with Photoshop Basics in Snapseed</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-samsung-galaxy-m54-5g-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-galaxy-s21-fe-5g-2023-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Galaxy S21 FE 5G (2023)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-note-50-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Note 50</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-105-classic-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on 105 Classic</u></a></li>
+<li><a href="https://app-tips.techidaily.com/securing-your-future-in-tech-lessons-and-strategies-from-the-aerospace-giant-boeing-zdnet-exclusive-interview/"><u>Securing Your Future in Tech: Lessons and Strategies From the Aerospace Giant, Boeing | ZDNET Exclusive Interview</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

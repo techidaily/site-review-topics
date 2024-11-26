@@ -1,7 +1,7 @@
 ---
 title: The Inner Workings of Generative AI in Modern Search Engines and Its Corporate Champions
-date: 2024-08-29T07:02:03.654Z
-updated: 2024-08-30T07:02:03.654Z
+date: 2024-11-22T05:37:05.965Z
+updated: 2024-11-26T02:33:26.764Z
 tags:
   - chatgpt
   - open-ai
@@ -19,9 +19,17 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
  Like any technology, ChatGPT can be used for nefarious reasons. Hackers, for instance, can use it to create malicious content, like writing phony email messages to get access to your PC or even your bank account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT Can Help Cybercriminals Hack Your PC
 
 ![Laptop with chatgpt site on screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/laptop-with-chatgpt-site-on-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hackers, including script kiddies, can[use ChatGPT to create new malware](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/) or improve existing ones. Some cybercriminals already use the chatbot, especially its earlier versions, to write code they claim can encrypt files.
 
@@ -33,9 +41,17 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can ChatGPT Hack Your Bank Account?
 
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
 
@@ -50,8 +66,9 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Protect Your PC and Bank Account in the AI-Era
 
  ChatGPT is a powerful and valuable tool that can answer many questions you throw its way. But the chatbot can also be used for malicious purposes, like generating phishing messages and creating malware.
@@ -60,14 +77,11 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
  To minimize the potential dangers of AI chatbots, it’s crucial to know their potential risks and the best possible security measures to protect yourself from hackers.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -76,4 +90,22 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-launching-an-engaging-fb-giving-event/"><u>[New] Launching an Engaging FB Giving Event</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-optimize-broadcasting-twitch-sessions-on-fb/"><u>[New] Optimize Broadcasting Twitch Sessions on FB</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-master-the-art-of-file-acquisition-expert-guide-for-downloading-igtv/"><u>[Updated] Master the Art of File Acquisition Expert Guide for Downloading IGTV</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-craft-a-memorable-first-snap-your-shorts-thumbnail-blueprint/"><u>2024 Approved Craft a Memorable First Snap Your Shorts' Thumbnail Blueprint</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-explore-the-best-ever-ios-platforms-for-ps2-games/"><u>2024 Approved Explore the Best-Ever IOS Platforms for PS2 Games</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/adherence-to-standards-such-as-asme-b311-and-b313-ensures-safety-and-reliability-in-piping-systems/"><u>Adherence to Standards Such as ASME B31.1 and B31.3 Ensures Safety and Reliability in Piping Systems.</u></a></li>
+<li><a href="https://facebook.techidaily.com/embracing-secure-communication-incorrances-of-2fa-in-mail-applications/"><u>Embracing Secure Communication: Incorrances of 2FA in Mail Applications</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Vivo V29 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Honor X50i+? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-narzo-60x-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Realme Narzo 60x 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-hardware/"><u>Tom's Tech Reviews: The Ultimate Guide to Hardware</u></a></li>
+</ul></div>
 
