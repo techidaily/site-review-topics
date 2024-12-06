@@ -1,7 +1,7 @@
 ---
 title: "Experience Cutting-Edge Technology: Geekom Launches AX8 Mini PC Equipped for the Latest Intel & Ryzen Processors"
-date: 2024-08-29T06:54:11.970Z
-updated: 2024-08-30T06:54:11.970Z
+date: 2024-12-01T18:34:01.007Z
+updated: 2024-12-05T21:43:11.399Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,20 +53,21 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  But even if having a local image generator / chatbot is really valuable to you, you don't need a special PC or an on-case screen on the case to get those features. MSI may have its own branded apps, but it's likely using the same chat and image generation that's available elsewhere. Anyone who has a decent graphics card can download and install Stable Diffusion image generator or LLama for chat. If you have an RTX card, try[ComfyUI](https://github.com/comfyanonymous/ComfyUI) , which is a very powerful frontend for Stable Diffusion.
 
  What you can't get elsewhere is a full HD screen that takes up the entire front surface of your chassis. We have seen some cases with screens on the front -- the[Jonsbo D41](https://www.jonsbo.com/en/products/D41MESHSCREENBlack.html) comes to mind. But MSI's display takes up the entire space and is meant to be an integral part of the user experience, not just a cute special effect.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -71,8 +76,20 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-investigating-the-underreported-drawbacks-of-vr/"><u>[New] In 2024, Investigating the Underreported Drawbacks of VR</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-secure-your-screen-content-mastering-the-ezvide-technique/"><u>[New] In 2024, Secure Your Screen Content - Mastering the EZvide Technique</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ptimizing-online-content-delivery-to-key-social-media-channels-for-2024/"><u>[New] Optimizing Online Content Delivery to Key Social Media Channels for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-guide-to-stunning-ig-video-creation/"><u>[New] The Ultimate Guide to Stunning IG Video Creation</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-y100t-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/gratuidade-ao-vivo-conversor-opus-para-wma-com-o-aplicativo-movavi/"><u>Gratuidade Ao Vivo - Conversor Opus Para WMA Com O Aplicativo Movavi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-xiaomi-13t-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi 13T Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-madden-19-pc-instances-of-unexpected-shutdowns-and-glitches/"><u>How to Fix Madden 19 PC Instances of Unexpected Shutdowns and Glitches</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-samsung-galaxy-m54-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Samsung Galaxy M54 5G ?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-redmi-note-12-pro-4g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Xiaomi Redmi Note 12 Pro 4G by Name | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Fixing Foneazy MockGo Not Working On Apple iPhone 6 | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Innovative Japanese Playland: Kids Master Computing Skills Using Real CPU & Hardware"
-date: 2024-11-23T22:13:25.974Z
-updated: 2024-11-25T16:18:06.620Z
+date: 2024-12-02T18:49:32.145Z
+updated: 2024-12-05T18:52:15.388Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,24 +68,24 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-premium-guide-capturing-and-storing-tweets-jokes-on-pc/"><u>[New] 2024 Approved Premium Guide Capturing and Storing Tweets Jokes on PC</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-rhythmic-rebellion-top-audio-anomaly-apps-for-mobile/"><u>[New] 2024 Approved Rhythmic Rebellion Top Audio Anomaly Apps for Mobile</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-pinnacle-mac-studio-for-unparalleled-video-and-audio-recording/"><u>[New] In 2024, Pinnacle Mac Studio for Unparalleled Video & Audio Recording</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-from-creator-to-consumer-securing-a-spot-on-apples-listings/"><u>[Updated] 2024 Approved From Creator to Consumer Securing a Spot on Apple’s Listings</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-undoing-streams-a-complete-list-of-25-procedures-for-twitch/"><u>2024 Approved Undoing Streams A Complete List of 25 Procedures for Twitch</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/avoid-overheating-in-your-hp-spectre-x360-top-techniques-for-cooler-performance/"><u>Avoid Overheating in Your HP Spectre X360: Top Techniques for Cooler Performance</u></a></li>
-<li><a href="https://review-topics.techidaily.com/change-location-on-yik-yak-for-your-google-pixel-fold-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Google Pixel Fold to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-find-my-friends-work-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Realme Narzo 60x 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-engage-entertain-enlighten-crafting-compelling-live-thumbnails/"><u>In 2024, Engage, Entertain, Enlighten Crafting Compelling Live Thumbnails</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-zero-to-hero-with-photoshop-basics-in-snapseed/"><u>In 2024, From Zero to Hero with Photoshop Basics in Snapseed</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Nokia C12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-samsung-galaxy-m54-5g-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Samsung Galaxy M54 5G</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-galaxy-s21-fe-5g-2023-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Galaxy S21 FE 5G (2023)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-note-50-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Note 50</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-105-classic-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on 105 Classic</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-your-future-in-tech-lessons-and-strategies-from-the-aerospace-giant-boeing-zdnet-exclusive-interview/"><u>Securing Your Future in Tech: Lessons and Strategies From the Aerospace Giant, Boeing | ZDNET Exclusive Interview</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-dynamic-viewership-statistics-platforms/"><u>[New] 2024 Approved Dynamic Viewership Statistics Platforms</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-see-youtube-liked-comments/"><u>[Updated] How to See YouTube Liked Comments</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-bite-sized-broadcasting-maintaining-quality-in-quick-posts/"><u>[Updated] In 2024, Bite-Sized Broadcasting Maintaining Quality in Quick Posts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/code-37-solved-hardware-and-dev-driver-connected/"><u>Code 37 Solved: Hardware & Dev Driver Connected</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-12-using-itunes-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 12 using itunes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-blaze-pro-5g-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Blaze Pro 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-13-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 13 Pro Max without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-xiaomi-redmi-note-13-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-edge-40-pro-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Motorola Edge 40 Pro Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://article-helps.techidaily.com/outro-designs-ending-credits-for-every-budget/"><u>Outro Designs Ending Credits for Every Budget</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-huawei-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Huawei</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-motorola-moto-g04-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Motorola Moto G04 has been deleted</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/streamline-your-instagram-feeds-with-macs-video-resizing-for-2024/"><u>Streamline Your Instagram Feeds with Mac's Video Resizing for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/tactics-for-triumphing-in-virtual-marketplaces/"><u>Tactics for Triumphing in Virtual Marketplaces</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unrivaled-handwear-elevate-your-vr-world-for-2024/"><u>Unrivaled Handwear Elevate Your VR World for 2024</u></a></li>
 </ul></div>
 

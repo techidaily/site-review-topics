@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix Apple iPhone 11 Pro Find My Friends No Location Found? | Dr.fone
-date: 2024-08-29T06:52:14.065Z
-updated: 2024-08-30T06:52:14.065Z
+date: 2024-12-03T18:54:32.871Z
+updated: 2024-12-05T20:34:21.808Z
 tags: 
   - virtual location chang
   - location changer
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 In this time of modern technology, it is hard to be away from your phone or even leave it at home. When any task that we plan to do, usually already have an application released for the sole purpose of doing that task and needing to do it on your phone. When we message our friends, have a video call with our family, or just simply order food to eat at home, you can do all of them on the Apple iPhone 11 Pro device in your palm.
 
 Another advantage of having our phones with us all the time is that you can also see the current location of either your friend or family. For Apple phone users, they have an app that is called "Find My Friends" that will show you the locations of the people that you are tracking. But what if you cannot find the location of the friend? We will find out the causes as to why no location can be found and how you can fix this in just a few simple steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Why does an Apple iPhone 11 Pro say "no location found"?
 
@@ -73,9 +77,6 @@ If you want to share your location in the "Find My Friends" application, you can
 
 ![share your location](https://images.wondershare.com/drfone/article/2022/06/find-my-friends-no-location-found-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 - _**Step 1:**_ Open the "Find My Friends" application and select "People".
 - **_Step 2:_** Then you can tap on "Share My Location" and from there, you can type the phone number of the person you want to share your location too. You can also specify the amount of time you will share your location.
 
@@ -83,11 +84,6 @@ If you want to share your location in the "Find My Friends" application, you can
 
 Sometimes we want our location to be kept secret and send a fake one to our friends and family. You can do that in our app, "[Dr. Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)" which allows you to share a fake location with your friends.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -106,9 +102,6 @@ _**Step 1:**_ Download the "Dr. Fone - Virtual Location" software on your laptop
 
 ![start drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 **_Step 2:_** You can then connect your phone to your computer and click on "Get Started".
 
 ![start the virtual location feature](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
@@ -125,9 +118,6 @@ _**Step 4:**_ If you want to change your location, you will need to turn on the 
 
 ![teleport to desired location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 We hope the tips we shared helped fix the "No Location Found" issue on your phone. Sometimes basic troubleshooting such as restarting your phone or turning off and on your GPS. You can also use our tip to use a fake location that you can send to your friends if you want to play a prank on them.
@@ -142,19 +132,10 @@ Well, this article will walk you through the things you must know before using t
 
 ![fake gps location spoofer review](https://images.wondershare.com/drfone/article/2023/01/fake-gps-location-spoofer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## Part 1. Fake GPS Location Spoofer Overview
 
 <table><tbody><tr><td><strong>Developer</strong></td><td>IncorporateApps</td></tr><tr><td><strong>Review &amp; Rating</strong></td><td>4.3/5</td></tr><tr><td><strong>Latest Version</strong></td><td>5.8.1</td></tr><tr><td><strong>Latest Release</strong></td><td>Aug 22, 2023</td></tr><tr><td><strong>Supported OS</strong></td><td>Android</td></tr><tr><td><strong>System Requirements</strong></td><td>Android 4.4 and later</td></tr><tr><td><strong>Pricing and Plan</strong></td><td>Perpetual Plan - $3.99</td></tr><tr><td><strong>Customer Support</strong></td><td>3.5/5</td></tr></tbody></table>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2. Fake GPS Location Spoofer Key Features
 
 Fake GPS Location Spoofer has excellent features that are reliable for spoofing Android phone locations. However, you need to upgrade to the paid version to access these features.
@@ -173,6 +154,10 @@ The following are the key features of Fake GPS Location Spoofer:
 - Support third-party apps integration.
 - Supports additional spoofing options, including expert mode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. How to Use Fake GPS Location Spoofer to Fake GPS Location
 
 Faking GPS location with Fake GPS Location Spoofer is pretty simple. However, you need to put your phone in Developer mode to be able to use the app smoothly.
@@ -183,9 +168,6 @@ We've explained the steps to get Android into developer mode below:
 
 ![tap build number seven times](https://images.wondershare.com/drfone/article/2023/01/enable-developer-mode-on-android-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 **Step 2:** Navigate to the Settings main page again and tap on Developer options. Then turn on the toggle next to it and tick the checkbox next to Allow Mock Locations (if available).
 
 ![enable developer options and allow mock locations](https://images.wondershare.com/drfone/article/2023/01/enable-developer-mode-on-android-2.jpg)
@@ -194,9 +176,6 @@ We've explained the steps to get Android into developer mode below:
 
 ![use gps to determine the location](https://images.wondershare.com/drfone/article/2023/01/enable-developer-mode-on-android-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Fake GPS Location With Location Spoofer**
 
 After you complete the steps above, follow the following steps to spoof your Apple iPhone 11 Pro location instantly.
@@ -206,8 +185,9 @@ After you complete the steps above, follow the following steps to spoof your App
 ![install fake gps location spoofer](https://images.wondershare.com/drfone/article/2023/01/spoof-location-with-fake-gps-location-spoofer-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Step 2:** Launch the installed app and tap Enable Mock Locations from the pop-up that appears on your screen.
 
 ![enable mock locations](https://images.wondershare.com/drfone/article/2023/01/spoof-location-with-fake-gps-location-spoofer-2.jpg)
@@ -224,12 +204,6 @@ After you complete the steps above, follow the following steps to spoof your App
 
 ![start faking gps location](https://images.wondershare.com/drfone/article/2023/01/spoof-location-with-fake-gps-location-spoofer-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Fake GPS Location Spoofer User Reviews
 
 To clarify the credibility of the **Fake GPS Location Spoofer app**, we also took our time to check what other users are saying.
@@ -242,9 +216,6 @@ Here, we've summarized some of the top reviews from real users on Playstore.
 | Google Play Store | Douglas Buell | _This app is okay when it runs like it says it will. Oftentimes it will simply fail in its execution. My main gripe is with the "no ads' ' mode, which requires you to watch a lengthy ad for a 20-minute ad-free period. I would enjoy this feature IF IT WORKED. Anytime I use it, I'm immediately shown an ad the instant I've clicked the message "Congratulations! You unlocked 20 minutes ad-free!" Why include a feature that doesn't work? To force us to watch an ad you didn't have to work for? Ridiculous._ | 1.0/5.0 |
 | Google Play Store | A Google User | _Indeed this does work, but it takes a bit of tech effort to make it work, blamed on a glitch in google play services which seems to be exactly true, as they say. It's not difficult, but My Apple iPhone 11 Pro keeps reinstalling the update, so I have to undo it. If you have an old phone where you won't be using google maps, set it up there, and you're all set. Follow the instructions step by step, and it works._ | 4.0/5.0 |
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5. Fake GPS Location Spoofer Pros and Cons
 
 Just like any other location spoofing app, **Fake GPS Location Spoofer application** has its ups and downs.
@@ -269,8 +240,9 @@ The following are some of the positives and negatives we noticed while using Fak
 - It requires jailbreak for Android devices that are not running Android 6.0 and later.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 6. Is Fake GPS Location Spoofer Worth It?
 
 Overall, **Fake GPS Location Spoofer** is a great app. However, you must pay to enjoy all the app has to offer. Also, anyone whose device isn't running Android 6 or above might not find it helpful, as you'll need to jailbreak it first.
@@ -279,9 +251,6 @@ If you wish to fake GPS location without jailbreaking your device or being distu
 
 The best choice we recommend is Wondershare's Dr.Fone - Virtual Location. The tool boasts top-notch location spoofing capacity, and you don't need advanced knowledge to utilize it. Read on to find out more about Dr.Fone - Virtual Location.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Overview of Dr.Fone - Virtual Location
 
 Dr.Fone - Virtual Location is a desktop-based app that facilitates location mocking on Android or iOS devices. It allows you to teleport to any part of the world within a few clicks, and you don't need to jailbreak or root your device.
@@ -295,8 +264,6 @@ With [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfon
 - Import/Export the GPX file of various paths to save and view your favorite routes within a few clicks.
 - Joystick facilitates flexible GPS movement.
 
-
-
 **How to Use Dr.Fone - Virtual Location to Spoof Location on Android**
 
 **Step 1:** Download and install the Dr.Fone - Virtual Location (Android/iOS) on your computer.
@@ -309,6 +276,10 @@ With [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfon
 
 ![click get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** The tool will automatically detect your current location. But if it does not, navigate to the right sidebar and click the Center On icon to display your location.
 
 ![click the center icon](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
@@ -317,9 +288,6 @@ With [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfon
 
 ![activate teleport mode and enter the location address](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 - Click Move Here from the pop-up.
 
 ![click move here](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
@@ -328,7 +296,9 @@ With [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfon
 
 ![mock phone location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Comparison Table: Fake GPS Location Spoofer vs. Dr.Fone - Virtual Location
 
@@ -350,8 +320,6 @@ If you're looking to find out which is best between Fake GPS Location Spoofer an
 | **Historical Records** | Yes | Yes |
 | **Customized Speed** | No | Yes |
 
-
-
 ## Part 7: FAQs About Fake GPS Location Spoofer
 
 **1\. Is Fake GPS Location Spoofer Safe?**
@@ -372,18 +340,10 @@ After reading the article above, we believe you should have made a final decisio
 
 Overall, the Fake GPS Location Spoofer app can help you achieve your objective of spoofing location on Android. However, if you need an alternative location spoofing app that does the job better, then Dr.Fone - Virtual Location is the best tool that you need for the task.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 4 Methods to Turn off Life 360 On Apple iPhone 11 Pro without Anyone Knowing
 
 Life 360 has made tracking our friends and loved ones so easy. It is an excellent choice for staying updated about family when you have security concerns. Despite this, it can be intrusive when you need your privacy. If you’re a group member and wonder how to turn off Life360 without parents knowing on iPhone and Android devices, you’re in luck. This article will provide you with a complete guide on how to turn off Life 360 without anyone knowing.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: What is Life 360?
 
 Many applications are available today to help family and friends track each other for various purposes. One such app is Life360, and it has been successful since its launch. This tracking app makes it easy to trace the location of your loved ones or anyone you want to track. But, first, you need to create a circle of friends on a map.
@@ -399,18 +359,13 @@ Some of the available Life360 features include notifying you when a member of yo
 ![sending help alert on life360](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
+
 ## Part 2: How to Turn off Life360 without Knowing
 
 There are times when you want to turn Life360 off without it showing so that people don’t know your present location. But, if you have no idea how to go about it, you’re in luck. This section covers the best methods to stop sharing your location with friends and family on Life360.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. **Turn Off Your Circle’s Location on Life360**
 
 There is the possibility of limiting the details about your location to others in your circle. One way to turn Life360 without anyone knowing is by choosing a circle and disconnecting from them. The steps below break down the entire process.
@@ -420,9 +375,6 @@ There is the possibility of limiting the details about your location to others i
 
 ![locate the circle on life360](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 - Tap on ‘location sharing’ and click on the slider next to it to disable location sharing.
 
 ![click on location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing.jpg)
@@ -443,9 +395,6 @@ Another option you have to stop sharing location on Life360 is by switching on A
 
 ![turn on airplane mode on android](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 These steps will help you turn off location sharing on Life360. However, the downside of using Airplane mode is that it prevents you from accessing the internet. In addition, with the Airplane mode turned on, you can’t make or receive phone calls, either. Therefore, we don’t recommend this as your top choice when learning to turn off Life 360.
 
 ### 3\. **Disable GPS Service on Your Device**
@@ -463,8 +412,9 @@ iOS users can easily turn off GPS services by following the steps we’ll be pro
 ![disable gps location services on iphone](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **For Android**
 
 You’re not left out of this option; below are the steps to disable GPS service on your Apple iPhone 11 Pros.
@@ -477,19 +427,15 @@ You’re not left out of this option; below are the steps to disable GPS service
 ![turn off gps location services on android](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: **Best Ways to Fake Location on Life360 without Anyone Knowing-Virtual location \[iOS/Android Supported\]**
 
 Although Life360 can be helpful in emergencies or security issues, it can also prove quite problematic. If you want some privacy or don’t trust members of your circle, you might want to learn how to turn off Life 360. The problem with turning off the Life360 location is that members of your circle might notice, which would inevitably cause some conflict.
 
 Fortunately, you have another effective option, and that is by faking your GPS location using a location spoofer. You can display the location you want while keeping your true location safe on Life360. Dr. Fone –Virtual location is an excellent tool for faking your location.  
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -512,9 +458,6 @@ Below, we’ve broken down the process for you; keep reading to learn how to fak
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 3\. Next, connect your Apple iPhone 11 Pro or Android device to your PC and click 'get started.'
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
@@ -533,9 +476,6 @@ Automatically, your location will change to the chosen place on the map and your
 
 ![location on your phone](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
 
 ## Part 4: FAQ About Turn off Location on Life360
@@ -548,19 +488,17 @@ Yes, there are some dangers associated with turning off location on Life360. No 
 
 When your phone is off, your GPS location is automatically disabled. Therefore Life360 won’t be able to track your location; it will only display your last logged location.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. **Does Life360 tell my circle when I turn off the location?**
 
 Yes, it does. It will send a ‘location sharing paused’ notification to all your group members. Additionally, if you log out from Life360, it will notify your circle immediately.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Life360 is a useful app for professional and personal circles. However, it can be intrusive on our privacy sometimes. Most times, the youths want to learn how to turn off Life360 without their parents knowing on iPhone and Android devices. This article provides you with different methods you can achieve this. If you want to learn how to turn off life 360 without showing up, the best option is to fake your location. We hope the guide above helps you utilize [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) without any issues.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -574,5 +512,23 @@ Life360 is a useful app for professional and personal circles. However, it can b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-no-money-no-problem-heres-your-list-of-vfx-pages/"><u>[New] 2024 Approved No Money, No Problem! Here's Your List of VFX Pages</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-comprehensive-directory-of-inexpensive-stock-images/"><u>[Updated] 2024 Approved Comprehensive Directory of Inexpensive Stock Images</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/199-ipad-deal-on-labor-day-at-amazon-insider-tips-and-tricks/"><u>$199 iPad Deal on Labor Day at Amazon – Insider Tips & Tricks</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-curating-youtube-music-experiences/"><u>2024 Approved Curating YouTube Music Experiences</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlocking-the-art-of-alluring-youtube-live-image-creation/"><u>2024 Approved Unlocking the Art of Alluring YouTube Live Image Creation</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-solutions-overcoming-persistent-freezing-in-call-of-duty-warzone-pc-user-guide-2am/"><u>Expert Solutions: Overcoming Persistent Freezing in Call of Duty Warzone – PC User Guide (2Am)</u></a></li>
+<li><a href="https://win11.techidaily.com/explore-glyphs-in-your-digital-keyboard-hub/"><u>Explore Glyphs in Your Digital Keyboard Hub</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-itel-a60-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-leave-a-life360-group-on-infinix-hot-40-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Infinix Hot 40 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-6s-plus-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 6s Plus by restoring it to factory settings</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-motorola-edge-40-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Motorola Edge 40 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-xiaomi-redmi-note-13-pro-5g-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+</ul></div>
 

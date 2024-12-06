@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Find iSpoofer Pro Activation Key On Vivo Y36? | Dr.fone
-date: 2024-11-18T17:32:51.310Z
-updated: 2024-11-26T03:09:00.442Z
+date: 2024-11-28T21:02:51.808Z
+updated: 2024-12-05T18:42:12.895Z
 tags: 
   - virtual location chang
   - location changer
@@ -73,14 +73,14 @@ A much better and safer way to spoof your iPhone location is to do it using Wond
 
 ![launch the Virtual Location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click on the "teleport mode" icon in the upper-right part of the window (the 3rd one from the right). This will activate "teleport mode".
 6. In the search bar in the upper left part of the window, enter the name of the desired location where you wish to teleport. Then click "Go".
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. A popup box will appear. Click "Move Here".
 
@@ -106,6 +106,10 @@ Have trouble catching Pokemon? Or maybe you're trying to get a date. Whatever yo
 
 Try it with location-based apps like Pokemon Go or Tinder to fake movement and enjoy all the fun on the go. It works perfectly with any application to **fake GPS without root**. The app is compatible with Windows and macOS devices to use any of them for GPS spoofing on your smartphone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -126,10 +130,6 @@ Download Dr.Fone – Virtual Location on your PC and run it to begin **fake GPS 
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2: Connect Your Device**
 
 Connect your iOS device with the lightning cable or your Vivo Y36 using a USB cable. You can also connect your iOS device via WiFi after being connected once. Click on “Get Started” now.
@@ -148,21 +148,25 @@ Click the second icon present in the upper right to turn on the “teleport mode
 
 ![choose destination you want](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Chance the Location**
 
 Now, you will be able to trick all the location-based apps with your fake location. Click on “Move Here” when the popup box shows.
 
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Even when you click the “Center On” icon for location yourself, the location will remain fixed to where you have done teleporting.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/r2GiOQxwfQc" frameborder="0" allowfullscreen=""></iframe>
 
 ## Part 2: Other APPs to fake GPS without jailbreak no root
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fake GPS Location – Hola**
 
@@ -202,15 +206,15 @@ You'll have fun letting your friends think you're partying like a rock star or r
 - It Consumes too much battery.
 - It doesn’t work on all GPS-related apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **GPS Emulator**
 
 [GPS emulator](https://play.google.com/store/apps/details?id=com.rosteam.gpsemulator&hl=en_IN&gl=US) is another such application that helps you in **fake GPS no root.** If you're looking to fake your location without too many advanced features, this might be for you. It's straightforward, and it gets the job done quickly. It demands modification in your Vivo Y36 setting like turning on the developer mode, deactivating mock location, etc.
 
 ![gps emulator](https://images.wondershare.com/drfone/article/2022/05/gps-emulator.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Pros**
 
@@ -224,13 +228,13 @@ You'll have fun letting your friends think you're partying like a rock star or r
 - No updates for so long.
 - May heat up the phone if used for long.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 If you plan to root your device to **fake GPS without mock location no root**, drop that idea. You are now aware of some of the best ways to fake GPS without rooting your device. It’s highly recommended to use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) when you want to do more and change your GPS location.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Methods to Change GPS Location On Vivo Y36
 
@@ -249,10 +253,6 @@ But if you are wondering how can I change my location on my iPhone? These 5 meth
 The PC Programs are entirely Software based and do a tremendous job to [spoof Vivo Y36 iOS 16 Location](https://drfone.wondershare.com/fake-location/how-to-change-location-on-ios-16.html). You don't have to buy any new equipment and you will be operating using your computer.
 
 You can get this done within minutes if you have the right program with you. One of the best options in the market is Wondershare's Dr.Fone. This is how you use Dr. Fone Virtual Location spoofer for GPS Spoofing iPhone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -278,15 +278,15 @@ You can get this done within minutes if you have the right program with you. One
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4**: If you are completely sure that you got the address right, click on the 'Move Here' option. It moves your Pin from your present location to your new virtual location.
 
 ![virtual location 1](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
 If you are looking for a way to change Vivo Y36 Location without Jailbreak, then this is one of the safest options for you. Also, you have other additional features like Phone Transfer, and Whatsapp Transfer along with Location spoofing. The application will never go to waste, won't occupy much of your computer/PC/Laptop's space and you can get the fake location iOS within minutes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Change GPS Location on Vivo Y36 using External Device
 
@@ -299,7 +299,7 @@ The best external device to change phone location Vivo Y36 is Double Location Do
 ![double location dongle](https://images.wondershare.com/drfone/2020/2020/double-location-dongle-device-pic5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Note: The Companion App is not available on the App store. You have to download it from Double Location's official website.
@@ -328,10 +328,6 @@ You can change the geolocation Vivo Y36 by using your coding expertise as well. 
 
 ![single view application project](https://images.wondershare.com/drfone/2020/2020/single-view-application-project-pic10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3**: A screen display will appear asking you about your identity. This is where the minimal coding part starts. You need to enter some GIT Commands to continue with the project.
 
 ![identify yourself](https://images.wondershare.com/drfone/2020/2020/identify-yourself-pic11.jpg)
@@ -351,7 +347,7 @@ You can change the geolocation Vivo Y36 by using your coding expertise as well. 
 ![new virtual location xcode](https://images.wondershare.com/drfone/2020/2020/new-virtual-location-xcode-pic15.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: Change GPS location on Vivo Y36 using Cydia Location Faker App
@@ -371,6 +367,10 @@ Cydia is also based on software applications and changes location in seconds, Ho
 ![cydia toggle shift](https://images.wondershare.com/drfone/2020/2020/cydia-toggle-shift-pic18.jpg)
 
 **Step 4**: Now we can decide which apps can access our new virtual location. At the bottom of the page, you will find an 'i' icon. Go click on it and choose the 'White List' option. This one will then take you to the app list and you can decide which of them will have access to the phone's location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: Change GPS Location on Vivo Y36 using Location Handle
 
@@ -414,22 +414,20 @@ We hope you are no longer wondering How to change Location services on Vivo Y36.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-unveiling-the-secrets-of-librecam-studio/"><u>[New] In 2024, Unveiling the Secrets of LibreCam Studio</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-legacy-linkup-software-for-2024/"><u>[New] Legacy Linkup Software for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/avoid-common-pitfalls-a-6-point-strategy-for-choosing-a-superior-selfie-stick/"><u>Avoid Common Pitfalls: A 6-Point Strategy for Choosing a Superior Selfie Stick</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-the-right-phone-for-your-child-see-what-zdnet-recommends/"><u>Choosing the Right Phone for Your Child? See What ZDNet Recommends!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-pause-life360-location-sharing-for-vivo-s18-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-your-drivers-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to use Device Manager to reinstall your drivers in Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-samsung-galaxy-m14-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Samsung Galaxy M14 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-essential-youtube-marketing-techniques-ranked-from-best-to-worst/"><u>In 2024, Essential YouTube Marketing Techniques – Ranked From Best to Worst</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-lava-agni-2-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Lava Agni 2 5G FRP Bypass</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/oneplus-data-recovery-recover-lost-data-from-oneplus-nord-ce-3-5g-by-fonelab-android-recover-data/"><u>OnePlus Data Recovery – recover lost data from OnePlus Nord CE 3 5G</u></a></li>
-<li><a href="https://win-dash.techidaily.com/overcome-compatibility-errors-solve-your-hp-beats-headphones-sound-issues-in-modern-windows-os/"><u>Overcome Compatibility Errors: Solve Your HP Beats Headphones' Sound Issues in Modern Windows OS</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-epub-content-on-your-kindle-paperwhite-simple-steps-for-enjoyment/"><u>Unlocking EPUB Content on Your Kindle Paperwhite: Simple Steps for Enjoyment</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-fueling-inspiration-crafting-engaging-channel-content/"><u>[New] 2024 Approved Fueling Inspiration Crafting Engaging Channel Content</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-boosting-vimeo-videos-accelerating-playback/"><u>[New] Boosting Vimeo Videos Accelerating Playback</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-avoid-video-ads-strategies-to-keep-ads-at-bay/"><u>[Updated] Avoid Video Ads Strategies to Keep Ads at Bay</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-photo-text-edits-online-and-app-guide/"><u>[Updated] Mastering Photo Text Edits Online & App Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-honor-magic-6-lite-phone-by-drfone-android/"><u>How to Reset a Locked Honor Magic 6 Lite Phone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-7-plus-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 7 Plus to other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-drivers-on-windows-11107-by-drivereasy-guide/"><u>How to use Device Manager to update drivers on Windows 11/10/7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-drivers-with-windows-device-manager-on-windows-10-by-drivereasy-guide/"><u>Identify missing or malfunctioning drivers with Windows Device Manager on Windows 10</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-launch-your-channel-8-entry-level-digital-course-series/"><u>In 2024, Launch Your Channel 8 Entry-Level Digital Course Series</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-razr-40-ultra-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Motorola Razr 40 Ultra Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-moto-g14-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Moto G14 has been deleted.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-oppo-a79-5g-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Oppo A79 5G has been deleted.</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210245890-9781398810419-reincarnation/"><u>Reincarnation | Free Book</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solutions-for-non-responsive-print-devices/"><u>Solutions for Non-Responsive Print Devices</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/solving-the-dilemma-resolving-itunes-freeze-problems-when-linking-with-an-ipod-under-windows/"><u>Solving the Dilemma: Resolving iTunes Freeze Problems When Linking with an iPod Under Windows</u></a></li>
 </ul></div>
 

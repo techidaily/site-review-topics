@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy A05s? | Dr.fone
-date: 2024-11-25T02:59:11.435Z
-updated: 2024-11-26T06:24:31.257Z
+date: 2024-12-02T00:08:04.229Z
+updated: 2024-12-05T17:29:46.181Z
 tags: 
   - virtual location chang
   - location changer
@@ -27,15 +27,15 @@ Are you wondering how to **fake the browser location** or which tool to use? You
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How Does Chrome Know Your Location?
 
 Before discussing Google **Chrome's fake location**, it is important to know how Chrome detects your physical location. Google Chrome uses many ways to pinpoint your exact location, like your IP address, GPS, Wi-Fi, Bluetooth, and Cell Tower data. Every internet connection has an IP address bound to a location that enables Chrome to identify your location.
 
 Similarly, GPS location can easily be tracked if your phone device has it enabled. All the Wi-Fi and Bluetooth connections around you also have location information embedded in them. They can help Chrome track you as long as your device can detect them. If you use cell data, Google Chrome can also track you through cell towers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Hide Location Services in Chrome?
 
@@ -46,6 +46,10 @@ If you are worried about Google Chrome detecting your physical location and shar
 **Step 1:** Launch Google Chrome on your computer and click the "Three Dots" icon to open the Google Chrome Settings. Here, tap "Privacy and Security" from the left sidebar and select "Site Settings."
 
 ![access the site settings option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Navigate to "Permissions" and click on "Location." To hide the location on Google Chrome, select the "Don't allow sites to see your location" option.
 
@@ -60,6 +64,10 @@ If you are worried about Google Chrome detecting your physical location and shar
 **Step 2:** Press "Location" on the next screen to open the location options for Google Chrome. Here, choose "Never" to stop Google Chrome from detecting your location.
 
 ![choose the never option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: For Android
 
@@ -107,10 +115,6 @@ Once the Teleport Mode is activated, add your desired location and press "Go." Y
 
 ![hit the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2. Manually Change Your Location Using Google Chrome DevTools
 
 It is also possible to **fake browser location** on Chrome using the Google Chrome Developer Tools. It is a built-in feature of Chrome and can be used to manually change or turn off your browser's location. Follow these steps for changing location on Chrome with DevTools:
@@ -140,6 +144,10 @@ Many **fake location Chrome extensions** are available on Google Chrome which ca
 
 ![install the location guard extension](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** In the options, you can choose different options like Privacy Levels, Protection Area, and Time for Location Cache. It is recommended you choose a higher level for more protection.
 
 ![customize the settings](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-15.jpg)
@@ -163,10 +171,6 @@ Another way you can fool websites and your browser by displaying a **fake locati
 
 ![tap on the quick connect button](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-17.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** You can also choose the desired location as your fake Chrome location in NordVPN. To do that, scroll down the list of countries and locations and choose your desired locations to connect to.
 
 **Limitations**
@@ -174,11 +178,19 @@ Another way you can fool websites and your browser by displaying a **fake locati
 - NordVPN can only spoof your IP address and will not work for geo-restricted applications.
 - Using a VPN usually affects your internet speed and can make browsing slower and more difficult.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: FAQs
 
 ### 1.What is Geolocation?
 
 Geolocation is a term used for the process of pinpointing the location of a device connected to the internet. The location can be determined using methods like IP address, GPS, and mobile tower data. Apps and websites commonly use it to provide location-based services.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.What is the HTML5 Geolocation API?
 
@@ -224,6 +236,10 @@ Some countries have very few players of ML. So, if you shift your location to th
 - Greece
 - Vietnamese
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Change GPS in ML on iOS Devices
 
 Wondershare Dr.Fone has always amazed us with its incredible tools and features, one of which is Dr.Fone - Virtual Location. Dr.Fone - Virtual Location comes in handy if you're playing Mobile League on an iOS device because it hides your current location. It will also allow you to change your location virtually, allowing you to be in any location without jailbreaking.
@@ -231,10 +247,6 @@ Wondershare Dr.Fone has always amazed us with its incredible tools and features,
 It is compatible with all the location-based apps and works seamlessly**,** so you don’t have to worry about the apps glitching. But if you are an Android user, then Dr.Fone doesn't enable fake location on Android games, but it lets you change the location of your Samsung Galaxy A05s. However, it fully supports all the games available such as **fake GPS Mobile Legends** on iOS devices.
 
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Steps-by-Step Instructions for Faking ML Location Using Dr.Fone - Virtual Location
 
@@ -245,10 +257,6 @@ Here is the guide that even a beginner who is new to ML can follow to **change l
 After downloading and launching Dr.Fone, click "Virtual Location" among all the other options and connect your iPhone to your computer. Later, click on "Get Started."
 
 ![select virtual location](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Step 2: Locate Yourself on the Map
 
@@ -293,7 +301,7 @@ It is capable of marking a location, and later you can start the program on boot
 ![fake gps location app interface](https://images.wondershare.com/drfone/article/2022/04/fake-gps-mobile-legends-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Hola VPN Service
@@ -304,16 +312,12 @@ Hola **Fake GPS Mobile Legends** VPN Service is only available across Samsung Ga
 
 ![hola vpn service](https://images.wondershare.com/drfone/article/2022/04/fake-gps-mobile-legends-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: A Comparison of the 3 Fake GPS Methods
 
 <table><tbody><tr><td></td><td><p><strong>Easy-to-Use</strong></p></td><td><p><strong>OS Supported</strong></p></td><td><p><strong>Specific Map Location</strong></p></td><td><p><strong>Route Movement</strong></p></td><td><p><strong>Keyboard GPS Movement</strong></p></td></tr><tr><td><strong>Dr.Fone – Virtual Location</strong></td><td><p><strong>✔</strong></p></td><td><p>Android/iOS</p></td><td><p><strong>✔</strong></p></td><td><p><strong>✔</strong></p></td><td><p><strong>✔</strong></p></td></tr><tr><td><strong>Fake GPS Location App</strong></td><td><p>✖</p></td><td><p>Only Android</p></td><td><p><strong>✔</strong></p></td><td><p>✖</p></td><td><p>✖</p></td></tr><tr><td><strong>Hola VPN Service</strong></td><td><p><strong>✔</strong></p></td><td><p>iOS/Samsung/Huawei</p></td><td><p>✖</p></td><td><p>✖</p></td><td><p>✖</p></td></tr></tbody></table>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -363,10 +367,6 @@ After getting to know about so many free PPTP VPN Singapore, USA, Canada, UK, an
 
 ![Use my Internet Connection ](https://images.wondershare.com/drfone/2023/virtuallocation/pptp-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5\. Great! Now, you need to provide information related to the host and server. You can refer the free PPTP VPN list we have provided in the previous section and pick the server (and hostname) of your choice.
 
 6\. As you would proceed to the next window, you need to provide the username and password of the PPTP VPN free you are using. The same can be obtained from our free PPTP VPN list.
@@ -382,7 +382,7 @@ After getting to know about so many free PPTP VPN Singapore, USA, Canada, UK, an
 ![pptp vpn properties](https://images.wondershare.com/drfone/2023/virtuallocation/pptp-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 10\. Furthermore, you can go to the General tab to make sure the server is specified correctly.
@@ -434,16 +434,16 @@ Some of its advantages are as follows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-meeting-mastery-streaming-google-meet-directly-to-youtube/"><u>[Updated] Meeting Mastery Streaming Google Meet Directly to YouTube</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-tecno-phantom-v-fold-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Tecno Phantom V Fold to Roku | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-nubia-red-magic-9-proplus-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Nubia Red Magic 9 Pro+ Face Lock?</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/gratuit-pc-video-player-pour-lecteur-video-hdfull-hd-desktop-version/"><u>Gratuit PC Video Player Pour Lecteur Vidéo HD/Full HD - Desktop Version</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-your-itel-p40-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Itel P40 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-hidefake-snapchat-location-on-your-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/huawei-p60-video-recovery-recover-deleted-videos-from-huawei-p60-by-fonelab-android-recover-video/"><u>Huawei P60 Video Recovery - Recover Deleted Videos from Huawei P60</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Lava Yuva 3? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-correcting-http-401-authentication-errors/"><u>Step-by-Step Tutorial on Correcting HTTP 401 Authentication Errors</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-restoring-default-sound-settings-on-windows-os-digital-trends/"><u>Step-by-Step Tutorial: Restoring Default Sound Settings on Windows OS | Digital Trends</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/44ki44ot44oh44og44od44kv44gr44ki44kl5yuv55s744gu5yq55p6c55qe57eo6zug44og44kv44ol44od44kvic0g44kr44od44oi44gl44kj5zci5oiq44gplus44gn/"><u>アビデムックによる動画の効果的編集テクニック - カットから合成まで</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-skyrocket-your-e-commerce-with-these-15-facebook-analytics/"><u>[Updated] 2024 Approved Skyrocket Your E-Commerce with These 15 Facebook Analytics</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-easy-downloads-of-youtube-srt-subtitles-explained/"><u>2024 Approved Easy Downloads of YouTube SRT Subtitles Explained</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Tecno Phantom V Fold? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-zany-zooms-a-list-of-10-hilarious-short-youtube-video-scenes/"><u>In 2024, Zany Zooms A List of 10 Hilarious, Short YouTube Video Scenes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-fisheye-photography-for-full-spheres-for-2024/"><u>Mastering Fisheye Photography for Full Spheres for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nokia-data-recovery-recover-lost-data-from-nokia-xr21-by-fonelab-android-recover-data/"><u>Nokia Data Recovery – recover lost data from Nokia XR21</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-infinix-zero-30-5g-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Infinix Zero 30 5G has been deleted</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-elevate-your-footage-expert-video-editing-advice-for-stunning-home-videos-for-2024/"><u>Updated Elevate Your Footage Expert Video Editing Advice for Stunning Home Videos for 2024</u></a></li>
 </ul></div>
 

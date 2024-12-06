@@ -1,7 +1,7 @@
 ---
 title: "Solving the 'No Ping' Issue: Steps to Correct Halo Infinite Connection Problems"
-date: 2024-10-02T05:54:32.440Z
-updated: 2024-10-02T20:14:08.195Z
+date: 2024-12-03T18:50:59.237Z
+updated: 2024-12-05T21:12:49.381Z
 tags:
   - win11
   - win10
@@ -35,33 +35,31 @@ Follow the questions below to troubleshoot the issue step by step:
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Q1: Is the source you’ve inputted exactly correct?
 
  Generally, the “Couldn’t retrieve directory information” error means**the source you’ve inputted can’t be found** . It could be simply because the source you’ve inputted is wrong, like there’s**typo** ,**extra space** in the URL.
 
  So when Kodi tells you the Unable to connect error, firstly **check the URL you’ve type or paste, make sure it’s exactly typed correctly.** ![](https://images.drivereasy.com/wp-content/uploads/2018/08/kodi2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then add the source again.
 
  If you add the source successfully, so great. If you still see the error, don’t panic, you have something else to try…
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Q2: Does your Windows computer connect to Internet successfully?
 
  The**network connection error** on your computer can also probably cause the Kodi Unable to connect issue. So when you see the error message, you should**check the network connection on your computer** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1
 
@@ -78,10 +76,7 @@ Then add the source again.
 [The default gateway is not available.](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2
@@ -96,13 +91,6 @@ Then add the source again.
 
  Have you fix the problem? If yes, great! If the error still exists, don’t give up hope, move onto the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Q3: Does the source you want to add run properly?
 
  If you’ve ensured that you enter the URL correctly and the network connection is great, time to check if the source you added runs properly.
@@ -113,6 +101,10 @@ Follow to check the status the source you want to add:
 2. If the source runs properly, you would see a page**containing a zip file** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73caac7ec91.png)  
  If the source is down or offline, you would be prompted an error message saying:**This site can’t be reached.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this is the case, we recommend **downloading other add-ons from the [official Kodi website](https://kodi.tv/addons) of your choice** .
 
@@ -137,18 +129,19 @@ Follow to check the status the source you want to add:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-ranked-high-8-web-based-image-fusion-service/"><u>[New] Ranked High 8 Web-Based Image Fusion Service</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-premium-tools-for-virtual-meeting-efficiency/"><u>[Updated] In 2024, Premium Tools for Virtual Meeting Efficiency</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-secret-snaps-clandestine-methods-for-unseen-image-recording-for-2024/"><u>[Updated] Secret Snaps Clandestine Methods for Unseen Image Recording for 2024</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-honor-90-gt-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Honor 90 GT Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-nokia-g22-frp-by-drfone-android/"><u>Full Guide to Bypass Nokia G22 FRP</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-xiaomi-redmi-k70e-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi Redmi K70E Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-realme-c67-4g-by-drfone-android-unlock-android-unlock/"><u>How to unlock Realme C67 4G</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-gps-location-on-infinix-smart-7-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Infinix Smart 7 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-photos-during-transfer-from-iphone-15-plus-to-pc-or-mac-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Lost Photos during Transfer from iPhone 15 Plus to PC or Mac | Stellar</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-no-rest-for-the-wicked-game-crashes-on-your-computer/"><u>Troubleshooting 'No Rest for the Wicked' Game Crashes on Your Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/victory-over-vexing-nvidia-installer-issues/"><u>Victory over Vexing NVIDIA Installer Issues</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-navigating-safaris-picture-in-picture-for-mobiledesktop-for-2024/"><u>[Updated] Navigating Safari’s Picture in Picture for Mobile/Desktop for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-msi-b350-toms-tomahawk-motherboard-drivers-for-windows-11-and-7/"><u>Download MSI B350 TOM'S TOMAHAWK Motherboard Drivers for Windows 11 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h265-video-on-galaxy-s24plus-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Galaxy S24+?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-pro-max-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Pro Max To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-apple-iphone-11-pro-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from Apple iPhone 11 Pro or iPad?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-essential-guide-to-win11-video-grabber-apps/"><u>In 2024, The Essential Guide to Win11 Video Grabber Apps</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/r-your-youtube-experience-with-premium-subscription-for-2024/"><u>Master Your YouTube Experience with Premium Subscription for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/mastering-video-sound-tips-for-optimal-audio-control-for-2024/"><u>Mastering Video Sound Tips for Optimal Audio Control for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-through-fingertip-writing-options-in-windows-system/"><u>Navigate Through Fingertip Writing Options in Windows System</u></a></li>
+<li><a href="https://extra-support.techidaily.com/nurturing-network-growth-for-top-tier-subscribers-for-2024/"><u>Nurturing Network Growth for Top-Tier Subscribers for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-xiaomi-redmi-a2plus-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Xiaomi Redmi A2+ has been deleted</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-infinix-note-30-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Infinix Note 30</u></a></li>
 </ul></div>
 

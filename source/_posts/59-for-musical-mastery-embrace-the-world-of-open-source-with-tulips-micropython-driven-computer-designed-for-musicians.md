@@ -1,7 +1,7 @@
 ---
 title: "$59 for Musical Mastery: Embrace the World of Open Source with Tulip's MicroPython-Driven Computer Designed for Musicians."
-date: 2024-08-29T06:57:33.170Z
-updated: 2024-08-30T06:57:33.170Z
+date: 2024-12-02T22:34:46.320Z
+updated: 2024-12-05T16:45:33.871Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,10 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,14 +45,11 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
  The CloudFest 2024 event occurs at Europa-park in Rust,[Germany](https://www.tomshardware.com/pc-components/gpus/intel-submits-schematics-for-1nm-chip-fabs-in-germany-two-new-fabs-open-in-2027) , from March 18 to 24\. It is described as a must-attend event for anyone who works in[the cloud](https://www.tomshardware.com/reviews/cloud-computing-security,2829-2.html) , with a packed schedule featuring keynotes, panel discussions, masterclasses, networking events, and more. Only paying attendees can sign up for the chance to show off their server-throwing prowess. Tickets start at 499 euros.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -57,8 +58,22 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-crafting-quality-captures-the-ultimate-guide-to-recording-roblox-on-a-macbook-for-2024/"><u>[New] Crafting Quality Captures The Ultimate Guide to Recording Roblox on a MacBook for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-vivo-v30-lite-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Vivo V30 Lite 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/comparing-gopro-and-polaroids-video-editors-for-filmmakers-for-2024/"><u>Comparing GoPro & Polaroid's Video Editors for Filmmakers for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-logitech-g633-microphone-issues-a-step-by-step-guide/"><u>Fixing Your Logitech G633 Microphone Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-itel-a70-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-sharefake-location-on-whatsapp-for-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-pro-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Pro To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Meizu 21? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ion-tailgater-plus-overview-uninterrupted-listening-and-immediate-boost-in-bass-dynamics/"><u>ION Tailgater Plus Overview: Uninterrupted Listening and Immediate Boost in Bass Dynamics</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-dynamics-of-e-bikes-insights-into-their-operational-functions/"><u>Navigating the Dynamics of E-Bikes: Insights Into Their Operational Functions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/play-together-mastering-the-art-of-sharing-games-on-sonys-next-gen-console/"><u>Play Together: Mastering the Art of Sharing Games on Sony's Next-Gen Console</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-tecno-spark-10-pro-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Tecno Spark 10 Pro</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/seamless-streaming-5-chrome-tools-to-secure-fb-videos/"><u>Seamless Streaming 5 Chrome Tools to Secure FB Videos</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209876564-9781732083240-the-power-of-the-elevation-of-consciousness/"><u>The Power of the Elevation of Consciousness | Free Book</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
