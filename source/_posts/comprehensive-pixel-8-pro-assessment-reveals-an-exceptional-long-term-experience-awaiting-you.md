@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Pixel 8 Pro Assessment Reveals an Exceptional Long-Term Experience Awaiting You!
-date: 2024-08-29T06:39:00.783Z
-updated: 2024-08-30T06:39:00.783Z
+date: 2024-12-05T22:57:17.867Z
+updated: 2024-12-11T18:43:27.549Z
 tags:
   - product-reviews
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![pixel 8pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/pixel-8pro.png) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Google Pixel 8 Pro
 
@@ -157,9 +161,6 @@ Close
 
 ![Fingerprint smudges on the Google Pixel 8 Pro camera bump](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/fingerprint-smudges-on-the-google-pixel-8-pro-camera-bump-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  My biggest (and really only) complaint with the Pixel 8 Pro's design is Google's use of polished aluminum on the camera bar. The matte glass is so good at not showing fingerprints that even the slightest smudge on the reflective metal stands out like a sore thumb. I did my best to keep the bar clean, but because of its location, it's natural for my finger to rest on the protrusion to help stabilize the device in my hand.
@@ -167,8 +168,9 @@ Justin Duino / How-To Geek
  Additionally, while I haven't noticed any significant damage on my review unit, the [Pixel 7 Pro's](https://vimeo-videos.techidaily.com/new-2024-approved-how-to-make-youtube-thumbnails-online-and-offline/) camera bar had a similar reflective metal, and it scratched extremely easily. After a year with the phone, I fully expect to see similar wear on the Pixel 8 Pro. I would have preferred the matte finish found on the regular Pixel 8.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Display Checks All the Boxes
 
 Close 
@@ -192,8 +194,9 @@ Justin Duino / How-To Geek
 ![AI editing button in Google Photos on the Google Pixel 8 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/ai-editing-button-in-google-photos-on-the-google-pixel-8-pro-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  If you've used any recent version of Android, you will be right at home with Android 14 on the Pixel 8 Pro. There are only minor user-side improvements, including an iOS-style lock screen customization feature where you can swipe between clock styles and colors. This version of Android appears to be focused on under-the-hood refinements, which I greatly appreciate.
@@ -222,16 +225,10 @@ Close
 
  Looking at raw numbers, according to Geekbench 6, the Pixel 7 Pro, with its Tensor G2 CPU, has a 1,409 single-core score and 3,399 multi-core score. The Pixel 8 Pro, with the Tensor G3, comes in with a 1,736 single-core score and 4,405 multi-core score. What does that mean? Basically, the Pixel 8 Pro can handle more powerful processes without succumbing to lag or other disruptions.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  I Never Had to Go Searching for a Charger
 
 ![Battery percentage on the Google Pixel 8 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/battery-percantage-on-the-google-pixel-8-pro-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  Previous Pixel had decent battery life, but with the overheating problems caused by the Tensor G1 and G2 processors, needing to juice up throughout the day wasn't uncommon.
@@ -241,8 +238,9 @@ Justin Duino / How-To Geek
  For the most part, I simply dropped the Pixel 8 Pro on a [second-gen Pixel Stand](https://store.google.com/us/product/pixel%5Fstand%5F2nd%5Fgen?hl=en-US) to wirelessly charge overnight. But if you need a quick top-off, the phone charges at up to 30W when plugged into its USB-C port. A full charge from 0 to 100% takes a little over 70 minutes.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The King of Taking Great Photos Reliably
 
 Close 
@@ -261,9 +259,6 @@ Close
 
  Am I a fan of the ultra-wide camera's fisheye effect? Not really, but I understand its usefulness when capturing some scenes. What I do love is the 50MP and 48MP sensors behind the main and telephoto cameras. These collect so much data and, once the phone is done processing the image, returns fantastic-looking photos.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  You'll Miss Out on More Than a Camera With the Pixel 8
 
 ![Person holding up the Google Pixel 8 and Google Pixel 8 Pro side by side](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/person-holding-up-the-google-pixel-8-and-google-pixel-8-pro-side-by-side.jpg) 
@@ -275,6 +270,10 @@ Justin Duino / How-To Geek
  There are additional under-the-hood differences, like 12GB vs 8GB of RAM, but surprisingly, there are missing software features. Things like Pro camera controls, Video Boost, and Night Sight Video are all locked to the more expensive Google Pixel. According to a [statement provided to _Android Authority_](https://www.androidauthority.com/google-pixel-8-pro-video-boost-availability-3372309/), the cost of cloud infrastructure needed to run Video Boost wasn't baked into the Pixel 8's price, which is why it's not present.
 
 [![Rear camera of the Google Pixel 8-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/rear-camera-of-the-google-pixel-8-1.jpg)](https://youtube-tips.techidaily.com/24-simple-guide-youtube-to-mp3-on-mac/) Related 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### [Google Pixel 8 Review: Reality Optional](https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-motorola-edge-40withwithout-a-pc-by-drfone-android/) 
 
@@ -288,9 +287,17 @@ A best-in-class Android phone that’s all about the camera and AI tricks.
 
  And if you're thinking about upgrading to the Pixel 8 or 8 Pro from a previous generation, I recommend checking out [our guide comparing the latest Google handsets](https://snapchat-videos.techidaily.com/new-2024-approved-take-your-teamsnap-game-to-the-next-level-expert-tips/) versus the Pixel 5, Pixel 6, and Pixel 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Should You Buy the Google Pixel 8 Pro?
 
 ![Google Pixel 8 Pro laying on a table next to a Google Pixel Watch 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/google-pixel-8-pro-laying-on-a-table-next-to-a-google-pixel-watch-2.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -300,9 +307,6 @@ Justin Duino / How-To Geek
 
 ![pixel 8pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/pixel-8pro.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
 
 #####  Google Pixel 8 Pro
@@ -321,8 +325,6 @@ The Google Pixel 8 Pro includes the search giant's latest CPU, the Tensor G3, is
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -330,4 +332,21 @@ The Google Pixel 8 Pro includes the search giant's latest CPU, the Tensor G3, is
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-optimize-content-delivery-on-instagram-with-these-top-8-tools/"><u>[New] Optimize Content Delivery on Instagram with These Top 8 Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1716069564027-updated-in-2024-immerse-in-pc-game-moments-capture-perfectly/"><u>[Updated] In 2024, Immerse in PC Game Moments - Capture Perfectly!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-step-by-step-perfecting-your-lol-recordings-for-2024/"><u>[Updated] Step-by-Step Perfecting Your LOL Recordings for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-visualstoryteller-for-windows/"><u>[Updated] VisualStoryteller for Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevating-engagement-the-dos-and-donts-of-fb-giveaways/"><u>Elevating Engagement The Do's and Don'ts of FB Giveaways</u></a></li>
+<li><a href="https://win-best.techidaily.com/how-effective-is-windows-defender-in-shielding-your-system-from-various-cyber-threats-expert-analysis-by-yl-computing/"><u>How Effective Is Windows Defender in Shielding Your System From Various Cyber Threats? – Expert Analysis by YL Computing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-7-plus-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 7 Plus To Others devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xs-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XS To Other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-gt-10-pro-video-recovery-recover-deleted-videos-from-infinix-gt-10-pro-by-fonelab-android-recover-video/"><u>Infinix GT 10 Pro Video Recovery - Recover Deleted Videos from Infinix GT 10 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/iphone-xs-max-data-recovery-software-to-recover-lost-ios-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone XS Max® Data Recovery Software to Recover Lost iOS® Data | Stellar</u></a></li>
+<li><a href="https://discover-able.techidaily.com/is-replacing-your-laptops-cooling-unit-essential-insights-by-yl-software-and-hardware-experts/"><u>Is Replacing Your Laptop's Cooling Unit Essential? Insights by YL Software & Hardware Experts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-samsung-by-fonelab-android-recover-data/"><u>Recover lost data from Samsung</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wi-fi-nef/"><u>무료 Wi-Fi용 NEF 텔리드화 - 모바이비전 스타일 및 기타 최신 기능</u></a></li>
+</ul></div>
 

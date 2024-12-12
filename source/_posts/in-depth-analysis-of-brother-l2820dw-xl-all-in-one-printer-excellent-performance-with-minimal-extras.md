@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis of Brother L2820DW XL All-in-One Printer: Excellent Performance with Minimal Extras"
-date: 2024-08-29T06:39:20.110Z
-updated: 2024-08-30T06:39:20.110Z
+date: 2024-12-05T22:43:52.932Z
+updated: 2024-12-11T22:00:50.225Z
 tags:
   - product-reviews
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/d0531d40b03cde46602b7231bfc17c15ddbf08155
 ---
 
 ## In-Depth Analysis of Brother L2820DW XL All-in-One Printer: Excellent Performance with Minimal Extras
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -98,20 +102,18 @@ Bryan M. Wolfe / How-To Geek
 
  Cost-wise, new drum units cost around $130 to replace for this unit, while toner cartridges begin at around $50 (for 1,200) and can go up to $145 (for 3,000 pages). It weighs 22.7 pounds and measures 16.1 inches x 15.7 inches x 12.5 inches.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Starting Up
 
  The easiest way to get started is to use the printer's 2.7-inch color touchscreen to connect the printer to your home or office's Wi-Fi. Once you do, you can find the machine through AirPrint, Wi-Fi Direct, Mopria, and Brother Mobile Connect. You can also connect it through standard ethernet or USB 2.0\. The printer works with all modern operating systems, including Windows, Mac, Linux, and Chrome. It also works with Android and Apple devices.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Printing, Copying, Scanning, and Faxing: Living Up to Expectations
 
 ![Brother MFC L2820DW XL open showing scanner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/brother-mfc-l2820dw-xl-scanner.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Bryan M. Wolfe / How-To Geek
 
  During my tests, I sent three large print jobs to the device, which totaled 52, 67, and 30 pages, respectively. It took less than four minutes to print all 149 pages, which averages out to just over 37 pages per minute—or three pages per minute faster than Brother promised.
@@ -120,14 +122,15 @@ Bryan M. Wolfe / How-To Geek
 
  The prints were clear and crisp, except when it came to printing photos, which was expected. You _don't use_ a black-and-white laser printer to print photos! However, time constraints made it impossible to test the print quality after long-term use. Print quality should remain the same for the toner and drum life if you're using official Brother supplies. With third-party products, quality isn’t necessarily guaranteed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  The LCD Display
 
  The Brother MFC-L2820DW XL’s LCD measures 2.7 inches across. This is a little smaller than optimal and could be a problem if you use it exclusively from the LCD. If, however, most of your printer usage will be done through your mobile device or computer, the LCD size shouldn’t matter as much.
 
  Don’t get me wrong, the content on the LCD is easy to read, and the menu is simple to follow. It was just a bit too small for me, someone with worsening eyes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Using the Brother App: Easy to Use
 
@@ -138,8 +141,9 @@ Close
  You can also use the apps to order new supplies. Like most printer manufacturers, Brother offers a subscription service for toner. If you print a lot, don't like to keep track of toner life, or just want the convenience a service like this provides, using the Brother EZ Print Subscription plan is a worthy consideration.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Should You Buy the Brother MFC-L2820DW XL?
 
 ![Brother MFC L2820DW XL showing paper tray](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/brother-mfc-l2820dw-xl-paper.jpeg) 
@@ -153,14 +157,11 @@ Bryan M. Wolfe / How-To Geek
 ![Brother MFC-L2820DW XL](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/brother-mfc-l2820dw-xl.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 #####  Brother MFC-L2820DW XL
 
 8/ 10 
@@ -175,8 +176,6 @@ With the Brother MFC-L2820DW XL monochrome laser printer, you get an all-in-one 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +183,20 @@ With the Brother MFC-L2820DW XL monochrome laser printer, you get an all-in-one 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-crafting-success-leading-business-channels-for-professionals/"><u>[New] In 2024, Crafting Success Leading Business Channels for Professionals</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-streamline-vimeo-video-publicity-tactics-for-2024/"><u>[New] Streamline Vimeo Video Publicity Tactics for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-screen-partition-prowess-top-recorders-rating/"><u>[Updated] Screen Partition Prowess Top Recorder's Rating</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensive-breakdown-vsco-photography-tools/"><u>2024 Approved Comprehensive Breakdown VSCO Photography Tools</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-7-plus-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 7 Plus To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-motorola-moto-g-5g-2023-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Motorola Moto G 5G (2023) Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/master-the-art-of-pace-control-for-instas-live-videos/"><u>Master the Art of Pace Control for Insta's Live Videos</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-engagement-on-popular-sites-a-guide-to-facebook-twitter-instagram-and-youtube-strategies/"><u>Mastering Engagement on Popular Sites: A Guide to Facebook, Twitter, Instagram & YouTube Strategies</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-tecno-pop-8-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Tecno Pop 8 has been deleted</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reducing-glare-on-games-text-interface/"><u>Reducing Glare on Game's Text Interface</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-reno-10-pro-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Reno 10 Pro 5G</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/swiftly-change-your-images-from-webp-to-png-format-using-the-top-rated-movavi-converter/"><u>Swiftly Change Your Images From WebP to PNG Format Using the Top Rated Movavi Converter</u></a></li>
+</ul></div>
 

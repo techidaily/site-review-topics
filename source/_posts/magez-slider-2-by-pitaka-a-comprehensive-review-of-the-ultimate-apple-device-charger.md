@@ -1,7 +1,7 @@
 ---
 title: "MagEZ Slider 2 by Pitaka: A Comprehensive Review of the Ultimate Apple Device Charger"
-date: 2024-08-29T06:39:30.206Z
-updated: 2024-08-30T06:39:30.206Z
+date: 2024-12-06T23:53:21.061Z
+updated: 2024-12-11T22:42:10.556Z
 tags:
   - product-reviews
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/e96dbd2d75db4cf9e5156185a06b8522a82e72348
  The [PITAKA MagEZ Slider 2](https://www.amazon.com/PITAKA-MagSafe-Charger-iPhone-Portable/dp/B09NPZ981N?tag=htg-v2-35jb8lu-20&ascsubtag=UUhtgUeUpU228049&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fpitaka-magez-slider-2-review%2F&asc%5Fcampaign=Affiliate) is an ergonomic desktop charging station that delivers a decent supply of wireless power to your iPhone, AirPods, Apple Watch, and a few non-Apple devices, too. And while it's a solid peripheral, there are a few problem areas that could do with some addressing.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/pitaka-magez-slider-2-product-1-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  PITAKA MagEZ Slider 2
 
@@ -66,13 +70,18 @@ The compact 3-in-1 wireless charger for your Apple essentials.
 
 [See at Amazon](https://www.amazon.com/PITAKA-MagSafe-Charger-iPhone-Portable/dp/B09NPZ981N/?tag=htg-v2-35jb8lu-20&ascsubtag=UUhtgUeUpU228049&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fpitaka-magez-slider-2-review%2F&asc%5Fcampaign=Affiliate) [$129 at ipitaka](https://www.ipitaka.com/products/magez-slider?variant=40329067921478/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Design: A Space-Saving Desktop Buddy
 
 ![A person holding an iPhone with the MagSafe power bank attached.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/person-holding-an-iphone-with-a-magsafe-battery-pack-from-the-pitaka-magez-slider-2jpg_52972308515_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 _Jason Montoya / How-To Geek_
 
 * **Dimensions:** 3.56 x 2.44 x 0.55in (90.6 x 62 x 14.2mm)
@@ -89,25 +98,20 @@ _Jason Montoya / How-To Geek_
 
 ![The back of the PITAKA MagEZ Slider 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/the-pitaka-magez-slider-2-charging-a-pair-of-airpods-3jpg_52971329592_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _Jason Montoya / How-To Geek_
 
  Speaking of AirPods: Did you notice the little black gadget in the Slider 2 box? This is actually a magnetized mini-shelf designed for an earbuds case that mounts to the back of the Slider 2\. When seated, your AirPods will receive up to 5 watts of Qi-wireless charging (as long as the Slider 2 is plugged in). Flipping the device over, you'll see the Slider 2's puck-shaped pedestal, with a protective film placed over the center. This is to protect the reusable gel pad hiding underneath, a godsend when placing the Slider 2 on a desk or table.
 
  All in all, we've got a pretty solid design on our hands, but do you know what's missing? A power adapter. Yes, the Slider 2 comes with a USB-C cable, but you'll need to [supply the actual AC outlet brick yourself](https://some-techniques.techidaily.com/freedom-in-viewing-is-vlc-more-powerful-than-mpc-for-2024/).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Functionality: It Could Be a Little Faster
 
 ![An iPhone docked on the PITAKA MagEZ Slider 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/the-pitaka-magez-slider-2-charging-an-iphonejpg_52971924311_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 _Jason Montoya / How-To Geek_
 
 * **Type:** 4,000mAh (rechargeable)
@@ -120,12 +124,13 @@ _Jason Montoya / How-To Geek_
 
  One thing I was a big fan of was that little AirPods mini-shelf. Once magnetized to the back of the Slider 2, the shelf didn't move an inch when I placed my AirPods case on top of it, and it had no trouble charging the earbuds.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ##  Should You Buy the PITAKA MagEZ Slider 2?
 
 ![The removable power bank of the PITAKA MagEZ Slider 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/the-magsafe-battery-pack-of-the-pitaka-magez-slider-2-removed-and-charging-an-iphone-1jpg_52972308140_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Jason Montoya / How-To Geek_
 
@@ -133,9 +138,6 @@ _Jason Montoya / How-To Geek_
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/pitaka-magez-slider-2-product-1-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  PITAKA MagEZ Slider 2
 
 7/ 10 
@@ -150,8 +152,6 @@ The compact 3-in-1 wireless charger for your Apple essentials.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +159,18 @@ The compact 3-in-1 wireless charger for your Apple essentials.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-interconnecting-platforms-sharing-tiktok-to-facebook/"><u>[Updated] 2024 Approved Interconnecting Platforms Sharing TikTok to Facebook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-tips-for-iphone-users-converting-standard-speed-to-slow-scenes/"><u>[Updated] Tips for iPhone Users Converting Standard Speed to Slow Scenes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-watch-cellular-troubleshooting-expert-tips-for-a-smooth-fix/"><u>Apple Watch Cellular Troubleshooting: Expert Tips for a Smooth Fix</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ensuring-safety-while-printing-in-3d-5-common-risks-and-their-solutions/"><u>Ensuring Safety While Printing in 3D: 5 Common Risks and Their Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-evaluating-freenocam-for-professional-webcam-use/"><u>In 2024, Evaluating FreenoCam for Professional Webcam Use</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-realme-gt-5-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Realme GT 5 and Browser | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/moto-g23-video-recovery-recover-deleted-videos-from-moto-g23-by-fonelab-android-recover-video/"><u>Moto G23 Video Recovery - Recover Deleted Videos from Moto G23</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-oppo-reno-9a-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Oppo Reno 9A</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-restoring-functionality-to-stuck-keys-on-pc-keyboards-for-windows-users/"><u>Step-by-Step Guide: Restoring Functionality to Stuck Keys on PC Keyboards for Windows Users</u></a></li>
+</ul></div>
 

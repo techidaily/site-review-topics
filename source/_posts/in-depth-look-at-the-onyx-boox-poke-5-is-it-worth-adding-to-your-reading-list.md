@@ -1,7 +1,7 @@
 ---
 title: In-Depth Look at the Onyx Boox Poke 5 – Is It Worth Adding to Your Reading List?
-date: 2024-08-29T06:38:38.380Z
-updated: 2024-08-30T06:38:38.380Z
+date: 2024-12-07T00:59:51.364Z
+updated: 2024-12-12T01:46:54.565Z
 tags:
   - product-reviews
 categories:
@@ -108,16 +108,10 @@ Expand
 
 [$170 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fboox-6-poke5-e-reader-2023%2F6547589.p%3FskuId%3D6547589) [$170 at B&H Photo Video](https://www.bhphotovideo.com/c/product/1767273-REG/boox%5Fopc1070r%5F6%5Fpoke5%5Flite%5Fe%5Fink.html/BI/22163/KBID/28708/SID/UUhtgUeUpU2000608?ap=y&amp%3Bsmp=y&amp%3Bsrsltid=AfmBOop7brN-NHjN6a-jh2dexrXlffWKG75VYkJj15Ciubrppm-VvCVreWc) [$170 at Walmart](https://www.walmart.com/ip/BOOX-POKE-5-6-E-READER/2968210903?wmlspartner=wlpa&selectedSellerId=101025981) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Design: Like Holding a Small Paperback
 
 ![The Boox Poke 5 in the front pocket of a purse.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/the-boox-poke5-in-the-front-pocket-of-a-pursejpg_53139408928_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  It always seems like consumer tech is running through one of two cycles: devices getting bigger or devices getting smaller. Personally, I’m a fan of the latter movement, which makes the ultra-portable design of the [Poke 5](https://onyxboox.com/boox%5Fpoke5) a major standout for me. At 5.75 inches tall and 4.25 inches wide, the Poke 5 is a little less tall than the Kindle Paperwhite and Nook Glowlight 4, two [competitive eReaders](https://extra-tips.techidaily.com/superior-10-mobile-apps-to-edit-your-face/) hanging out in the same price tier.
@@ -130,13 +124,18 @@ Joe Robinson / How-To Geek
 
  In terms of power, the Boox Poke 5 has a 1,500mAh battery that can be recharged using a USB-C cable. In the time I used the eReader, I never actually had to recharge the device, although I logged around a 25 percent decrease in battery life for every two hours I used the Poke 5.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Display: Crisp and Clear
 
 ![The Boox Poke 5 with the library open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/boox-poke5-with-the-library-open-3jpg_53138936501_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Joe Robinson / How-To Geek
 
  The Boox Poke 5 is equipped with an E-Ink Carta HD e-paper display, which can also be found on competitive eReaders like the Kindle Paperwhite and Kobo Elipsa. The six-inch screen tops out at 1,448 x 1,072 resolution with 300 pixels per inch; and considering the small size, I was impressed by the level of detail the Poke 5 was able to pull off. If you’re not familiar with the look of an eReader, do know that [it’s not quite the same as a traditional tablet](https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oppo-a2-devices-by-drfone-android/), especially when it comes to font and images. Quite simply, what you see on an eReader screen will look far more like a printed book.
@@ -149,9 +148,6 @@ Joe Robinson / How-To Geek
 
  Using this dashboard, you’ll be able to adjust overall contrast and refresh modes. The latter is a great way to improve font and image quality based on what kind of content you’re looking at. I found the “Normal” and “Speed” modes worked best for straightforward eReader text and images. “Regal,” “A2,” and “X” are the other refresh modes, but they’re best saved for books and apps that require a lot of scrolling and page-turning. I thought these other three presets introduced a lot of unnecessary ghosting, especially when browsing the web with Chrome.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Connectivity and Compatibility: Covers All the Must-Haves
 
  The Poke 5 is built like a full-fledged Android 11 mini tablet, which means Wi-Fi is key. A network connection is essential when it comes to downloading books and hopping online, and seeing as there’s no option for cellular backup, you’ll want to make sure you’re using a safe and secure internet connection.
@@ -164,9 +160,6 @@ Joe Robinson / How-To Geek
 
 ![Charging the Boox Poke 5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/charging-the-boox-poke5jpg_53139138404_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  The Boox Poke 5 runs Android 11 and is powered by a Qualcomm 2.0GHz quad-core chipset with 2GB of RAM. The Poke 5 also includes 32GB of onboard storage, which can be expanded up to 1TB with a microSD card. As far as performance goes, I wouldn’t call the Poke 5 a speedy device, but it always arrives at its destination. It takes the [eReader](https://extra-tips.techidaily.com/superior-10-mobile-apps-to-edit-your-face/) around 30 seconds to power on and assemble the user interface. Once the UI loads, you’ll have five main tabs to choose from at the bottom of the default home screen. These are “Library,” “Store,” “Storage,” “Apps,” and “Settings.”
@@ -183,6 +176,10 @@ Joe Robinson / How-To Geek
 
 ![Inserting a microSD card in the Boox Poke 5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/inserting-a-5-microsd-card-in-the-boox-poke5jpg_53139408508_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Joe Robinson / How-To Geek
 
  I’ve been on a bit of a horror-fiction kick of late, so I decided to submerge the Poke 5 in the dark and dreary waters of H.P. Lovecraft’s “The Dunwich Horror.” It's a freaky short story that allowed me to put the eReader through its paces.
@@ -195,6 +192,10 @@ Joe Robinson / How-To Geek
 
  I thought haptic feedback was solid, although I did have to repeat a long-press or two when the Poke 5 didn’t register my touch. This didn’t happen too often, and the occurrences overall were pretty random.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Apps and Entertainment: No Play Store Allowed
 
  Beyond its eReading capabilities, several built-in apps (and others you can download) will allow you to use the Poke 5 as you would a traditional tablet or smartphone, but with some limitations.
@@ -205,16 +206,15 @@ Joe Robinson / How-To Geek
 
  Yeah, this isn't the most intuitive account-linking process I've ever walked through, but if you want to be able to download books from Kindle and other ebook apps, it's a necessary nuisance. Fortunately, once I completed all of the above, the Boox and Google handshake was completed in just minutes, and I was able to download and use the Play Store app without any issues.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ##  Should You Buy the Onyx Boox Poke 5?
 
  Ultimately, I think the [Onyx Boox Poke 5](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=http%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fboox-6-poke5-e-reader-2023%2F6547589.p%3FskuId%3D6547589) is a solid eReader that satisfies many must-haves of anyone looking for a digitized library. While its Android backbone could use a few corrections, Onyx’s steady stream of firmware updates should take care of all the biggest bumps in the road along the way.
 
 ![The Onyx Boox Poke 5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/onyx-boox-poke-5-product-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Onyx Boox Poke 5
 
@@ -230,8 +230,6 @@ The Onyx Boox Poke 5 does a great job at standing in for all those beat-up paper
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,4 +237,16 @@ The Onyx Boox Poke 5 does a great job at standing in for all those beat-up paper
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-unraveling-the-enigma-instagram-story-follower-secrets-revealed-for-2024/"><u>[Updated] Unraveling the Enigma Instagram Story Follower Secrets Revealed for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensive-discussion-googles-podcast-uncovered/"><u>2024 Approved Comprehensive Discussion Google's Podcast Uncovered</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-professional-video-recorder-for-windows-pcs/"><u>2024 Approved Professional Video Recorder for Windows PCs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xr-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XR to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-6-using-macos-finder-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 6 using macOS finder</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-xiaomi-redmi-k70-converter-convert-mov-files-for-xiaomi-redmi-k70-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Xiaomi Redmi K70 converter-convert .mov files for Xiaomi Redmi K70</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-thinkphone-by-fonelab-android-recover-data/"><u>Recover lost data from ThinkPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshoot-the-missing-dciman32dll-file-with-these-expert-tips/"><u>Troubleshoot the Missing dciman32.dll File with These Expert Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/will-chatbots-undermine-se-keywords-strategy/"><u>Will Chatbots Undermine SE Keywords Strategy?</u></a></li>
+</ul></div>
 

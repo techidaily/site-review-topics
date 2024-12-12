@@ -1,7 +1,7 @@
 ---
 title: "Athletic Jabra Elite 8 Active Headset Review: Sturdy Design & Exceptional Sound Quality"
-date: 2024-08-29T06:38:21.920Z
-updated: 2024-08-30T06:38:21.920Z
+date: 2024-12-05T20:54:58.709Z
+updated: 2024-12-12T01:18:53.394Z
 tags:
   - product-reviews
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/ef372663750da3323ed4b8491ee9b4b175fd85bfc
 ---
 
 ## Athletic Jabra Elite 8 Active Headset Review: Sturdy Design & Exceptional Sound Quality
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -99,8 +103,9 @@ Expand
 [$199 at jabra](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2000062/https://www.jabra.com/elite-8-active) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fjabra-elite-8-active-in-ear-headphone-with-military-grade-durability-black%2F6553261.p%3FskuId%3D6553261) [See at Amazon](https://www.amazon.com/Jabra-Elite-Active-Wireless-Earbuds/dp/B0CB92Z7V2?crid=N4Y5761F37L9&keywords=jabra+elite+8+active&qid=1693498183&sprefix=kabra+elite+8+activ%2Caps%2C141&sr=8-4&ufe=app%5Fdo%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0&th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2000062&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fjabra-elite-8-active-review%2F&asc%5Fcampaign=Affiliate) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Running With the Jabra Elite 8 Active
 
  I can verify that the Elite 8 Active are at least somewhat durable because, within three minutes of leaving my house to go on a run, one fell out of my ear and hit the ground. It still worked fine after I picked it up. Unfortunately, they always felt on the verge of falling out without any rubber wings or mechanism to secure the Elite 8 Active in my ears.
@@ -115,9 +120,6 @@ Expand
 
 ![Jabra Elite 8 Active in blue showing the ear tip](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/96dc723b-c508-435e-b32d-60c1ff8059e3-1.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  The above was my experience with the Jabra Elite 8 Active while running and exercising. My experience with the earbuds while sitting at my desk or standing in my kitchen was much different. They sat in my ears fine and rarely felt like they would fall out. People’s mileage will vary for fit, obviously, but especially during more intense activities.
@@ -130,12 +132,13 @@ Tyler Hayes / How-To Geek
 
  If you don’t need the toughest durability ratings against sweat, water, dust, and dropping, then I would recommend considering the Elite 10\. If you want a more rugged pair of earbuds, then the Elite 8 Active are still the way to go.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ##  Durability in Tough Environments
 
 ![Elite 8 Active earbuds dripping with water from going in a pool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/07f497c9-4668-4509-ba7d-98b5f6654ecb.JPG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -145,9 +148,6 @@ Tyler Hayes / How-To Geek
 
 ![Elite 8 Active earbuds resting at the bottom of a shallow pool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/54b2d541-03c2-409b-b7df-37bf8a2edf74.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
 Elite 8 Active earbuds resting at the bottom of a shallow pool.
@@ -161,6 +161,10 @@ Elite 8 Active earbuds resting at the bottom of a shallow pool.
 ##  Sound and Call Quality
 
 ![Showing the Jabra Elite 10 earbuds next to the Elite 8 Active](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/da919e9d-3e27-4db8-8ef7-1b639df1e934.JPG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -177,8 +181,9 @@ The cocoa-colored Elite 10 have an oval ear tip compared to the more traditional
  There are six microphones across the two earbuds to handle [active noise cancelation](https://facebook-clips.techidaily.com/updated-step-by-step-sharing-twitch-on-your-fb-page-for-2024/), HearThrough transparency, and calls. The ANC blocked plenty of outside noise while HearThrough provided good awareness while running on the street. While the call quality was decent, the clarity sounded a little lacking for the $200 price point. That, however, is not the point of these earbuds, and they can absolutely handle taking a call while leaving the gym.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Microphone Test: Inside a Quiet Room
 
 Your browser does not support the video tag. 
@@ -187,10 +192,6 @@ Your browser does not support the video tag.
 
 Your browser does not support the video tag. 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ##  Battery Life and the Jabra Sound+ App
 
  At the top end, the Jabra Elite 8 Active are rated for a total of 56 hours of listening time, using the charging case. More practically, the earbuds should get around 8 hours of listening time while using ANC—or 14 hours with ANC turned off.
@@ -201,9 +202,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Much like recent Jabra earbuds, the Elite 8 Active have clicky buttons to control audio. They were responsive and easier to use than touch controls. I hate using touch controls on earbuds while running. These ones handled pausing audio and skipping track well while on the road.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Price and Availability
 
  The Jabra Elite 8 Active went on sale on August 31, 2023, for $199\. They’re available on the [company’s website](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2000062/https://www.jabra.com/elite-8-active) as well as at retail locations like Best Buy and Amazon.
@@ -219,6 +217,10 @@ Tyler Hayes / How-To Geek
  I can’t say whether they’re the world’s toughest earbuds, which seems hard to prove, but they did keep working for me through several drops and lots of sweat. If nothing else, the company’s longer two-year warranty at least puts some credence to the claim.
 
 ![Elite 8 Active in a blue color](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/cleanshot_2023-08-18_at_08-44-51_2x-removebg-preview.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Jabra Elite 8 Active
 
@@ -284,8 +286,6 @@ Expand
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -293,4 +293,22 @@ Expand
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-creating-smooth-audio-flows-with-pp-for-2024/"><u>[New] Creating Smooth Audio Flows with PP for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-iphoneandroid-choose-great-focus-shots/"><u>[New] IPhone/Android Choose Great Focus Shots</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-survival-of-the-undead-cutthroat-top-8-zombie-titles/"><u>[New] Survival of the Undead Cutthroat Top 8 Zombie Titles</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-and-customer-feedback-on-the-all-encompassing-eero-pro-mesh-router/"><u>Expert Analysis and Customer Feedback on the All-Encompassing Eero Pro Mesh Router</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/how-to-record-whatsapp-call-for-2024/"><u>How to Record WhatsApp Call for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 11 to Android? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apps-on-iphone-6-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apps on iPhone 6?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-visual-communication-with-premiere-written-by-jane-smith-expert-in-digital-artistry/"><u>In 2024, Pioneering Visual Communication with Premiere' Written by Jane Smith, Expert in Digital Artistry</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-video-scaling-on-mac-for-perfect-instagram-posts/"><u>Mastering Video Scaling on Mac for Perfect Instagram Posts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-vivo-v27-pro-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Vivo V27 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-x-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone X Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/speakers-file-extract-and-analysis-for-2024/"><u>Speaker's File Extract & Analysis for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/webcam-capture-basics-for-hp-and-chromebook-owners/"><u>Webcam Capture Basics for HP and Chromebook Owners</u></a></li>
+</ul></div>
 

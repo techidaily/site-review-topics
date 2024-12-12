@@ -1,7 +1,7 @@
 ---
 title: Unboxing and Testing Plugable's New Thunderbolt
-date: 2024-08-29T06:39:49.241Z
-updated: 2024-08-30T06:39:49.241Z
+date: 2024-12-10T02:20:49.733Z
+updated: 2024-12-11T20:49:22.352Z
 tags:
   - product-reviews
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ---
 
 ## Unboxing and Testing Plugable's New Thunderbolt
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -59,6 +63,10 @@ Plugable's latest Thunderbolt 4 and USB4 docking station delivers ample I/O for 
 
 [$270 at Amazon](https://www.amazon.com/dp/B0CFC9CR5W?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001020&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fplugable-thunderbolt-4-dock-review%2F&asc%5Fcampaign=Affiliate) [$290 at Plugable](https://plugable.com/products/tbt4-udx1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  No HDMI 2.1 Is a Major Letdown
 
 ![The Plugable Thunderbolt 4 set up with a laptop and monitor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/the-plugable-thunderbolt-4-set-up-with-a-laptop-and-monitor_53296845222_o.jpg) 
@@ -72,8 +80,9 @@ Sergio Rodriguez / How-To Geek
 ![Power button and lights on the Plugable Thunderbolt 4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/power-button-and-lights-on-the-plugable-thunderbolt-4_53298090974_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  Outside of the HDMI being 2.0, you’ll find the rest of the I/O on Plugable’s Thunderbolt 4 dock to be pretty robust. For starters, there’s a total of four USB-A 10Gbps ports here, which is pretty good compared to other Thunderbolt 4 docks out there. This gives you plenty of ports to hook up a mouse, keyboard, printer, and headset all straight to the dock without anything else needed.
@@ -82,33 +91,20 @@ Sergio Rodriguez / How-To Geek
 
  Around the back (where the host port _should_ be), you’ll find two more Thunderbolt 4 ports capable of 40Gbps bandwidth and up to 15W charging, the remaining three USB-A 10Gbps plugs, 2.5G ethernet, and the HDMI 2.0 output. All-in-all, this dock does allow you to have an entire desk plugged in, including two displays, thanks to the bundled USB-C to HDMI adapter. If you’re looking for a way to simplify your desk setup down to a single cable, this could be a fantastic solution.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  A Sleek Design Pairs Well With Apple’s Space Gray Computers
 
 ![Cables plugged into the Plugable Thunderbolt 4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/cables-plugged-into-the-plugable-thunderbolt-4_53297717201_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  The overall design of Plugable’s Thunderbolt 4 dock is sophisticated, yet understated. The overall color scheme paired perfectly with my M1 Max MacBook Pro in Space Gray, and I loved the aesthetic overall. The black front and back blend seamlessly with my desk, and the finned cooling design on the side is a nice touch. Those with an Apple computer will likely love the aesthetic, and if you have a Windows-based setup, it’ll still look great sitting on your desk, though the color might not match quite as perfectly as it does with Apple’s computers.
 
  This dock also boasts a quality feel thanks to the majority of the parts being made out of aluminum. There’s a nice heft to it, and you won’t find the dock sliding around when plugging in your laptop unless you really pull on it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ##  The Included 1M Thunderbolt 4 Cable and HDMI to USB-C Adapter Is a Nice Touch
 
 ![Cables included with the Plugable Thunderbolt 4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/cables-included-with-the-plugable-thunderbolt-4_53297717286_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  In times past, when buying Thunderbolt docks, I always had to buy a separate cable because the included one was typically just 0.3 meters long. Well, Plugable went the extra mile here—rightfully so, for the price—and includes a 1-meter cable to hook your laptop up with.
@@ -118,6 +114,10 @@ Sergio Rodriguez / How-To Geek
 ##  Should You Buy the Plugable Thunderbolt 4 Dock?
 
 ![Thunderbolt icon on the Plugable Thunderbolt 4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/thunderbolt-icon-on-the-plugable-thunderbolt-4_53296845237_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -130,8 +130,9 @@ Sergio Rodriguez / How-To Geek
 ![Plugable Thunderbolt 4 USB4 Docking Station](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/plugable-thunderbolt-4-usb4-docking-station.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  Plugable Thunderbolt 4 and USB4 Docking Station (TBT4-UDX1)
 
 7/ 10 
@@ -148,8 +149,6 @@ Plugable's latest Thunderbolt 4 and USB4 docking station delivers ample I/O for 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +156,16 @@ Plugable's latest Thunderbolt 4 and USB4 docking station delivers ample I/O for 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook.techidaily.com/evolution-of-interaction-the-top-4-transformative-social-media-influences/"><u>Evolution of Interaction: The Top 4 Transformative Social Media Influences</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-fatigued-performance-in-win10plusedge-browser/"><u>Fixing Fatigued Performance in Win10+Edge Browser</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-plus-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 Plus to other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-samsung-galaxy-s24plus-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Samsung Galaxy S24+ Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-oppo-a38-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Oppo A38 has been deleted</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/techniques-for-duplicating-multimedia-elements-across-pages-a-guide-using-flipbuilder/"><u>Techniques for Duplicating Multimedia Elements Across Pages: A Guide Using FlipBuilder</u></a></li>
+</ul></div>
 

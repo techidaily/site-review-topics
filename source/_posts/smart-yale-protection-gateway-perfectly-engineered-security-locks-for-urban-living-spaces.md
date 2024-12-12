@@ -1,7 +1,7 @@
 ---
 title: Smart Yale Protection Gateway - Perfectly Engineered Security Locks for Urban Living Spaces
-date: 2024-08-29T06:38:48.284Z
-updated: 2024-08-30T06:38:48.284Z
+date: 2024-12-05T17:28:26.297Z
+updated: 2024-12-11T20:57:04.096Z
 tags:
   - product-reviews
 categories:
@@ -100,9 +100,17 @@ Expand
 
 Expand 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Design: Modern Cosmetics
 
 ![The back cover removed from the Yale Approach Lock](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-back-cover-removed-from-the-yale-keypad_53678334926_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -114,13 +122,14 @@ Jerome Thomas / How-To Geek
 
 ![The Yale Approach Lock with back cover removed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-yale-approach-lock-with-back-cover-removed_53677466177_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  Every Approach Lock also comes with a Yale Connect Wi-Fi bridge and a magnetized DoorSense module. The former requires an AC outlet and is about the size of a doorbell chime or smart plug. The latter is no bigger than my thumb and is designed to be mounted on the door frame or jamb. Additional contents include installation hardware and user manuals.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ##  Installation and Setup: Just Bring a Screwdriver
 
 ![The Yale Approach Lock with tools and accessories](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-yale-approach-lock-with-tools-and-accessories_53678553938_o.jpg) 
@@ -139,9 +148,6 @@ Close
 
  After the Connect finishes updating, I recommend performing a deadbolt calibration. I was having issues getting the Approach Lock to fully extend my deadbolt, but this problem disappeared after I took a couple of minutes to get things fine-tuned. You can find the “Calibrate” option on the “Lock Settings” screen, housed under “Utilities.”
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Using the Yale Approach Lock: More Pros than Cons
 
  I had a couple of issues when using the Yale Approach Lock, but for the most part, I was very satisfied with my overall experience. So how about we get the cons out of the way?
@@ -154,6 +160,10 @@ Close
 
  The Door Ajar setting was convenient, too. That little DoorSense module was smart enough to detect my door being left open; and I had the Yale Access app set up to send me a Smart Alert if the door wasn’t closed within one minute.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Using the Yale Access App: Screens and Menus You’ll Want to See
 
 ![The home page of the Yale Access app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/yale-access-front-door-1.jpeg) 
@@ -162,20 +172,18 @@ Michael Bizzaco / How-To Geek
 
 ![The Activity screen on the Yale Access app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/yale-access-activity-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Michael Bizzaco / How-To Geek
 
 ![The House Settings screen in the Yale Access app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/yale-access-house-settings-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Michael Bizzaco / How-To Geek
 
 ![The Lock Settings screen in the Yale Access app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/yale-access-lock-settings-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 Michael Bizzaco / How-To Geek
 
 Close 
@@ -190,9 +198,6 @@ Close
 
  One major complaint here: Unfortunately, the Yale Access app doesn't have a battery life indicator as part of its UI. If the batteries start running low, you _will_ receive a notification, but there's still no way to check how much charge is left before these low-battery alerts go out. Maybe standard AA batteries were a way to cut engineering costs. A rechargeable lithium-ion battery pack for the Approach Lock makes more sense to me though.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the Yale Approach Lock with Wi-Fi?
 
  The [Yale Approach Lock with Wi-Fi](https://www.amazon.com/dp/B0CWVYQ6YH?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003210&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fyale-approach-lock-with-wi-fi-review%2F&asc%5Fcampaign=Authority) isn’t the best smart lock ever made, but it’s a fantastic way to add security to an apartment home, dorm, business, or other important locations. It’s also a terrific buy for those of us operating Airbnb rentals. All your guests will have to do is download the Yale app and input the lock code you’ve assigned to them.
@@ -202,8 +207,9 @@ Close
 ![The Yale Approach Lock](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/yale-approach-lock-product-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  Yale Approach Lock
 
 7/ 10 
@@ -244,8 +250,6 @@ Expand
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -253,4 +257,18 @@ Expand
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/eliminating-error-code-740-elevation-woes-on-windows-devices/"><u>Eliminating Error Code 740: Elevation Woes on Windows Devices</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-iphone-12-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on iPhone 12</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6s-plus-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6s Plus to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-malfunctioning-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Identify malfunctioning drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-capturing-impactful-voice-top-tips-for-podcasting-interviews-on-idevices/"><u>In 2024, Capturing Impactful Voice Top Tips for Podcasting Interviews on iDevices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-infinix-smart-8-plus-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Infinix Smart 8 Plus to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/learn-how-to-directly-control-your-iphones-orientation-for-2024/"><u>Learn How to Directly Control Your iPhone's Orientation for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-samsung-galaxy-m14-5g-by-fonelab-android-recover-data/"><u>Recover lost data from Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone X | Dr.fone</u></a></li>
+</ul></div>
 

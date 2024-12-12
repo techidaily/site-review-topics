@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to share/fake gps on Uber for Tecno Spark Go (2023) | Dr.fone
-date: 2024-12-01T16:47:14.631Z
-updated: 2024-12-05T21:29:46.054Z
+date: 2024-12-09T01:32:37.110Z
+updated: 2024-12-12T02:43:46.406Z
 tags: 
   - virtual location chang
   - location changer
@@ -36,20 +36,20 @@ The Process
 ![install i spoofer](https://drfone.wondershare.com/2020/install_i_spoofer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2.** Connect the iDevice with the computer and tap trust on it. Launch the program and it will detect the iDevice with ease and perfection.
 
 ![connect iDevice with computer](https://drfone.wondershare.com/2020/connect_iDevice_with_computer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3.** Use the single simulation mode to make sure that you get to the desired location as expected. Click on the move and the GPS location will be faked and the iDevice will also show the same location as on the iSpoofer. This completes the process in full.
 
 ![ispoofer location change](https://drfone.wondershare.com/2020/ispoofer_location_change.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to change GPS on Android?
 
@@ -71,9 +71,17 @@ Faking GPS on android is also super easy and it allows the users to spoof the lo
 
 ![spoof location on android](https://drfone.wondershare.com/2020/spoof_location_on_android.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to share a fake GPS on Uber for iPhone
 
 For fake GPS Uber, many applications can be used to get the work done on the iPhone. It is however advised to make sure that the best application is chosen for the results.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.1 How to select a Good Location Application for iPhone?
 
@@ -120,7 +128,7 @@ Connect the iPhone with the system and click the get started on the computer to 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3: Locate your Phone**
@@ -128,10 +136,6 @@ Connect the iPhone with the system and click the get started on the computer to 
 To make sure that you get yourself located make sure that you press the “center on” button. The program will get you located with ease and perfection.
 
 ![virtual location 3](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4: Teleportation**
 
@@ -151,6 +155,10 @@ The iDevice of your will also show the same location as on the program and this 
 
 ![virtual location 6](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to share a fake GPS on Uber for Android
 
 ### Method 1: Hola Fake Location
@@ -164,6 +172,10 @@ For Uber fake GPS 2019 this is the best and the easiest method that you can perf
 This is another important method that can be used to make sure to easily fake GPS Uber 2019. Just select the settings to GPS only > choose the location > press the Go button and fake GPS will be inserted into your device.
 
 ![gps go fake location android](https://drfone.wondershare.com/2020/gps_go_fake_location_android.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Use Location Changer
 
@@ -222,10 +234,6 @@ Facebook Messenger’s location-sharing feature will not work without the necess
 
 How do I share my location on Messenger? As mentioned earlier, it’s very easy to use Facebook Messenger for location sharing. All it takes is just a few clicks on the platform. No need to manually type in the address or sketch the landmarks. Messenger does the rest of the work for you. In actuality, there are three ways to share your location on Messenger. Any of them can be of great help to you, depending on your current situation. Do you want to try them now? Check out the tutorials below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Share location on Facebook Messenger via Live Location
 
 How to share my location on Messenger? Well, the first option you can try is through Live Location. It works best if you wish to tell somebody where exactly you are and give updates from time to time. Don’t worry. Although it looks complicated at a glance, in reality, it’s actually not rocket science. It only takes a few seconds to complete. Below is a tutorial on how to share Live Location on Messenger in easy steps.
@@ -280,6 +288,10 @@ How do I share my location in Messenger if I cannot find it on the map provided?
 
 ![send google maps location](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **NOTE:** Of course, you can only send pinned locations via Google Maps. The Facebook Messenger’s Live Location is available within the platform only.
 
 ## BONUS TIP: Protect Your Privacy With [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
@@ -301,19 +313,11 @@ There’s no denying that the location-sharing feature of Facebook Messenger is 
 
 ![move to the selected location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 7:** Immediately, the location settings on your smartphone will be changed according to the inputs you have provided to Wondershare Dr.Fone. You can verify it by checking the current location registered on your Maps app. After confirming that your mobile device is now showing a different location, you can now start browsing without worrying about your location’s privacy.
 
 ![location changed on smartphone](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 **NOTE:** Resort to Wondershare Dr.Fone - Virtual Location if your internet browsing does not require you to provide your real address. If you wish to restore your original location settings, simply close the Wondershare Dr.Fone application and restart your smartphone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -338,10 +342,6 @@ But as we said before, it is quite uncomfortable to know that someone is trackin
 ## Part 1: Turn Off Location on Life360
 
 ![turn off location on life360](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You can turn off the location to stop the Life360 tracking feature. But, with this, keep the background app refresh off. Follow the following steps to turn off the location on life360.
 
@@ -384,10 +384,6 @@ Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
 - After a search for the desired location, click on the "move here" button.
 - Finally, you are ready to spoof to any location in Life360.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -400,6 +396,10 @@ Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.2 How To Fake Life360 Location On Android
 
 To spoof Life360 on Android, you can install ant fake location app on your device. There are many fake GPS apps available for Android, some of which are free, and some are paid.
@@ -407,10 +407,6 @@ To spoof Life360 on Android, you can install ant fake location app on your devic
 But, before using the app, you will need to enable the developer option and need to allow mock location feature of android devices. For this, go to about phone under settings and look for the build number. Once you found the build number, tap on it seven times to enable the developer option.
 
 ![how to fake life360 location](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now, follow the following steps to install any fake GPS on Android.
 
@@ -420,6 +416,10 @@ Now, follow the following steps to install any fake GPS on Android.
 - After this, go back to the settings of the phone and look for enable developer
 - Under enable developer option go to allow mock location app and select the app you installed from the list
 - Now open the app, and fill your desired location on the map. It is simple to spoof Life360 on Android
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Use a Burner Phone for Life360 Fake Location
 
@@ -445,17 +445,19 @@ Life360 is a very helpful app for parents and friends group, but still, it becom
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-game-capture-without-xboxs-intrusive-game-bar/"><u>2024 Approved Game Capture without Xbox’s Intrusive Game Bar</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-realme-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-download-of-canon-lide-110-series-usb-wireless-printer-software-compatible-with-windows/"><u>Easy Download of Canon LiDE 110 Series USB Wireless Printer Software Compatible with Windows</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/exploring-8-premium-open-source-videoconferencing-platforms-for-2024/"><u>Exploring 8 Premium Open-Source Videoconferencing Platforms for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-tecno-camon-30-pro-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Camon 30 Pro 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-plus-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Plus To Others devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-14-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 14 Plus Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>Identify malfunctioning your hardware drivers with Windows Device Manager on Windows 7</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-14-plus-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 14 Plus with iTunes</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-journey-to-visual-vigor-a-beginners-guidebook/"><u>In 2024, Journey to Visual Vigor A Beginner's Guidebook</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-3-gratuites-logiciels-de-visionnage-de-dvd-pour-windows-11-comprendre-tous-les-supports/"><u>Top 3 Gratuites Logiciels De Visionnage De DVD Pour Windows 11 - Comprendre Tous Les Supports</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-streamlined-process-altering-video-direction-in-vlc/"><u>[New] Streamlined Process Altering Video Direction in VLC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/astro-a50-mic-failure-step-by-step-fixes-to-restore-audio/"><u>Astro A50 Mic Failure? Step-by-Step Fixes to Restore Audio</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/curating-the-best-general-knowledge-content-2024-edition/"><u>Curating the Best General Knowledge Content, 2024 Edition</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/decoding-youtubes-algorithm-behind-prominent-comments/"><u>Decoding YouTube's Algorithm Behind Prominent Comments</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhance-your-play-fixing-serious-sam-4s-performance-glitches-on-windows-machines/"><u>Enhance Your Play: Fixing Serious Sam 4'S Performance Glitches on Windows Machines</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-fix-iphone-camera-not-focusing-problem/"><u>How to Fix iPhone Camera Not Focusing Problem</u></a></li>
+<li><a href="https://review-topics.techidaily.com/htc-u23-messages-recovery-recover-deleted-messages-from-htc-u23-by-fonelab-android-recover-messages/"><u>HTC U23 Messages Recovery - Recover Deleted Messages from HTC U23</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Realme GT Neo 5? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-motorola-g24-power-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Motorola G24 Power</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-best-video-editing-apps-for-mac-from-novice-to-expert/"><u>New In 2024, Best Video Editing Apps for Mac From Novice to Expert</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-realme-c53-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Realme C53</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-get-ready-to-play-top-10-free-game-download-sites-for-pc-and-android/"><u>Updated Get Ready to Play Top 10 Free Game Download Sites for PC and Android</u></a></li>
 </ul></div>
 

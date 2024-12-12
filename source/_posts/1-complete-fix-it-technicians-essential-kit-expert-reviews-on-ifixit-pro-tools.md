@@ -1,7 +1,7 @@
 ---
 title: 1. Complete Fix-It Technician's Essential Kit - Expert Reviews on iFixit Pro Tools
-date: 2024-08-29T06:38:19.146Z
-updated: 2024-08-30T06:38:19.146Z
+date: 2024-12-06T20:44:16.074Z
+updated: 2024-12-11T18:36:14.612Z
 tags:
   - product-reviews
 categories:
@@ -11,12 +11,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## 1. Complete Fix-It Technician's Essential Kit - Expert Reviews on iFixit Pro Tools
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Why You Should Care About Right to Repair](https://tiktok-video-recordings.techidaily.com/new-in-2024-avoiding-frustrations-with-tiktok-glitches/)
 * [What Comes in the iFixit Pro Tech Toolkit](https://sound-tweaking.techidaily.com/updated-2024-approved-best-audio-editors-to-remove-background-noise-from-audio-windows/)
 * [Fixer Upper: Get That Stick Drift Out of Here](https://facebook-video-content.techidaily.com/new-enhanced-viewing-fb-videos-on-large-displays/)
 * [Should You Buy the iFixit Pro Tech Toolkit?](https://fix-guide.techidaily.com/how-to-revive-your-bricked-realme-11-proplus-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -64,9 +72,17 @@ The Pro Tech Toolkit has everything from a Y000 bit for next-gen Apple products 
 
 [See at Amazon](https://www.amazon.com/iFixit-Pro-Tech-Toolkit-Electronics/dp/B01GF0KV6G/?tag=hotoge-20&ascsubtag=UUhtgUeUpU228102&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fifixit-pro-tech-toolkit-review%2F&asc%5Fcampaign=Affiliate) [$75 at ifixit](https://www.ifixit.com/Store/Tools/Pro-Tech-Toolkit/IF145-307) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Why You Should Care About Right to Repair
 
 ![iFixit Pro Tech Toolkit laying on top of manuals](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/ifixit-pro-tech-toolkit-with-manual-2.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Marcus Mears III / How-To Geek_
 
@@ -92,16 +108,14 @@ Close
 
  Repairing my PS4 controller was a breeze, thanks to the tools at my disposal. As you'll read, the only outside help I called on was from household supplies like isopropyl alcohol.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ##  Fixer Upper: Get That Stick Drift Out of Here
 
 ![Person with blue gloves working on PlayStation 4 controller with iFIxit 64-Bit Driver](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/ifixit-pro-tech-toolkit-driver-focused.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 _Marcus Mears III / How-To Geek_
 
  I've been using the same [Dualshock PS4 controller](https://www.amazon.com/DualShock-Wireless-Controller-PlayStation-Midnight-4/dp/B0799976M1?tag=hotoge-20&ascsubtag=UUhtgUeUpU228102&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fifixit-pro-tech-toolkit-review%2F&asc%5Fcampaign=Affiliate) to play games like Rocket League and DARK SOULS: REMASTERED for a few years now, and I was starting to notice some stick drift on the left side and a few stiff buttons all around. Fortunately for me, iFixit created a [written guide on fixing stick drift](https://www.ifixit.com/Guide/How+to+Fix+Left+Joystick+Drift+on+a+DualShock+PS4+Controller+Without+Soldering/140074) and a [video guide that showcases an overall teardown and button cleaning](https://www.youtube.com/watch?v=g2iyFrKAq2U).
@@ -146,10 +160,6 @@ Close
 
 ![Person with blue gloves using iFixit Blunt Tweezers to pointing to white disk inside of Dualshock PS4 controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/ifixit-pro-tech-toolkit-white-disk-reinstalled.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 _Marcus Mears III / How-To Geek_
 
  With the chambers cleaned out, I was onto cleaning and reassembly. With another cotton swab, I got rid of the gunk and grime you wouldn't be able to reach without taking the controller apart. Then, I placed the two white disks back into the chambers with tweezers and used my fingers to pinch them shut. I popped the left joystick back on using my hand.
@@ -160,9 +170,6 @@ _Marcus Mears III / How-To Geek_
 
  That's all there is to it! Instead of buying a whole new controller and tossing the other out, you can feel the sense of accomplishment that comes with saving money and repairing something with your own hands.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Should You Buy the iFixit Pro Tech Toolkit?
 
 ![iFixit 64-Bit Driver on top of Pro Tech Toolkit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/ifixit-pro-tech-toolkit-64-bit-driver-on-closed-case-1.jpg) 
@@ -177,23 +184,8 @@ _Marcus Mears III / How-To Geek_
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/ifixit-pro-tech-toolkit-review-img-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  iFixit Pro Tech Toolkit
 
 9/ 10 
@@ -208,8 +200,6 @@ The Pro Tech Toolkit has everything from a Y000 bit for next-gen Apple products 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -217,4 +207,21 @@ The Pro Tech Toolkit has everything from a Y000 bit for next-gen Apple products 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-crafting-the-next-big-thing-your-guide-to-youtubes-best-video-types/"><u>[New] In 2024, Crafting the Next Big Thing Your Guide to YouTube's Best Video Types</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-viewer-writers-guide-for-2024/"><u>[New] The Ultimate Viewer' Writers Guide for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-ultimate-picture-quality-tvs-best-10-in-4k-for-2024/"><u>[New] Ultimate Picture Quality TVs – Best 10 in 4K for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-itel-a05s-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Itel A05s Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/guide-to-effortless-deletion-of-social-media-updates/"><u>Guide to Effortless Deletion of Social Media Updates</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-11-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 11 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-top-innovations-best-vr-tech-for-drones/"><u>In 2024, Top Innovations Best VR Tech for Drones</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-mkv-video-on-huawei-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Issues playing MKV video on Huawei</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-art-of-video-format-shifting-from-youtube-for-apple-devices-expert-tutorial-on-iphoneipod-video-converters/"><u>Master the Art of Video Format Shifting From YouTube for Apple Devices - Expert Tutorial on iPhone/iPod Video Converters</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-blaze-pro-5g-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Blaze Pro 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-vivo-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Vivo</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-14-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 14 Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-secrets-of-squaring-up-making-square-format-videos-with-imovie-for-instagram-for-2024/"><u>The Secrets of Squaring Up Making Square-Format Videos with iMovie for Instagram for 2024</u></a></li>
+</ul></div>
 

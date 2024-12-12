@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Tablo (4Th Generation) DVR: Access Unlimited Local TV for Free with a Few Important Considerations"
-date: 2024-08-29T06:38:54.152Z
-updated: 2024-08-30T06:38:54.152Z
+date: 2024-12-09T02:25:54.425Z
+updated: 2024-12-12T01:35:02.261Z
 tags:
   - product-reviews
 categories:
@@ -61,11 +61,19 @@ Watch and record live TV, subscription-free. Just one Tablo delivers antenna TV 
 
 [$100 at Amazon](https://www.amazon.com/Tablo-Broadcast-TV-Streaming-Whole-Home/dp/B0CBVT6SLL?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000923&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftablo-4th-generation-dvr-review%2F&asc%5Fcampaign=Affiliate) [See at Tablo](https://us-store.tablotv.com/products/tablo?variant=44315140096298) [$99.99 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Ftablo-4th-gen-2-tuner-128gb-over-the-air-dvr-streaming-player-white%2F6554313.p%3FskuId%3D6554313) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Price and Availability
 
  The latest Tablo DVR is available for $129.95 with an antenna included in the box, called the "Tablo Total System." The antenna is advertised as having a maximum range of 35 miles, but that will depend on the terrain in your area and where the TV towers are physically located. If you already have an antenna or plan to buy a separate one, you can buy the Tablo DVR on its own for $99.95.
 
  You can buy the Tablo DVR from [Tablo's online store](https://www.tablotv.com/product/), [Amazon](https://amazon.com/dp/B0CBVT6SLL?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000923&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftablo-4th-generation-dvr-review%2F&asc%5Fcampaign=Affiliate), [Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Ftablo-4th-gen-2-tuner-128gb-over-the-air-dvr-streaming-player-white%2F6554313.p%3FskuId%3D6554313), and other retailers. Not all stores sell both versions, so be sure to check that you're not over paying for gear you don't need.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Design of a Modern DVR
 
@@ -75,9 +83,6 @@ Watch and record live TV, subscription-free. Just one Tablo delivers antenna TV 
 
 ![Ports on the Tablo 4th Gen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo-4th-gen-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
  The USB 2.0 port can be used to add more storage for recordings. Tablo claims you can connect USB hard drives up to 8TB in size, which would give you around 1,000 hours of HD storage. Any external USB hard drive or solid-state drive should work, but not flash drives, since most of them can't sustain the read and write speeds required for streaming media. The new Tablo DVR has enough built-in flash storage for 50 hours of HD recordings.
@@ -88,17 +93,10 @@ Corbin Davenport / How-To Geek
 
 ![Holding a TV antenna from Tablo 4th Gen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo-4th-gen-4.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
 ![Holding a TV antenna from Tablo 4th Gen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo-4th-gen-5.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
 Close 
@@ -126,17 +124,15 @@ Close
  The player interface is pretty simple. There's a play and pause button in the center, and you can jump forwards and backward using the 15-second buttons or the timeline scrubber. There's also some basic information at the top, including the channel name and number, age rating, and program title. However, you can't switch channels from the player (you have to close the stream first), and there's no option to use a Chromecast or AirPlay device. I also noticed on my iPhone 15 that the app wasn't properly rotating when switching to the player. The video feed was rotated, but the app remained in portrait mode, leaving the phone's gesture button on the wrong side. The Android and iPad apps didn't have the same issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Performance and Playback
 
  The Tablo DVR has two built-in tuners, meaning you can watch and record up to two live channels simultaneously, and the Tablo can stream TV to up to six devices simultaneously. For example, two people could be watching different live TV channels while four other people are watching recordings, or six people could watch recordings while the Tablo DVR records shows on two channels. That can be helpful for large households, but not for sharing with friends or family somewhere else—the 4th Gen Tablo DVR can't be accessed from outside your local network, unlike [Plex live TV](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2000923/https://www.plex.tv/tv/) and [previous Tablo models](https://support.tablotv.com/hc/en-us/articles/201445346-Can-I-watch-live-TV-and-recorded-programs-outside-my-home-).
 
 ![Tablo player](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/img_5401.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Tablo says in [the FAQ section on its website](https://www.tablotv.com/product/) that a 4-tuner Tablo is under development, which would allow more simultaneous recordings and/or more devices streaming live TV at once. If you _absolutely_ need more tuners right now, you could buy another Tablo unit and switch between them as needed in the Tablo app. You would also need another antenna for the other Tablo, or you could share the same antenna across multiple devices with an [amplified splitter](https://www.amazon.com/Amplified-Splitter-Pixelated-Low-Strength-Distributes/dp/B083KKFJLY?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000923&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftablo-4th-generation-dvr-review%2F&asc%5Fcampaign=Affiliate).
 
  With the Tablo connected to my router with an ethernet cable, I didn't have any problems watching TV. Live channels opened within a few seconds (as long as the antenna signal was strong), and playback for recordings started instantly. Tablo also passes through 5.1 Surround Sound when available, so audio quality in live TV and recordings should match the original broadcast. The video quality also looked great for me, but the resolution will depend on the given channel. Many broadcast channels in the US are still 720p or 480p/480i.
@@ -144,6 +140,10 @@ Close
  Unfortunately, the Tablo DVR does not support [ATSC 3.0](https://www.watchnextgentv.com/), just the regular ATSC 1.0 standard that supports up to 1080p (there is no ATSC 2.0). ATSC 3.0, also branded as NextGen TV, is the new standard for over-the-air television that supports 4K playback, interactive content, and other features. The number of channels broadcasting in ATSC 3.0 [is growing](https://www.watchnextgentv.com/markets/), but there have been [some issues with DRM-breaking DVR features](https://youtube-tips.techidaily.com/approved-unlocking-youtube-writers-royalties-with-ad-driven-earnings-cpm/), which might be why Tablo didn't bother adding it to this model.
 
  Tablo's lack of ATSC 3.0 support doesn't mean you lose any channels, though. The FCC has [said](https://docs.fcc.gov/public/attachments/FCC-23-53A1.pdf) that channels must continue broadcasting ATSC 1.0 until July 17, 2027, at the earliest, and it's likely that most channels will continue broadcasts past that point (otherwise they would lose viewers).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Competition
 
@@ -156,6 +156,10 @@ Close
 ##  Should You Buy the Tablo 4th Gen?
 
 ![Tablo 4th Gen from top](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo-4th-gen-2.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Corbin Davenport / How-To Geek
 
@@ -170,8 +174,9 @@ Corbin Davenport / How-To Geek
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  Tablo 4th Gen
 
 8/ 10 
@@ -186,8 +191,6 @@ Watch and record live TV, subscription-free. Just one Tablo delivers antenna TV 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +198,21 @@ Watch and record live TV, subscription-free. Just one Tablo delivers antenna TV 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-advanced-screen-recording-methods-on-dell-laptops-for-2024/"><u>[New] Advanced Screen Recording Methods on Dell Laptops for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-astute-selection-of-12-motion-cameras-with-onboard-positioning/"><u>[New] In 2024, Astute Selection of 12 Motion Cameras With Onboard Positioning</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-dawn-evaluation-non-conformist-thoughts/"><u>[Updated] In 2024, Dawn Evaluation Non-Conformist Thoughts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/2-ways-to-transfer-text-messages-from-xiaomi-13t-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Xiaomi 13T Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-google-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Google</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-11-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 11 Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/riconverti-i-tuoi-file-mmf-in-audio-wav-senza-costi-tramite-movavi-web/"><u>Riconverti I Tuoi File .MMF in Audio .WAV Senza Costi Tramite Movavi Web</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-ultimate-top-5-picks-must-have-avimpeg-video-converters-for-seamless-formatting/"><u>The Ultimate Top 5 Picks: Must-Have AVI/MPEG Video Converters for Seamless Formatting</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-poco-x5-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Poco X5 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-oppo-f23-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Oppo F23 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/turning-off-igtv-on-your-account/"><u>Turning Off IGTV on Your Account</u></a></li>
+</ul></div>
 

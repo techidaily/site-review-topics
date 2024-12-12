@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Stop Life360 from Tracking You On Vivo Y28 5G? | Dr.fone
-date: 2024-11-28T23:30:18.010Z
-updated: 2024-12-05T17:41:06.898Z
+date: 2024-12-08T17:20:03.710Z
+updated: 2024-12-11T23:25:32.565Z
 tags: 
   - virtual location chang
   - location changer
@@ -26,6 +26,10 @@ This is where spoofing Life360 comes handy. No matter whether you own an iPhone 
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What is Life360?
 
@@ -72,10 +76,6 @@ Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
 
 ![click on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - Now you will see a map interface with your current location.
 - On the map, you can select teleport mode from the top right corner and can search for the desired location.
 
@@ -104,6 +104,10 @@ But, before using the app, you will need to enable the developer option and need
 
 ![how to fake life360 location](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, follow the following steps to install any fake GPS on Android.
 
 - Open Google Play Store and search for the fake location app
@@ -114,7 +118,7 @@ Now, follow the following steps to install any fake GPS on Android.
 - Now open the app, and fill your desired location on the map. It is simple to spoof Life360 on Android
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Use a Burner Phone for Life360 Fake Location
@@ -122,6 +126,10 @@ Now, follow the following steps to install any fake GPS on Android.
 The burner is a phone on which you can install Life360 and can put it in one place while going out with another phone. It is a great trick to stop Life360 from tracking you. The only thing is that you should need to have two phones.
 
 For the burner, you can use any device with Google play store or App store, and it can be an old phone as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -155,6 +163,10 @@ Here are the drawbacks you might encounter if you're using Fake GPS Mod APK on y
 
 Some of the obvious drawbacks of using Fake GPS Mod include putting your smartphone at risk of APKs and being exclusive on Android, essentially leaving out iOS users. Downloading a great alternative in [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) solves all your problems from location-based apps and games to make your life easier whether you're on iOS or Android.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Features of using Dr.Fone - Virtual Location
 
 Here are some of the best reasons why you should try out Dr.Fone - Virtual Location today.
@@ -180,10 +192,6 @@ Simply follow the steps below to start spoofing your GPS Location with Dr.Fone -
 
 ![drfone get started ios android](https://images.wondershare.com/drfone/article/2022/12/dr-fone-get-started.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** Choose the iOS/Android device to connect with Dr.Fone - Virtual Location.
 
 ![connect ios android to drfone](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
@@ -207,10 +215,6 @@ IPhone users can connect to Dr.Fone - Virtual Location without connecting a USB 
 **(Optional) Step 5-C:** If you want to select spots you can pass one by one, click **Jump teleport mode** in the upper right corner. Choose your desired spots and click **Start Moving**. Afterward, click **Last Point** or **Next Point** to jump between spots.
 
 ![jump teleport using dr fone](https://images.wondershare.com/drfone/article/2022/12/dr-fone-jump-teleport.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:**
 
@@ -239,7 +243,7 @@ Facebook is well aware that sharing location details is essential to its users. 
 ![facebook messenger live location](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 What if you wish to send a particular address from another location? There is no problem with that. Messenger allows users to search for a specific place, trace it on the map, and share the details. The receiver can view it in map form and get directions if necessary. See? It’s very easy and convenient. No need to type in long addresses just to share a particular location with your friend. You just have to find it precisely on the map and send the information afterward.
@@ -263,29 +267,21 @@ Facebook Messenger’s location-sharing feature will not work without the necess
 
 ![messenger permission settings](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 5:** Click **Location.**
 
 ![location permission on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 6:** Select **Allow Only While Using the App.** If you’re quite conservative regarding this matter, click **Ask Every Time** instead. After that, Facebook Messenger will have access to your location information.
 
 ![allow messenger access](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. How to Share My Location on Messenger?
 
 How do I share my location on Messenger? As mentioned earlier, it’s very easy to use Facebook Messenger for location sharing. All it takes is just a few clicks on the platform. No need to manually type in the address or sketch the landmarks. Messenger does the rest of the work for you. In actuality, there are three ways to share your location on Messenger. Any of them can be of great help to you, depending on your current situation. Do you want to try them now? Check out the tutorials below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Share location on Facebook Messenger via Live Location
 
@@ -296,10 +292,6 @@ How to share my location on Messenger? Well, the first option you can try is thr
 - **Step 3:** Click the **More (+)** icon at the bottom-left corner of the screen.
 
 ![more button messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 4:** Right after, click **Location.**
 
@@ -321,10 +313,6 @@ Let’s say there is a specific place you want to visit with your friend. Is the
 
 ![search location on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 6:** Choose one from the suggested results and then click on it. The details will then be forwarded immediately to the intended receiver.
 
 ### Method 3: Share location on Facebook Messenger via Google Maps location
@@ -340,9 +328,17 @@ How do I share my location in Messenger if I cannot find it on the map provided?
 
 ![location choices](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Access the menu bar below the map and then click **Share.**
 
 ![share google maps location](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** From there, click **Chats** or the **Facebook Messenger** logo.
 - **Step 6:** Find the receiver from the provided list and then click the **Send** button next to its name.
@@ -370,6 +366,10 @@ There’s no denying that the location-sharing feature of Facebook Messenger is 
 
 ![move to the selected location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 7:** Immediately, the location settings on your smartphone will be changed according to the inputs you have provided to Wondershare Dr.Fone. You can verify it by checking the current location registered on your Maps app. After confirming that your mobile device is now showing a different location, you can now start browsing without worrying about your location’s privacy.
 
 ![location changed on smartphone](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
@@ -394,16 +394,19 @@ Gone are the days when you had to write invitation cards manually and deliver th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-innovative-approaches-for-clearing-background-elements-in-figma/"><u>[New] Innovative Approaches for Clearing Background Elements in Figma</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-realme-gt-5-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/comment-retrouver-des-fichiers-deletes-avec-la-commande-de-boutique-du-clavier/"><u>Comment Retrouver Des Fichiers Deletés Avec La Commande De Boutique Du Clavier</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/evasion-tactics-can-malware-bypass-detection-in-task-manager-insights-by-malwarefox/"><u>Evasion Tactics: Can Malware Bypass Detection in Task Manager - Insights by MalwareFox</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-realme-gt-5-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Realme GT 5 Device</u></a></li>
-<li><a href="https://review-topics.techidaily.com/oppo-reno-10-pro-5g-video-recovery-recover-deleted-videos-from-oppo-reno-10-pro-5g-by-fonelab-android-recover-video/"><u>Oppo Reno 10 Pro 5G Video Recovery - Recover Deleted Videos from Oppo Reno 10 Pro 5G</u></a></li>
-<li><a href="https://review-topics.techidaily.com/poco-x6-pro-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Poco X6 Pro Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-motorola-edge-40-by-fonelab-android-recover-data/"><u>Recover lost data from Motorola Edge 40</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-music-after-c02-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after C02 has been deleted</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-your-trackpad-solving-the-problem-of-nonfunctional-two-finger-scrolling/"><u>Troubleshooting Your Trackpad: Solving the Problem of Nonfunctional Two-Finger Scrolling</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/yi-action-cam-unleash-4k-videography/"><u>Yi Action Cam - Unleash 4K Videography</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-detailed-review-for-easy-hdr/"><u>[New] 2024 Approved Detailed Review for Easy HDR</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-navigate-through-dynamic-gifs-find-these-best-recorders-in-winos-for-2024/"><u>[New] Navigate Through Dynamic GIFs Find These Best Recorders in WinOS for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-apex-artists-among-online-video-titans/"><u>2024 Approved Apex Artists Among Online Video Titans</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-justifying-itop-as-your-primary-recording-software/"><u>2024 Approved Justifying ITop as Your Primary Recording Software?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-for-setting-up-wake-on-lan-capability-in-windows-11/"><u>Expert Tips for Setting Up Wake-on-LAN Capability in Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-honor-100-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/learn-the-quick-trick-project-your-devices-screen-onto-an-lg-smart-tv/"><u>Learn the Quick Trick: Project Your Device's Screen Onto an LG Smart TV</u></a></li>
+<li><a href="https://games-able.techidaily.com/modify-visual-game-settings-on-discord/"><u>Modify Visual Game Settings on Discord</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-razr-40-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Razr 40, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/reinstall-hardware-drivers-with-device-manager-on-windows-10-by-drivereasy-guide/"><u>Reinstall hardware drivers with Device Manager on Windows 10</u></a></li>
+<li><a href="https://facebook.techidaily.com/unlocking-secrets-how-to-use-friendly-feedback-tools/"><u>Unlocking Secrets: How to Use Friendly Feedback Tools</u></a></li>
 </ul></div>
 

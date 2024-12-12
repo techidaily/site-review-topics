@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to share/fake gps on Uber for OnePlus 11 5G | Dr.fone
-date: 2024-12-04T20:45:33.088Z
-updated: 2024-12-05T16:27:24.700Z
+date: 2024-12-09T00:37:54.396Z
+updated: 2024-12-11T21:25:53.441Z
 tags: 
   - virtual location chang
   - location changer
@@ -28,7 +28,7 @@ For both the iPhone and the android users faking GPS has many advantages. If you
 There are 5 apps in total that are used by Uber to make sure they get the exact location. Many of you are unaware of the fact that Uber has its navigation application called Uber Nav. Apart from this, the other 4 apps which Uber uses are Google Maps, Waze, Sygig, and Navmii.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Change GPS on iPhone?
@@ -39,6 +39,10 @@ The Process
 
 ![install i spoofer](https://drfone.wondershare.com/2020/install_i_spoofer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2.** Connect the iDevice with the computer and tap trust on it. Launch the program and it will detect the iDevice with ease and perfection.
 
 ![connect iDevice with computer](https://drfone.wondershare.com/2020/connect_iDevice_with_computer.jpg)
@@ -46,6 +50,10 @@ The Process
 **Step 3.** Use the single simulation mode to make sure that you get to the desired location as expected. Click on the move and the GPS location will be faked and the iDevice will also show the same location as on the iSpoofer. This completes the process in full.
 
 ![ispoofer location change](https://drfone.wondershare.com/2020/ispoofer_location_change.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to change GPS on Android?
 
@@ -55,6 +63,10 @@ Faking GPS on android is also super easy and it allows the users to spoof the lo
 
 ![download fake GPS android](https://drfone.wondershare.com/2020/download_fake_GPS_android.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2.** Within the software information of the phone tap the build number 7 times to enable the developer’s options.
 
 ![enable developer options android](https://drfone.wondershare.com/2020/enable_developer_options_android.jpg)
@@ -62,10 +74,6 @@ Faking GPS on android is also super easy and it allows the users to spoof the lo
 **Step 3.** Enable the mock locations on android and select the fake GPS application to get the results.
 
 ![enable mock location android](https://drfone.wondershare.com/2020/enable_mock_location_android.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4.** Select the location where you want to spoof and then press the play button. Your location will be changed and your phone will also show and lock your spoofed location.
 
@@ -88,6 +96,10 @@ To select the best application for iPhone it is advised to keep in mind the foll
 ### 2.2 App and desktop which is better
 
 For Uber GPS spoofing the desktop application is awesome. It allows more control and therefore it also lets the users get the best results. The desktop application will also let the users know about the exact location as compared to the mobile application.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The Best Desktop Location Spoofer for iPhone
 
@@ -119,15 +131,15 @@ Connect the iPhone with the system and click the get started on the computer to 
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Locate your Phone**
 
 To make sure that you get yourself located make sure that you press the “center on” button. The program will get you located with ease and perfection.
 
 ![virtual location 3](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4: Teleportation**
 
@@ -141,23 +153,11 @@ Click move here and you will get to the teleported location. It will also make s
 
 ![virtual location 5](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 6: Complete the Process**
 
 The iDevice of your will also show the same location as on the program and this completes the process in full.
 
 ![virtual location 6](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to share a fake GPS on Uber for Android
 
@@ -167,19 +167,15 @@ For Uber fake GPS 2019 this is the best and the easiest method that you can perf
 
 ![Hola fake GPS android](https://drfone.wondershare.com/2020/Hola_fake_GPS_android.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Use Fake GPS Go
 
 This is another important method that can be used to make sure to easily fake GPS Uber 2019. Just select the settings to GPS only > choose the location > press the Go button and fake GPS will be inserted into your device.
 
 ![gps go fake location android](https://drfone.wondershare.com/2020/gps_go_fake_location_android.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Use Location Changer
 
@@ -190,6 +186,10 @@ It is also one of the easiest ways to make sure that the location is changed. Yo
 ## Conclusion
 
 No matter whatever the process you use for the location spoofing it is the [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) that surpasses all with ease and perfection. It is one of the easiest and the most used programs that will make sure that the location spoofing is performed with 100% accuracy. With Dr. Fone changing location has been too easy to perform. The application is backed by a highly technical team and it will get you the results that you have always been longing for.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Stop Life360 from Tracking You On OnePlus 11 5G?
 
@@ -210,6 +210,10 @@ But as we said before, it is quite uncomfortable to know that someone is trackin
 ## Part 1: Turn Off Location on Life360
 
 ![turn off location on life360](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can turn off the location to stop the Life360 tracking feature. But, with this, keep the background app refresh off. Follow the following steps to turn off the location on life360.
 
@@ -243,10 +247,6 @@ Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
 - After this, install it and launch it. Now connect your iOS device to the system with the USB cable and click on the "get started" button.
 
 ![click on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - Now you will see a map interface with your current location.
 - On the map, you can select teleport mode from the top right corner and can search for the desired location.
@@ -285,15 +285,15 @@ Now, follow the following steps to install any fake GPS on Android.
 - Under enable developer option go to allow mock location app and select the app you installed from the list
 - Now open the app, and fill your desired location on the map. It is simple to spoof Life360 on Android
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Use a Burner Phone for Life360 Fake Location
 
 The burner is a phone on which you can install Life360 and can put it in one place while going out with another phone. It is a great trick to stop Life360 from tracking you. The only thing is that you should need to have two phones.
 
 For the burner, you can use any device with Google play store or App store, and it can be an old phone as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -309,19 +309,22 @@ Life360 is a very helpful app for parents and friends group, but still, it becom
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-journey-into-cinematic-precision-with-windows-high-dynamic-range-support/"><u>[New] Journey Into Cinematic Precision with Windows High-Dynamic Range Support</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-command-your-cloud-data-leading-providers-to-watch-for-2024/"><u>[Updated] Command Your Cloud Data Leading Providers to Watch for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevating-youtube-live-with-high-quality-webcam-cameras-for-2024/"><u>[Updated] Elevating YouTube Live with High-Quality Webcam Cameras for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-revolutionary-srt-adjustments-unleash-potential-on-both-oses-for-2024/"><u>[Updated] Revolutionary SRT Adjustments Unleash Potential on Both OSes for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-latest-and-greatest-unveiling-ios-18s-best-new-additions-spotlight-on-zdnet/"><u>Discover the Latest and Greatest: Unveiling iOS 18'S Best New Additions - Spotlight on ZDNET</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-apple-iphone-7-plus-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Apple iPhone 7 Plus Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/online-signatures-for-jpg-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>Online signatures for JPG</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-xiaomi-13t-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Xiaomi 13T</u></a></li>
-<li><a href="https://win-dash.techidaily.com/simple-guide-how-to-update-and-get-microsoft-drivers-for-windows-10-8-or-7/"><u>Simple Guide: How to Update and Get Microsoft Drivers for Windows 10, 8, or 7</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-vivo-v30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/aif-mp4-movavi/"><u>コレクトフリーネット AIF 動画MP4変換ソフト - Movavi</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/levating-your-contents-presence-perfecting-youtube-thumbnails-size-for-2024/"><u>[New] Elevating Your Content's Presence Perfecting YouTube Thumbnails Size for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-finding-free-christian-ringtone-sources/"><u>[New] Finding Free Christian Ringtone Sources</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-a-scriptwriters-playbook/"><u>[New] In 2024, A Scriptwriter's Playbook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-incorporating-music-seamlessly-in-projects-with-premiere-pro/"><u>2024 Approved Incorporating Music Seamlessly in Projects with Premiere Pro</u></a></li>
+<li><a href="https://fox-that.techidaily.com/breaking-free-from-iphones-persistent-headset-setting-8-clever-remedies/"><u>Breaking Free From iPhone's Persistent Headset Setting: 8 Clever Remedies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/evaluating-the-value-of-sns-hdr-in-a-crowded-market-for-2024/"><u>Evaluating the Value of SNS HDR in a Crowded Market for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/historical-gems-art-unshackled-by-laws-for-2024/"><u>Historical Gems Art Unshackled by Laws for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-poco-c51-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Nokia C110? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-oppo-find-n3-flip-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Oppo Find N3 Flip.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-google-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Google</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-12plus-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on 12+ 5G</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-guide-for-persistent-fall-guys-game-errors-during-boot-up/"><u>Ultimate Fix Guide for Persistent Fall Guys Game Errors During Boot-Up</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Innovative Japanese Playland: Kids Master Computing Skills Using Real CPU & Hardware"
-date: 2024-12-02T18:49:32.145Z
-updated: 2024-12-05T18:52:15.388Z
+date: 2024-12-05T20:57:21.140Z
+updated: 2024-12-12T01:32:16.086Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,24 +68,22 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-dynamic-viewership-statistics-platforms/"><u>[New] 2024 Approved Dynamic Viewership Statistics Platforms</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-see-youtube-liked-comments/"><u>[Updated] How to See YouTube Liked Comments</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-bite-sized-broadcasting-maintaining-quality-in-quick-posts/"><u>[Updated] In 2024, Bite-Sized Broadcasting Maintaining Quality in Quick Posts</u></a></li>
-<li><a href="https://driver-error.techidaily.com/code-37-solved-hardware-and-dev-driver-connected/"><u>Code 37 Solved: Hardware & Dev Driver Connected</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-12-using-itunes-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 12 using itunes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-blaze-pro-5g-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Blaze Pro 5G</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-13-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 13 Pro Max without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-xiaomi-redmi-note-13-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Xiaomi Redmi Note 13 5G</u></a></li>
-<li><a href="https://review-topics.techidaily.com/motorola-edge-40-pro-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Motorola Edge 40 Pro Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://article-helps.techidaily.com/outro-designs-ending-credits-for-every-budget/"><u>Outro Designs Ending Credits for Every Budget</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-huawei-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Huawei</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-motorola-moto-g04-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Motorola Moto G04 has been deleted</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/streamline-your-instagram-feeds-with-macs-video-resizing-for-2024/"><u>Streamline Your Instagram Feeds with Mac's Video Resizing for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/tactics-for-triumphing-in-virtual-marketplaces/"><u>Tactics for Triumphing in Virtual Marketplaces</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unrivaled-handwear-elevate-your-vr-world-for-2024/"><u>Unrivaled Handwear Elevate Your VR World for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-streamline-your-social-experience-with-mobile-music-files/"><u>[New] Streamline Your Social Experience with Mobile Music Files</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-navigating-slack-filmo-coordination-for-seamless-meetings/"><u>[Updated] 2024 Approved Navigating Slack-Filmo Coordination for Seamless Meetings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expertise-in-iphone-photography-understanding-dimensions/"><u>[Updated] Expertise in iPhone Photography Understanding Dimensions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-master-your-own-passport-photos-with-these-10-tools/"><u>[Updated] Master Your Own Passport Photos with These 10 Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transferring-media-pc-files-to-your-ios-device/"><u>2024 Approved Transferring Media PC Files To Your iOS Device</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 to Android? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-14-without-itunes-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 14 without itunes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-boost-your-auditory-signature-master-sound-modification-for-zero-cost/"><u>In 2024, Boost Your Auditory Signature Master Sound Modification for Zero Cost</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Realme Narzo 60x 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-7-hd-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Smart 7 HD Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-bypass-tools-to-bypass-lock-screen-infinix-note-30-vip-racing-edition-by-drfone-android-unlock-android-unlock/"><u>Infinix Bypass Tools to Bypass Lock Screen(Infinix Note 30 VIP Racing Edition)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-motorola-razr-40-ultra-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/rescheduled-deadline-for-whatsapp-to-accept-new-privacy-policies/"><u>Rescheduled Deadline for WhatsApp to Accept New Privacy Policies</u></a></li>
 </ul></div>
 

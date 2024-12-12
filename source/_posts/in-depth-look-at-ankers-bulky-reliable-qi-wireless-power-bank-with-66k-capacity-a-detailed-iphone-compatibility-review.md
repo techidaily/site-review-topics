@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Look at Anker's Bulky, Reliable Qi Wireless Power Bank with 6.6K Capacity: A Detailed iPhone Compatibility Review"
-date: 2024-08-29T06:39:24.328Z
-updated: 2024-08-30T06:39:24.328Z
+date: 2024-12-10T16:41:00.706Z
+updated: 2024-12-12T01:24:19.054Z
 tags:
   - product-reviews
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
  If you have an iPhone 12 or newer, then you also have access to Qi2 technology. Because of this, Apple finally allows for 15W charging on third-party power banks and batteries. That’s where the [Anker MagGo Power Bank (6.6K)](https://www.amazon.com/Anker-Certified-Ultra-Fast-MagSafe-Compatible-Adjustable/dp/B0C9DNYKMJ?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002753&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fanker-maggo-power-bank-qi2-review%2F&asc%5Fcampaign=Authority) comes in as a solid portable battery. Coming in with a $70 (retail) price point, an adjustable hinge, and enough power for a full charge, this battery is great for on-the-go charging, so long as you have big pockets.
 
 ![Anker-MagGo-Portable-Battery-66k](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/anker-maggo-portable-battery-66k.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Anker MagGo Power Bank (6.6K)
 
@@ -56,6 +60,10 @@ Anker's MagGo Power Bank (6.6K) is made for on-the-go charging. With Qi2 technol
 
 [$40 at Amazon](https://www.amazon.com/Anker-Certified-Ultra-Fast-MagSafe-Compatible-Adjustable/dp/B0C9DNYKMJ?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002753&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fanker-maggo-power-bank-qi2-review%2F&asc%5Fcampaign=Authority) [$59.99 at anker](https://www.anker.com/products/a1643-maggo-6600mah-qi2-power-bank-magsafe-compatible?variant=43008133726358) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Qi2 Puts This Portable Battery Ahead of the Pack
 
 ![Front face of the Anker MagGo Power Bank 6](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/front-face-of-the-anker-maggo-power-bank-6jpg_53467946353_o.jpg) 
@@ -66,29 +74,32 @@ Sergio Rodriguez / How-To Geek
 
  The fact that the battery is Qi2 also means that whenever Android handsets start to support the standard, they’ll be able to enjoy the speediness of 15W charging, too. And, with Qi2, it’s possible that the charging speed could increase in the future. The foundation behind the Qi standard said they hope to increase the speeds sometime this year, though there’s no real definition as to what they’ll increase to, or when it’ll happen.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The “Kickstand” Is More of a Magic Keyboard-Style Hinge
 
 ![Using the Anker MagGo Power Bank on a desk-3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/using-the-anker-maggo-power-bank-on-a-desk-3jpg_53467809561_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  I’ve used several MagSafe batteries in the past, and most of them have had a built-in kickstand of sorts. While a kickstand is nice, I rarely use it because it’s typically only at one angle and it’s never the angle I need. Well, Anker went another route with the MagGo 6.6K. Instead of the usual kickstand where a little piece of plastic flips out of the back to prop up the battery, you’ll find a hinge that’s akin to Apple’s Magic Keyboard for iPad. It locks into just about any angle you set it and holds its place very well. This lets you customize your device's angle, which I’ve never seen a battery like this do before.
 
  Whether you’re doing a FaceTime call, or you watching YouTube, the Anker MagGo 6.6K ensures your iPhone can sit at the perfect angle. This, alongside 15W charging, are the two stand-out features of this battery.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bulk Is the Only Downside Here
 
 ![The Anker MagGo Power Bank with its charging cable-3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-anker-maggo-power-bank-with-its-charging-cable-3jpg_53467946113_o-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  While the hinge is a nice mechanism, it does add a lot of bulk. The battery itself is separate from the charging plate, which means there’s additional thickness here that other MagSafe batteries don’t deal with. At nearly 1 inch thick, and sticking out past the bottom of my iPhone 15 Pro when attached, this battery is not for the faint of heart when being used on the go.
@@ -97,16 +108,10 @@ Sergio Rodriguez / How-To Geek
 
  If you try to use your phone while holding the battery, it gets a bit awkward due to its size. I have larger hands, and the MagGo still felt awkward to hold in my hand while attached to the phone. I ended up just simply holding the battery and not my phone, which meant I could only use one hand when typing. Or, I would open the kickstand and hold the kickstand portion with one hand and type or use the phone with the other.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the Anker MagGo Power Bank (6.6K)?
 
 ![An iPhone on the Anker MagGo Power Bank-2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/an-iphone-on-the-anker-maggo-power-bank-2jpg_53468129894_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  I know the [Anker MagGo Power Bank (6.6K)](https://www.amazon.com/Anker-Certified-Ultra-Fast-MagSafe-Compatible-Adjustable/dp/B0C9DNYKMJ?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002753&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fanker-maggo-power-bank-qi2-review%2F&asc%5Fcampaign=Authority) is a portable battery and meant to be used on the go, but at more than twice the thickness of my iPhone 15 Pro (with camera lenses), it’s a chunky battery for sure—really the only downside here. It’s got a capacity of 6,600mAh and allows you to recharge your phone a few times over. It delivers 15W wireless charging and even does passthrough charging. It’s magnetic and has an amazing kickstand. But, it’s huge.
@@ -115,9 +120,6 @@ Sergio Rodriguez / How-To Geek
 
 ![Anker-MagGo-Portable-Battery-66k](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/anker-maggo-portable-battery-66k.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 #####  Anker MagGo Power Bank (6.6K)
 
 7/ 10 
@@ -134,8 +136,6 @@ Anker's MagGo Power Bank (6.6K) is made for on-the-go charging. With Qi2 technol
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +143,18 @@ Anker's MagGo Power Bank (6.6K) is made for on-the-go charging. With Qi2 technol
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-breaking-the-mold-how-to-create-a-standout-youtube-channel-name/"><u>[New] 2024 Approved Breaking the Mold How to Create a Standout YouTube Channel Name</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-explore-the-finest-camcorders-of-2024-our-choice-countdown/"><u>[New] Explore the Finest Camcorders of 2024 – Our Choice Countdown</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-a-to-z-guide-for-delivering-captivating-streams-using-zoom-and-youtube/"><u>[New] In 2024, The A-to-Z Guide for Delivering Captivating Streams Using Zoom & YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-upgrade-your-online-presence-with-premium-webcam-tech/"><u>[New] Upgrade Your Online Presence with Premium Webcam Tech</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-synchronous-capture-for-webcam-and-display/"><u>[Updated] Synchronous Capture for Webcam and Display</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 to others devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-smaller-is-better-top-drone-brands-reviewed/"><u>In 2024, Smaller Is Better Top Drone Brands Reviewed</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-oppo-a78-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Oppo A78</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-zte-axon-40-lite-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://review-topics.techidaily.com/reinstall-your-hardware-drivers-with-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>Reinstall your hardware drivers with Device Manager in Windows 10 & 7</u></a></li>
+</ul></div>
 

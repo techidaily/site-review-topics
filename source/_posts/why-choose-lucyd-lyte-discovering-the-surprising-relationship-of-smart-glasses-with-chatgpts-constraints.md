@@ -1,7 +1,7 @@
 ---
 title: Why Choose Lucyd Lyte? Discovering the Surprising Relationship of Smart Glasses with ChatGPT's Constraints
-date: 2024-08-29T06:38:58.015Z
-updated: 2024-08-30T06:38:58.015Z
+date: 2024-12-07T17:32:59.685Z
+updated: 2024-12-11T21:45:57.156Z
 tags:
   - product-reviews
 categories:
@@ -30,6 +30,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  Instead of wearing sunglasses and earbuds, the [Lucyd Lyte glasses](https://lucyd.co/products/eclipse-sunglasses?variant=40014527823990) merge the two products into one. The sunglasses integrate speakers into the stems and connect to a phone over Bluetooth. It’s a neat idea, but ultimately flawed for several reasons. Worse of all, Lucyd muddies the water with the association of ChatGPT when it’s not actually onboard the glasses.
 
 ![Lucyd Lyte](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/eclipse_2_7e7d92a6-ce81-4c5c-af58-69693b51143f_1220x_crop_center-removebg-preview.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Lucyd Lyte Audio Glasses
 
@@ -73,6 +77,10 @@ These glasses offer immersive four-speaker audio, intuitive touch controls, and 
 
 ![Person wearing the Lucyd Lyte sunglasses inside](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/53116606470_6c91c3cfcf_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Joe Robinson / How-To Geek
 
  The one thing the Lucyd Lyte sunglasses are not is boring. There are lots of frame styles and just as many colors of lenses. The different styles and colors will contribute to the total price, but the retail price is currently between $199 and $399\. As part of the review, I tried the Lucyd [Eclipse model](https://lucyd.co/products/eclipse-sunglasses?variant=40014527823990). They fit well and were generally comfortable.
@@ -83,9 +91,6 @@ Joe Robinson / How-To Geek
 
  More than manipulating the controls, I had a really hard time understanding why I needed to turn each side on individually when putting on the smart glasses. It was more perplexing because a single six-second press would turn both sides off.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Sound and Call Quality
 
  The audio quality from the Lucyd Lyte sunglasses is just poor. It, along with the price point, is the single biggest contributor to the overall rating. Some people may be willing to overlook their sound quality for a specific convenience they offer, but it doesn’t change the fact that the speakers sounded tinny and sometimes muffled.
@@ -98,24 +103,26 @@ Joe Robinson / How-To Geek
 
  Using the glasses to take calls worked fine. The microphones performed well enough not to be a hindrance. They even canceled out a lot of the ambient cafe noise. You can hear the examples for yourself.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Microphone Test: Inside a Quiet Room
 
 Your browser does not support the video tag. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Microphone Test: At a Noisy Location
 
 Your browser does not support the video tag. 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Long Lasting Audio
 
 ![Lucyd Lyte glasses connected to their charging cable](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/53116395794_4d98c49bfd_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  One aspect of the audio sunglasses that did shine was their long battery life. I know it lasted a long time because several times I forgot to hold the button for six seconds to turn them off. Multiple times the glasses hung on and were still connected to my phone from one day into the next.
@@ -125,6 +132,10 @@ Joe Robinson / How-To Geek
  I don’t begrudge the proprietary charging cable, which splits into two parts and needs to connect to each stem magnetically. Sometimes a charging port is too big for a small product. (I do despise the use of USB-A on the other end, however.) You better not lose it or forget it on a trip, or you’ll be out of luck.
 
  The cord is a minor annoyance overall, but another tick against the product as a whole.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  ChatGPT in Your Sunglasses? Not So Fast
 
@@ -142,16 +153,10 @@ Joe Robinson / How-To Geek
 
  By the way, the Lucyd app does not connect to the glasses in any way. I couldn’t find a way to change the pre-set controls or anything. You could even use the Lucyd app to configure a Shortcut without buying the glasses at all.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ##  Price and Availability
 
  The Lucyd Lyte glasses come in a wide range of styles, at a range of prices. The [Eclipse model](http://lucyd.co/collections/sunglasses-collection/products/eclipse-sunglasses) I tested retails for $199 but has been on sale for $149.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Audio Glasses? How About Video Glasses
 
  If the idea of sunglasses with Bluetooth speakers built-in is intriguing, there are a few other options to consider. I’ve tried the [Soundcore Frames](https://www.amazon.com/Soundcore-Bluetooth-Interchangeable-Surround-Polarized/dp/B0CBL1SWQ4?keywords=soundcore+frames&qid=1692498405&sr=8-1&ufe=app%5Fdo%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0&tag=htg-v2-44tkvbv-20&ascsubtag=UUhtgUeUpU2000054&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Flucyd-lyte-review%2F&asc%5Fcampaign=Affiliate), which prioritize interchangeable stems to customize the look of the glasses.
@@ -160,9 +165,6 @@ Joe Robinson / How-To Geek
 
  In both cases, the audio quality was much better than the Lucyd Lyte. Plus, even though Stories are the most expensive of the bunch, they’re Ray-Ban glasses and look the best.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ##  Should You Buy the Lucyd Lyte Audio Sunglasses?
 
  The idea of combining earbuds and sunglasses is worth exploring, but I don’t think the [Lucyd Lyte](http://lucyd.co/products/eclipse-sunglasses?variant=40014527823990) glasses offer enough value for their price. Most people would be better off looking at finding the [right pair of earbuds](https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-xs-max-5-ways-to-get-into-a-locked-apple-iphone-xs-max-by-drfone-ios/) for their audio needs.
@@ -170,6 +172,10 @@ Joe Robinson / How-To Geek
  If the Lucyd Lyte glasses do strike a chord with you, I can verify that they functioned fine. Minus some very mediocre audio quality, they worked as advertised. But let me leave you with a lingering question. How comfortable do you feel wearing sunglasses inside to take a call or listen to music?
 
 ![Lucyd Lyte](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/eclipse_2_7e7d92a6-ce81-4c5c-af58-69693b51143f_1220x_crop_center-removebg-preview.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Lucyd Lyte Audio Glasses
 
@@ -187,8 +193,6 @@ These glasses offer immersive four-speaker audio, intuitive touch controls, and 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +200,18 @@ These glasses offer immersive four-speaker audio, intuitive touch controls, and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-mastering-insights-tracking-your-insta-posts-viewers/"><u>[Updated] In 2024, Mastering Insights Tracking Your Insta Posts' Viewers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/achieve-perfect-compatibility-downloading-and-installing-the-epson-es-400-scanner-drivers-for-windows-systems/"><u>Achieve Perfect Compatibility: Downloading and Installing the Epson ES-400 Scanner Drivers for Windows Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-vivo-v30-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Vivo V30 Phone? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-pro-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Pro To Others devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-ultimate-guide-to-vlog-video-editing-best-software-for-creators/"><u>New 2024 Approved The Ultimate Guide to Vlog Video Editing Best Software for Creators</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-honor-100-pro-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Honor 100 Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-reno-10-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Oppo Reno 10 5G Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/website-creation-leveraging-gpts-4-key-strategies/"><u>Website Creation: Leveraging GPT's 4 Key Strategies</u></a></li>
+</ul></div>
 

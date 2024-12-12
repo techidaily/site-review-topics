@@ -1,7 +1,7 @@
 ---
 title: Expert Take on the Netgear Nighthawk AX8 - The Most Advanced Wi-Fi 6 Range Extender on the Market
-date: 2024-11-29T18:31:44.604Z
-updated: 2024-12-05T21:21:17.952Z
+date: 2024-12-06T01:06:48.769Z
+updated: 2024-12-11T22:21:47.963Z
 categories:
   - BestProducts
 description: This Article Describes Expert Take on the Netgear Nighthawk AX8 - The Most Advanced Wi-Fi 6 Range Extender on the Market
@@ -18,12 +18,16 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Netgear Nighthawk EAX80 AX6000 Wi-Fi 6 Mesh Extender
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/GshnCnk_G-hNSwDTRjGVB28Nl-o=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_HeroSquare-f1971c8abc1a45b7a589b440ee06f5cf.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
@@ -75,10 +79,6 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 
  If you don’t already have one of those new Wi-Fi 6 routers, should you spend extra for the Netgear Nighthawk AX8 to futureproof your setup? Here’s what I think after testing the device for several days across everyday web usage, media streaming, playing online games, and more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Design: Pretty awkward**
 
  The Netgear’s Nighthawk AX8 Wi-Fi 6 Mesh Extender is not only the largest and heaviest Wi-Fi extender I’ve tested at 10 inches tall and nearly two pounds, but it’s also one of the oddest-looking. It has a lot more angles and tapered elements than I’d think are necessary, which results in an overall look that’s dynamic but ultimately awkward. Also, the little plastic feet don’t do a great job of supporting the weight, making it a bit wobbly on a flat surface.
@@ -99,11 +99,11 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/xru8JLL_UOk3sXBYpbrOyAl-ihc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_02-b120eab8816746338c53e4eb1cfc62d6.jpg)
 
- Lifewire / Andrew Hayward
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Lifewire / Andrew Hayward
 
 ## **Connectivity: Smooth sailing**
 
@@ -122,7 +122,7 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/rtnI3hSe9qP5qFqjhu1LRxe7qYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_03-19da5fea4d0349ce984f52a11493d337.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
@@ -140,7 +140,7 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
  Should you really spend that much on an extender? If you don’t already have a new Wi-Fi 6 router, then probably not. You might see higher peaks of speed as I did, but rather than trying to mix and match old and new tech, you’re probably better off investing in a new Wi-Fi mesh system that can cover the entire house. Netgear’s Orbi is a favorite, as is Google’s similar Nest Wi-Fi system.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Netgear Nighthawk AX8 vs. Netgear Nighthawk X6S (EX8000)**
@@ -179,24 +179,20 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-from-beef-to-brilliance-jake-pauls-youtube-transformation/"><u>[New] 2024 Approved From Beef to Brilliance Jake Paul’s Youtube Transformation</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-instagrams-finest-frames-iphone-plus-android-edition/"><u>[New] Instagram's Finest Frames IPhone + Android Edition</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-step-by-step-guide-to-snapchats-captivating-boomers/"><u>[Updated] 2024 Approved Step-By-Step Guide to Snapchat's Captivating Boomers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-straightforward-steps-to-mastering-flipper-written-communication-on-windows/"><u>[Updated] Straightforward Steps to Mastering Flipper' Written Communication on Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/die-ultimative-liste-6-unbezahlbare-tools-zur-umwandlung-inaus-mp4-dateien-ohne-zu-zahlen/"><u>Die Ultimative Liste: 6 Unbezahlbare Tools Zur Umwandlung In/Aus MP4-Dateien, Ohne Zu Zahlen</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-efficiency-of-apc-back-ups-pro-1500va-power-surge-protection-and-extra-outlets-included/"><u>Exploring the Efficiency of APC Back-UPS Pro 1500VA – Power Surge Protection and Extra Outlets Included</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-your-itel-p55t-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Itel P55T Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-x-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone X To Other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-z50s-pro-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Z50S Pro</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Honor Play 40C? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-depth-methodology-for-adding-srt-in-mp4-files-for-2024/"><u>In-Depth Methodology for Adding SRT in MP4 Files for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/issues-playing-mkv-video-on-xiaomi-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Issues playing MKV video on Xiaomi </u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-vivo-y36-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Vivo Y36</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-xiaomi-redmi-note-13-5g-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Xiaomi Redmi Note 13 5G</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-12-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 12 Data From iOS iTunes | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-oneplus-offers-on-prime-day-save-big-and-shop-smart/"><u>Top OnePlus Offers on Prime Day: Save Big and Shop Smart!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-windows-11-unable-to-install-error-code-80240020-expert-advice/"><u>Troubleshooting Windows 11 Unable to Install Error (Code 80240020) – Expert Advice</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-honor-x50-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-optimizing-playback-speed-with-professional-tactics/"><u>[New] Optimizing Playback Speed with Professional Tactics</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exquisite-scenery-tips-for-live-shows/"><u>[Updated] Exquisite Scenery Tips for Live Shows</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-thumbnail-scaling-techniques-for-youtube/"><u>[Updated] In 2024, Thumbnail Scaling Techniques for YouTube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-clear-way-to-capture-your-screen-best-free-tools-explored/"><u>2024 Approved The Clear Way to Capture Your Screen – Best Free Tools Explored</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-tecno-pova-5-by-drfone-android-unlock-android-unlock/"><u>How to unlock Tecno Pova 5</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-your-drivers-on-windows-1110-by-drivereasy-guide/"><u>How to use Device Manager to reinstall your drivers on Windows 11/10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-samsung-galaxy-a24-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Samsung Galaxy A24 ?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-sony-xperia-5-v-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Sony Xperia 5 V</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-oppo-reno-11f-5g-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Oppo Reno 11F 5G</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/quick-guide-clearing-private-data-off-your-ios-smartphone-effortlessly/"><u>Quick Guide: Clearing Private Data Off Your iOS Smartphone Effortlessly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-se-2020-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone SE (2020) Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/soundwave-statements-on-whatsapp-snapshots-for-2024/"><u>Soundwave Statements on WhatsApp Snapshots for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ling-purchasing-illegitimate-views-online/"><u>Unveiling Purchasing Illegitimate Views Online</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Will iSpoofer update On Apple iPhone X | Dr.fone</u></a></li>
 </ul></div>
 

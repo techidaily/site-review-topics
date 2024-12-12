@@ -1,7 +1,7 @@
 ---
 title: "Reviewing the Lenovo Yoga Book Eboot 9I: An Aesthetic Marvel with Noticeable Shortcomings"
-date: 2024-08-29T06:39:34.495Z
-updated: 2024-08-30T06:39:34.495Z
+date: 2024-12-07T02:24:08.063Z
+updated: 2024-12-11T17:07:23.845Z
 tags:
   - product-reviews
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/c2d68683c182adeb644872ae9b6efd92813d48ae8
 ---
 
 ## Reviewing the Lenovo Yoga Book Eboot 9I: An Aesthetic Marvel with Noticeable Shortcomings
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -20,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/c2d68683c182adeb644872ae9b6efd92813d48ae8
  If done correctly, a double-screen 2-in-1 laptop sounds like a techie's dream. The [Lenovo Yoga Book 9i laptop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fyoga%2Fyoga-2-in-1-series%2Fyoga-book-9i-gen-8-%2813-inch-intel%29%2Flen101y0028), which boasts two 13.3-inch OLED screens and decent specs, comes close to perfection, but a few fatal flaws keep it from soaring above regular notebook competition, leaving it a choice for a niche crowd rather than the masses.
 
 ![The Lenovo Yoga Book 9i open with its Bluetooth keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/lenovo-yoga-book-9i.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Lenovo Yoga Book 9i
 
@@ -39,6 +47,10 @@ The Lenovo Yoga Book 9i laptop's hybrid form marries versatility and productivit
 * The double screen's lighting is uncomfortable on the eyes in clamshell mode
 
 [$1,799.99 at Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fyoga%2Fyoga-2-in-1-series%2Fyoga-book-9i-gen-8-%2813-inch-intel%29%2Flen101y0028) [$1,799.99 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-yoga-book-9i-2-in-1-13-3-2-8k-dual-screen-oled-touch-laptop-intel-core-i7-1355u-with-16gb-memory-512gb-ssd-tidal-teal%2F6533947.p) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Price and Availability
 
@@ -128,16 +140,10 @@ The Lenovo Yoga Book 9i laptop's hybrid form marries versatility and productivit
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Form and Function: A Beautiful Hybrid Design
 
 ![Rear of the Lenovo Yoga Book 9i on the stand in the stacked orientation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/rear-of-the-lenovo-yoga-book-9i-on-the-stand-in-the-stacked-orientation_53598887977_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  My first impression of the Lenovo Yoga Book 9i was that it's an attractive 2-in-1 laptop. But I quickly noticed the double screen setup was unusual compared to other 2-in-1 laptops that opt for a foldable base with a traditional keyboard layout. The [best 2-in-1 laptops](https://tech-recovery.techidaily.com/solving-the-reset-failed-there-was-an-error-message-on-windows/) succeed in keeping things simple and focusing on two modes: laptop and tablet mode, while the Yoga Book 9i is a bit more complex.
@@ -148,6 +154,10 @@ Close
 
  All the other design inclusions for the Yoga Book 9i make sense. At the top is an integrated 5MP camera in the bezel and a dual-array microphone system on either side of the camera. The laptop's cover features a familiar "Yoga" logo and a gorgeous teal color (I gasped when I saw it because I'm a sucker for cool colors) and a familiar vented hinge system that's like other Yoga laptops, such as the [Lenovo Yoga 9i Gen 8](https://extra-tips.techidaily.com/streamlining-speech-to-text-processing-in-powerpoint/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Ports: Thunderbolt 4 Ports and Nothing Else
 
  It may not be a big deal to everyone for a slim laptop to forgo other port options like USB-A ports or even an HDMI port, but even so, I encountered multiple occasions that required me to use my USB-C hubs. Nonetheless, the trio of Thunderbolt 4 (USB-C) ports delivered speedy and consistent power and data transfer, and I liked the inclusion of ports on either side (two on the right, one on the left).
@@ -156,13 +166,14 @@ Close
 
  Also on the right side was the power button with an LED light indicator and an e-privacy shutter for the webcam.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Touchscreen, Bluetooth Keyboard, Stand, and Pen
 
 ![The foldable stand of the Lenovo Yoga Book 9i as a case for the keyboard and pen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-foldable-stand-of-the-lenovo-yoga-book-9i-as-a-case-for-the-keyboard-and-pen_53599758691_o.jpg) 
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  Peripherals are rarely the nitty-gritty of a laptop setup, but because these inputs are so integral to the user experience for the Lenovo Yoga Book 9i, I want to take some time highlighting them. Included with the Bluetooth keyboard and Bluetooth mouse are a Lenovo Digital Pen 3 and a folio stand.
@@ -181,9 +192,6 @@ Sergio Rodriguez / How-To Geek
 
 ![The Lenovo Yoga Book 9i laptop playing "Shrek."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/shrek-graphics-hero.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 Cianna Garrison / How-To Geek
 
 _Shrek_
@@ -200,6 +208,10 @@ Close
 
 Close 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Performance: Speedy Within Limits
 
 ![Rear of the Lenovo Yoga Book 9i on the stand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/rear-of-the-lenovo-yoga-book-9i-on-the-stand_53599968028_o.jpg) 
@@ -212,9 +224,6 @@ Sergio Rodriguez / How-To Geek
 
  Still, the Yoga Book 9i scored a fair 5,946 overall in the PCMark10 benchmark, with over 10,000 in Essentials, 8,000 in Productivity, and 6500 in Digital Content Creation.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ###  Gaming With the Lenovo Yoga Book 9i
 
  Gaming with the Yoga Book 9i is dissatisfying unless you play low- to medium-resource games. The Intel Iris graphics card ran into some performance issues, and a 60Hz refresh rate coupled with the 16GB of RAM made some games unplayable due to high latency.
@@ -238,28 +247,17 @@ Close
 ### 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ### 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Battery and Charging: Expected Gain and Drain
 
 ![The components and accessories of the Lenovo Yoga Book 9i.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-components-and-accessories-of-the-lenovo-yoga-book-9i_53598888122_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  The Yoga Book 9i's battery drainage was what I would expect for a dual-screen laptop. With both screens on and brightness hovering somewhere between 300 and 400 nits, the device averaged a 0.5% loss per minute or 30% per hour, which put the time at around every 3 to 4 hours.
@@ -267,6 +265,10 @@ Sergio Rodriguez / How-To Geek
  Charging up took a similar amount of time—one minute yielded a gain of 0.66%, which was around 39% per hour.
 
  This, however, is nowhere near the MobileMark benchmark that lists potential video playback at 10 hours set to 200 nits. I can't see the Yoga Book 9i lasting 10 hours without needing a recharge unless, perhaps, you left it on sleep.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Should You Buy the Lenovo Yoga Book 9i Laptop?
 
@@ -292,8 +294,6 @@ The Lenovo Yoga Book 9i laptop's hybrid form marries versatility and productivit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -301,4 +301,22 @@ The Lenovo Yoga Book 9i laptop's hybrid form marries versatility and productivit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-5-best-igtv-editor-apps-for-improved-layouts-for-2024/"><u>[New] 5 Best IGTV Editor Apps for Improved Layouts for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-cutting-edge-features-in-the-latest-magix-video-pro-x-for-2024/"><u>[Updated] Cutting-Edge Features in the Latest Magix Video Pro X for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-realme-c51-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Realme C51 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/computer-einfrieren-erklart-losungsansatze-mit-myrecovery-tool/"><u>Computer-Einfrieren Erklärt: Lösungsansätze Mit MyRecovery Tool</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/hering-the-complexity-of-online-content-monetization-for-2024/"><u>Deciphering the Complexity of Online Content Monetization for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/faced-with-facetime-problems-try-these-15-troubleshooting-tips/"><u>Faced With FaceTime Problems? Try These 15 Troubleshooting Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-epson-tm-t88v-driver-software-for-windows-free-downloads-available/"><u>Get the Newest EPSON TM-T88v Driver Software for Windows - Free Downloads Available</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-sony-xperia-5-v-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Sony Xperia 5 V FRP</u></a></li>
+<li><a href="https://review-topics.techidaily.com/itel-s23-music-recovery-recover-deleted-music-from-itel-s23-by-fonelab-android-recover-music/"><u>Itel S23 Music Recovery - Recover Deleted Music from Itel S23</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-poco-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Poco</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-poco-m6-pro-4g-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Poco M6 Pro 4G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-infinix-note-30-vip-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Infinix Note 30 VIP</u></a></li>
+</ul></div>
 
