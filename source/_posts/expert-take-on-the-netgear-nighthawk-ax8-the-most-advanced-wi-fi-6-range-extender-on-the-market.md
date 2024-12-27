@@ -1,7 +1,7 @@
 ---
 title: Expert Take on the Netgear Nighthawk AX8 - The Most Advanced Wi-Fi 6 Range Extender on the Market
-date: 2024-12-14T01:14:40.593Z
-updated: 2024-12-18T00:51:27.446Z
+date: 2024-12-19T22:02:29.907Z
+updated: 2024-12-26T16:27:01.551Z
 categories:
   - BestProducts
 description: This Article Describes Expert Take on the Netgear Nighthawk AX8 - The Most Advanced Wi-Fi 6 Range Extender on the Market
@@ -17,6 +17,10 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Netgear Nighthawk EAX80 AX6000 Wi-Fi 6 Mesh Extender
 
@@ -43,13 +47,13 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 
 4.2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Netgear Nighthawk EAX80 AX6000 Wi-Fi 6 Mesh Extender
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/AfRhNgqeOD7JfcVqpjzm5LwPSB4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_HeroSquare-f1971c8abc1a45b7a589b440ee06f5cf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
@@ -76,7 +80,7 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
  If you don’t already have one of those new Wi-Fi 6 routers, should you spend extra for the Netgear Nighthawk AX8 to futureproof your setup? Here’s what I think after testing the device for several days across everyday web usage, media streaming, playing online games, and more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Design: Pretty awkward**
@@ -88,7 +92,7 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
  It has a lot more angles and tapered elements than I’d think are necessary, which results in an overall look that’s dynamic but ultimately awkward.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup Process: Avoid the app**
@@ -129,15 +133,15 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 
  If you don’t have a Wi-Fi 6 router, then you’ll either want to start there or consider investing in a Wi-Fi mesh system instead.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: More than most**
 
  The Netgear Nighthawk AX8 Wi-Fi 6 Mesh Extender is listed at $250, although it’s being sold for $220 at multiple retailers as of this writing. That’s definitely on the higher end for an extender.
 
  Should you really spend that much on an extender? If you don’t already have a new Wi-Fi 6 router, then probably not. You might see higher peaks of speed as I did, but rather than trying to mix and match old and new tech, you’re probably better off investing in a new Wi-Fi mesh system that can cover the entire house. Netgear’s Orbi is a favorite, as is Google’s similar Nest Wi-Fi system.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Netgear Nighthawk AX8 vs. Netgear Nighthawk X6S (EX8000)**
 
@@ -148,10 +152,6 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
  **Only for early adopters with Wi-Fi 6 routers and devices.**
 
  If you’ve already bought a Wi-Fi 6 router and need a little help extending your signal into further corners of your home and/or property, then the Nighthawk AX 8 (EAX 80) is the extender you’ll want. But if you don’t have a Wi-Fi 6 router, then you’ll either want to start there or consider investing in a Wi-Fi[mesh system](https://www.lifewire.com/what-is-a-mesh-network-4842178) instead. Spending more than $200 on an extender doesn’t make much sense unless you’re adding it to a top-of-the-line system—and don’t mind the significant investment.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -179,24 +179,22 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-how-to-change-voice-on-instagram-story-and-reels-in-2024/"><u>[New] How to Change Voice on Instagram Story and Reels, In 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/claritycleanseapp-top-tier-background-eraser-for-2024/"><u>ClarityCleanseApp Top-Tier Background Eraser for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/clear-image-mastery-top-7-tips-for-sharpening-iphone-photography/"><u>Clear Image Mastery: Top 7 Tips for Sharpening iPhone Photography</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-non-functioning-sound-on-your-toshiba-pc/"><u>Effective Fixes for Non-Functioning Sound on Your Toshiba PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-world-of-llms-insights-into-their-operation/"><u>Exploring the World of LLMs: Insights Into Their Operation</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-gt-5-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme GT 5 Pro Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-create-a-blockbuster-easy-movie-making-for-everyone/"><u>New Create a Blockbuster Easy Movie Making for Everyone</u></a></li>
-<li><a href="https://facebook.techidaily.com/new-identity-new-space-modify-your-fb-profile-url/"><u>New Identity, New Space: Modify Your FB Profile URL</u></a></li>
-<li><a href="https://review-topics.techidaily.com/section-3b-facts/"><u>Section 3B: Fact.s</u></a></li>
-<li><a href="https://article-files.techidaily.com/secure-and-spacious-our-compilation-of-best-20-free-cloud-services/"><u>Secure & Spacious Our Compilation of Best 20 Free Cloud Services</u></a></li>
-<li><a href="https://review-topics.techidaily.com/slash-prices-alert-yeedi-m12-proplus-triumphs-over-rivals-in-robotic-cleaning-wars/"><u>Slash Prices Alert! Yeedi M12 Pro+ Triumphs Over Rivals in Robotic Cleaning Wars</u></a></li>
-<li><a href="https://review-topics.techidaily.com/smoke-detectors-heat-detectors-and-multi-criteria-detectors-are-the-primary-types-used-for-fire-detection/"><u>Smoke Detectors, Heat Detectors, and Multi-Criteria Detectors Are the Primary Types Used for Fire Detection.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/sonos-move-2-analysis-the-ultimate-portable-sound-system-with-a-soulful-home-appeal/"><u>Sonos Move 2 Analysis: The Ultimate Portable Sound System with a Soulful Home Appeal</u></a></li>
-<li><a href="https://review-topics.techidaily.com/sonos-unveils-new-bluetooth-ace-headphones-an-in-depth-review-by-an-enthusiast/"><u>Sonos Unveils New Bluetooth ACE Headphones: An In-Depth Review by an Enthusiast</u></a></li>
-<li><a href="https://review-topics.techidaily.com/special-needs-evacuation-procedures-must-be-in-place-for-individuals-with-disabilities/"><u>Special Needs Evacuation Procedures Must Be in Place for Individuals with Disabilities.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/the-ultimate-guide-to-boostcharge-pro-by-belkin-revolutionizing-usb-wall-plug-design-with-standby-magsafe-technology/"><u>The Ultimate Guide to BoostCharge Pro by Belkin: Revolutionizing USB Wall Plug Design with Standby MagSafe Technology</u></a></li>
-<li><a href="https://fox-where.techidaily.com/top-4-ways-for-effortlessly-crafting-and-formatting-your-own-usb-flash-drive/"><u>Top 4 Ways for Effortlessly Crafting and Formatting Your Own USB Flash Drive</u></a></li>
-<li><a href="https://review-topics.techidaily.com/ultimate-oura-ring-gen-3-evaluation-transformative-health-analytics-made-accessible/"><u>Ultimate Oura Ring Gen 3 Evaluation: Transformative Health Analytics Made Accessible</u></a></li>
-<li><a href="https://review-topics.techidaily.com/unboxing-and-testing-plugables-new-thunderbolt/"><u>Unboxing and Testing Plugable's New Thunderbolt</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-best-video-capture-for-iphoneipad-users/"><u>[New] In 2024, The Best Video Capture for iPhone/iPad Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-augmenting-visual-appeal-implementing-black-bar-and-box-on-fb/"><u>[Updated] 2024 Approved Augmenting Visual Appeal Implementing Black Bar & Box on FB</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-linking-giants-a-step-by-step-guide-to-merging-instagram-and-tiktok/"><u>[Updated] Linking Giants A Step-by-Step Guide to Merging Instagram and TikTok</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-faces-incorporating-motion-blur-in-photos-with-picsart/"><u>[Updated] Mastering Faces Incorporating Motion Blur in Photos with Picsart</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-snapseed-simplified-the-photographers-first-toolkit/"><u>[Updated] Snapseed Simplified The Photographer's First Toolkit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-fantasies-gpts-role-in-imagination/"><u>Crafting Fantasies: GPT's Role in Imagination</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-gps-location-on-tecno-spark-10-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Tecno Spark 10 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-itel-p55-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Itel P55 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-plus-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Plus To Other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-p40plus-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel P40+ to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-mini-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 mini to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-15-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 15 to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-wipe-iphone-x-data-permanently-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Wipe iPhone X Data Permanently? | Stellar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Motorola Moto G84 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/1728504292218-mac/"><u>Mac上無法搜尋的檔案全面解決方案詳盡指南</u></a></li>
 </ul></div>
 

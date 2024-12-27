@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Simulate GPS Movement in AR games On OnePlus Nord CE 3 Lite 5G? | Dr.fone
-date: 2024-12-16T19:06:06.681Z
-updated: 2024-12-18T01:42:22.935Z
+date: 2024-12-20T18:06:28.298Z
+updated: 2024-12-26T19:41:48.114Z
 tags: 
   - virtual location chang
   - location changer
@@ -34,19 +34,11 @@ In AR games that come with GPS tracking software, they track the real motion of 
 
 In these cases, using a **fake GPS route** helps simulate the location of players, so they can still take part without actually moving around.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2. 4 Effective Ways to Simulate GPS Movement On AR games?
 
 There are different types of solutions that you will see recommended when searching for things like **Pokémon Go spoof Reddit.** There is Fake GPS technology you can use that spoofs or fakes the original location of the players. This causes the software to read the new location and show the scene in that location to users without them actually having to move.
 
 There are different options for **a fake GPS run** available for both iOS and Android users. Let's consider the most reliable options you can try in both groups.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Simulate GPS Movement iOS
 
@@ -90,17 +82,9 @@ Below is the video showcasing all steps necessary to simulate GPS movement while
 
 ![tap on get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3**: You will see your real-time location on the map. Tap on the Teleport Mode icon at the top-right and type your fake location name.
 
 ![tap on the teleport mode icon](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4**: The software will automatically take your GPS location there. To confirm, press Move Here.
 
@@ -147,6 +131,10 @@ It is possible to run this app on different iPhones and iPads simultaneously. Th
 **Step 3:** The GPS location icon will move to that location on the map. Tap on Move Here to confirm.
 
 ![tap on move here](https://images.wondershare.com/drfone/article/2022/12/how-to-simulate-gps-movement-on-ar-games-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Simulate GPS Movement Android
 
@@ -250,6 +238,10 @@ Indeed, there are different methods you can use to spoof your location to play A
 
 The best step while using them is to follow the gameplay rules respectfully and use a safe and reliable GPS movement simulator like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) for the task.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 Ways to Change Location on Facebook Marketplace for OnePlus Nord CE 3 Lite 5G
 
 Facebook Marketplace is a hub designed within Facebook that enables Facebook users to buy and sell stuff online. This marketplace has optimized the chances of buying and selling legit stuff, including household appliances, clothes, and electronic devices. You must enter the pictures of that product and write a good description.
@@ -274,6 +266,10 @@ Here, we will teach you the steps involved in **changing the FB Marketplace loca
 
 ![access the facebook menu](https://images.wondershare.com/drfone/article/2022/05/change-facebook-marketplace-location-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3;** After doing the prior step, you will now access the “Facebook Marketplace” feature. Your current location will be written in blue on the upper-right side of the existing Marketplace listings. You should click it to change your Marketplace location.
 
 ![open your location](https://images.wondershare.com/drfone/article/2022/05/change-facebook-marketplace-location-3.jpg)
@@ -294,41 +290,33 @@ If you are using Facebook from a browser, it is also achievable to change the lo
 
 ![sign in to facebook account](https://images.wondershare.com/drfone/article/2022/05/change-facebook-marketplace-location-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** There will be a “Marketplace” icon; click on it. Now, the current location will be displayed on the screen. You have to tap on your current location to fake the location of your marketplace.
 
 ![tap on current marketplace location](https://images.wondershare.com/drfone/article/2022/05/change-facebook-marketplace-location-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** Enter the desired location and hit the "Apply" button. The listing search radius can also be changed with the help of the dropdown button.
 
 ![find new marketplace location](https://images.wondershare.com/drfone/article/2022/05/change-facebook-marketplace-location-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Facebook marketplace will be refreshed, and your new listings for the selected location will be visible.
 
 ![marketplace location changed](https://images.wondershare.com/drfone/article/2022/05/change-facebook-marketplace-location-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Facebook Marketplace Location Won't Change? One-Click to Solve It
 
 [Dr.Fone – Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is an application that allows users to change their device location virtually. You can quickly teleport the GPS location to places of your choice. It is now super-easy and secure to virtually change your current location, bypass all the restrictions, and filter the listings on your Facebook marketplace.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What Makes Dr.Fone – Virtual Location the Best Solution?
 
 The application holds a wide range of uses and characteristics, so it is considered the best way to change location. The following key points are mentioned why it is the best location changing solution available:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -356,6 +344,10 @@ Click on “Virtual Location” from the available options and connect your phon
 
 ![elect the virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Provide your Desired Location**
 
 Now, activate the “Teleport Mode” by clicking the first icon on the upper-right side. Next, enter the target place you want to teleport to and click on the “Go” button.
@@ -369,7 +361,7 @@ Now, click on "Move Here" in the popup box, and your location will be changed. Y
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: FAQs about Facebook Marketplace
@@ -451,6 +443,10 @@ Using an anonymous burner phone purchased with cash is a standard plot device in
 
 ![ invest in a burner phone](https://images.wondershare.com/drfone/article/2022/06/life360-notify-me-when-someone-checks-your-location-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Disable Wi-Fi and Cellular Data Access
 
 Turning down the OnePlus Nord CE 3 Lite 5G device's potential to interact with Wi-Fi and cellular networks is another option for generating a false location.
@@ -458,6 +454,10 @@ Turning down the OnePlus Nord CE 3 Lite 5G device's potential to interact with W
 **Step 1.** To prevent applications from renewing themselves in the background, you must use the option that saves battery life.
 
 ![ disable wi-fi and cellular data access](https://images.wondershare.com/drfone/article/2022/06/life360-notify-me-when-someone-checks-your-location-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** Disconnect from the internet through Wi-Fi and cellular data if you have them. For example, rather than disabling the whole Android system on an iPhone, you may simply disable the Life 360 app.
 
@@ -514,15 +514,15 @@ Here are the steps you can follow to stop sharing your location on your iPhone d
 
     ![teleport to desired location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 8**. Tap Still Move after you agree to the instructions.
 
     ![current location in program](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
     When you use this software, your Phone's GPS location will be faked. To navigate your new surroundings, just press and hold the left joystick.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -542,22 +542,19 @@ Can you tell when someone checks your location on life360? To stay safe, you sho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-smooth-image-shift-exclusive-selection-of-the-top-1-mantle/"><u>[New] Smooth Image Shift Exclusive Selection of the Top 1 Mantle</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-techniques-for-high-quality-in-game-recordings/"><u>2024 Approved Techniques for High-Quality In-Game Recordings</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210289115-9781493046911-haunted-new-mexico/"><u>Haunted New Mexico | Free Book</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-nord-ce-3-lite-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus Nord CE 3 Lite 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-find-x7-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo Find X7 To Phone | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-lava-yuva-3-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Lava Yuva 3 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-nokia-xr21-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Nokia XR21 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-v29-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo V29 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Nokia C300? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-professional-monitor-breakdown-how-asus-proart-pa32ucxr-sets-new-standards-in-color-precision-with-its-advanced-mini-led-technology/"><u>The Ultimate Professional Monitor Breakdown - How Asus ProArt PA32UCXR Sets New Standards in Color Precision with Its Advanced Mini LED Technology</u></a></li>
-<li><a href="https://article-files.techidaily.com/top-10-methods-for-effective-youtube-transcoding-for-2024/"><u>Top 10 Methods for Effective YouTube Transcoding for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/ultimate-guide-essential-french-expressions-for-exploring-france/"><u>Ultimate Guide: Essential French Expressions for Exploring France</u></a></li>
-<li><a href="https://blog-min.techidaily.com/understanding-the-challenges-surrounding-non-fungible-tokens-nfts/"><u>Understanding the Challenges Surrounding Non-Fungible Tokens (NFTs)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-guide-to-bandicam-the-2023-comprehensive-overview/"><u>[New] Ultimate Guide to Bandicam The 2023 Comprehensive Overview</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-locate-lively-youtube-conversations/"><u>[Updated] In 2024, Locate Lively YouTube Conversations</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/1716089176641-2024-approved-how-to-watch-facebook-live-on-roku/"><u>2024 Approved How to Watch Facebook Live on Roku</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-melodic-mambos-macaws/"><u>2024 Approved Melodic Mambos Macaws</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/3-ways-to-track-apple-iphone-13-mini-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>3 Ways to Track Apple iPhone 13 mini without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-honor-100-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Honor 100 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-guilty-gear-strive-from-crashing-on-pc-a-comprehensive-guide/"><u>How To Stop Guilty Gear Strive From Crashing On PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-12-pro-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 12 Pro without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Samsung Galaxy A05? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Infinix Note 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/journey-into-windows-11s-core-understanding-the-registry/"><u>Journey Into Windows 11'S Core: Understanding the Registry</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-motorola-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Motorola , is it possible?</u></a></li>
 </ul></div>
 
