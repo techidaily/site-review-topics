@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix Life360 Shows Wrong Location On Realme Note 50? | Dr.fone
-date: 2024-12-25T16:33:04.158Z
-updated: 2024-12-26T21:28:53.545Z
+date: 2024-12-28T21:59:18.021Z
+updated: 2025-01-05T06:53:19.836Z
 tags: 
   - virtual location chang
   - location changer
@@ -27,6 +27,10 @@ As a result, your contacts, photos, and messages are not showing. Life360 may be
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Why is Life360 Location Wrong?
 
 ### Interference From Nearby Devices/Networks
@@ -47,10 +51,6 @@ To get more information about how often does life360 update location, read about
 
 There are several ways to fix the Life360app problems that life360 not updating its location. Let's check them out one by one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Review the Internet settings
 
 The weak internet access contributes to the location display's unreliability in life 360. If you notice that life360 is displaying the wrong location, you should examine your Internet connection settings to prevent life360 from displaying an inaccurate location.
@@ -62,7 +62,7 @@ You may turn off your smartphone's power-saving mode by heading to the status ba
 ![review the internet settings](https://images.wondershare.com/drfone/article/2022/06/how-to-fix-life360-shows-wrong-location_1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Please note that this is just for Android users. Also, do not forget to consider that your Android smartphone's settings may vary from those listed below.
@@ -78,6 +78,10 @@ If life360 shows the incorrect location, the smartphone's location services sign
 Scrolling horizontally on the status bar on an Android device is all that is required for consumers to visit the website. Of course, you can also run the software in the background, which may be accomplished in a variety of straightforward but distinct ways based on the Realme Note 50 device's model.
 
 ![double-check your current location](https://images.wondershare.com/drfone/article/2022/06/how-to-fix-life360-shows-wrong-location_2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You may access the Background App Refresh function by going to the settings menu on your iOS device and selecting "Settings," followed by "General," and then selecting "Background App Refresh." Next, launch the location services function by navigating to "Settings"> "Privacy"> "location services" and selecting "Location Services" from the drop-down menu.
 
@@ -158,6 +162,10 @@ To free yourself from any hassle, consider using a third-party tool instead, suc
 - Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
 
 **3981454** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -292,10 +300,6 @@ ThinkSky's iTools is a phone GPS location program. It's a desktop app that can l
 You can travel across the world with this **Fake GPS Location app**. To mock your location, search for a certain address in your app's complete address or merely city, state, country, or famous sites.
 
 ![fake gps location tool ios](https://images.wondershare.com/drfone/article/2022/05/10-best-location-changer-for-android-and-ios-in-2022-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Key features:**
 
@@ -500,6 +504,10 @@ If you feel that your phone is running slow than usual then it might be hacked a
 
 ![spying on phones](https://images.wondershare.com/drfone/article/2022/03/spying-on-phone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. The battery is draining too fast
 
 Though battery drain can alone not be a sign of the phone being hacked as with time the life of the battery starts decreasing. Still, it can be one of the signs as the hacking apps and tools are resource-draining which in turn decreases the battery life.
@@ -508,27 +516,15 @@ Though battery drain can alone not be a sign of the phone being hacked as with t
 
 Since the spyware sends a lot of the Realme Note 50 device information to the hacker using the internet connection, the phone will experience high usage of data.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Monitoring your mail, email, phone calls, and/or text messages
 
 When your emails, phone calls, and text messages are being checked or tracked that means your phone is being hacked.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Monitoring your use of social media (such as Facebook)
 
 If your social media accounts like Facebook and others are kept an eye on it means that you are being watched and your phone is being hacked. Tracking you or your vehicle using GPS
 
 ![hack without touching by social media](https://images.wondershare.com/drfone/article/2022/03/hack-without-touching.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Tracking you or your vehicle using GPS
 
@@ -551,10 +547,6 @@ Google Chrome: Changing the logged-in account from yours to his/her will help th
 
 These are the legitimate apps that can be downloaded from the App store on your phone. Though these tracking apps are mainly used by parents for monitoring their children, a lot of spouses use them for tracking and spying on their partners as well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Spyware
 
 ![remove spyware](https://images.wondershare.com/drfone/article/2022/03/remove-spyware.jpg)
@@ -570,7 +562,7 @@ So, now when you are sure that you are being spied on by your partner, what is t
 Firstly, if you know that you are not doing anything wrong or want to prove your worth, let your spouse keep tracking you. In the end, when your spouse will not find anything suspicious about your activities and your location, he/she will know that you are right. Moreover, you can even install a GPS on your phone that you’re so that your spouse is aware of your whereabouts all the time, and when nothing suspicious will be found out he will stop spying on you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Response 2: Stop your spouse from spying on you by actionable methods
@@ -590,6 +582,10 @@ Another way is to anti-spy from your spouse which means that let him spy on you 
 By changing the VPN of your device, you can set a false location and your spouse will be tricked and will be forced to believe that you are somewhere else than your actual location. To change Virtual Private Network (VPN) there are different services available and some of the most popularly used ones are Express VPN, IPVanish, SurfShark, NordVPN, and others.
 
 ![stop spouse from spying on you by vpns](https://images.wondershare.com/drfone/article/2022/03/vpn.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2. A Reliable location changer, Dr.Fone - Virtual Location
 
@@ -621,7 +617,7 @@ You can check out this video for further instruction.
 ![connect phone with virtual location](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3.** The actual location of your device will now appear in the new window. If the location is not correct, you can tap on the “**Center On**” icon present in the lower right to display your correct location.
@@ -636,17 +632,21 @@ You can check out this video for further instruction.
 
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Method 3: Take advantage of anti-spyware software**
 
 Another way to stop your spouse from spying on you is by using anti-spy software. Just like spy software sends your location and other information to the hacking spouse, an anti-spyware tool will prevent tracking your device and will prevent from sharing your device information like calls, messages, and others. There are several anti-spyware tools for Android and iOS available in the market and some of the popular ones are Mobile Security & Anti-Theft Protection, iAmNotified, Avira Mobile Security, Cell Spy Catcher, Lookout, and more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Response 3: Seek a Divorce
 
 Spying on your spouse is not only illegal but also unethical. So, if you feel that your trust has been shattered by your spouse by keeping an eye on your phone and your activities and staying with him/her does not seem to be possible, seek a divorce. It's better to come out of a relationship, instead of staying the one where there is no trust or respect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Hot FAQs on spying
 
@@ -680,22 +680,21 @@ The technological advancements may have brought a lot of convenience to the user
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-exclusive-7-secure-download-services/"><u>[New] 2024 Approved Exclusive 7 Secure Download Services</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-breaking-barriers-watching-live-events-on-your-roku-screen/"><u>[New] In 2024, Breaking Barriers Watching Live Events on Your Roku Screen</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-acoustic-indexing-sound-and-vocal-files/"><u>[Updated] Acoustic Indexing Sound and Vocal Files</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-tiktok-greats-on-snapchat-screen-time/"><u>[Updated] In 2024, TikTok Greats on Snapchat Screen Time</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-hidefake-snapchat-location-on-your-itel-a60-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-hidefake-snapchat-location-on-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6 to other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-8-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock iPhone 8 without Passcode</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gb-required-for-one-full-movie-hour-by-hour/"><u>In 2024, GB Required for One Full Movie, Hour by Hour</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-infinix-note-30-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Infinix Note 30 Without PUK Codes</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-vlog-edit-mastery-harnessing-the-power-of-jump-cuts/"><u>In 2024, Vlog Edit Mastery Harnessing the Power of Jump Cuts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/iphones-approach-to-high-dynamic-range-photography-for-2024/"><u>IPhone's Approach to High Dynamic Range Photography for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-xiaomi-14-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Xiaomi 14, is it possible?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/put-and-play-mkv-movies-on-nova-y91-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Put and play MKV movies on Nova Y91</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-deleted-iphone-xs-whatsapp-attachments-on-mac-and-windows-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Deleted iPhone XS WhatsApp Attachments on Mac and Windows | Stellar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719266622683-rejuvenate-your-locked-shift-key-in-windows/"><u>Rejuvenate Your Locked Shift Key in Windows</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-adding-depth-with-customized-facebook-slideshows/"><u>[New] 2024 Approved Adding Depth with Customized Facebook Slideshows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-instacrafts-seamless-video-assemblies-on-androidios/"><u>[New] In 2024, InstaCrafts Seamless Video Assemblies on Android/iOS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-step-by-step-to-supercharge-videos-on-snapchat/"><u>[New] Step by Step to Supercharge Videos on Snapchat</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-how-to-fix-windows-media-player-when-it-cant-play-your-dvds-a-comprehensive-guide/"><u>1. How to Fix Windows Media Player When It Can't Play Your DVDs: A Comprehensive Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Android? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-14-plus-without-passcode-or-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock iPhone 14 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Poco M6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/les-meilleurs-correcteurs-de-video-avec-ia-disponibles-en-ligne-pour-windowsmac-ameliorez-votre-contenu/"><u>Les Meilleurs Correcteurs De Vidéo Avec IA Disponibles en Ligne Pour Windows/Mac: Améliorez Votre Contenu !</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/matters-top-educational-youtube-picks-for-2024/"><u>Mind Matters Top Educational YouTube Picks for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-more-struggle-graphic-setup-now-perfect/"><u>No More Struggle: Graphic Setup Now Perfect</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-a58-4g-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from A58 4G.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-vivo-t2x-5g-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Vivo T2x 5G has been deleted</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-infinix-hot-40-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Infinix Hot 40</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-the-deal-of-a-lifetime-99-for-new-apple-watch-series-10-from-best-buy-expert-tips-inside-zdnet/"><u>Snag the Deal of a Lifetime: $99 for New Apple Watch Series 10 From Best Buy - Expert Tips Inside | ZDNET</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-obs-microphone-issues-on-your-computer/"><u>Troubleshooting Guide: Resolving OBS Microphone Issues on Your Computer</u></a></li>
 </ul></div>
 

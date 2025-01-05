@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Stop Life360 from Tracking You On Vivo V30 Lite 5G? | Dr.fone
-date: 2024-12-25T17:55:48.917Z
-updated: 2024-12-26T23:02:45.278Z
+date: 2024-12-28T19:10:30.784Z
+updated: 2025-01-04T16:15:48.064Z
 tags: 
   - virtual location chang
   - location changer
@@ -35,6 +35,10 @@ Life360 supports both iOS and Android devices. To use, you will need to install 
 
 But as we said before, it is quite uncomfortable to know that someone is tracking you everywhere. So, if you want to hide location on Life360, then this article to know the amazing tricks to stop Life360 from tracking you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Turn Off Location on Life360
 
 ![turn off location on life360](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-2.jpg)
@@ -48,13 +52,13 @@ You can turn off the location to stop the Life360 tracking feature. But, with th
 
 **Note:** If you ever press the Check In button, it will update your location in Life360 even if it is turned off. Further, if you press the Help Alert button, this will also turn on the location-sharing feature.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Fake Location Apps to Spoofing Life360
 
 The best way to stop Life360 from tracking you is to use fake GPS apps on Android and iOS. There are many fake location apps that you can install in your device to spoof Life360 without any risk to your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.1 How to spoof life 360 iPhone
 
@@ -81,6 +85,10 @@ Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
 
 ![select teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - After a search for the desired location, click on the "move here" button.
 - Finally, you are ready to spoof to any location in Life360.
 
@@ -105,7 +113,7 @@ But, before using the app, you will need to enable the developer option and need
 ![how to fake life360 location](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now, follow the following steps to install any fake GPS on Android.
@@ -132,10 +140,6 @@ Life360 is a very helpful app for parents and friends group, but still, it becom
 How do you use your Vivo V30 Lite 5G? Do you use it to make calls, watch content on streaming apps and stay in touch with people through messages and social media alone, or do you use the phone for practically everything from finding dates to meeting and playing augmented reality-based games like Pokémon GO, too? If you are the hip and the happening type who likes to live life differently, this app we're talking about is just for you - a location changer on Vivo V30 Lite 5G, which can help you spoof location iOS 16.
 
 ![location changer on iphone ios 16](https://images.wondershare.com/drfone/article/2022/07/how-to-change-location-on-ios16-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part I: Why Do I Need To Change GPS Location On Vivo V30 Lite 5G?
 
@@ -165,6 +169,10 @@ Wondershare Dr.Fone is a comprehensive, multi-module tool to help you with nearl
 
 Wondershare Dr.Fone - Virtual Location is another module in the comprehensive arsenal of Dr.Fone that helps you fake GPS iOS 16 without downloading any app on the Vivo V30 Lite 5G itself. The advantage here is that you can be running ios 16 and not worry about being unable to spoof location because your favorite location spoofer Vivo V30 Lite 5G app is not working on Vivo V30 Lite 5G anymore due to iOS 16. Dr.Fone will work because it works from your computer and interacts directly with the Vivo V30 Lite 5G without downloading an app to the Vivo V30 Lite 5G.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -190,6 +198,10 @@ This is how you use Dr.Fone Virtual Location, an iOS 16 Pokémon go spoofer tool
 **Step 3:** Choose Virtual Location and connect your phone.
 
 ![wondershare drfone virtual location module](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Click Get Started. NEW Feature: Vivo V30 Lite 5G users are now able to go wireless after setting this up the first time!
 
@@ -226,10 +238,6 @@ Want to catch Pokémon on the streets of Vermont in the United States while rela
 **Step 5:** In a new popup, choose if you want to route to repeat and select the number of times. Click Match to start.
 
 ![drfone virtual location two point simulation](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You should now see your location dot moving along your chosen route at the speed you selected. Open Pokémon Go and start catching!
 
@@ -269,11 +277,19 @@ Can't say for other apps in the market, but Wondershare Dr.Fone – Virtual Loca
 
 The jailbreakers are only catching up to iOS 15 right now. It is being reported that they are close to jailbreaking iOS 15. As you are running iOS 16, you cannot jailbreak Vivo V30 Lite 5G to spoof location using Cydia. Furthermore, jailbreaking is not recommended in today's age given the security and privacy risks it poses.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 Location spoofer Vivo V30 Lite 5G apps are gaining prevalence today mostly among gamers who use these GPS spoofer Vivo V30 Lite 5G apps to catch more Pokémon. However, anyone can use a location changer on Vivo V30 Lite 5G for several other benefits such as breaking the geo-restrictions in dating apps and streaming websites to find dates outside your city limits for free and accessing a catalog of movies and TV shows that is not available in your region due to licensing or other considerations. There are several Vivo V30 Lite 5G location spoofer apps in the market, each extolling its virtues. None of them, however, come close to Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) spoofer on Vivo V30 Lite 5G given its intuitive interface and ease of use. Not only can you use it on iOS 16 without problem as this app works from a computer, but you also do not have to think about security issues that jailbreaking a device brings because Dr.Fone Virtual Location changer on Vivo V30 Lite 5G works without jailbreaking the Vivo V30 Lite 5G.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Change Google Play Location On Vivo V30 Lite 5G
 
@@ -306,6 +322,10 @@ Through your Vivo V30 Lite 5Gs, you can change the location on both Google Play 
 
 ![tap on settings](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Tap on the "General" section to locate the option of "Account and Device Preferences." Afterward, find the "Country and Profiles" option by scrolling down. From there, you can see your current country location.
 
 ![access account and device preferences](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-2.jpg)
@@ -326,25 +346,17 @@ To use this powerful VPN tool, we have jotted down some basic steps through whic
 
 ![install the vpn](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** After opening this app, tap on the country’s name list displayed above the picture of Earth. Tap on that list to view all the available countries.
 
 ![vpn locations displayed](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** Select any country from the displayed list by tapping on it. Meanwhile, make sure that your phone is connected to a strong internet connection. This tool will automatically change your Google location by tapping on the country’s name.
 
 ![mobile vpn connected](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Change Location on Computer
 
@@ -374,15 +386,7 @@ Moreover, the process is fast and fully secured to protect your computer from un
 
 ![access expressvpn location bar option](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** After clicking on any country’s location, your computer’s Google Account location will be automatically changed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: The Most Effective Way to Fake Location on iOS and Android
 
@@ -437,10 +441,6 @@ A notification will pop up for confirmation once you have entered a new location
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 There are plenty of ways to execute **Google One change location across various platforms to execute Google One change location**. For example, people usually **change** **Play** **Store** **country** to access restricted applications in their region. This article will offer a detailed guide for changing Google location through manual and VPN means. However, to avoid any hassle, we recommend [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to change the location of your smartphone and Google Play instantly and conveniently.
@@ -459,17 +459,22 @@ There are plenty of ways to execute **Google One change location across various 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-seamless-scratching-for-chrome-devices/"><u>[Updated] 2024 Approved Seamless Scratching for Chrome Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-humor-weaver-androids-in-chains/"><u>2024 Approved Humor Weaver Androids in Chains</u></a></li>
-<li><a href="https://fox-links.techidaily.com/elite-audio-curated-lists-for-video-editors-for-2024/"><u>Elite Audio Curated Lists for Video Editors for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-pause-life360-location-sharing-for-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-11-pro-max-without-a-computer-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 11 Pro Max without a computer</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Nokia C300? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-xiaomi-13-ultra-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Xiaomi 13 Ultra</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on OnePlus Nord 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-sony-xperia-10-v-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Sony Xperia 10 V</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-oppo-a38-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Oppo A38</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/shift-your-onedrive-folder-in-windows-11/"><u>Shift Your OneDrive Folder in Windows 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-masterful-content-creation-and-branding-via-top-5-youtube-strategies/"><u>2024 Approved Masterful Content Creation and Branding via #Top 5 YouTube Strategies</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-step-by-step-guide-to-crafting-engaging-valorant-thumbnails/"><u>2024 Approved Step-by-Step Guide to Crafting Engaging Valorant Thumbnails</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/get-started-with-jaycut-a-beginners-guide-to-free-video-editing-for-2024/"><u>Get Started with Jaycut A Beginners Guide to Free Video Editing for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-6-plus-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 6 Plus without Passcode</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-nova-y71-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Nova Y71 Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-xiaomi-redmi-13c-5g-by-drfone-android-unlock-android-unlock/"><u>How to unlock Xiaomi Redmi 13C 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-hardware-drivers-on-windows-11107-by-drivereasy-guide/"><u>How to use Device Manager to update hardware drivers on Windows 11/10/7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-vivo-s18-easily-by-drfone-android/"><u>In 2024, How To Unlock a Vivo S18 Easily?</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-inspire-business-identity-utilize-free-logo-templates-and-modify-endlessly/"><u>In 2024, Inspire Business Identity Utilize Free Logo Templates & Modify Endlessly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nokia-data-retrieval-tool-restore-lost-data-from-nokia-by-fonelab-android-recover-data/"><u>Nokia Data Retrieval tool – restore lost data from Nokia</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-samsung-galaxy-a15-5g-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Samsung Galaxy A15 5G, is it possible?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/quick-start-5-simple-ways-to-document-your-minecraft-journey-on-a-mac-for-2024/"><u>Quick Start 5 Simple Ways to Document Your Minecraft Journey on a Mac for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-samsung-galaxy-a15-4g-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-easiest-path-to-personalizing-your-pubg-characters-speech/"><u>The Easiest Path to Personalizing Your PUBG Character’s Speech</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-11-pro-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 11 Pro Without Passcode Easily</u></a></li>
+<li><a href="https://extra-information.techidaily.com/your-iphone-selfie-upgrade-choose-from-8-stars/"><u>Your iPhone Selfie Upgrade - Choose From #8 Stars</u></a></li>
 </ul></div>
 

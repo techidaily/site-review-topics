@@ -1,7 +1,7 @@
 ---
 title: "Innovative Japanese Playland: Kids Master Computing Skills Using Real CPU & Hardware"
-date: 2024-12-19T18:27:13.891Z
-updated: 2024-12-26T16:35:08.657Z
+date: 2024-12-29T03:52:08.041Z
+updated: 2025-01-05T08:01:17.777Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,16 +68,19 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-quick-start-saving-videos-of-your-switch-experiences/"><u>[Updated] Quick Start Saving Videos of Your Switch Experiences</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/boost-your-sites-visibility-using-cookiebot-technology/"><u>Boost Your Site's Visibility Using Cookiebot Technology</u></a></li>
-<li><a href="https://win-forum.techidaily.com/comprehensive-guide-to-engaging-audiences-on-major-platforms-ftiy/"><u>Comprehensive Guide to Engaging Audiences on Major Platforms FTIY</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-12-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 12 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-oppo-a59-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Oppo A59 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-change-location-on-yik-yak-for-your-honor-magic-vs-2-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Honor Magic Vs 2 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-samsung-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Samsung , is it possible?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-music-after-infinix-note-30-5g-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Infinix Note 30 5G has been deleted</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-software-setup-issues-for-intel-graphics/"><u>Resolving Software Setup Issues for Intel Graphics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-charting-creators-fortune-revenue-generated-from-youtube-advertisements-for-2024/"><u>[New] Charting Creator's Fortune Revenue Generated From Youtube Advertisements for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-proven-techniques-to-stand-out-in-podcast-imagery/"><u>[New] In 2024, Proven Techniques to Stand Out in Podcast Imagery</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/op-15-asmr-channels-to-follow/"><u>[New] Top 15 ASMR Channels to Follow</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-ways-to-watch-facebook-live-on-tv/"><u>[New] Ways To Watch Facebook Live On TV</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-fix-hidden-suggested-youtube-and-facebook-videos-explained/"><u>2024 Approved Fix Hidden Suggested YouTube & Facebook Videos Explained</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pioneering-flight-paths-with-gopro-karma-technology/"><u>2024 Approved Pioneering Flight Paths with GoPro Karma Technology</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Identify missing or malfunctioning your drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-s17-pro-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo S17 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-from-script-to-screen-on-a-shoestring-8-affordable-filmmaking-software/"><u>New In 2024, From Script to Screen on a Shoestring 8 Affordable Filmmaking Software</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-poco-m6-pro-4g-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Poco M6 Pro 4G has been deleted</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-nubia-red-magic-8s-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-zte-axon-40-lite-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sharpen-your-footage-with-videoleaps-zoom-for-2024/"><u>Sharpen Your Footage with Videoleap's ZOOM for 2024</u></a></li>
 </ul></div>
 
