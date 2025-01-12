@@ -1,7 +1,7 @@
 ---
 title: "Innovative Japanese Playland: Kids Master Computing Skills Using Real CPU & Hardware"
-date: 2024-12-29T03:52:08.041Z
-updated: 2025-01-05T08:01:17.777Z
+date: 2025-01-09T20:32:17.760Z
+updated: 2025-01-11T18:10:31.816Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,19 +68,17 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-charting-creators-fortune-revenue-generated-from-youtube-advertisements-for-2024/"><u>[New] Charting Creator's Fortune Revenue Generated From Youtube Advertisements for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-proven-techniques-to-stand-out-in-podcast-imagery/"><u>[New] In 2024, Proven Techniques to Stand Out in Podcast Imagery</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/op-15-asmr-channels-to-follow/"><u>[New] Top 15 ASMR Channels to Follow</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-ways-to-watch-facebook-live-on-tv/"><u>[New] Ways To Watch Facebook Live On TV</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-fix-hidden-suggested-youtube-and-facebook-videos-explained/"><u>2024 Approved Fix Hidden Suggested YouTube & Facebook Videos Explained</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pioneering-flight-paths-with-gopro-karma-technology/"><u>2024 Approved Pioneering Flight Paths with GoPro Karma Technology</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Identify missing or malfunctioning your drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-s17-pro-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo S17 Pro is off? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-from-script-to-screen-on-a-shoestring-8-affordable-filmmaking-software/"><u>New In 2024, From Script to Screen on a Shoestring 8 Affordable Filmmaking Software</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-poco-m6-pro-4g-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Poco M6 Pro 4G has been deleted</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-nubia-red-magic-8s-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Nubia Red Magic 8S Pro</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-zte-axon-40-lite-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on ZTE Axon 40 Lite</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/sharpen-your-footage-with-videoleaps-zoom-for-2024/"><u>Sharpen Your Footage with Videoleap's ZOOM for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-start-at-vectors-beginning-a-short-overview-of-forms-and-tools/"><u>[Updated] 2024 Approved Start at Vector's Beginning A Short Overview of Forms & Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-preserving-quality-while-quickening-spotify-auditory-experience/"><u>[Updated] Preserving Quality While Quickening Spotify Auditory Experience</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-tvplus-on-iphone-11-pro-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple TV+ on iPhone 11 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-mastering-obs-and-streamlabs-mac-integration/"><u>In 2024, Mastering OBS & Streamlabs Mac Integration</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/prime-windows-11-photo-inspector/"><u>Prime Windows 11 Photo Inspector</u></a></li>
+<li><a href="https://review-topics.techidaily.com/reinstall-hardware-drivers-with-device-manager-in-windows-1110-by-drivereasy-guide/"><u>Reinstall hardware drivers with Device Manager in Windows 11/10</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/top-3-methods-to-secure-your-files-with-a-password-on-windows-11/"><u>Top 3 Methods to Secure Your Files with a Password on Windows 11</u></a></li>
 </ul></div>
 
