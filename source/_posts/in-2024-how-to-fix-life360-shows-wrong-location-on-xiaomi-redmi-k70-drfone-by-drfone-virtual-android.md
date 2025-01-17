@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix Life360 Shows Wrong Location On Xiaomi Redmi K70? | Dr.fone
-date: 2025-01-05T21:16:28.372Z
-updated: 2025-01-11T17:30:18.444Z
+date: 2025-01-15T16:22:47.888Z
+updated: 2025-01-17T18:03:55.904Z
 tags: 
   - virtual location chang
   - location changer
@@ -43,17 +43,9 @@ Therefore, it is important to keep an eye on the network lines to determine whet
 
 To get more information about how often does life360 update location, read about the Life360: Learn How Everything Works!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to Fix Life360 Shows Wrong Location Issue?
 
 There are several ways to fix the Life360app problems that life360 not updating its location. Let's check them out one by one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Review the Internet settings
 
@@ -64,6 +56,10 @@ Switch off the option that saves power and then turn on the wireless Internet co
 You may turn off your smartphone's power-saving mode by heading to the status bar and selecting the appropriate option.
 
 ![review the internet settings](https://images.wondershare.com/drfone/article/2022/06/how-to-fix-life360-shows-wrong-location_1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Please note that this is just for Android users. Also, do not forget to consider that your Android smartphone's settings may vary from those listed below.
 
@@ -89,13 +85,13 @@ Only one device may be used to sign in to the Life 360 app at a time. To prevent
 
 If you want reliable results, you must be logged in from the same device. If you use numerous devices simultaneously to log in to Life360, it will report incorrect location errors for each one. Therefore, it is possible to get inaccurate data. Use a single device to log into life360 to prevent the issue of a wrong location showing up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Keep Your Location on Life360 in One Place?
 
 Two of the most important and easy ways to keep your location on life360 in one place are:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Stopping both Wi-Fi and Cellular Data Transmissions
 
@@ -105,10 +101,6 @@ Because all other applications are disconnected, this solution has a significant
 
 ![stopping both wi-fi and cellular data transmissions](https://images.wondershare.com/drfone/article/2022/06/how-to-fix-life360-shows-wrong-location_3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Those with an iPhone have the advantage of being able to disable the usage of cellular data directly inside the application's settings. However, those with an Android device will need to resort to other approaches.
 
 iPhone users may access the Cellular setting by going to the Settings app and tapping on it. This will switch off the cellular data for the Life360 app. Turn off Life360 by swiping the switch to the off position mentioned above. Life360 will not be able to provide an accurate location report for you so long as there is no Wi-Fi access.
@@ -116,7 +108,7 @@ iPhone users may access the Cellular setting by going to the Settings app and ta
 ![stopping both wi-fi and cellular data transmissions](https://images.wondershare.com/drfone/article/2022/06/how-to-fix-life360-shows-wrong-location_4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Advantages:**
@@ -179,10 +171,6 @@ Life360 has released a major update for Android and iPhone users, fixing the sho
 
 PPTP, which stands for Point to Point Tunneling Protocol is one of the oldest and most trusted ways of implementing a VPN. It was developed by Microsoft and uses a GRE tunnel with a TCP control channel to bypass various geo-based restrictions. Since free PPTP VPN has been around for years now and is pretty easy to setup, it is quite popular as well. Read on and learn the basics of PPTP VPN free with a free PPTP VPN list as well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: What is PPTP VPN?
 
 The free VPN PPTP was earlier introduced by Windows, but was later adopted by all the other platforms like Linux, macOS, iOS, Android, etc. Even though the layer of encryption in free PPTP VPN is not as secure as other protocols, it makes it pretty fast. Due to this, the PPTP VPN is widely used to bypass location-based restrictions.
@@ -214,6 +202,10 @@ After getting to know about so many free PPTP VPN Singapore, USA, Canada, UK, an
 
 ![free pptp vpn connection](https://images.wondershare.com/drfone/2023/virtuallocation/pptp-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. This will launch a new wizard that can be used to setup a PPTP VPN free. Out of all the provided options, select the “Connect to a workplace” option.
 
 ![connect to a workplace](https://images.wondershare.com/drfone/2023/virtuallocation/pptp-3.jpg)
@@ -237,7 +229,7 @@ After getting to know about so many free PPTP VPN Singapore, USA, Canada, UK, an
 ![pptp vpn properties](https://images.wondershare.com/drfone/2023/virtuallocation/pptp-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 10\. Furthermore, you can go to the General tab to make sure the server is specified correctly.
@@ -247,10 +239,6 @@ After getting to know about so many free PPTP VPN Singapore, USA, Canada, UK, an
 ![connect to free pptp vpn](https://images.wondershare.com/drfone/2023/virtuallocation/pptp-7.png)
 
 That’s it! By following these steps, you would be able to create a free PPTP VPN Singapore, USA, UK, Canada, Germany, or any other location. Simply give this tutorial a try and pick the preferred option from our free PPTP VPN list. If you also have a suggestion for a free VPN PPTP that you want to add to your list, then let us know about it in the comments below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: An Easier Alternative to Setup VPN
 
@@ -286,7 +274,7 @@ In today’s world, it is highly recommended to use a VPN while using the intern
 If you want to use a hardware VPN for your home or business needs, then you can certainly meet your requirements with these options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Cisco Systems Gigabit Dual WAN VPN
@@ -307,6 +295,10 @@ Price: $172
 
 ![Cisco Systems Gigabit Dual WAN VPN](https://images.wondershare.com/drfone/2023/virtuallocation/hardware-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Zyxel Next Generation VPN Firewall
 
 This VPN hardware by Zyxel will help you meet your business needs for sure. It is one of the most secure devices that you can try to get an access to around 100 VPNs.
@@ -325,10 +317,6 @@ Price: $450 (for 100 VPNs), $950 (for 300 VPNs), and $1350 (for 1000 VPNs)
 
 ![vpn hardware device - Zyxel Next Generation VPN Firewall](https://images.wondershare.com/drfone/2023/virtuallocation/hardware-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. GL.iNet GL-AR150 Mini Travel Router & VPN
 
 If you are looking for an affordable hardware VPN for home use, then you should check this portable VPN router by GL.iNet. Since it is lightweight and portable, you can carry it anywhere and use it as per your needs.
@@ -345,6 +333,14 @@ Price: $22
 [Buy it here](https://www.amazon.com/GL-AR150-Converter-Pre-installed-Performance-Programmable/dp/B015CYDVG8)
 
 ![vpn hardware device - GL.iNet GL-AR150 Mini Travel Router VPN](https://images.wondershare.com/drfone/2023/virtuallocation/hardware-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. UTT HiPER 518 VPN
 
@@ -447,6 +443,10 @@ Many users choose [NordVPN](https://go.nordvpn.net/SH1EC) to do it for the follo
 
 Now when you know about the various options for hardware VPN for home use and business purposes, you can easily pick a VPN hardware of your choice. We have listed different kinds of options in this post, helping you make up your mind. You can always visit their Amazon page and get more information about them. Go ahead and pick the hardware VPN of your choice and let us know about it as well.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -473,21 +473,21 @@ Now when you know about the various options for hardware VPN for home use and bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-gopro-hero5-black-vs-garmin-virb-ultra-30-which-better-2022-upda/"><u>[New] 2024 Approved GoPro Hero5 Black VS Garmin VIRB Ultra 30 Which Better? [2022 Upda]</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-delving-deep-into-high-dynamic-range-with-adobe-ps/"><u>[Updated] In 2024, Delving Deep Into High Dynamic Range with Adobe PS</u></a></li>
-<li><a href="https://extra-information.techidaily.com/blueprint-to-blockbuster-scriptwriting-for-films-for-2024/"><u>Blueprint to Blockbuster Scriptwriting for Films for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/cutting-edge-convenience-redefined-with-amazons-fourth-gen-echo-device-revealed/"><u>Cutting-Edge Convenience Redefined with Amazon's Fourth Gen Echo Device Revealed.</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/design-personalized-brands-with-zero-cost-templates/"><u>Design Personalized Brands with Zero-Cost Templates</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-nokia-c210-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Nokia C210 Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-oppo-a18-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Oppo A18 Phone Forgot Password</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-14-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 14 Pro Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-infinix-smart-8-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Infinix Smart 8 Pro to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-tecno-spark-20c-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Tecno Spark 20C is off? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-xiaomi-redmi-k70-pro-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Xiaomi Redmi K70 Pro is off? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-apple-iphone-13-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile Apple iPhone 13 Before the Plan Expires</u></a></li>
-<li><a href="https://review-topics.techidaily.com/issues-playing-mov-videos-on-motorola-by-aiseesoft-video-converter-play-mov-on-android/"><u>Issues playing MOV videos on Motorola</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mov-files-are-unwatchable-on-motorola-moto-g73-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV files are unwatchable on Motorola Moto G73 5G</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-motorola-moto-g-stylus-5g-2023-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Motorola Moto G Stylus 5G (2023)</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/seamless-conversion-techniques-transforming-ape-files-into-high-quality-flac-format/"><u>Seamless Conversion Techniques: Transforming APE Files Into High-Quality FLAC Format</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-ajeys-path-to-prosperity-monetizing-his-online-presence-for-2024/"><u>[New] Ajey's Path to Prosperity Monetizing His Online Presence for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitta-visuals-audio-extraction-services/"><u>[Updated] In 2024, Twitta Visuals Audio Extraction Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/3mp4/"><u>3優れた無料方法：MP4動画からフレーム画像を取得・保存するステップバイステップガイド</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-itel-s23-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-fix-logitech-mouse-issues-on-windows-11-a-step-by-step-guide/"><u>How to Fix Logitech Mouse Issues on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-infinix-hot-30i-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Infinix Hot 30i Phone When You Forget the Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-realme-c67-4g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Realme C67 4G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Honor X8b? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Honor X9b? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-overcoming-obstacles-with-youtube-short-strategies/"><u>In 2024, Overcoming Obstacles with YouTube Short Strategies</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/jestful-joymaker-online/"><u>Jestful Joymaker Online</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/quick-fix-hide-identities-in-photos-with-picart/"><u>Quick Fix Hide Identities in Photos with PicArt</u></a></li>
+<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-y27s-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo Y27s | Dr.fone</u></a></li>
 </ul></div>
 

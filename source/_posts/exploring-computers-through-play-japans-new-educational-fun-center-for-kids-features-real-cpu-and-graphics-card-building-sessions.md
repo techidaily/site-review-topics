@@ -1,7 +1,7 @@
 ---
 title: "Exploring Computers Through Play: Japan's New Educational Fun Center for Kids Features Real CPU and Graphics Card Building Sessions"
-date: 2024-08-09T18:01:27.755Z
-updated: 2024-08-10T18:01:27.755Z
+date: 2025-01-10T17:37:11.516Z
+updated: 2025-01-17T16:22:08.287Z
 tags:
   - desktop
 categories:
@@ -42,8 +42,9 @@ These are the specifications of the two Asus ROG NUC models:
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -52,14 +53,11 @@ These are the specifications of the two Asus ROG NUC models:
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -68,4 +66,22 @@ These are the specifications of the two Asus ROG NUC models:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-ultimate-guide-to-weaving-gopro-footage-into-circular-films/"><u>[New] In 2024, Ultimate Guide to Weaving GoPro Footage Into Circular Films</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-art-of-introducing-your-podcast/"><u>[New] The Art of Introducing Your Podcast</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/best-tools-to-track-popular-tags-on-fb-twt-and-ig-networks-for-2024/"><u>Best Tools to Track Popular Tags on FB, Twt & IG Networks for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-pixma-mp280-driver-software-download-guide-windows-compatibility/"><u>Canon PIXMA MP280 Driver Software Download Guide - Windows Compatibility</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-motorola-edge-40-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Motorola Edge 40 Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Lava Storm 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-brightness-and-saturation-in-ps-basics/"><u>In 2024, Unlocking Brightness and Saturation in PS Basics</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-poco-c51-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Poco C51 Phones</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-to-galaxy-s23-ultra-converter-convert-mkv-for-galaxy-s23-ultra-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV to Galaxy S23 Ultra converter - convert MKV for Galaxy S23 Ultra</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-high-performance-gear-with-tom-a-comprehensive-look-at-hardware/"><u>Navigating High-Performance Gear with Tom: A Comprehensive Look at Hardware</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-galaxy-s24-ultra-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Galaxy S24 Ultra</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-honor-magic-5-lite-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Honor Magic 5 Lite has been deleted.</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a14-4g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A14 4G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+</ul></div>
 

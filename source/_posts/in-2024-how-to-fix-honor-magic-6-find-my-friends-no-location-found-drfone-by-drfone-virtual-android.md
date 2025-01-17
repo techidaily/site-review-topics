@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix Honor Magic 6 Find My Friends No Location Found? | Dr.fone
-date: 2025-01-05T00:57:37.082Z
-updated: 2025-01-11T21:39:11.794Z
+date: 2025-01-12T18:19:36.196Z
+updated: 2025-01-17T16:40:21.434Z
 tags: 
   - virtual location chang
   - location changer
@@ -44,6 +44,10 @@ _**Option #4:**_ The other user must have set up the wrong date and time. If the
 **_Option #5:_** The application might not have been enabled under "Location Services". Make sure that the application has the permission to track your current location and you can do this by following the steps below.
 
 ![no location found](https://images.wondershare.com/drfone/article/2022/06/find-my-friends-no-location-found-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - _**Step 1:**_ Go to "Settings" and then "Privacy".
 - _**Step 2:**_ You can then go to "Location Services" and make sure that the application "Find My Friends" is enabled to track your location.
@@ -107,10 +111,6 @@ _**Step 1:**_ Download the "Dr. Fone - Virtual Location" software on your laptop
 
 ![start the virtual location feature](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **_Step 3:_** You will then be redirected to your current location on the new page.
 
 ![locate yourself](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
@@ -134,10 +134,6 @@ Nothing is more important than your mobile device when it comes to your security
 Whether you're looking to sync photos, videos, contacts, messages, and locations with your mobile devices and computers or simply set up your home cameras to automatically send you alerts, Life360 is designed to be the most powerful mobile phone service provider you've ever seen.
 
 It's the most secure and easiest-to-use service, but it's not the cheapest. So, let's know what Life360 is and how Life360 work.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: What Is Life360?
 
@@ -193,6 +189,10 @@ You can also remotely wipe sensitive data and settings from any device at any ti
 
 Setting a virtual location is one of the prime role Dr.Fone plays.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -211,17 +211,21 @@ Downloading Dr.Fone - Virtual Location (for iOS or Android) is the first thing t
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 1:** After going through all of the available choices, choose "Virtual Location," and then connect your iPhone or Android phone to your computer. Select "Get Started" from the drop-down menu.
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 For iPhone users, after the program has been linked via a USB cord, it is possible to connect wirelessly without a connection.
 
 ![tap on move here button](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** You may see your current position on a map in the new window. If you are having trouble finding your current position when looking for locations on the map, you may hit the "center on" symbol that is located in the side to the right of the map to reveal your exact location.
 
@@ -230,6 +234,10 @@ For iPhone users, after the program has been linked via a USB cord, it is possib
 **Step 3:** Tap the matching icon in the top right to enter "teleport mode." It's as simple as entering your destination location in the top left corner and clicking on the "go" button. Let's look at Rome, Italy, as an illustration of this.
 
 ![choose destination you want](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** It's clear to the system that Rome is your destination. To relocate, choose "Move Here" from the menu that appears.
 
@@ -264,7 +272,7 @@ In brief, it is because walking is less likely to be used for commuting than dri
 It means that the Honor Magic 6 device you're using is not connected to the internet. In this case, you should check if your internet connection is working properly. If you're sure your internet connection is working fine, try restarting your device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Does Life360 work when your phone is off?
@@ -272,6 +280,10 @@ It means that the Honor Magic 6 device you're using is not connected to the inte
 In the event that you switch off your phone, the GPS feature will also be disabled. As a result, it will not be able to determine your position when your phone is turned off.
 
 However, Life360 will continue to provide the most recent location data uploaded to your account. So, a life360 login online is necessary.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -324,16 +336,12 @@ In addition to AR-based games, you can also spoof dating apps like Tinder and Gr
 Again to spoof dating apps, you will need to enable allow mock location apk feature on android devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How Mock Locations Change Your Mobile Location?
 
 Now, let’s check out how you can mock locations on Your Honor Magic 6s. Ideally, you will need to enable allow mock location to select a fake location spoofer app under it. With fake GPS spoofer, you can fake your android location.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3.1 How to allow mock locations on Android
 
@@ -393,16 +401,12 @@ Here are the steps that you will need to follow to install Dr. Fone in your devi
 
 ![connect your iphone](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** You will see a world map with three modes on the right top side.
 
 ![world map with three mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4:** Select any one mode from the teleport, two-stop mode, and multi-stop mode to spoof your location.
@@ -421,23 +425,19 @@ In Samsung and Motto device, the mock location feature is available under the �
 
 ![mock location on Samsung and motto](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-13.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Allow mock location on LG
 
 Smartphones from LG have a dedicated “Allow Mock Locations” feature that you can easily access by enabling Developer Options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mock location on Xiaomi and
 
 Most of the Xiaomi devices have MIUI numbers instead of Build Number. So, to enable the developer option, you will need to tap on MIUI under Settings > About Phone. After this, you will see “ allow mock location apk.”
 
 ![mock location on LG](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-14.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Huawei
 
@@ -461,21 +461,18 @@ We hope that after reading the above article, you would be able to allow mock lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-precision-techniques-for-high-quality-overwatch-saves/"><u>[New] Precision Techniques for High-Quality Overwatch Saves</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-transforming-viewers-into-fans-with-top-yt-video-reacts/"><u>[New] Transforming Viewers Into Fans with Top YT Video Reacts</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-highlighting-the-finest-video-grabbers-in-windows-10/"><u>[Updated] 2024 Approved Highlighting the Finest Video Grabbers in Windows 10</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-evaluating-the-top-video-streaming-apps-for-phones/"><u>[Updated] Evaluating the Top Video Streaming Apps for Phones</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/about-nubia-red-magic-8s-proplus-frp-bypass-by-drfone-android/"><u>About Nubia Red Magic 8S Pro+ FRP Bypass</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/grasping-ai-vulnerability-demystifying-prompt-injections/"><u>Grasping AI Vulnerability: Demystifying Prompt Injections</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 To Other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Itel A70? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-universe-of-gesture-technology/"><u>In 2024, Exploring the Universe of Gesture Technology</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-honor-x7b-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Honor X7b</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-realme-narzo-60-pro-5g-by-fonelab-android-recover-data/"><u>Recover lost data from Realme Narzo 60 Pro 5G</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-nokia-c210-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Nokia C210 has been deleted.</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/top-5-xiaomi-13-ultra-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Xiaomi 13 Ultra Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/yac539-yamahaaturbosound-ii-sound-module-based-on-the-ymf768ymu768-dsp-plus-midi-synthesizer-plus-codec-and-128-mb-of-spiram-for-sample-storage-instead-of-r145/"><u>YAC539 - Yamaha'aturboSound II Sound Module Based on the YMF768/YMU768 (DSP + MIDI Synthesizer + Codec) and 128 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-how-to-write-podcast-script-plus-10plus-free-examples/"><u>[New] 2024 Approved How To Write Podcast Script (Plus 10+ Free Examples)</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-dissecting-the-sony-s6700-enhancements/"><u>[New] Dissecting the Sony S6700 Enhancements</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mycamadventure-discovering-new-camera-worlds-for-2024/"><u>[New] MyCamAdventure Discovering New Camera Worlds for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unpacked-strategies-for-optimal-viewing-of-live-videos/"><u>[Updated] In 2024, Unpacked Strategies for Optimal Viewing of Live Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-nikon-d500-reviewed-a-4k-photo-enthusiasts-dream/"><u>[Updated] Nikon D500 Reviewed A 4K Photo Enthusiast's Dream</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-comprehensive-guide-to-atandt-international-travel-plans/"><u>A Comprehensive Guide to AT&T International Travel Plans</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/becoming-a-youtube-pro-the-ultimate-picture-post-guide-for-2024/"><u>Becoming a YouTube Pro The Ultimate Picture Post Guide for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-strengths-of-the-apc-back-ups-be600m1-built-in-usb-charger-meets-high-performance-battery-protection/"><u>Discover the Strengths of the APC Back-UPS Be600m1: Built-In USB Charger Meets High-Performance Battery Protection</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Lava Blaze Curve 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-infinix-zero-5g-2023-turbo-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Infinix Zero 5G 2023 Turbo Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Itel A60s | Dr.fone</u></a></li>
 </ul></div>
 

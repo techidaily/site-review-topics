@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Stop My Spouse from Spying on My Nokia C12 Pro | Dr.fone
-date: 2025-01-05T20:23:22.523Z
-updated: 2025-01-12T01:51:59.798Z
+date: 2025-01-16T18:15:15.226Z
+updated: 2025-01-17T16:04:06.495Z
 tags: 
   - virtual location chang
   - location changer
@@ -43,6 +43,10 @@ If you feel that your phone is running slow than usual then it might be hacked a
 
 Though battery drain can alone not be a sign of the phone being hacked as with time the life of the battery starts decreasing. Still, it can be one of the signs as the hacking apps and tools are resource-draining which in turn decreases the battery life.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. High data usage
 
 Since the spyware sends a lot of the Nokia C12 Pro device information to the hacker using the internet connection, the phone will experience high usage of data.
@@ -56,10 +60,6 @@ When your emails, phone calls, and text messages are being checked or tracked th
 If your social media accounts like Facebook and others are kept an eye on it means that you are being watched and your phone is being hacked. Tracking you or your vehicle using GPS
 
 ![hack without touching by social media](https://images.wondershare.com/drfone/article/2022/03/hack-without-touching.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Tracking you or your vehicle using GPS
 
@@ -86,15 +86,15 @@ These are the legitimate apps that can be downloaded from the App store on your 
 
 ![remove spyware](https://images.wondershare.com/drfone/article/2022/03/remove-spyware.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This is one of the most widely used methods where the software or an app is installed on the Nokia C12 Pro device to retrieve the Nokia C12 Pro device data. The victim partner is unaware of any such apps installed on their device and the data is sent to the hacking partner. A wide range of these spyware tools is available in the market in different price brackets. These spyware apps can retrieve data like chats, call details, messages, browsing history, passwords, and much more.
 
 ## Part 3: How should I respond when I learn my spouse is spying on me?
 
 So, now when you are sure that you are being spied on by your partner, what is the next thing to do? Depending on how you want to deal with the situation your response and its related actions will depend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Response 1: Reassure your partner and gain the trust
 
@@ -138,7 +138,7 @@ You can check out this video for further instruction.
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Steps to change device location using Dr. Fone-Virtual Location**
@@ -146,6 +146,10 @@ You can check out this video for further instruction.
 **Step 1.** Download, install and launch the software on your system. From the main interface choose the “**Virtual Location**” tab.
 
 ![home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** Connect your Android or iOS phone to your system and then after it's successfully connected, click on **Next** at the software interface.
 
@@ -163,9 +167,17 @@ You can check out this video for further instruction.
 
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Method 3: Take advantage of anti-spyware software**
 
 Another way to stop your spouse from spying on you is by using anti-spy software. Just like spy software sends your location and other information to the hacking spouse, an anti-spyware tool will prevent tracking your device and will prevent from sharing your device information like calls, messages, and others. There are several anti-spyware tools for Android and iOS available in the market and some of the popular ones are Mobile Security & Anti-Theft Protection, iAmNotified, Avira Mobile Security, Cell Spy Catcher, Lookout, and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Response 3: Seek a Divorce
 
@@ -209,6 +221,10 @@ So, it is always better to prevent cross-site tracking for all the above and mor
 
 _Further reading: [A detailed guide on faking location in Mozilla Firefox](https://drfone.wondershare.com/fake-location/how-to-fake-your-location-in-firefox-browser.html). Don't worry about your location privacy anymore!_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Can Private Browsing be traced?
 
 Yes, private browsing can be traced. When you work in private browsing mode, the web browser does not save the browsing history, which means that anyone who uses your system will not check your online activities. But websites and cookies can track your browsing history as well as other information.
@@ -222,10 +238,6 @@ Safari is the most commonly used platform by iOS users. So, to prevent CST for S
 Safari cross-site tracking can be prevented using the below steps on your iPhone and iPad.
 
 ![prevent cross-site tracking on iPhone](https://images.wondershare.com/drfone/article/2022/03/prevent-cst-iphone-ipad.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - Step 1. Launch the Settings app on your iOS device.
 - Step 2. Find the Safari option by scrolling down the menu.
@@ -292,6 +304,10 @@ Here is a video tutorial for you to take an overview of how to use Dr.Fone - Vir
 
 ![download virtual location and get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**. A new window on the software interface will open, showing your connected phone's real and actual location. If the detected location is incorrect, click on the **“Center On”** icon to display the right device location.
 
 ![virtual location map interface](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
@@ -301,10 +317,6 @@ Here is a video tutorial for you to take an overview of how to use Dr.Fone - Vir
 **Step 5**. Next, you have to **enter now the fake location** to which you wish to teleport to at the upper-left corner. Click on **Go**.
 
 ![search a location on virtual location and go](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 6**. Finally, tap on the **Move Here** button and the new fake location for your connected Android or iOS device at the pop-up box.
 
@@ -375,6 +387,10 @@ As we stated in the possible reasons, incorrect dates and times also result in t
 
 ![adjust date and time](https://www.virtuallocation.com/images/pokemon-go/adjust-date-and-time.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 4: Check the Internet
 
 Before you conclude that there is something wrong with the Find My Friends app, check your internet connection. There is a chance that location is not available on the Nokia C12 Pro  because your device doesn't have internet access. Try opening Settings > Mobile Data/Wi-Fi and turning it on and off. Alongside, make sure that you have signal strength, whether you are connecting to cellular data or a Wi-Fi network.
@@ -399,15 +415,7 @@ The next tip to use when Find My Friends says location not available is restarti
 
 ![restart Nokia C12 Pro ](https://www.virtuallocation.com/images/pokemon-go/restart-Nokia C12 Pro .jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Drag the Power slider to the right side and wait for the Nokia C12 Pro device to shut down. Wait for a minute before you restart the Nokia C12 Pro device, and hopefully, the feature will start working again as usual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tip 7: Check That Your Friend Has Signed into Find My Friends
 
@@ -438,7 +446,7 @@ To use Dr.Fone - Virtual Location, here are the steps you need to follow:
 ![detect actual location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3:** Now go to the search box and type the location you want to switch to. Once the location gets detected, click on the "Move Here" option, and the location of your Nokia C12 Pro  or Android phone will change to the one you specified.
@@ -479,10 +487,6 @@ Yes, you can take steps to prevent someone from tracking your phone's location. 
 
 Taking these precautions can help safeguard your phone's location and enhance your privacy. It's important to stay vigilant and be aware of the privacy settings and permissions on your device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -494,10 +498,6 @@ Taking these precautions can help safeguard your phone's location and enhance yo
 - Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
 
 **3981454** people have downloaded it
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -517,14 +517,24 @@ Hopefully, now you know "why is find my friends not working" and several ways to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-cutting-down-video-lengths-the-ultimate-mac-guide-for-insta-for-2024/"><u>[Updated] Cutting Down Video Lengths The Ultimate Mac Guide for Insta for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-key-points-to-consider-when-opting-for-a-youtube-tv-subscription-for-2024/"><u>[Updated] Key Points to Consider When Opting for a YouTube TV Subscription for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-humor-in-captivity-top-20-memes-from-jail-to-joys-of-online-life/"><u>2024 Approved Humor in Captivity Top 20 Memes From Jail to Joys of Online Life</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-poco-c55-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Poco C55 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-7-plus-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 7 Plus To Other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-oppo-a18-by-drfone-android-unlock-android-unlock/"><u>How to unlock Oppo A18</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/streamline-editing-how-to-load-music-in-inshot/"><u>Streamline Editing How to Load Music in InShot</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/omparing-free-and-premium-youtube-experiences-whats-best-for-2024/"><u>[New] Comparing Free and Premium YouTube Experiences What's Best for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-ghostly-3-melee-golem-4s-challenge/"><u>[New] Ghostly 3 Melee Golem 4'S Challenge</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-screen-capture-contenders-a-comprehensive-review-for-2024/"><u>[New] Top Screen Capture Contenders A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-achieving-profitability-at-half-a-million-viewers/"><u>[Updated] 2024 Approved Achieving Profitability at Half a Million Viewers</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/die-beste-freie-software-zum-hochladen-von-qnap-nas-mit-zwei-losungen-fuhrender-vergleich/"><u>Die Beste Freie Software Zum Hochladen Von QNAP NAS Mit Zwei Lösungen - Führender Vergleich</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6s-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6s without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-apple-iphone-se-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Fake GPS On Apple iPhone SE For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-lenovo-thinkphone-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Lenovo ThinkPhone For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Oppo Reno 9A? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Sony Xperia 1 V? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/master-the-world-of-digital-drawing-with-gaomons-pd1560-stylus-board-a-full-featured-review/"><u>Master the World of Digital Drawing with Gaomon's PD1560 Stylus Board - A Full-Featured Review</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/maximizing-your-publishing-potential-how-many-ebooks-can-you-create-with-flipbuilder/"><u>Maximizing Your Publishing Potential: How Many eBooks Can You Create with FlipBuilder?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mmo-universe-guidebook-best-10-free-roleplaying-games/"><u>MMO Universe Guidebook Best 10 Free Roleplaying Games</u></a></li>
+<li><a href="https://review-topics.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/schrittweise-anleitung-zum-reflektieren-von-ordnern-auf-windows-11/"><u>Schrittweise Anleitung Zum Reflektieren Von Ordnern Auf Windows 11</u></a></li>
 </ul></div>
 
