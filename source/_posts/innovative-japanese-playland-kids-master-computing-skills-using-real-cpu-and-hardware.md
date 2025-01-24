@@ -1,7 +1,7 @@
 ---
 title: "Innovative Japanese Playland: Kids Master Computing Skills Using Real CPU & Hardware"
-date: 2025-01-14T17:03:46.169Z
-updated: 2025-01-17T18:22:43.580Z
+date: 2025-01-22T22:21:49.959Z
+updated: 2025-01-23T21:58:32.293Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,19 +68,18 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-seamless-integration-of-titles-on-videos-using-windows-photos/"><u>[New] 2024 Approved Seamless Integration of Titles on Videos Using Windows Photos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-oven-to-screen-cooking-videos-unveiled/"><u>[New] In 2024, From Oven to Screen Cooking Videos Unveiled</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-animators-artistry-archives-for-2024/"><u>[Updated] Animator's Artistry Archives for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-from-spoken-word-to-memo-iphone-audio-guidance-for-2024/"><u>[Updated] From Spoken Word to Memo IPhone Audio Guidance for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-mvps-of-frugal-filmmaking-tech/"><u>[Updated] In 2024, The MVPs of Frugal Filmmaking Tech</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-unlock-xps-movie-magic-software-essentials/"><u>2024 Approved Unlock XP's Movie Magic Software Essentials</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changefake-your-infinix-zero-30-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Infinix Zero 30 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-iphone-15-plus-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On iPhone 15 Plus without Password?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Simulate GPS Movement in AR games On Apple iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Realme V30? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/online-movie-magic-access-free-content-with-crackle/"><u>Online Movie Magic: Access Free Content With Crackle!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-best-practices-for-choosing-top-3ds-pc-emulators/"><u>[New] 2024 Approved Best Practices for Choosing Top 3Ds PC Emulators</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rom-novice-to-pro-youtube-shorts-guide/"><u>[New] From Novice to Pro YouTube Shorts Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-changing-tide-of-youtube-earnings/"><u>[Updated] The Changing Tide of YouTube Earnings</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/avchd-on-civi-3-disney-100th-anniversary-edition-convert-mts-for-civi-3-disney-100th-anniversary-edition-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD on Civi 3 Disney 100th Anniversary Edition-convert MTS for Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-gps-location-on-xiaomi-13-ultra-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Xiaomi 13 Ultra Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-iphone-6s-plus-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your iPhone 6s Plus without Security Questions?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-prevent-social-discomfort-block-options/"><u>In 2024, Prevent Social Discomfort Block Options</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-note-30-vip-racing-edition-messages-recovery-recover-deleted-messages-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-messages/"><u>Infinix Note 30 VIP Racing Edition Messages Recovery - Recover Deleted Messages from Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ps5-decision-dilemma-solved-here-are-4-reasons-to-own-one/"><u>PS5 Decision Dilemma Solved - Here Are 4 Reasons to Own One</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/should-i-upgrade-to-windows-11/"><u>Should I Upgrade to Windows 11?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-overcoming-frame-rate-drops-and-delays-in-fallout-4-gaming/"><u>Ultimate Guide: Overcoming Frame Rate Drops and Delays in Fallout 4 Gaming</u></a></li>
 </ul></div>
 

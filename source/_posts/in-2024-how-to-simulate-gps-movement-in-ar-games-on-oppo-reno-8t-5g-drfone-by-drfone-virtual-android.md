@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Simulate GPS Movement in AR games On Oppo Reno 8T 5G? | Dr.fone
-date: 2025-01-11T16:53:04.205Z
-updated: 2025-01-17T16:29:44.389Z
+date: 2025-01-19T21:04:01.230Z
+updated: 2025-01-23T23:51:29.430Z
 tags: 
   - virtual location chang
   - location changer
@@ -25,10 +25,6 @@ However, this has some limitations, like some people needing the opportunity to 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1. Why Would You Simulate GPS Movement on AR games?
 
 In AR games that come with GPS tracking software, they track the real motion of users. Before jumping into discussing the methods of **Pokémon Go spoofing Reddit** or other forums include, it is useful to understand why simulating GPS movement is necessary.
@@ -37,6 +33,10 @@ In AR games that come with GPS tracking software, they track the real motion of 
 - Some players can't travel in the first place for various reasons like financial constraints, health concerns, and current location.
 
 In these cases, using a **fake GPS route** helps simulate the location of players, so they can still take part without actually moving around.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. 4 Effective Ways to Simulate GPS Movement On AR games?
 
@@ -94,6 +94,10 @@ Below is the video showcasing all steps necessary to simulate GPS movement while
 
 ![press move here](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5**: The joystick will appear at the side. You can use this joystick to control your spoofed movement as you open other apps and try them out.
 
 ![joystick will appear](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
@@ -137,7 +141,7 @@ It is possible to run this app on different iPhones and iPads simultaneously. Th
 ![tap on move here](https://images.wondershare.com/drfone/article/2022/12/how-to-simulate-gps-movement-on-ar-games-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Simulate GPS Movement Android
@@ -176,17 +180,9 @@ Get multiple spoofing options here, like expert mode and various routes to set u
 
 ![tap on the play button](https://images.wondershare.com/drfone/article/2022/12/how-to-simulate-gps-movement-on-ar-games-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3**: The app will automatically show the spoofed fly GPS after inserting the fake location.
 
 ![the app will automatically show](https://images.wondershare.com/drfone/article/2022/12/how-to-simulate-gps-movement-on-ar-games-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Method 2. [Mock Locations](https://play.google.com/store/apps/details?id=ru.gavrikov.mocklocations)**
 
@@ -266,6 +262,10 @@ There are specific applications that allow you to spoof the location of your dev
 
 ![pokemon community day](https://images.wondershare.com/drfone/2020/202010/pokemon-community-day.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Check out websites: Certain websites throughout the internet occasionally offer free **iSpoofer Pro Plan** License **Keys**. Try to check them out from time to time, and someday you might be lucky to get a free **iSpoofer Pro Plan** License **Key**. One of such websites is [<u>http://www.spoofer.pro/</u>](http://www.spoofer.pro/).
 
 ![ispoofer pro](https://images.wondershare.com/drfone/2020/202010/ispoofer-pro.jpg)
@@ -273,14 +273,6 @@ There are specific applications that allow you to spoof the location of your dev
 3. Subscribe to YouTube channels: Another way to get a free **iSpoofer Pro Plan**License **Key** is to subscribe to YouTube channels that offer giveaways of these license **keys**. There are specific YouTube channels that offer free **iSpoofer Pro Plan** License **Keys** to their lucky subscribers. Make sure you subscribe to such channels and keep checking their videos, especially around giveaway times, to see if you are the lucky subscriber to win the giveaway.
 
 ![subscribe-youtube](https://images.wondershare.com/drfone/2020/202010/subscribe-youtube.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: The safer way to Spoof on iPhone
 
@@ -317,10 +309,6 @@ A much better and safer way to spoof your iPhone location is to do it using Wond
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. A popup box will appear. Click "Move Here".
 
 ![launch the Virtual Location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
@@ -333,11 +321,19 @@ A much better and safer way to spoof your iPhone location is to do it using Wond
 
 So, that was all about the article. We have discussed 3 simple tricks to get a free **iSpoofer Pro Plan** License **Key**. Then, compared with **iSpoofer Pro** which allows you to change the location of up to 3 iOS **devices** at once, Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) (iOS) allows you to change the location up to 5 iOS **devices** at once. Compared with **iSpoofer Pro**, it is safer and easier to use and comes with more features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How To Teleport Your GPS Location On Oppo Reno 8T 5G?
 
 While playing games like Pokemon Go, you are in desperate need of finding more Pokémon. If so, changing your location is a necessity that needs to be figured out. For that, teleporting the GPS location of the Oppo Reno 8T 5G device is the optimal solution. To carry this out, Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) provides a perfect system for fake locations.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen=""></iframe>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Part 1: Teleport to Anywhere in the World (Teleport Mode)
 
@@ -346,6 +342,10 @@ While playing games like Pokemon Go, you are in desperate need of finding more P
 **Note:** Once you teleport or move to a virtual place, you can restore to the actual location by restarting the Oppo Reno 8T 5G device. You will see a prompt that reminds you to restart your device to restore the location of the connected device when you close the Virtual Location. Click **Restart Device** and close the program.
 
 ![restart device on closing virtual location](https://images.wondershare.com/drfone/guide/restart-decive.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _\* Dr.Fone Mac version still has the old interface, but it does not affect the use of Dr.Fone function, we will update it as soon as possible._
 
@@ -371,6 +371,10 @@ You will be directed to the particular, and the map will display it for confirma
 
 ![confirm the location to spoof](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4Location Successfully Changed On Computer
 
 The location of the smartphone will be instantly changed to the selected location and will be displayed on the map.
@@ -384,11 +388,7 @@ Open your smartphone and access its maps application. Look into the current loca
 ![confirm location on the smartphone](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Part 2: Instantaneous Movement Between Multiple Points (Jump Teleport Mode)
@@ -401,10 +401,6 @@ You will have to first access the **Jump Teleport Mode** option from the second 
 
 ![turn on jump teleport mode](https://images.wondershare.com/drfone/guide/jump-teleport-mode.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2Set Spots to Jump Teleport
 
 Continue to select the spots you want to pass one by one on the map by simply tapping on them with your mouse. After selecting multiple spots, click the **Start Moving** button at the bottom of the left panel to start the movement.
@@ -416,6 +412,10 @@ Step 3Change Location Between Set Spots
 As prescribed, you can propagate amongst the set spots with the Jump Teleport Mode. Use the **Next Point** and **Last Point** buttons to shift your location.
 
 ![start changing location](https://images.wondershare.com/drfone/guide/start-use-jump-teleport-mode.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -431,22 +431,17 @@ As prescribed, you can propagate amongst the set spots with the Jump Teleport Mo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-accelerate-your-contents-view-count-1kplus-in-time-for-2024/"><u>[Updated] Accelerate Your Content's View Count 1K+ in Time for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-tailor-fb-videos-for-maximum-full-screen-effect/"><u>[Updated] In 2024, Tailor FB Videos for Maximum Full-Screen Effect</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/advance-your-gaming-experience-by-upgrading-to-asus-nvidia-geforce-rtx-a5000-graphics-card/"><u>Advance Your Gaming Experience by Upgrading to ASUS NVIDIA GeForce RTX A5000 Graphics Card</u></a></li>
-<li><a href="https://review-topics.techidaily.com/evacuation-plans-must-account-for-quick-egress-through-safe-exits-without-barriers-or-confusion/"><u>Evacuation Plans Must Account for Quick Egress Through Safe Exits without Barriers or Confusion.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/evaluating-the-logitech-casamania-pop-up-desk-outstanding-keyboard-and-trackpad-performance-overshadowed-by-inferior-case-design/"><u>Evaluating the Logitech Casamania Pop Up Desk: Outstanding Keyboard and Trackpad Performance Overshadowed by Inferior Case Design</u></a></li>
-<li><a href="https://review-topics.techidaily.com/evolving-from-novelty-to-necessity-in-depth-look-at-the-updated-samsung-galaxy-z-series/"><u>Evolving From Novelty to Necessity: In-Depth Look at the Updated Samsung Galaxy Z Series</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-advice-from-toms-gadget-hub-unveiling-the-best-in-tech/"><u>Expert Advice From Tom's Gadget Hub: Unveiling the Best in Tech</u></a></li>
-<li><a href="https://review-topics.techidaily.com/expert-analysis-of-bose-soundlink-max-the-ultimate-wireless-speaker-experience/"><u>Expert Analysis of Bose SoundLink Max - The Ultimate Wireless Speaker Experience</u></a></li>
-<li><a href="https://review-topics.techidaily.com/expert-analysis-of-the-bellroy-venture-watch-strap-upgrading-your-timepiece-with-elegance/"><u>Expert Analysis of the Bellroy Venture Watch Strap: Upgrading Your Timepiece with Elegance</u></a></li>
-<li><a href="https://review-topics.techidaily.com/expert-analysis-of-the-govee-gaming-led-light-bar-essential-addition-for-serious-players/"><u>Expert Analysis of the Govee Gaming LED Light Bar - Essential Addition for Serious Players</u></a></li>
-<li><a href="https://review-topics.techidaily.com/exploring-the-pros-and-cons-of-the-narwal-freo-x-ultra-the-dual-natured-robotic-vacuum-cleaner-reviewed/"><u>Exploring the Pros and Cons of the Narwal Freo X Ultra - The Dual Natured Robotic Vacuum Cleaner Reviewed</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/guia-paso-a-paso-para-transformar-subtitulos-ts-en-videos-wmv-sin-coste-utiliza-el-servicio-de-movavi-online/"><u>Guía Paso a Paso Para Transformar Subtítulos TS en Videos WMV Sin Coste: Utiliza El Servicio De Movavi Online</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/guide-bypassing-drm-how-to-watch-the-avengers-dvd-on-ios-devices/"><u>Guide: Bypassing DRM - How to Watch 'The Avengers' DVD on iOS Devices</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-technology-enhances-my-running-experience-navigating-from-earbuds-to-fitness-trackers-for-100plus-monthly-miles/"><u>How Technology Enhances My Running Experience: Navigating From Earbuds to Fitness Trackers for 100+ Monthly Miles</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/rotating-reality-in-visuals-the-art-of-spinning-images-for-instagram-triumphs/"><u>Rotating Reality in Visuals The Art of Spinning Images for Instagram Triumphs</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210103373-9781250779991-scientific-christian-mental-practice-also-includes-high-mysticism/"><u>Scientific Christian Mental Practice: Also Includes High Mysticism | Free Book</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-youtube-alternative-free-conversion-of-fb-videos-to-mp4-format-hd-quality-for-2024/"><u>[New] YouTube Alternative Free Conversion of FB Videos to MP4 Format (HD Quality) for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-canva-skills-purging-images-of-their-surroundings-for-2024/"><u>[Updated] Canva Skills Purging Images of Their Surroundings for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-se-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone SE Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-infinix-hot-40i-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Infinix Hot 40i Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-minipic-snapshot-scrutiny-plus-diverse-apps/"><u>In 2024, MiniPic Snapshot Scrutiny + Diverse Apps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-choices-of-144hz-monitors-for-gaming/"><u>Optimal Choices of 144Hz Monitors for Gaming</u></a></li>
+<li><a href="https://review-topics.techidaily.com/realme-note-50-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Realme Note 50 support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-ubisoft-connects-lagging-downloads-a-step-by-step-guide/"><u>Solving Ubisoft Connect's Lagging Downloads: A Step-by-Step Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211476238-9781397665300-the-sixth-book-of-moses-and-the-seventh-book-of-moses/"><u>The Sixth Book of Moses and The Seventh Book of Moses | Free Book</u></a></li>
 </ul></div>
 
