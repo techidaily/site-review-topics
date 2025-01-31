@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Stop Life360 from Tracking You On Tecno Camon 20? | Dr.fone
-date: 2025-01-20T22:54:31.585Z
-updated: 2025-01-23T19:23:13.600Z
+date: 2025-01-28T16:10:12.540Z
+updated: 2025-01-31T00:23:00.194Z
 tags: 
   - virtual location chang
   - location changer
@@ -27,10 +27,6 @@ This is where spoofing Life360 comes handy. No matter whether you own an iPhone 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What is Life360?
 
 Life360 is basically a tracking app that you can use to share your location with friends or to track your teenager. Also, with this app, you can also do chit-chatting with your friends and family members via the in-app chat feature.
@@ -39,13 +35,13 @@ Life360 supports both iOS and Android devices. To use, you will need to install 
 
 But as we said before, it is quite uncomfortable to know that someone is tracking you everywhere. So, if you want to hide location on Life360, then this article to know the amazing tricks to stop Life360 from tracking you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Turn Off Location on Life360
 
 ![turn off location on life360](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can turn off the location to stop the Life360 tracking feature. But, with this, keep the background app refresh off. Follow the following steps to turn off the location on life360.
 
@@ -57,7 +53,7 @@ You can turn off the location to stop the Life360 tracking feature. But, with th
 **Note:** If you ever press the Check In button, it will update your location in Life360 even if it is turned off. Further, if you press the Help Alert button, this will also turn on the location-sharing feature.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Fake Location Apps to Spoofing Life360
@@ -80,10 +76,6 @@ Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
 
 ![download dr.fone from official site](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - After this, install it and launch it. Now connect your iOS device to the system with the USB cable and click on the "get started" button.
 
 ![click on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
@@ -94,11 +86,15 @@ Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
 ![select teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - After a search for the desired location, click on the "move here" button.
 - Finally, you are ready to spoof to any location in Life360.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -129,10 +125,6 @@ Now, follow the following steps to install any fake GPS on Android.
 - Under enable developer option go to allow mock location app and select the app you installed from the list
 - Now open the app, and fill your desired location on the map. It is simple to spoof Life360 on Android
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Use a Burner Phone for Life360 Fake Location
 
 The burner is a phone on which you can install Life360 and can put it in one place while going out with another phone. It is a great trick to stop Life360 from tracking you. The only thing is that you should need to have two phones.
@@ -154,6 +146,10 @@ Life360 can track your device's location and texts, but it can't read your texts
 Life360 gives a peace-of-mind to you and your family members by tracking your location, so everyone in your circle knows where is the other person and what are they doing; if the user is driving, then everyone will get a notification about their driving habits, and circle members can check location data history. All the circle members must have the life360 app downloaded and running in the background of their devices. Circle members can see the exact location of the user when the location services are on. Does life360 notify you when you leave a circle? Yes, it sends a notification to all circle members when someone leaves.
 
 Its one-tap location features allow circle members to see everyone's location data on the map. The app gives a route to the other person's current location by tapping any member pointer. If someone is in danger or got an emergency, they can tap the panic button to send a mass text to the circle with their location. The app does not notify when circle members check someone's location history. Life360 notifies circle members when someone turns their location off, text while driving, drive carelessly, or stops the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Does life360 notify when you leave?
 
@@ -183,21 +179,17 @@ Although life360 provides excellent family location services, it also affects yo
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **STEP 2:** Click on "get started" to open the map and center on your actual location.
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **STEP 3:** Start the "teleport mode" and type the name of the location you want to teleport your device to in the search bar. You can also manually navigate with a joystick stimulator.
 
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **STEP 4:** After finding the location, click on "move here" to change your location.
 
@@ -222,11 +214,19 @@ In AR games that come with GPS tracking software, they track the real motion of 
 
 In these cases, using a **fake GPS route** helps simulate the location of players, so they can still take part without actually moving around.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. 4 Effective Ways to Simulate GPS Movement On AR games?
 
 There are different types of solutions that you will see recommended when searching for things like **Pokémon Go spoof Reddit.** There is Fake GPS technology you can use that spoofs or fakes the original location of the players. This causes the software to read the new location and show the scene in that location to users without them actually having to move.
 
 There are different options for **a fake GPS run** available for both iOS and Android users. Let's consider the most reliable options you can try in both groups.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Simulate GPS Movement iOS
 
@@ -281,6 +281,10 @@ Below is the video showcasing all steps necessary to simulate GPS movement while
 **Step 5**: The joystick will appear at the side. You can use this joystick to control your spoofed movement as you open other apps and try them out.
 
 ![joystick will appear](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 6**: You can choose the Multi-Stop Route icon to see different points on the screen. The software automatically detects the best way to reach the destination, joining all selected points into one overall route for automatic GPS movement.
 
@@ -356,13 +360,13 @@ Get multiple spoofing options here, like expert mode and various routes to set u
 
 ![tap on the play button](https://images.wondershare.com/drfone/article/2022/12/how-to-simulate-gps-movement-on-ar-games-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**: The app will automatically show the spoofed fly GPS after inserting the fake location.
 
 ![the app will automatically show](https://images.wondershare.com/drfone/article/2022/12/how-to-simulate-gps-movement-on-ar-games-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Method 2. [Mock Locations](https://play.google.com/store/apps/details?id=ru.gavrikov.mocklocations)**
 
@@ -395,10 +399,6 @@ Instead, while using this app, you can set up start and end points for your rout
 **Step 2**: Long-tap points on the map to mark starting and ending locations. The app will automatically start evaluating suitable routes.
 
 ![long tap points on the map](https://images.wondershare.com/drfone/article/2022/12/how-to-simulate-gps-movement-on-ar-games-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** Click on the confirm tick mark icon. Follow developer permission settings-related steps, and tap on Go.
 
@@ -444,18 +444,24 @@ The best step while using them is to follow the gameplay rules respectfully and 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-create-compelling-animation-subscribe-bars-for-your-youtube-channel-filmora/"><u>[New] 2024 Approved Create Compelling Animation Subscribe Bars for Your YouTube Channel (Filmora)</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-nix-the-sneaky-youtube-quick-playback-feature/"><u>[New] 2024 Approved Nix the Sneaky YouTube Quick Playback Feature</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-voice-assignment-verification/"><u>[New] In 2024, Voice Assignment Verification</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-filmoras-recipe-for-captivating-youtube-trailers/"><u>2024 Approved Filmora’s Recipe for Captivating YouTube Trailers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-breakdown-of-dji-phantom-3-mechanics/"><u>2024 Approved The Essential Breakdown of DJI Phantom 3 Mechanics</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Honor X50i+? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/showdown-of-streamers-assessing-the-best-for-you-obs-vs-twitch-studio/"><u>Showdown of Streamers Assessing the Best for You - OBS vs Twitch Studio</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-savvy-setup-for-your-home-viewing-experience-md2380-reviewed/"><u>The Savvy Setup for Your Home Viewing Experience - MD2380 Reviewed</u></a></li>
-<li><a href="https://review-topics.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-hardware/"><u>Tom's Tech Reviews: The Ultimate Guide to Hardware</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-srt-to-sub-how-to-convert-srt-to-sub-with-3-actionable-ways/"><u>[New] 2024 Approved SRT to SUB How to Convert SRT to SUB with 3 Actionable Ways</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximizing-focus-zooming-in-msteams/"><u>[New] Maximizing Focus Zooming In MSTEAMS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-future-proofing-filmmaking-with-green-tools/"><u>[Updated] 2024 Approved Future-Proofing Filmmaking with Green Tools</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-channel-branding-mastery-securing-a-loyal-youtube-subscriber-base/"><u>[Updated] In 2024, Channel Branding Mastery Securing a Loyal YouTube Subscriber Base</u></a></li>
+<li><a href="https://review-topics.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-8-plusipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone 8 Plus/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-xiaomi-redmi-12-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Xiaomi Redmi 12 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-apple-iphone-se-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On Apple iPhone SE</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-galaxy-m34-5g-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Samsung Galaxy M34 5G Phone Forgot Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-12-mini-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 12 mini without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-perfect-your-movie-watching-with-added-captions-on-windows-media-player/"><u>In 2024, Perfect Your Movie Watching with Added Captions on Windows Media Player</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-11-pro-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone 11 Pro Making It Possible</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/inside-the-evolved-sony-bdp-s6700-world/"><u>Inside the Evolved Sony BDP-S6700 World</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-xiaomi-redmi-note-12-4g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Xiaomi Redmi Note 12 4G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-vivo-y200e-5g-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Vivo Y200e 5G.</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/l-your-narrative-transforming-photos-to-videos-using-your-phone/"><u>Unveil Your Narrative Transforming Photos to Videos Using Your Phone</u></a></li>
 </ul></div>
 

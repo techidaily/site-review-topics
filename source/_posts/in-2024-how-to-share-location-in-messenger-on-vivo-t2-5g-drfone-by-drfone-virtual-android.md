@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Share Location in Messenger On Vivo T2 5G? | Dr.fone
-date: 2025-01-16T20:13:59.269Z
-updated: 2025-01-23T23:48:31.282Z
+date: 2025-01-26T20:09:16.109Z
+updated: 2025-01-30T23:21:08.813Z
 tags: 
   - virtual location chang
   - location changer
@@ -27,11 +27,19 @@ In this article, we will delve into the highlights and benefits of Facebook Mess
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1. Everything You Should Know About Messenger’s Live Location
 
 Facebook is well aware that sharing location details is essential to its users. That’s why developers have come up with a brilliant idea and rolled out Live Location on Messenger. It basically works like other location-sharing features. However, Live Location provides more precise and thorough location information. It’s in map form, where you can view the exact location and track the movements of the sender. You’ll continue to see updates for as long as the sharing is not halted on the other end. To navigate it properly, try to read tutorials on how to share Live Location on Messenger.
 
 ![facebook messenger live location](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 What if you wish to send a particular address from another location? There is no problem with that. Messenger allows users to search for a specific place, trace it on the map, and share the details. The receiver can view it in map form and get directions if necessary. See? It’s very easy and convenient. No need to type in long addresses just to share a particular location with your friend. You just have to find it precisely on the map and send the information afterward.
 
@@ -84,10 +92,6 @@ How to share my location on Messenger? Well, the first option you can try is thr
 
 ![share live location on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Share location on Facebook Messenger via Pinned Location
 
 Let’s say there is a specific place you want to visit with your friend. Is there a way to share the address of the venue without you being there at the moment? Fortunately, it is possible. Apart from sharing your current location in real-time via Live Location, you can also send pinned locations on Messenger. You just need to search for it and then redirect the details to your friend. Yes. It’s just as simple as that. Do you want to try it on your smartphone? If so, follow the guide below.
@@ -115,13 +119,13 @@ How do I share my location in Messenger if I cannot find it on the map provided?
 
 ![location choices](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4:** Access the menu bar below the map and then click **Share.**
 
 ![share google maps location](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** From there, click **Chats** or the **Facebook Messenger** logo.
 - **Step 6:** Find the receiver from the provided list and then click the **Send** button next to its name.
@@ -201,6 +205,10 @@ Also, there are many other AR games, including Ingress Prime, Harry Potter: Wiza
 
 ![mock location for dating apps](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In addition to AR-based games, you can also spoof dating apps like Tinder and Grindr Xtra. It is because using the fake location for dating apps will allow you to see profiles of people from outside your city or country. This is how you can have more options to search for your partner online.
 
 Again to spoof dating apps, you will need to enable allow mock location apk feature on android devices.
@@ -208,10 +216,6 @@ Again to spoof dating apps, you will need to enable allow mock location apk feat
 ## Part 3: How Mock Locations Change Your Mobile Location?
 
 Now, let’s check out how you can mock locations on Your Vivo T2 5Gs. Ideally, you will need to enable allow mock location to select a fake location spoofer app under it. With fake GPS spoofer, you can fake your android location.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3.1 How to allow mock locations on Android
 
@@ -226,7 +230,7 @@ Most of the latest android phones come with the inbuilt mock location feature. T
 ![tap on build number seven times](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3:** After this, go back to Settings, and there you will newly added Developer Options.
@@ -236,6 +240,10 @@ Most of the latest android phones come with the inbuilt mock location feature. T
 **Step 4:** Tap on the newly added developer option and toggle on its field.
 
 ![add developer option and toggle](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5:** In the list of developer options, locate the “Allow Mock Locations” feature, and enable it.
 
@@ -259,10 +267,6 @@ After enable “allow mock location” on an android mobile phone, you will need
 
 Now you are able to spoof dating apps or gaming apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3.3 How to change your iPhone location?
 
 To fake GPS on iPhone, you will need a safe and secure app like [Dr. Fone virtual location iOS](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). If you own iPhone, you can easily spoof location with the help of this easy to install the app.
@@ -280,7 +284,7 @@ Here are the steps that you will need to follow to install Dr. Fone in your devi
 ![connect your iphone](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3:** You will see a world map with three modes on the right top side.
@@ -296,10 +300,6 @@ Here are the steps that you will need to follow to install Dr. Fone in your devi
 Now you are ready to spoof iPhone without compromising the privacy of the Phone.
 
 ## Part 4: Mock Location Feature On Different Android Models
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mock Location on Samsung and Motto
 
@@ -368,7 +368,15 @@ Dr.Fone software supports both iOS and Android, a one-stop solution to change th
 
 - It is not free but provides a free trial.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Top 5 iOS location changers
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. iMoveGo
 
@@ -394,10 +402,6 @@ IMoveGo is a location changer tool that allows you to modify your GPS location o
 
 - Regular updates are required.
 - Potential app compatibility issues.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. [iSpoofer Location Spoofer](https://drfone.wondershare.com/virtual-location/pokemon-go-ispoofer.html)
 
@@ -477,10 +481,6 @@ You can travel across the world with this **Fake GPS Location app**. To mock you
 
 - The pointer does not allow for precise location selection.
 - It is not safe to use for some games, unlike Dr.Fone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. iTeleporter Location Spoofer
 
@@ -569,10 +569,6 @@ One of the most popular Android spoofing apps is Lexa's Fake GPS. It allows you 
 
 ![fake gps location lexa](https://images.wondershare.com/drfone/article/2022/05/10-best-location-changer-for-android-and-ios-in-2022-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Key features:**
 
 - Fake location on any Android phone with root.
@@ -634,6 +630,10 @@ This is an all-in-one solution for all your device location-altering needs. With
 - Certain apps do not appear to function correctly with this app.
 - The app may crash sometimes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 **Mock location applications for iOS and Android** come helpful in various situations. Using a competent imitation location app can assist you in doing the task swiftly and efficiently. The spoof location and GPS apps listed here are safe to use. If you want a one-stop way to fake your location on Android and iOS devices, then [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is the best choice.
@@ -664,20 +664,22 @@ This is an all-in-one solution for all your device location-altering needs. With
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-decoding-music-copyright-rules-in-the-world-of-instagram/"><u>[New] Decoding Music Copyright Rules in the World of Instagram</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-from-daydream-to-reality-a-short-vr-history/"><u>[Updated] In 2024, From Daydream to Reality A Short VR History</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-top-10-ultimate-4k-gaming-systems-reviewed/"><u>[Updated] Top 10 Ultimate 4K Gaming Systems Reviewed</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-thorough-examination-adobe-lightroom-for-android-users/"><u>A Thorough Examination Adobe Lightroom for Android Users</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-your-vivo-y200e-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Vivo Y200e 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-asus-rog-phone-8-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Asus ROG Phone 8 Devices</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-insight-into-t-series-profit-from-youtube-platforms/"><u>In 2024, Insight Into T-Series Profit From YouTube Platforms</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-xiaomi-14-ultra-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Xiaomi 14 Ultra</u></a></li>
-<li><a href="https://review-topics.techidaily.com/put-and-play-mkv-movies-on-samsung-galaxy-a05-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Put and play MKV movies on Samsung Galaxy A05</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-honor-x7b-by-fonelab-android-recover-data/"><u>Recover lost data from Honor X7b</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-music-after-lava-agni-2-5g-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Lava Agni 2 5G has been deleted</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/steps-to-stream-the-movie-spider-man-no-way-home/"><u>Steps to Stream the Movie 'Spider-Man: No Way Home'</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-list-by-techreview/"><u>The Ultimate List by TechReview</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-14-ultra-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi 14 Ultra Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-capturing-classroom-dynamics-easily/"><u>[New] 2024 Approved Capturing Classroom Dynamics Easily</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-archive-storing-your-iphone-images-and-videos/"><u>[New] Instagram Archive Storing Your iPhone Images and Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-guide-key-drone-upgrades-and-supplies/"><u>[Updated] The Ultimate Guide Key Drone Upgrades & Supplies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-intro-to-drone-flying-check-out-the-syma-x5c-review/"><u>2024 Approved Intro to Drone Flying? Check Out the Syma X5C Review</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-tecno-spark-10-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Tecno Spark 10 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-8-plus-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 8 Plus to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-se-2020-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone SE (2020) to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-y55s-5g-2023-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo Y55s 5G (2023) is off? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-social-shine-a-snapchat-guide-for-giftful-gif-enthusiasts/"><u>In 2024, Social Shine A Snapchat Guide for Giftful GIF Enthusiasts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-lava-storm-5g-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Lava Storm 5G</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-future-proof-audio-editing-platforms-top-choices/"><u>New 2024 Approved Future-Proof Audio Editing Platforms Top Choices</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-blue-screen-interrupt-exception-fix/"><u>Overcoming Blue Screen: Interrupt Exception Fix</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-motorola-edge-40-neo-by-fonelab-android-recover-data/"><u>Recover lost data from Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-motorola-moto-g34-5g-by-fonelab-android-recover-data/"><u>Recover lost data from Motorola Moto G34 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-vs-gog-key-distinctions-explored/"><u>Steam vs GOG: Key Distinctions Explored</u></a></li>
 </ul></div>
 

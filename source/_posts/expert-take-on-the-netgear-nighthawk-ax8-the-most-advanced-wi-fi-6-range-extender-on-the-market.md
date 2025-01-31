@@ -1,7 +1,7 @@
 ---
 title: Expert Take on the Netgear Nighthawk AX8 - The Most Advanced Wi-Fi 6 Range Extender on the Market
-date: 2025-01-18T20:31:25.396Z
-updated: 2025-01-23T23:43:47.736Z
+date: 2025-01-30T11:07:19.277Z
+updated: 2025-01-30T16:46:50.018Z
 categories:
   - BestProducts
 description: This Article Describes Expert Take on the Netgear Nighthawk AX8 - The Most Advanced Wi-Fi 6 Range Extender on the Market
@@ -19,16 +19,12 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Netgear Nighthawk EAX80 AX6000 Wi-Fi 6 Mesh Extender
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/GshnCnk_G-hNSwDTRjGVB28Nl-o=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_HeroSquare-f1971c8abc1a45b7a589b440ee06f5cf.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
@@ -80,7 +76,7 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
  If you don’t already have one of those new Wi-Fi 6 routers, should you spend extra for the Netgear Nighthawk AX8 to futureproof your setup? Here’s what I think after testing the device for several days across everyday web usage, media streaming, playing online games, and more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Design: Pretty awkward**
@@ -90,6 +86,10 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
  With very large sides, the front is really just a small panel with light-up LED indicators showing connectivity details and which Ethernet ports are in use. There’s also a small WPS button beneath the LED panel for easy connectivity with a router. On the wider back panel are the four wired[Ethernet ports](https://www.lifewire.com/what-is-an-ethernet-port-817546) for plugging in devices such as game consoles and computers, as well as a USB 3.0 port, DC power port, and the power button itself.
 
  It has a lot more angles and tapered elements than I’d think are necessary, which results in an overall look that’s dynamic but ultimately awkward.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Setup Process: Avoid the app**
 
@@ -102,10 +102,6 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
  Over and over, the setup process wouldn’t complete… and then it finally did. I ran into similar issues with the other Netgear extenders, in which setup processes didn’t work as expected on the first or second time, but this was a much longer and more arduous ordeal. Finally, however, I got the Nighthawk AX8 up and running. From there, you’ll need to find a new location for the extender—roughly halfway between the router and your Wi-Fi dead zone is ideal, but play around with positioning if you’re not getting the results you seek.
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/xru8JLL_UOk3sXBYpbrOyAl-ihc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_02-b120eab8816746338c53e4eb1cfc62d6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
@@ -125,6 +121,10 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/rtnI3hSe9qP5qFqjhu1LRxe7qYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_03-19da5fea4d0349ce984f52a11493d337.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
 
  As a Wi-Fi mesh extender, the Netgear Nighthawk AX8 will automatically replicate the SSID of your router’s existing Wi-Fi networks and seamlessly keep you connected whenever you’re in range of either. That’s true even with non-Netgear routers and those without Wi-Fi 6 support, and it’s a huge benefit over some cheaper extenders that don’t keep the same network info intact across devices.
@@ -132,10 +132,6 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
  It’s billed as an “8-stream” device, so it should be able to handle several simultaneous media streams at once, with a billed max speed of 4.8Gbps on the 5GHz band and 1.2Gbps on the 2.4GHz band. It has[MU-MIMO](https://www.lifewire.com/mimo-wifi-routers-818332) (multiple users, multi-in multi-out) and beamforming capabilities, promising expanded range of up to 2,500 square feet and support for 30+ simultaneous devices.
 
  If you don’t have a Wi-Fi 6 router, then you’ll either want to start there or consider investing in a Wi-Fi mesh system instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Price: More than most**
 
@@ -152,6 +148,10 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
  **Only for early adopters with Wi-Fi 6 routers and devices.**
 
  If you’ve already bought a Wi-Fi 6 router and need a little help extending your signal into further corners of your home and/or property, then the Nighthawk AX 8 (EAX 80) is the extender you’ll want. But if you don’t have a Wi-Fi 6 router, then you’ll either want to start there or consider investing in a Wi-Fi[mesh system](https://www.lifewire.com/what-is-a-mesh-network-4842178) instead. Spending more than $200 on an extender doesn’t make much sense unless you’re adding it to a top-of-the-line system—and don’t mind the significant investment.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -179,16 +179,18 @@ thumbnail: https://www.lifewire.com/thmb/FgPCeizujv0grw08uXPN8sT8dDo=/400x300/fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-streamlined-editing-of-your-tiktok-age/"><u>[New] Streamlined Editing of Your TikTok Age</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-mobile-cinema-apples-no1-8-pack-free-and-paid-film-app-guide/"><u>[Updated] 2024 Approved Mobile Cinema Apple's No.1, 8-Pack Free & Paid Film App Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-1-global-musical-views/"><u>2024 Approved Top 1 Global Musical Views</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-infinix-hot-30-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Infinix Hot 30 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Honor Magic 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-apple-iphone-12-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix My Apple iPhone 12 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/setting-up-fresh-start-a-beginners-tutorial-for-installing-windows-10-on-new-drives/"><u>Setting Up Fresh Start: A Beginner's Tutorial for Installing Windows 10 on New Drives</u></a></li>
-<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-youtube-ranks-tracker-essentials-guide/"><u>Top 8 YouTube Ranks Tracker Essentials Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unveiling-secrets-detecting-second-monitor/"><u>Unveiling Secrets: Detecting Second Monitor</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-poco-x6-pro-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Poco X6 Pro Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-stealthy-stroll-through-facebook-episodes/"><u>[New] 2024 Approved Stealthy Stroll Through Facebook Episodes</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-enhance-your-gopro-videos-time-lapse-guide-for-2024/"><u>[Updated] Enhance Your GoPro Videos Time-Lapse Guide for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-vivo-y100-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Vivo Y100 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-redmi-note-12-pro-4g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Xiaomi Redmi Note 12 Pro 4G by Name | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-apple-iphone-6-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On Apple iPhone 6 without Password?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-innovative-use-of-plugins-for-skype-call-capture-in-obs/"><u>In 2024, Innovative Use of Plugins for Skype Call Capture in OBS</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-pro-stream-setup-best-equipment-to-take-your-youtube-streams-to-the-next-level/"><u>In 2024, Pro Stream Setup Best Equipment to Take Your Youtube Streams to the Next Level</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-8t-video-recovery-recover-deleted-videos-from-play-8t-by-fonelab-android-recover-video/"><u>Play 8T Video Recovery - Recover Deleted Videos from Play 8T</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-photos-during-transfer-from-iphone-15-pro-to-pc-or-mac-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Lost Photos during Transfer from iPhone 15 Pro to PC or Mac | Stellar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-google-pixel-8-pro-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Google Pixel 8 Pro has been deleted.</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-synergy-in-hybrid-realms-mixed-reality-explained-for-2024/"><u>The Synergy in Hybrid Realms Mixed Reality Explained for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/transform-images-into-textbooks-photo-text-editor-hacks/"><u>Transform Images Into Textbooks Photo Text Editor Hacks</u></a></li>
 </ul></div>
 

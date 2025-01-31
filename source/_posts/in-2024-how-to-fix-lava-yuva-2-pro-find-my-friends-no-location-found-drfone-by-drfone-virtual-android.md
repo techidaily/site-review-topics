@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix Lava Yuva 2 Pro Find My Friends No Location Found? | Dr.fone
-date: 2025-01-14T16:45:30.468Z
-updated: 2025-01-17T17:03:56.714Z
+date: 2025-01-27T03:16:12.751Z
+updated: 2025-01-31T00:05:26.510Z
 tags: 
   - virtual location chang
   - location changer
@@ -33,6 +33,10 @@ When you are searching for your friend's current location and it shows that "no 
 
 ![no location found](https://images.wondershare.com/drfone/article/2022/06/find-my-friends-no-location-found-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **_Option #1:_** Your friend has not signed in to the "Find My Friends" application. Make sure that they are registered in the application before tracking their location.
 
 _**Option #2:**_ The other person's mobile is not connected to the internet or their phone is off. This could also be another common reason why you cannot see their location.
@@ -63,6 +67,10 @@ _**Option #2:**_ Make sure that you or the other user is connected to the intern
 
 ![internet check](https://images.wondershare.com/drfone/article/2022/06/find-my-friends-no-location-found-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **_Option #3:_** Turn off and turn on your "Location Services". Usually, this simple troubleshooting can fix this issue, you can try this out and check if you can see their location now. They can turn it on by following the steps below.
 
 ![location services](https://images.wondershare.com/drfone/article/2022/06/find-my-friends-no-location-found-5.jpg)
@@ -80,6 +88,10 @@ If you want to share your location in the "Find My Friends" application, you can
 
 - _**Step 1:**_ Open the "Find My Friends" application and select "People".
 - **_Step 2:_** Then you can tap on "Share My Location" and from there, you can type the phone number of the person you want to share your location too. You can also specify the amount of time you will share your location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to Share a Fake Location to Others in Find App?
 
@@ -111,10 +123,6 @@ _**Step 1:**_ Download the "Dr. Fone - Virtual Location" software on your laptop
 
 ![locate yourself](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _**Step 4:**_ If you want to change your location, you will need to turn on the "Teleportation" mode by clicking on the first icon, typing the location you want, and then clicking on the "Go" icon.
 
 ![one stop teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -126,6 +134,10 @@ _**Step 4:**_ If you want to change your location, you will need to turn on the 
 ## Conclusion
 
 We hope the tips we shared helped fix the "No Location Found" issue on your phone. Sometimes basic troubleshooting such as restarting your phone or turning off and on your GPS. You can also use our tip to use a fake location that you can send to your friends if you want to play a prank on them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Spoofing Life360: How to Do it on Lava Yuva 2 Pro?
 
@@ -151,10 +163,6 @@ For instance, spouses can monitor their better half and if any one of them does 
 
 For these reasons, a lot of people sum up the app as an intervention for their privacy. And for those who love their privacy, hating being tracked by Life360 is completely natural to them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Stop Life360 Tracking vs. Spoofing Life360
 
 To stop or to spoof, that is the question! Yes, when you are annoyed with being tracked by Life360, you can have two options with you. Either you can stop Life360 tracking or spoof Life360 tracking. But what goes best? You might be wondering the same. For many of you, simply stopping the app and logging out from it can be a plain solution. However, we don’t support this. To us, the faking location on Life360 is much better.
@@ -174,7 +182,7 @@ Get the tool on your computer for the process initiation. To do this, you can vi
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2: Get the Lava Yuva 2 Pro device Connected**
@@ -195,15 +203,15 @@ You could observe the five icons at the top right of the screen. You need to cli
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5: Fake your Location on Life360**
 
 The program will make sure to recognize the place you have entered. A pop-up box will appear where the distance is mentioned. Click on "Move Here" and your location will be changed and shown as what you have selected.
 
 ![ use fake location on Life360](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Here is a video guide that helps you to fake your GPS location on Life360.
 
@@ -229,10 +237,6 @@ Before you get the app worked, here is a requirement you need to follow. The req
 
 **Step 4:** Now, enter the lock code when asked and the developer options will be enabled.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step by Step Guide on how to fake your location on Life360 with Android Spoofer
 
 **Step 1:** Now that you have turned on the developer options, you can visit the Play Store and look for Fake GPS Location app. Install it on your phone.
@@ -244,6 +248,10 @@ Before you get the app worked, here is a requirement you need to follow. The req
 **Step 3:** Choose the Fake GPS app as the mock location app.
 
 ![set Fake GPS app](https://images.wondershare.com/drfone/article/2019/11/select-app-android.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Open the app now and choose the location you wish to fake and hit on the Play button. This was **how to fake your location on Life360** on Android device.
 
@@ -317,10 +325,6 @@ Disabling Wi-Fi on your iPhone might limit the accuracy of your location for Lif
 
 Life360 is no doubt a useful app that can help you know about the whereabouts of your near friends and family. However, when you hate being tracked on it, spoofing Life360 can come out as a great option. We discussed some helpful ways **how to fake your location on Life360** in this article, including [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) which allows you to manipulate your GPS location, simulate routes, and set up geofences, making it a versatile solution for your location spoofing needs. Hope you find this helpful.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does Airplane Mode Turn off GPS Location On Lava Yuva 2 Pro?
 
 Airplane mode is a feature available on all smartphones and other electronic devices that stops the signal transmissions from the Lava Yuva 2 Pro devices. Also known as flight or airplane mode, this feature will disconnect the wireless functions, including cellular connection, Wi-Fi, and Bluetooth.
@@ -353,19 +357,11 @@ To hide the location on your Lava Yuva 2 Pro and iPad, below listed are the step
 
 ![switch off gps on idevices](https://images.wondershare.com/drfone/article/2022/03/switch-off-gps-idevice-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2**. Enable the Airplane Mode or turn off the Wi-Fi and Cellular icon.
 
 **Step 3**. Next, you need to disable the GPS radio. On some of the Lava Yuva 2 Pro devices, there is a separate setting for this. Go to Settings > Privacy> Location Services. The list of the apps using the location services will appear. Move the toggle at the Location Services to turn it off.
 
 ![switch off gps on idevices](https://images.wondershare.com/drfone/article/2022/03/switch-off-gps-idevice-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3.2. How to stop GPS tracking on Android Devices?
 
@@ -380,6 +376,10 @@ The process to turn off GPS location on Android devices may vary from device to 
 **Step 3**. Next, open the App Drawer and then choose Settings > Location. Turn off the Location.
 
 ![drfone virtual location switch off gps on android devices](https://images.wondershare.com/drfone/article/2022/03/switch-off-gps-android-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Spoof Location to prevent GPS Tracing without Turning on Airplane Mode
 
@@ -424,18 +424,18 @@ You can check out this video for further instruction.
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5: People Also ask about Airplane Mode
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Q1: Can An iPhone Be Traced While off?
 
 No, it cannot be traced when an iPhone or any other phone is switched off. For example, when an iPhone is switched off, its GPS is not activated, and thus it cannot be traced.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Q2: Does Find My iPhone Work on Airplane Mode?
 
@@ -465,22 +465,18 @@ So, it can be concluded that Airplane Mode disconnects you from the cellular net
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-navigating-backward-movie-playback-on-iphones/"><u>[New] Navigating Backward Movie Playback on iPhones</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-essential-vr-games-for-oculus-users-of-all-ages/"><u>[Updated] 2024 Approved Essential VR Games for Oculus Users of All Ages</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-cut-screen-claims-is-splitcam-supreme/"><u>[Updated] In 2024, Cut Screen Claims Is SplitCam Supreme?</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-revolutionize-your-intellect-with-these-15-yt-channels-for-2024/"><u>[Updated] Revolutionize Your Intellect with These 15 YT Channels for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/explore-best-15-cost-free-photo-editors-for-2024/"><u>Explore Best 15 Cost-Free Photo Editors for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Poco X5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-motorola-moto-g-stylus-2023-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Motorola Moto G Stylus (2023) Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Honor X50i? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Motorola Razr 40? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-checklist-for-finding-film-specialists/"><u>In 2024, The Ultimate Checklist for Finding Film Specialists</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-apply-video-filters/"><u>New In 2024, How to Apply Video Filters</u></a></li>
-<li><a href="https://facebook.techidaily.com/stealth-commentary-tactics-for-facebook-clans/"><u>Stealth Commentary Tactics for Facebook Clans</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-outlook-refuses-to-start/"><u>Troubleshooting Steps When Outlook Refuses to Start</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-creating-unique-youtube-music-mixtapes-for-2024/"><u>[New] Creating Unique YouTube Music Mixtapes for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-free-speech-analysis-and-command-execution/"><u>[New] Free Speech Analysis & Command Execution</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigate-age-confirmation-swiftly-on-tiktok/"><u>[New] Navigate Age Confirmation Swiftly on TikTok</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-your-first-steps-in-online-broadcasting-via-obs/"><u>[New] Your First Steps in Online Broadcasting via OBS</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-exclusive-list-best-online-video-to-mp3-tools-for-2024/"><u>[Updated] Exclusive List Best Online Video to Mp3 Tools for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-the-secrets-of-effortless-editing-for-windows-11-videos/"><u>[Updated] Unlock the Secrets of Effortless Editing for Windows 11 Videos</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-step-into-3d-designing-layered-textured-texts-psx/"><u>In 2024, Step Into 3D Designing Layered, Textured Texts PSX</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-online-photo-and-video-montage-tools-ranked-and-reviewed-for-2024/"><u>New Online Photo and Video Montage Tools Ranked and Reviewed for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-redmi-note-13-proplus-5g-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-11-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 11 Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-c53-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on C53</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/simplify-your-life-a-guide-on-quick-removal-of-youtube-feedback/"><u>Simplify Your Life A Guide on Quick Removal of YouTube Feedback</u></a></li>
 </ul></div>
 

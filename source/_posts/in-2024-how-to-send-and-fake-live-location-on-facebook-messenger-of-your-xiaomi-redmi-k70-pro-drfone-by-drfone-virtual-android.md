@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi Redmi K70 Pro | Dr.fone
-date: 2025-01-16T23:24:34.131Z
-updated: 2025-01-23T21:40:11.068Z
+date: 2025-01-29T02:27:26.868Z
+updated: 2025-01-31T00:48:39.710Z
 tags: 
   - virtual location change
   - social app
@@ -51,10 +51,6 @@ Step 1. Open Facebook Messenger and launch the conversation with which you want 
 Step 2. Click the "four dots" at the bottom-left corner and tap **Location**.
 
 ![facebook messenger location sharing](https://images.wondershare.com/drfone/article/2022/03/facebook-messenger-location-sharing.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3. Now tap **Allow Location** and choose a new location on the world map that appears.
 
@@ -108,6 +104,10 @@ The issue of the wrong Facebook location is commonplace these days. Fortunately,
 
 Open Settings > Privacy > Location Services for iPhone users and then enable Location Services. On the other hand, Android users should click Settings > Security and Location > Locations > and enable Use Locations.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Can I fake my location on Facebook?
 
 In a typical scenario, it's impossible to lie about your location on Facebook. That's because the app asks for permission to track your GPS location before you can use it. But as you've seen, Wondershare Dr.Fone makes it a cakewalk to a fake live location on Messenger.
@@ -116,11 +116,19 @@ In a typical scenario, it's impossible to lie about your location on Facebook. T
 
 As said earlier, the reason why Facebook gives the wrong location is because of disabled location settings. It's the reverse! So, use this Settings feature to hide your actual location on Facebook.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 Any queries regarding how to send a fake location on Messenger? Let us know if you have any. Meanwhile, use Messenger's inbuilt location feature to share an artificial place with a friend or contact. But because this method only allows you to share fake locations with a single chat, use Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) instead. It's simple, fast, and effective. Are you ready?
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Pause Life360 Location Sharing For Xiaomi Redmi K70 Pro
 
@@ -131,16 +139,12 @@ However, there are moments when you might crave a bit of privacy or a break from
 ![life360 location map](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-01.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: What Is Life360 and How To Pause Life360 From the App
 
 Life360 is not just an app; it’s a digital lifeline connecting people with their loved ones. It’s primarily designed for family and close friends. By offering real-time location sharing, it ensures that members of your “Circle” (a group within the app) know where you are at any given moment. This feature is handy for parents monitoring their children’s whereabouts or friends coordinating meet-ups.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The Purpose of Life360
 
@@ -173,6 +177,10 @@ Regarding this method, pausing the location sharing for all your circles usually
 
 By understanding and utilizing these features wisely, you can maintain your connection with your loved ones while managing your digital boundaries and battery health effectively. Remember, the aim is to balance connectivity with personal needs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How To Pause Life360 From Settings
 
 Life360 offers flexibility within its app and through your device’s settings. Understanding how to use these options can provide additional control over location sharing. Explore the various ways **how to pause Life360** outside the app itself.
@@ -183,15 +191,15 @@ First, navigate to your Xiaomi Redmi K70 Pro’s **Settings**. Then, look for th
 
 By selecting **Force Stop**, you temporarily halt the app’s function without uninstalling it. This operation stops location sharing until you open the app again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pause Life360 From iOS Settings
 
 To **pause the Life360 location** on iOS, you’ll have to open the Settings app on your iOS device. Browse through your apps and select Life360. Alternatively, you can use the search bar and type “Life360”. Once in the app’s menu, change location services to **While Using** the App. Thus, it will not share your location unless you open the app.
 
 ![life360 ios settings](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-03.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Pause by Using Airplane Mode
 
@@ -211,6 +219,10 @@ Sometimes, pausing your location sharing on Life360 may raise questions or conce
 
 [Wondershare’s Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) toolkit is more than just a data recovery solution. Among its various features, the Virtual Location changer is particularly useful for those looking to spoof their location. This feature allows you to simulate being in a specific location without actually being there. It’s a clever way to maintain privacy or plan a surprise without giving away your real whereabouts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How To Use Dr.Fone To Spoof Your Location on Life360
 
 To learn how to pause location on Life360 without them knowing using Dr.Fone, follow the steps below:
@@ -225,7 +237,7 @@ To learn how to pause location on Life360 without them knowing using Dr.Fone, fo
 ![set one-stop route dr.fone](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** TheRound trip and Loop trip are particularly useful for creating the impression of movement in a specific area. Parameters can make your virtual movement more believable.
@@ -254,13 +266,13 @@ Twitter for mobile is easy to use, but it offers limited privacy options compare
 
 ![tap on security and privacy](https://images.wondershare.com/drfone/article/2022/05/change-location-on-twitter-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Next, click on “Your Account” and later on “Account Info.” You have to access your “Account Information” by clicking on it.
 
 ![access account information](https://images.wondershare.com/drfone/article/2022/05/change-location-on-twitter-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** Lastly, choose the “Country” and change the location according to your preference.
 
@@ -274,10 +286,6 @@ Unlike Twitter applications, the desktop version is efficient. For example, you 
 
 ![login to twitter account](https://images.wondershare.com/drfone/article/2022/05/change-location-on-twitter-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** After logging in, go to “More” options from the Twitter home and click on “Settings and Privacy,” Now, select the option of “Account Information” from the “Your Account” settings.
 
 ![open account information settings](https://images.wondershare.com/drfone/article/2022/05/change-location-on-twitter-5.jpg)
@@ -286,19 +294,11 @@ Unlike Twitter applications, the desktop version is efficient. For example, you 
 
 ![insert your twitter password](https://images.wondershare.com/drfone/article/2022/05/change-location-on-twitter-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What is the Difference between My Profile Location and My Country Setting on Twitter?
 
 Country setting and profile location are both entirely different things. The country setting determines what trends and news will be displayed on your discovery page.
 
 In contrast, profile location is your public location that other users can see when visiting your profile. Therefore, changing your country setting will not impact your original profile location unless you make a change yourself.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Fake Location on Twitter
 
@@ -333,6 +333,10 @@ One of the reasons people prefer to spoof their location is to socialize and mak
 - Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
 
 **3981454** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Fake Twitter Location by Dr.Fone - Virtual Location
 
@@ -384,10 +388,6 @@ If you want your Twitter location to be accurate and precise. Firstly, you shoul
 
 In 2020, Twitter changed its privacy by removing worldwide trends. Still, few global trends can be seen on the explore page, directly or indirectly connected with your location or your preference of content to offer the best experience to you. But, if you wish to explore more of these worldwide trends, you can always spoof the location.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 Twitter is one of the most content-consuming social platforms globally. Its users are always thirsty to debate and share their opinions on various topics, which can, unfortunately, be restricted because of the limited exposure to global trends. But with the help of this detailed article, anyone can easily **change Twitter location** to the desired region.
@@ -408,17 +408,18 @@ Twitter is one of the most content-consuming social platforms globally. Its user
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-streamlining-zoom-sessions-with-invisible-edges/"><u>[New] 2024 Approved Streamlining Zoom Sessions with Invisible Edges</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-channel-building-gear-a-quick-start-guide/"><u>2024 Approved Channel-Building Gear A Quick Start Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-definitive-vivacut-video-editing-manual-for-24/"><u>2024 Approved The Definitive VivaCut Video Editing Manual for '24</u></a></li>
-<li><a href="https://review-topics.techidaily.com/does-find-my-friends-work-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-xiaomi-redmi-note-12-pro-4g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Xiaomi Redmi Note 12 Pro 4G Activity | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Itel P55? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-tecno-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Tecno</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/regain-your-accidentally-erased-excel-documents-a-step-by-step-guide-for-windows-10-users/"><u>Regain Your Accidentally Erased Excel Documents: A Step-by-Step Guide for Windows 10 Users</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ltimate-checklist-for-professional-live-streaming/"><u>The Ultimate Checklist for Professional Live Streaming</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-touch-screen-laptops-comprehensive-reviews-and-buyers-guide-techradar/"><u>Top-Rated Touch Screen Laptops: Comprehensive Reviews & Buyer's Guide | TechRadar</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-idea-inception-using-google-trends-to-fuel-videography-for-2024/"><u>[Updated] Idea Inception Using Google Trends to Fuel Videography for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-become-a-periscope-expert-with-our-full-guide/"><u>[Updated] In 2024, Become a Periscope Expert with Our Full Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-12-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 12 Data From iOS iTunes? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6 To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-gps-location-on-infinix-smart-8-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Infinix Smart 8 Pro Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-maximize-views-download-youtube-artwork-for-free/"><u>In 2024, Maximize Views Download YouTube Artwork for Free</u></a></li>
+<li><a href="https://win-blog.techidaily.com/microsoft-prepares-major-overhaul-the-end-of-paint-3d-looms/"><u>Microsoft Prepares Major Overhaul: The End of Paint 3D Looms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-time-settings-in-windows-manual-configuration-steps/"><u>Personalizing Time Settings in Windows: Manual Configuration Steps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-redmi-k70e-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Redmi K70E, is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-a2-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on A2</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-premium-free-movies-of-2024-your-ultimate-download-guide-without-signing-up/"><u>Top 7 Premium-Free Movies of 2024: Your Ultimate Download Guide Without Signing Up!</u></a></li>
 </ul></div>
 

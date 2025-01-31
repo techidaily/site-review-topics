@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Share Location in Messenger On Honor 90 Pro? | Dr.fone
-date: 2025-01-19T22:30:40.252Z
-updated: 2025-01-23T21:12:00.589Z
+date: 2025-01-26T09:40:05.924Z
+updated: 2025-01-31T00:51:32.121Z
 tags: 
   - virtual location chang
   - location changer
@@ -28,7 +28,7 @@ In this article, we will delve into the highlights and benefits of Facebook Mess
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1. Everything You Should Know About Messenger’s Live Location
@@ -36,10 +36,6 @@ In this article, we will delve into the highlights and benefits of Facebook Mess
 Facebook is well aware that sharing location details is essential to its users. That’s why developers have come up with a brilliant idea and rolled out Live Location on Messenger. It basically works like other location-sharing features. However, Live Location provides more precise and thorough location information. It’s in map form, where you can view the exact location and track the movements of the sender. You’ll continue to see updates for as long as the sharing is not halted on the other end. To navigate it properly, try to read tutorials on how to share Live Location on Messenger.
 
 ![facebook messenger live location](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 What if you wish to send a particular address from another location? There is no problem with that. Messenger allows users to search for a specific place, trace it on the map, and share the details. The receiver can view it in map form and get directions if necessary. See? It’s very easy and convenient. No need to type in long addresses just to share a particular location with your friend. You just have to find it precisely on the map and send the information afterward.
 
@@ -54,12 +50,16 @@ Facebook Messenger’s location-sharing feature will not work without the necess
 
 ![apps settings](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Find and click **Messenger.**
 
 ![messenger settings](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 4:** Click **Permissions.**
@@ -75,7 +75,7 @@ Facebook Messenger’s location-sharing feature will not work without the necess
 ![allow messenger access](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2. How to Share My Location on Messenger?
@@ -96,10 +96,6 @@ How to share my location on Messenger? Well, the first option you can try is thr
 
 ![location option on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 5:** Click **Start Sharing Live Location.** Immediately, your current location details will be available and forwarded to the intended receiver. Live Location lasts for 60 minutes at maximum. If you wish to terminate it, simply click **Stop Sharing Live Location.**
 
 ![share live location on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-9.jpg)
@@ -119,7 +115,7 @@ Let’s say there is a specific place you want to visit with your friend. Is the
 - **Step 6:** Choose one from the suggested results and then click on it. The details will then be forwarded immediately to the intended receiver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Share location on Facebook Messenger via Google Maps location
@@ -131,21 +127,17 @@ How do I share my location in Messenger if I cannot find it on the map provided?
 
 ![google maps search bar](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Choose one from the suggestions and then tap on it. Make sure that it is exactly what you’re looking for.
 
 ![location choices](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4:** Access the menu bar below the map and then click **Share.**
 
 ![share google maps location](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 5:** From there, click **Chats** or the **Facebook Messenger** logo.
 - **Step 6:** Find the receiver from the provided list and then click the **Send** button next to its name.
@@ -170,16 +162,24 @@ There’s no denying that the location-sharing feature of Facebook Messenger is 
 ![search preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 6:** The details regarding your chosen location will be displayed on the computer screen. Review the information and make sure that it is the specific location you’re looking for. Once confirmed, click **Move Here** to proceed.
 
 ![move to the selected location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 7:** Immediately, the location settings on your smartphone will be changed according to the inputs you have provided to Wondershare Dr.Fone. You can verify it by checking the current location registered on your Maps app. After confirming that your mobile device is now showing a different location, you can now start browsing without worrying about your location’s privacy.
 
 ![location changed on smartphone](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **NOTE:** Resort to Wondershare Dr.Fone - Virtual Location if your internet browsing does not require you to provide your real address. If you wish to restore your original location settings, simply close the Wondershare Dr.Fone application and restart your smartphone.
 
@@ -197,24 +197,18 @@ Gone are the days when you had to write invitation cards manually and deliver th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-free-vs-paid-gaming-entrances-top-12-insights-for-youtube-gamers/"><u>[New] 2024 Approved Free vs Paid Gaming Entrances Top 12 Insights for YouTube Gamers</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-capture-and-save-your-snapchat-screen-seamlessly-for-2024/"><u>[New] Capture and Save Your Snapchat Screen Seamlessly for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-elevate-your-reddit-presence-with-proactive-tips/"><u>[Updated] Elevate Your Reddit Presence with Proactive Tips</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-leading-uav-models-suited-for-gopro-cameras-for-2024/"><u>[Updated] Leading UAV Models Suited for GoPro Cameras for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-mastering-gif-creation-step-by-step-guide/"><u>[Updated] Mastering GIF Creation Step-by-Step Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gaming-gains-graphed-income-insights-on-finn/"><u>2024 Approved Gaming Gains Graphed Income Insights on Finn</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-nokia-105-classic-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Nokia 105 Classic</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-x-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone X To Other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-motorola-moto-g-5g-2023-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Motorola Moto G 5G (2023)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-xs-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone XS to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-hardware-drivers-on-windows-11-by-drivereasy-guide/"><u>How to use Device Manager to update hardware drivers on Windows 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-apple-iphone-15-pro-fix-now-drfone-by-drfone-virtual-ios/"><u>In 2024, 3uTools Virtual Location Not Working On Apple iPhone 15 Pro? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Honor Play 7T? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Poco X5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-devices-with-toms-hardware-wisdom/"><u>Mastering Devices with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-event-log-failures-in-windows-11/"><u>Overcoming Event Log Failures in Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-g54-5g-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from G54 5G.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-c300-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after C300 has been deleted</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-clarity-cutting-edge-expert-recommendations-for-8k/"><u>[New] Clarity Cutting-Edge Expert Recommendations for 8K</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-master-browser-fb-vid-extractor-kit/"><u>[Updated] In 2024, Master Browser FB Vid Extractor Kit</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-art-of-avatar-design-in-the-metaverse-explained-simply/"><u>[Updated] The Art of Avatar Design in the Metaverse Explained Simply</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-essential-strategies-for-effective-use-of-luts-in-video-edits/"><u>2024 Approved Essential Strategies for Effective Use of LUTs in Video Edits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-4-and-twitter-verification-a-new-horizon-unfolds/"><u>GPT-4 & Twitter Verification: A New Horizon Unfolds</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-7-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 7 without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovation-unleashed-experience-our-6-best-signature-removers/"><u>In 2024, Innovation Unleashed – Experience Our 6 Best Signature Removers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-edge-2023-video-recovery-recover-deleted-videos-from-motorola-edge-2023-by-fonelab-android-recover-video/"><u>Motorola Edge 2023 Video Recovery - Recover Deleted Videos from Motorola Edge 2023</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-data-retrieval-tool-restore-lost-data-from-oppo-a1-5g-by-fonelab-android-recover-data/"><u>Oppo Data Retrieval tool – restore lost data from Oppo A1 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-tecno-camon-20-premier-5g-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Tecno Camon 20 Premier 5G.</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo T2 5G? | Dr.fone</u></a></li>
 </ul></div>
 

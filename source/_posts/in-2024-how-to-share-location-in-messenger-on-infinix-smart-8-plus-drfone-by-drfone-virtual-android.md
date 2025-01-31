@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Share Location in Messenger On Infinix Smart 8 Plus? | Dr.fone
-date: 2025-01-23T00:38:35.355Z
-updated: 2025-01-23T19:11:07.326Z
+date: 2025-01-25T21:21:59.059Z
+updated: 2025-01-30T16:22:10.412Z
 tags: 
   - virtual location chang
   - location changer
@@ -58,16 +58,12 @@ Facebook Messenger’s location-sharing feature will not work without the necess
 
 ![location permission on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 6:** Select **Allow Only While Using the App.** If you’re quite conservative regarding this matter, click **Ask Every Time** instead. After that, Facebook Messenger will have access to your location information.
 
 ![allow messenger access](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2. How to Share My Location on Messenger?
@@ -87,6 +83,10 @@ How to share my location on Messenger? Well, the first option you can try is thr
 - **Step 4:** Right after, click **Location.**
 
 ![location option on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** Click **Start Sharing Live Location.** Immediately, your current location details will be available and forwarded to the intended receiver. Live Location lasts for 60 minutes at maximum. If you wish to terminate it, simply click **Stop Sharing Live Location.**
 
@@ -115,6 +115,10 @@ How do I share my location in Messenger if I cannot find it on the map provided?
 
 ![google maps search bar](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Choose one from the suggestions and then tap on it. Make sure that it is exactly what you’re looking for.
 
 ![location choices](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-12.jpg)
@@ -128,11 +132,11 @@ How do I share my location in Messenger if I cannot find it on the map provided?
 
 ![send google maps location](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-14.jpg)
 
-**NOTE:** Of course, you can only send pinned locations via Google Maps. The Facebook Messenger’s Live Location is available within the platform only.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**NOTE:** Of course, you can only send pinned locations via Google Maps. The Facebook Messenger’s Live Location is available within the platform only.
 
 ## BONUS TIP: Protect Your Privacy With [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -145,6 +149,10 @@ There’s no denying that the location-sharing feature of Facebook Messenger is 
 
 ![wondershare drfone teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Head over to the top-left corner and enter your desired location into the search bar. Choose one from the suggested results. After that, click the **Enter** icon.
 
 ![search preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -152,10 +160,6 @@ There’s no denying that the location-sharing feature of Facebook Messenger is 
 - **Step 6:** The details regarding your chosen location will be displayed on the computer screen. Review the information and make sure that it is the specific location you’re looking for. Once confirmed, click **Move Here** to proceed.
 
 ![move to the selected location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 7:** Immediately, the location settings on your smartphone will be changed according to the inputs you have provided to Wondershare Dr.Fone. You can verify it by checking the current location registered on your Maps app. After confirming that your mobile device is now showing a different location, you can now start browsing without worrying about your location’s privacy.
 
@@ -172,6 +176,10 @@ Gone are the days when you had to write invitation cards manually and deliver th
 There is no doubt that Find My Friends is an excellent application for location tracking. It allows users to track the location of their friends and family members through a variety of devices. So, when Find My Friends says the location is not available, it can be a frustrating situation. But don't stress over this because we are here to assist you in Find My Friends not working. Go through this guide, and you'll know what to do to take care of the problem.
 
 ![find my friends location not available](https://images.wondershare.com/drfone/article/2023/05/find-my-friends-location-not-available.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What Does "Location Not Available" Mean on Find My Friends?
 
@@ -216,21 +224,25 @@ After verifying that the feature is available in your region, enable the GPS & L
 
 ![enable location services](https://www.virtuallocation.com/images/pokemon-go/enable-location-services.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tip 3: Adjust Infinix Smart 8 Plus  Date and Time
 
 As we stated in the possible reasons, incorrect dates and times also result in this problem. If you have manually set the date and time, change the settings and set it to "Set Automatically" in General Settings. Hopefully, this will resolve the problem when the Find My Friends location is not available.
 
 ![adjust date and time](https://www.virtuallocation.com/images/pokemon-go/adjust-date-and-time.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 4: Check the Internet
 
 Before you conclude that there is something wrong with the Find My Friends app, check your internet connection. There is a chance that location is not available on the Infinix Smart 8 Plus  because your device doesn't have internet access. Try opening Settings > Mobile Data/Wi-Fi and turning it on and off. Alongside, make sure that you have signal strength, whether you are connecting to cellular data or a Wi-Fi network.
 
 ![check internet connection](https://www.virtuallocation.com/images/pokemon-go/check-internet-connection.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 5: Enable Share My Location
 
@@ -258,10 +270,6 @@ Another tip that can help you resolve to **Find My Friends location not availabl
 
 Open the Find Friends app, log into it, and enable the location-sharing feature.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tip 8: Quit Find My Friends App and Open It Again
 
 Last but not least valuable tip to use when the Find Friends location is not available is to quit the app. There is a possibility that you've faced the problem only because of a momentary issue or some random glitch. Make sure that you also clear the cache memory before opening the app again. It might fix the problem entirely.
@@ -285,16 +293,12 @@ To use Dr.Fone - Virtual Location, here are the steps you need to follow:
 ![detect actual location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3:** Now go to the search box and type the location you want to switch to. Once the location gets detected, click on the "Move Here" option, and the location of your Infinix Smart 8 Plus  or Android phone will change to the one you specified.
 
 ![move to virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 As you can see, when you have Dr.Fone - Virtual Location software, you can share any location with just one click. And it would seem that your Find My Friends app is working fine.
 
@@ -352,10 +356,6 @@ People, generally boys, are often found playing games on their cell phones, and 
 
 Unlike other games, Mobile Legends allows its players to hide their actual location. Therefore, ML players have many reasons to **fake GPS Mobile Legends,** such as getting a higher rank and playing with their friends wherever they are. Let's find how to fake GPS on ML in this article now!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part 1: Why Do We Need to Fake Location on ML**
 
 Some players want to fake-locate Mobile Legends because it is highly competitive and it usually ranks globally or locally. Most players prefer local street rankings, which are specified according to the area. The GPS detects the location of the Infinix Smart 8 Plus devices in your area while you are in the game. Spoofing your location can bring you new requests and challenges that were practically unavailable in your area.
@@ -387,10 +387,6 @@ Wondershare Dr.Fone has always amazed us with its incredible tools and features,
 It is compatible with all the location-based apps and works seamlessly**,** so you don’t have to worry about the apps glitching. But if you are an Android user, then Dr.Fone doesn't enable fake location on Android games, but it lets you change the location of your Infinix Smart 8 Plus. However, it fully supports all the games available such as **fake GPS Mobile Legends** on iOS devices.
 
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Steps-by-Step Instructions for Faking ML Location Using Dr.Fone - Virtual Location
 
@@ -444,6 +440,10 @@ It is capable of marking a location, and later you can start the program on boot
 
 ![fake gps location app interface](https://images.wondershare.com/drfone/article/2022/04/fake-gps-mobile-legends-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Hola VPN Service
 
 Hola is a VPN service that is considered one of the best on the market, which provides safe and anonymous surfing on the internet. It preserves your privacy and works like a dream; you don't have to wait for the screen to load because of its high-speed maintenance VPN. Furthermore, it works perfectly fine off barriers and blockages so that you can run any streaming service without restrictions.
@@ -474,15 +474,19 @@ This article has discussed the Mobile Legends game and how you can **fake GPS Mo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-googles-quick-fix-for-photo-collage-enthusiasts/"><u>[Updated] Google's Quick Fix for Photo Collage Enthusiasts</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-realme-gt-5-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fashion-finds-filled-with-fun-editing-for-hauls/"><u>2024 Approved Fashion Finds Filled with Fun Editing for Hauls</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-jumpstart-your-career-free-cutting-edge-premiere-plans/"><u>2024 Approved Jumpstart Your Career Free, Cutting-Edge Premiere Plans</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-8-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 8 Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-11-pro-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 11 Pro to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-tecno-phantom-v-fold-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Tecno Phantom V Fold by Name | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-windows-11-taskbar-for-optimal-datetime-view/"><u>Tailoring Windows 11 Taskbar for Optimal Date/Time View</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-ion-air-pro-3-camera-analysis-gearing-up-for-great-shots/"><u>[New] In 2024, ION Air Pro 3 Camera Analysis - Gearing Up for Great Shots</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-pro-rated-top-8-convertors-for-subtitles-and-srts/"><u>[New] In 2024, Pro-Rated Top 8 Convertors for Subtitles & SRTs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-keeping-your-tiktok-age-up-to-date-a-quick-guide-for-2024/"><u>[Updated] Keeping Your TikTok Age Up-to-Date A Quick Guide for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essentials-unveiled-a-buyers-guide-to-picking-the-perfect-smartwatch-top-5-tips/"><u>Essentials Unveiled: A Buyer's Guide to Picking the Perfect Smartwatch - Top 5 Tips</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-elevating-your-artistry-in-lyric-videos-through-lyric-video-maker-mastery/"><u>In 2024, Elevating Your Artistry in Lyric Videos Through Lyric Video Maker Mastery</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimizing-mac-ipad-iphone-browsing-via-pip-for-2024/"><u>Optimizing Mac, iPad, iPhone Browsing via PIP for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-dreamlight-valleys-pc-crashing-problem-discover-6-reliable-fixes/"><u>Overcoming Dreamlight Valley's PC Crashing Problem: Discover 6 Reliable Fixes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-samsung-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Samsung</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-motorola-razr-40-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Motorola Razr 40.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-oppo-a79-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Oppo A79 5G</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-updating-your-devices-drivers-with-yl-computing-solutions/"><u>Step-by-Step Guide: Updating Your Device's Drivers with YL Computing Solutions</u></a></li>
 </ul></div>
 

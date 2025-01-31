@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Change/Fake Your Tecno Pop 7 Pro Location on Viber | Dr.fone
-date: 2025-01-19T16:00:44.519Z
-updated: 2025-01-23T23:23:06.242Z
+date: 2025-01-29T16:54:17.064Z
+updated: 2025-01-31T09:16:07.235Z
 tags: 
   - virtual location change
   - social app
@@ -22,15 +22,15 @@ Viber is one of the most commonly used messenger apps. It allows you to send sho
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: What is the My Location feature on Viber?
 
 If you’ve used WhatsApp’s location feature before, you’ll know what Viber’s “My Location” is all about. With this feature, you can share your live location for whatever reasons you may have. For example, you may want to share your live location with your kids or vice-versa. Or, you might simply want to share a fake location on Viber with your nosy friends.
 
 But as good as it sounds, this live location feature is enabled by default on your Tecno Pop 7 Pro/Android browser. Therefore, you can send a location on Viber without knowing. This can be advantageous to stalkers or even cause misunderstanding in your relationship. What’s worse, it shares your actual location with every text you send. But fret not because this post will help you **disable or enable My Location on Viber** according to your needs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to disable or enable My Location on Viber?
 
@@ -77,6 +77,10 @@ Steps to change Viber location with Dr.Fone:
 **Step 1. Launch Dr.Fone Virtual Location.**
 
 ![change location on Viber, open virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Install and run Wondershare Dr.Fone on your Windows/Mac computer, and then tap the **Virtual Location** tab on the Home page.
 
@@ -126,10 +130,6 @@ Do you want to show your friends that you’re in London or New York when you’
 
 If you’re a digital marketer, you might want to convince your potential clients that the goods are from a specific region or city close to them. Believe it or not, this can lead to more sales closures.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Wrap it Up
 
 You can share your live location on Viber just like you would on Facebook, WhatsApp, and other social media apps. But because most of these apps don’t allow you to share fake locations, I recommend [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) change your area to anywhere in the world. Give it a try!
@@ -161,6 +161,10 @@ However, there are instances where learning **how to pause Life360** becomes nec
 - **Battery health**. Constant GPS tracking can drain your phone’s battery significantly. Temporarily pausing the app can help conserve battery life.
 - **Privacy**. Sometimes, you might want some privacy about your location. Thus, some people would like to pause their Life360 location sharing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Methods To Pause Life360 From the App
 
 Now, the question is, **can you pause your location on Life360?** Pausing Life360 can be done for a specific circle or the entire app. This section will show you some general steps to pause your location for the app. You can do it only for a specific circle or the whole app. Here’s how you can do those.
@@ -181,10 +185,6 @@ By understanding and utilizing these features wisely, you can maintain your conn
 
 Life360 offers flexibility within its app and through your device’s settings. Understanding how to use these options can provide additional control over location sharing. Explore the various ways **how to pause Life360** outside the app itself.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Pause Life360 From Android Settings
 
 First, navigate to your Tecno Pop 7 Pro’s **Settings**. Then, look for the section listing all installed apps. This is usually named as “Apps.” Locate Life360 on the list of apps and open it. You should be able to see a **Force Stop** button at the bottom of the screen.
@@ -198,7 +198,7 @@ To **pause the Life360 location** on iOS, you’ll have to open the Settings app
 ![life360 ios settings](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-03.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Pause by Using Airplane Mode
@@ -212,6 +212,10 @@ This can be done from the quick settings panel on both Android and iOS devices. 
 Removing the app from your device will stop it from sharing your location. The beauty of this method is that it won’t automatically notify your circles or remove you from them. However, some members might notice that your location updates are unavailable.
 
 Each method serves a different purpose and offers varying levels of discretion. Whether conserving battery, seeking privacy, or temporarily disconnecting, these methods provide a way to **pause Life360** **location** without drawing unwanted attention. Remember, communicating with your Circle members about your need for privacy to maintain trust is always a good idea.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How To Pause Life360 With a Virtual Location Spoofer
 
@@ -232,14 +236,10 @@ To learn how to pause location on Life360 without them knowing using Dr.Fone, fo
 
 ![set one-stop route dr.fone](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:** TheRound trip and Loop trip are particularly useful for creating the impression of movement in a specific area. Parameters can make your virtual movement more believable.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -261,10 +261,6 @@ To change your preferred job location on LinkedIn, below mentioned are the metho
 To change your location on LinkedIn through your Windows and Mac systems, below listed are the steps.
 
 ![change linkedln location on desktop](https://images.wondershare.com/drfone/article/2022/01/linkedin-desktop-location.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - Step 1. Open your LinkedIn account on your system and tap on the Me icon at the homepage.
 - Step 2. Next, tap on View profile and then click on the Edit icon in the introduction section.
@@ -320,7 +316,7 @@ Step 5. Next, choose the desired location at the upper-left field from the drop-
 ![move there](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 6. At the new pop-up box, click on the Move Here button to set the new location as your current location. All the location-based apps on your phone, including LinkedIn, will now show this new location as their current location.
@@ -336,7 +332,7 @@ Changing and setting a customized location on your LinkedIn profile can be benef
 3. **More job options**: When you update your LinkedIn location, your options for jobs increase, and you become eligible for the jobs which otherwise were not applicable for your location or profile. Thus, access to more job profiles gives you better chances of growing and negotiating.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ: All you want to know about changing location on LinkedIn
@@ -344,6 +340,10 @@ Changing and setting a customized location on your LinkedIn profile can be benef
 ### 1\. Should I change my location on LinkedIn, although I haven’t relocated yet?
 
 If you are planning to relocate to a new place soon, updating your LinkedIn location is fine. Location update will help you target the job market and with job-seeking to get the desired job. It is suggested that suppose if you are moving to ABC location soon, you can update your LinkedIn location to ABC but at the same time mention your present current location, somewhere in the profile. Mentioning your current location will not create any feeling of being cheated or misled by the people who visit your profile.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. How do I hide my location on LinkedIn?
 
@@ -354,7 +354,7 @@ There is no option on LinkedIn to hide your location. You can only provide incor
 - 3\. Click on the "Edit your public profile" link.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Final Words
@@ -375,22 +375,18 @@ LinkedIn location on your systems as well as mobile devices can be changed eithe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-how-to-personalize-and-change-ringtones-on-your-iphone/"><u>[New] In 2024, How to Personalize and Change Ringtones on Your iPhone?</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nappy-fortnite-visuals-in-no-time/"><u>[New] Snappy Fortnite Visuals in No Time</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-analyzing-per-view-gain-for-content-making-on-video-platforms/"><u>[Updated] Analyzing Per-View Gain for Content Making on Video Platforms</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cha-cha-chickadees/"><u>Cha-Cha Chickadees</u></a></li>
-<li><a href="https://games-able.techidaily.com/fine-tuning-your-xbox-console-screens-step-by-step/"><u>Fine-Tuning Your Xbox Console Screens: Step by Step</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-hidefake-snapchat-location-on-your-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-plus-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 Plus To Others Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-xs-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone XS without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-tecno-spark-10c-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Tecno Spark 10C in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-xiaomi-redmi-a2-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Xiaomi Redmi A2 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-samsung-galaxy-s24-ultra-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Samsung Galaxy S24 Ultra to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-fix-installing-and-keeping-your-intel-hd-graphics-5500-driver-current/"><u>Quick Fix: Installing and Keeping Your Intel HD Graphics 5500 Driver Current</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-zte-blade-a73-5g-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after ZTE Blade A73 5G has been deleted.</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-x9a-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor X9a? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-the-art-of-curating-memories-on-social-media/"><u>[New] In 2024, The Art of Curating Memories on Social Media</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-first-steps-in-film-making-top-8-recommended-cameras/"><u>[Updated] 2024 Approved First Steps in Film Making Top 8 Recommended Cameras</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-depth-app-insights-the-az-reporters-cut-for-2024/"><u>[Updated] In-Depth App Insights - The AZ Reporter's Cut for 2024</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/expert-tips-for-transforming-photographs-into-dynamic-video-content/"><u>Expert Tips for Transforming Photographs Into Dynamic Video Content</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 To Other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-nova-y71-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Nova Y71 Without Password?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-digital-broadcast-face-off-facebook-vs-youtube-and-tweetstreams/"><u>In 2024, Digital Broadcast Face-Off FACEbook Vs. YOUTube & TweetStreams</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-samsung-galaxy-a15-4g-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-oppo-a2-by-fonelab-android-recover-data/"><u>Recover lost data from Oppo A2</u></a></li>
+<li><a href="https://win11.techidaily.com/revel-in-microsofts-exclusive-windows-suite/"><u>Revel in Microsoft's Exclusive Windows Suite</u></a></li>
 </ul></div>
 

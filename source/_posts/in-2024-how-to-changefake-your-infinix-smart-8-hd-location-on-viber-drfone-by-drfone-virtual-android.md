@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Change/Fake Your Infinix Smart 8 HD Location on Viber | Dr.fone
-date: 2025-01-22T22:46:28.359Z
-updated: 2025-01-23T18:46:34.524Z
+date: 2025-01-28T04:05:00.435Z
+updated: 2025-01-31T13:00:31.557Z
 tags: 
   - virtual location change
   - social app
@@ -39,10 +39,6 @@ Step 1. Fire up your Viber app on mobile or PC and tap the **Chats** button. Her
 Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of the screen and choose **Chat Info**. Alternatively, simply swipe the screen to the left.
 
 ![change location on Viber, tap chat info](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3. On the Chat Info window, simply enable or disable the **Attach location always** toggle. It’s done!
 
@@ -110,6 +106,10 @@ If the connection is successful, the Virtual Location map will launch automatica
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Why send fake location on Viber?
 
 Now that you know how to spoof location on Viber. Let’s discuss some reasons to spoof location on this messaging app. Below are some common ones:
@@ -131,7 +131,7 @@ If you’re a digital marketer, you might want to convince your potential client
 You can share your live location on Viber just like you would on Facebook, WhatsApp, and other social media apps. But because most of these apps don’t allow you to share fake locations, I recommend [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) change your area to anywhere in the world. Give it a try!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Change Your Infinix Smart 8 HD Location on life360 Without Anyone Knowing?
@@ -141,6 +141,10 @@ You can share your live location on Viber just like you would on Facebook, Whats
 Understanding this question is crucial. Here, we’ll break down the possibility of changing your location on Life360. You’ll also learn in this article how to spoof or fake your location, suitable for various purposes. But before getting into the answer, let’s first understand what Life360 is and what it does.
 
 ![life360 location sharing app interface](https://images.wondershare.com/drfone/article/2024/01/change-your-location-on-life-360-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What Is Life360 and What Does It Do?
 
@@ -221,6 +225,10 @@ Give yourself some breathing room on Life360. Dr.Fone Virtual Location helps you
 
 ![start dr.fone virtual location changer](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Click **No Device** on the upper right side of the map.
 
 ![dr.fone virtual location map](https://images.wondershare.com/drfone/guide/virtual-location-01-1.png)
@@ -229,12 +237,16 @@ Give yourself some breathing room on Life360. Dr.Fone Virtual Location helps you
 
 ![connect ios or android device](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Follow the on-screen steps to put your device in the Developer mode and wait for the Dr.Fone app to detect it.
 
 ![open the developer mode](https://images.wondershare.com/drfone/guide/vl-connect-ios-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 6:** Select the travel mode you want from the top-right side and set your destination on the map.
@@ -288,11 +300,7 @@ Whether it’s a matter of privacy or a brief escape, the art of leaving a Life3
 ![leaving a life360 group banner](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-01.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1. How To Leave a Life360 Circle
@@ -312,7 +320,7 @@ The default method of leaving a Life360 Circle is straightforward but comes with
 ![life360 leave circle option](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-03.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How To Leave a Life360 Circle You’re a Part Of
@@ -371,10 +379,6 @@ If Dr.Fone is unavailable, a simple tactic is to disable both mobile data and Wi
 - **Step 1:** Open your device settings. Go to **Connections** or **Network & Internet**.
 - **Step 2:** Disable both **mobile data** and **Wi-Fi**. Life360 will lose real-time tracking capability, but be cautious, as this may raise suspicion.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3: Switching To Airplane Mode
 
 Another option is to activate Airplane Mode, severing all connections, including location sharing. Again, this method may alert Circle members to your departure.
@@ -384,10 +388,6 @@ Another option is to activate Airplane Mode, severing all connections, including
 ![airplane mode interface](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-11.jpg)
 
 - **Step 2:** Toggle on **Airplane Mode**. The method severs all connections, including location sharing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4: Turning Off Your Infinix Smart 8 HD
 
@@ -403,10 +403,6 @@ In your device settings, disable **Background App Refresh** for Life360. Althoug
 
 - **Step 2:** Locate Life360 and disable **Background App Refresh** for the app. Alternatively, you can disable **Background App Refresh** as a whole.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 6: Enabling Battery Saving Mode
 
 Switching to “Battery saving” or “Power saving” mode can affect the frequency of Life360 updates. While it offers a subtle way to limit location sharing, it may not provide foolproof privacy. Follow the steps:
@@ -414,10 +410,6 @@ Switching to “Battery saving” or “Power saving” mode can affect the freq
 - **Step 1:** Go to your device **Settings**. Look for the **Battery** option.
 
 ![enable battery saving mode](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 2:** Enable **Battery saving** or **Power saving** mode.
 
@@ -431,6 +423,10 @@ Life360’s Circle feature serves as the cornerstone of the app. It fosters conn
 
 ![life360 app interface](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Can You Remove Someone From a life360 Circle?
 
 As the admin, you have the authority to remove someone from a Life360 Circle. The control ensures that you can manage the group dynamics and permissions.
@@ -438,6 +434,10 @@ As the admin, you have the authority to remove someone from a Life360 Circle. Th
 ### How To Know if Someone Leaves the Circle?
 
 Life360 notifies Circle members when someone leaves. The transparency feature aims to keep everyone informed about changes within the group.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Can You Include Non-Family Members in a Circle?
 
@@ -471,18 +471,19 @@ The platform is proficient in location spoofing without alerting the Circle. Whe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-elevate-your-engagement-essential-apps-for-insta-growth/"><u>[Updated] 2024 Approved Elevate Your Engagement Essential Apps for Insta Growth</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-cutting-edge-tips-for-using-colored-backdrops-in-video-making/"><u>[Updated] Cutting-Edge Tips for Using Colored Backdrops in Video Making</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-humor-hacks-a-compendium-of-top-meme-makers/"><u>[Updated] Humor Hacks A Compendium of Top Meme Makers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-stories-unseen-aspects-revealed/"><u>[Updated] Instagram Stories Unseen Aspects Revealed</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/how-to-get-hd-video-converter-factory-pro-for-free-a-step-by-step-guide/"><u>How To Get HD Video Converter Factory Pro For Free: A Step-by-Step Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-7-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 7 Plus without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/meet-the-new-contender-insight-into-the-samsung-galaxy-z-fold-6-launch-date-price-point-and-technical-specs/"><u>Meet the New Contender: Insight Into the Samsung Galaxy Z Fold 6 Launch Date, Price Point & Technical Specs</u></a></li>
-<li><a href="https://review-topics.techidaily.com/realme-v30t-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Realme V30T Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-footage-to-film-how-to-make-a-dvd-with-the-best-software/"><u>Updated 2024 Approved From Footage to Film How to Make a DVD with the Best Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208842706-winning-against-wifi-fix-your-bluetooth-pairing-woes-on-windows-11-tips-and-tricks/"><u>Winning Against WiFi: Fix Your Bluetooth Pairing Woes on Windows 11 - Tips & Tricks !</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-surviving-splashes-top-7-action-cam-selection/"><u>[New] Surviving Splashes Top 7 Action Cam Selection</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-humor-in-captivity-top-20-memes-from-jail-to-joys-of-online-life/"><u>[Updated] 2024 Approved Humor in Captivity Top 20 Memes From Jail to Joys of Online Life</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-walkthrough-to-adjusting-posts-on-instagram/"><u>A Comprehensive Walkthrough to Adjusting Posts on Instagram</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Nubia Z50S Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-poco-f5-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Poco F5 5G Phone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-social-network-crossroad-instagram-and-tiktok/"><u>In 2024, Navigating the Social Network Crossroad Instagram & TikTok</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/navigating-youtube-sharing-on-insta-stories-for-2024/"><u>Navigating YouTube Sharing on Insta Stories for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oneplus-ace-2-tutorial-bypass-lock-screensecurity-password-pinfingerprintpattern-by-drfone-android-unlock-android-unlock/"><u>OnePlus Ace 2 Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-xiaomi-redmi-12-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Xiaomi Redmi 12</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-google-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Google</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-laptops-a-comprehensive-review-of-apple-dell-and-others/"><u>Top Rated Laptops - A Comprehensive Review of Apple, Dell & Others</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-choosing-the-perfect-video-game-systems-and-add-ons-for-children/"><u>Ultimate Guide to Choosing the Perfect Video Game Systems and Add-Ons for Children</u></a></li>
 </ul></div>
 

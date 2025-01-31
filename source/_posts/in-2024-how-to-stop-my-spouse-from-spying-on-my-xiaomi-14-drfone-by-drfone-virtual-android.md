@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Stop My Spouse from Spying on My Xiaomi 14 | Dr.fone
-date: 2025-01-11T18:59:00.121Z
-updated: 2025-01-17T19:09:53.463Z
+date: 2025-01-26T05:24:27.796Z
+updated: 2025-01-31T03:40:28.813Z
 tags: 
   - virtual location chang
   - location changer
@@ -29,6 +29,10 @@ In the following parts of this writeup, you can learn how to know if someone is 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How can I tell if my husband or wife is spying on my Xiaomi 14?
 
 If you are suspecting that your phone is being hacked, several signs will indicate the same. So, if you too are looking for ways **how to know if someone is spying on cell phones, check the below-listed signs.**
@@ -38,10 +42,6 @@ If you are suspecting that your phone is being hacked, several signs will indica
 If you feel that your phone is running slow than usual then it might be hacked as spyware tools that are downloaded are resource-draining and thus makes the Xiaomi 14 device sluggish.
 
 ![spying on phones](https://images.wondershare.com/drfone/article/2022/03/spying-on-phone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. The battery is draining too fast
 
@@ -55,10 +55,6 @@ Since the spyware sends a lot of the Xiaomi 14 device information to the hacker 
 
 When your emails, phone calls, and text messages are being checked or tracked that means your phone is being hacked.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Monitoring your use of social media (such as Facebook)
 
 If your social media accounts like Facebook and others are kept an eye on it means that you are being watched and your phone is being hacked. Tracking you or your vehicle using GPS
@@ -68,10 +64,6 @@ If your social media accounts like Facebook and others are kept an eye on it mea
 ### 6\. Tracking you or your vehicle using GPS
 
 To know about your whereabouts the Xiaomi 14 device's GPS and the vehicle movement are being tracked. If this is happening with you then it means that you are being spied on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: What can be used when your phone is tracked?
 
@@ -86,13 +78,13 @@ Google Chrome: Changing the logged-in account from yours to his/her will help th
 - Google Maps or Find My iPhone: When the location sharing option is turned on the victim device, the hacking spouse can track the location easily.
 - Google account or iCloud data: If your spouse knows the password of your iCloud or Google account, they will easily have access to all the data that is backed up on iCloud. Further, the data can also be used for cloning your device and getting access to personal information.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Tracking apps
 
 These are the legitimate apps that can be downloaded from the App store on your phone. Though these tracking apps are mainly used by parents for monitoring their children, a lot of spouses use them for tracking and spying on their partners as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Spyware
 
@@ -101,7 +93,7 @@ These are the legitimate apps that can be downloaded from the App store on your 
 This is one of the most widely used methods where the software or an app is installed on the Xiaomi 14 device to retrieve the Xiaomi 14 device data. The victim partner is unaware of any such apps installed on their device and the data is sent to the hacking partner. A wide range of these spyware tools is available in the market in different price brackets. These spyware apps can retrieve data like chats, call details, messages, browsing history, passwords, and much more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How should I respond when I learn my spouse is spying on me?
@@ -111,6 +103,10 @@ So, now when you are sure that you are being spied on by your partner, what is t
 ### Response 1: Reassure your partner and gain the trust
 
 Firstly, if you know that you are not doing anything wrong or want to prove your worth, let your spouse keep tracking you. In the end, when your spouse will not find anything suspicious about your activities and your location, he/she will know that you are right. Moreover, you can even install a GPS on your phone that you’re so that your spouse is aware of your whereabouts all the time, and when nothing suspicious will be found out he will stop spying on you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Response 2: Stop your spouse from spying on you by actionable methods
 
@@ -129,6 +125,10 @@ Another way is to anti-spy from your spouse which means that let him spy on you 
 By changing the VPN of your device, you can set a false location and your spouse will be tricked and will be forced to believe that you are somewhere else than your actual location. To change Virtual Private Network (VPN) there are different services available and some of the most popularly used ones are Express VPN, IPVanish, SurfShark, NordVPN, and others.
 
 ![stop spouse from spying on you by vpns](https://images.wondershare.com/drfone/article/2022/03/vpn.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2. A Reliable location changer, Dr.Fone - Virtual Location
 
@@ -185,6 +185,10 @@ Spying on your spouse is not only illegal but also unethical. So, if you feel th
 
 No, it is not legal to spy on a spouse in Maryland. Violating the Maryland Wiretap Act and Maryland Stored Wire Act will lead to criminal penalties. As per the law, any person, be it your spouse cannot record your calls without your consent, guess the password to have access to any account, or keep a check on any personal activities. These are considered illegal.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Q 2: Can someone spy on my Xiaomi 14 through linked contacts?
 
 No, your phone cannot be spied on using any common or linked contacts.
@@ -196,6 +200,10 @@ Yes, your phone can be spied on without anyone touching it or having access to i
 ### Wrap it Up
 
 The technological advancements may have brought a lot of convenience to the users but on the flip side there is a dark side to it as well and one of these is spying tools. So, if you too have been doubting that your spouse is keeping an eye on your phone and whereabouts, the above content will surely help you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Full Guide to Fix iToolab AnyGO Not Working On Xiaomi 14
 
@@ -287,10 +295,6 @@ So much of the talk. If you are wondering how to use Dr.Fone - Virtual Location 
 - Download it from another website. Now click the “Open” button.
 - Wait some time to complete the import process. Once done, it is now ready for use.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to teleport anywhere around the globe
 
 - Firstly download the Dr. Fone Virtual Location app. Though the app's current version has an old interface, the functionality is cleared from any glitches. The latest interface will soon be available. Now click on the “Virtual Location” from the options and connect your Android/ iPhone to your computer, and hit “Get Started”.
@@ -301,17 +305,13 @@ So much of the talk. If you are wondering how to use Dr.Fone - Virtual Location 
 - You have successfully teleported to Rome. Click “Move Here”
 - Now your location is fixed to Rome.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to add your route as a favorite
 
 - On your virtual location screen, click on the five-star beside the route and add it to your favorite.
 - Once you have added, hit the five-star icon again at the right-sidebar and locate the route you wish to use. Now hit the “Move” button and start walking along your favorite route again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to simulate movement along the route using multi-spot
@@ -351,10 +351,6 @@ Enter a number to define how many times you want to go back and forth, and selec
 
 ![set parameters to simulate](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3Start Simulation Movement
 
 The respective simulation starts, and you can see your position is moving on the map with the speed you set. If you wish to hold the simulation, click **Pause** or tap **Clear** to revert to your original state.
@@ -362,7 +358,7 @@ The respective simulation starts, and you can see your position is moving on the
 ![start one stop simulation](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Part 2: Simulate Movement Along a Route (Multi-Stop Route)
@@ -384,6 +380,10 @@ Step 2View Multi-Stop Route Movement
 As the simulation starts, click **Pause** at any instance where you want to stop the simulation. You can also **Clear** all settings if required.
 
 ![execute multi stop route simulation](https://images.wondershare.com/drfone/guide/virtual-location-12.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Part 3: Use Joystick for More Flexible GPS Control (Joystick Movement)
 
@@ -412,20 +412,21 @@ The joystick, like one-stop route or multi-stop route modes, aims to facilitate 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-live-play-and-log-mobile-gaming-with-samsung/"><u>[New] 2024 Approved Live, Play & Log Mobile Gaming with Samsung</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-top-10-must-have-accessories-for-sj4000/"><u>[New] In 2024, Top 10 Must Have Accessories for SJ4000</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-drones-as-a-creative-tool-in-filmmaking/"><u>[Updated] 2024 Approved Drones as a Creative Tool in Filmmaking</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-exclusive-catalogue-free-to-use-stock-media-sites/"><u>[Updated] 2024 Approved Exclusive Catalogue Free-to-Use Stock Media Sites</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-cut-to-perfection-producing-captivating-loop-content-for-instagram/"><u>[Updated] In 2024, Cut to Perfection Producing Captivating Loop Content for Instagram</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-iphone-7-plus-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From iPhone 7 Plus Online</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-vivo-v27-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Vivo V27 For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Poco F5 5G? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Realme Narzo N55? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Vivo V30? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-ultimate-playbook-for-exceptional-obs-studio-content/"><u>In 2024, The Ultimate Playbook for Exceptional OBS Studio Content</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-quadro-upgrade-driver-release/"><u>NVIDIA Quadro Upgrade: Driver Release</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-simplifying-image-reduction-creating-professional-thumbnails/"><u>[New] 2024 Approved Simplifying Image Reduction Creating Professional Thumbnails</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/oop-friendly-tv-setups-integrating-youtube-videos-for-2024/"><u>[New] Loop-Friendly TV Setups Integrating YouTube Videos for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-navigating-the-complexities-of-youtubes-subtitles-download-with-3-proven-techniques/"><u>[New] Navigating the Complexities of YouTube's Subtitles Download With 3 Proven Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-secure-video-communication-made-simple-with-top-10-safe-apps-on-mobile-devices/"><u>[Updated] Secure Video Communication Made Simple with Top 10 Safe Apps on Mobile Devices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/oven-ways-to-increase-youtube-views/"><u>12 Proven Ways to Increase YouTube Views</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-hone-your-talks-expert-insights-into-google-meet-chats/"><u>2024 Approved Hone Your Talks Expert Insights Into Google Meet Chats</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-10t-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme 10T 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-pro-max-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 Pro Max to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-15-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 15 Plus without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-14-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 14 Plus Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-some-outdated-hardware-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>Identify some outdated hardware drivers with Windows Device Manager on Windows 7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-motorola-moto-g84-5g-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Motorola Moto G84 5G, is it possible?</u></a></li>
+<li><a href="https://facebook.techidaily.com/prevent-digital-breach-recognize-illicit-use-signs/"><u>Prevent Digital Breach: Recognize Illicit Use Signs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-oneplus-nord-3-5g-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on OnePlus Nord 3 5G</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/social-media-blend-adding-youtube-content-to-stories-for-2024/"><u>Social Media Blend Adding YouTube Content to Stories for 2024</u></a></li>
 </ul></div>
 

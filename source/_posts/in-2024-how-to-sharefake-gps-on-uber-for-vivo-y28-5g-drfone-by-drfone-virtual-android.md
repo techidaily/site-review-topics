@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to share/fake gps on Uber for Vivo Y28 5G | Dr.fone
-date: 2025-01-20T16:55:51.484Z
-updated: 2025-01-23T19:24:10.340Z
+date: 2025-01-27T04:31:50.503Z
+updated: 2025-01-31T07:05:03.094Z
 tags: 
   - virtual location chang
   - location changer
@@ -52,7 +52,7 @@ Faking GPS on android is also super easy and it allows the users to spoof the lo
 ![download fake GPS android](https://drfone.wondershare.com/2020/download_fake_GPS_android.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2.** Within the software information of the phone tap the build number 7 times to enable the developer’s options.
@@ -63,21 +63,17 @@ Faking GPS on android is also super easy and it allows the users to spoof the lo
 
 ![enable mock location android](https://drfone.wondershare.com/2020/enable_mock_location_android.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4.** Select the location where you want to spoof and then press the play button. Your location will be changed and your phone will also show and lock your spoofed location.
 
 ![spoof location on android](https://drfone.wondershare.com/2020/spoof_location_on_android.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to share a fake GPS on Uber for iPhone
 
 For fake GPS Uber, many applications can be used to get the work done on the iPhone. It is however advised to make sure that the best application is chosen for the results.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.1 How to select a Good Location Application for iPhone?
 
@@ -142,7 +138,7 @@ Click move here and you will get to the teleported location. It will also make s
 ![virtual location 5](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 6: Complete the Process**
@@ -150,10 +146,6 @@ Click move here and you will get to the teleported location. It will also make s
 The iDevice of your will also show the same location as on the program and this completes the process in full.
 
 ![virtual location 6](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to share a fake GPS on Uber for Android
 
@@ -170,7 +162,7 @@ This is another important method that can be used to make sure to easily fake GP
 ![gps go fake location android](https://drfone.wondershare.com/2020/gps_go_fake_location_android.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Use Location Changer
@@ -184,7 +176,7 @@ It is also one of the easiest ways to make sure that the location is changed. Yo
 No matter whatever the process you use for the location spoofing it is the [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) that surpasses all with ease and perfection. It is one of the easiest and the most used programs that will make sure that the location spoofing is performed with 100% accuracy. With Dr. Fone changing location has been too easy to perform. The application is backed by a highly technical team and it will get you the results that you have always been longing for.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 Ways to Fake GPS Without Root On Vivo Y28 5G
@@ -219,6 +211,10 @@ Download Dr.Fone – Virtual Location on your PC and run it to begin **fake GPS 
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Connect Your Device**
 
 Connect your iOS device with the lightning cable or your Vivo Y28 5G using a USB cable. You can also connect your iOS device via WiFi after being connected once. Click on “Get Started” now.
@@ -238,7 +234,7 @@ Click the second icon present in the upper right to turn on the “teleport mode
 ![choose destination you want](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4: Chance the Location**
@@ -250,6 +246,10 @@ Now, you will be able to trick all the location-based apps with your fake locati
 Even when you click the “Center On” icon for location yourself, the location will remain fixed to where you have done teleporting.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/r2GiOQxwfQc" frameborder="0" allowfullscreen=""></iframe>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Other APPs to fake GPS without jailbreak no root
 
@@ -291,6 +291,10 @@ You'll have fun letting your friends think you're partying like a rock star or r
 - It Consumes too much battery.
 - It doesn’t work on all GPS-related apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **GPS Emulator**
 
 [GPS emulator](https://play.google.com/store/apps/details?id=com.rosteam.gpsemulator&hl=en_IN&gl=US) is another such application that helps you in **fake GPS no root.** If you're looking to fake your location without too many advanced features, this might be for you. It's straightforward, and it gets the job done quickly. It demands modification in your Vivo Y28 5G setting like turning on the developer mode, deactivating mock location, etc.
@@ -308,10 +312,6 @@ You'll have fun letting your friends think you're partying like a rock star or r
 
 - No updates for so long.
 - May heat up the phone if used for long.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -383,10 +383,6 @@ _Runs on_: iOS and Android
 
 ![Map My Run App](https://images.wondershare.com/drfone/article/2021/04/best-route-generator-apps-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. **GPX Creator**
 
 This is a lightweight route generator app for iOS devices that would let you create in-depth GPX files for any location of your choice.
@@ -416,6 +412,10 @@ _Runs_ _on_: Android
 _Price_: Free or $1.99
 
 ![GPX Viewer Android App](https://images.wondershare.com/drfone/article/2021/04/best-route-generator-apps-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to View GPX Files Offline on your PC?
 
@@ -447,22 +447,24 @@ I’m sure that after reading this guide, you would be able to pick the best rou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/-powerful-methods-to-make-money-on-your-youtube-shorts-for-2024/"><u>[New] 9 Powerful Methods to Make Money on Your YouTube Shorts for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-conversion-roadmap-turning-sdr-into-hdr-cinema/"><u>[New] Ultimate Conversion Roadmap Turning SDR Into HDR Cinema</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-step-into-the-world-of-chroma-keying-youtubes-guide-to-green-screens/"><u>[Updated] Step Into the World of Chroma Keying – YouTube's Guide to Green Screens</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-marketing-playbook-for-digital-beginners-on-reddit/"><u>[Updated] The Ultimate Marketing Playbook for Digital Beginners on Reddit</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-perfecting-audio-precision-key-eq-settings-explored/"><u>2024 Approved Perfecting Audio Precision Key EQ Settings Explored</u></a></li>
-<li><a href="https://review-topics.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/iful-beginnings-creating-your-personalized-glam-vlog-for-2024/"><u>Beautiful Beginnings Creating Your Personalized Glam Vlog for 2024</u></a></li>
-<li><a href="https://discover-help.techidaily.com/best-free-methods-how-to-change-mp4-videos-into-ogg-format-across-all-platforms/"><u>Best FREE Methods: How to Change MP4 Videos Into OGG Format Across All Platforms</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-of-genius-widecam-f100-detailed-images-and-audio-quality-insights/"><u>Expert Analysis of Genius WideCam F100: Detailed Images & Audio Quality Insights</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-your-infinix-smart-7-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Infinix Smart 7 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-plus-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Plus To Android devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-oppo-a1-5g-by-drfone-android-unlock-android-unlock/"><u>How to unlock Oppo A1 5G</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>Identify missing or malfunctioning drivers with Windows Device Manager on Windows 11/10</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Infinix Smart 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-gps-location-on-honor-play-7t-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Honor Play 7T Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-the-secrets-mastering-drm-removal-techniques-for-adobes-pdf-and-epub-files/"><u>Unlock the Secrets: Mastering DRM Removal Techniques for Adobe's PDF and ePub Files</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-quick-video-wins-essential-ideas-for-vloggers/"><u>[New] 2024 Approved Quick Video Wins Essential Ideas for Vloggers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-avoiding-vr-nausea/"><u>[New] The Ultimate Guide to Avoiding VR Nausea</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-best-qpr-index-for-sluggish-video-content/"><u>[Updated] Best QPR Index for Sluggish Video Content</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-storing-image-frames-from-videos-on-windows-11/"><u>[Updated] Storing Image Frames From Videos on Windows 11</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/15407329-updated-top-6-youtube-outro-makers-lots-of-free-options/"><u>[Updated] Top 6 YouTube Outro Makers - Lots of FREE Options</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-beginners-approach-to-title-and-caption-integration-in-windows-10-photos/"><u>2024 Approved A Beginner's Approach to Title and Caption Integration in Windows 10 Photos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hitman-3-for-pc-resolving-unexpected-black-screen-errors-effectively/"><u>Hitman 3 for PC - Resolving Unexpected Black Screen Errors Effectively</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6-plus-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6 Plus To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 To Other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-xs-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock iPhone XS without Face ID</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-galaxy-m34-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Galaxy M34</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-mov-videos-on-galaxy-xcover-6-pro-tactical-edition-by-aiseesoft-video-converter-play-mov-on-android/"><u>Issues playing MOV videos on Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Motorola won’t play AVCHD .mts files</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-honor-90-pro-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Honor 90 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-realme-c55-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Realme C55</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/stellaris-game-analysis-galactic-journey-through-star-systems/"><u>Stellaris Game Analysis: Galactic Journey Through Star Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-game-crashing-effortless-tips-to-get-league-of-legends-running-smoothly-again/"><u>Stop Game-Crashing: Effortless Tips to Get League of Legends Running Smoothly Again</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-tecno-pova-5-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Tecno Pova 5 | Dr.fone</u></a></li>
 </ul></div>
 
