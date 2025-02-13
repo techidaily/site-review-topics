@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix Honor Magic 6 Find My Friends No Location Found? | Dr.fone
-date: 2025-01-29T02:05:37.419Z
-updated: 2025-01-31T00:50:24.275Z
+date: 2025-02-07T18:32:33.643Z
+updated: 2025-02-12T16:14:33.545Z
 tags: 
   - virtual location chang
   - location changer
@@ -33,6 +33,10 @@ When you are searching for your friend's current location and it shows that "no 
 
 ![no location found](https://images.wondershare.com/drfone/article/2022/06/find-my-friends-no-location-found-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **_Option #1:_** Your friend has not signed in to the "Find My Friends" application. Make sure that they are registered in the application before tracking their location.
 
 _**Option #2:**_ The other person's mobile is not connected to the internet or their phone is off. This could also be another common reason why you cannot see their location.
@@ -44,10 +48,6 @@ _**Option #4:**_ The other user must have set up the wrong date and time. If the
 **_Option #5:_** The application might not have been enabled under "Location Services". Make sure that the application has the permission to track your current location and you can do this by following the steps below.
 
 ![no location found](https://images.wondershare.com/drfone/article/2022/06/find-my-friends-no-location-found-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - _**Step 1:**_ Go to "Settings" and then "Privacy".
 - _**Step 2:**_ You can then go to "Location Services" and make sure that the application "Find My Friends" is enabled to track your location.
@@ -75,6 +75,10 @@ _**Option #2:**_ Make sure that you or the other user is connected to the intern
 - _Step 2:_ After, you can look for "Location Services" and enable it.
 
 **_Option #4_:** Enable "Location Services" for the "Find My Friends" application. There could be instances where your "Location Services" is not enabled for the application.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Share Your Location with Find My Friends App?
 
@@ -106,10 +110,6 @@ You can use this application by following the steps below.
 _**Step 1:**_ Download the "Dr. Fone - Virtual Location" software on your laptop. Open and choose "Virtual Location".
 
 ![start drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **_Step 2:_** You can then connect your phone to your computer and click on "Get Started".
 
@@ -154,10 +154,6 @@ Whether you are currently using the app or not, the Life360 app tracker will alw
 Every time a family member departs or comes someplace, an alert is sent to the rest of the family. You can share your location with an adult, and they can see how fast you were driving, how long it took you to come home, and who was home or at school while you were gone.
 
 In addition, adults and children may obtain real-time instructions from a particular family member. For example, you may touch an icon of a family member to receive instructions to that user's location on the Life360 website.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Is Life360 Always Accurate?
 
@@ -235,21 +231,25 @@ For iPhone users, after the program has been linked via a USB cord, it is possib
 
 ![choose destination you want](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5:** Now you're in Rome instead of wherever you were before. Your iOS or Android smartphone will always show Rome, Italy as your location, regardless of where you really are. This is the exact same location that appears in your location-based program.
 
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 ## Part 6: FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. What are Life360 events?
 
 Although Life360 events are a great way to keep your loved ones informed about your whereabouts, they also provide information about your location, like the weather, time, and date. You can even set an alert when you arrive at a specific location.
 
 For example, if you want to see who is at your house, you can set an event to notify you when someone enters or leaves your home.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. What does protecting a drive on Life360 do?
 
@@ -258,10 +258,6 @@ Improve your family's driving habits by getting a weekly picture of everyone's d
 Find out about things like your highest speed and whether or not you text while driving, among other things. Then, take a look at individual drives to find out details such as the exact route taken, the number of kilometers recorded, the peak speed, driving style, and the locations of any driving incidents.
 
 When Circle members are on the road, whether driving, using public transportation, or traveling with companions, keep an eye on their peak speed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Why does life360 show walking instead of driving?
 
@@ -293,10 +289,6 @@ If yes, then we have safe and reliable tricks that will help you to fake GPS on 
 
 In this article, we are going to discuss some useful tricks to fake GPS without a mock location that will protect your privacy. Take a look!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: What Is Mock Location?
 
 Mock location is a feature in android devices that specify the different locations when using fake GPS apps. Basically, it helps with location spoofing in the android emulator, and you can easily test your GPS applications.
@@ -312,6 +304,10 @@ There are many free location spoofing apps available in the Google Play Store th
 Under the developer option, allow mock location apk is very popular and useful due to its diverse use. You can use a mock location apk to test your virtual location settings and to test the functions of the fake location app. If you area app developer, you can test how your apps are working on a particular location.
 
 In the below section, we have discussed some of the major uses of mock location feature on Android devices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.1 For AR Games
 
@@ -331,10 +327,6 @@ In addition to AR-based games, you can also spoof dating apps like Tinder and Gr
 
 Again to spoof dating apps, you will need to enable allow mock location apk feature on android devices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: How Mock Locations Change Your Mobile Location?
 
 Now, let’s check out how you can mock locations on Your Honor Magic 6s. Ideally, you will need to enable allow mock location to select a fake location spoofer app under it. With fake GPS spoofer, you can fake your android location.
@@ -347,17 +339,21 @@ Most of the latest android phones come with the inbuilt mock location feature. T
 
 ![allow mock location android](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Now, tap on the Build Number option seven times without a break to enable the developer option.
 
 ![tap on build number seven times](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** After this, go back to Settings, and there you will newly added Developer Options.
 
 ![newly added developer options](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4:** Tap on the newly added developer option and toggle on its field.
 
@@ -374,7 +370,7 @@ After enable “allow mock location” on an android mobile phone, you will need
 ![go to play store and search](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2:** From the list, you can download any free or paid spoofing apps on your device. Some other free apps are Fake GPS and GPS Emulator.
@@ -388,6 +384,10 @@ After enable “allow mock location” on an android mobile phone, you will need
 **Step 5:** Under developer options, you will see the “Mock Location App” field and tap on it to get a list installed GPS spoofing apps. Select the Fake GPS app from the list to set it the default mock location apk.
 
 Now you are able to spoof dating apps or gaming apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3.3 How to change your iPhone location?
 
@@ -417,11 +417,11 @@ Here are the steps that you will need to follow to install Dr. Fone in your devi
 
 Now you are ready to spoof iPhone without compromising the privacy of the Phone.
 
-## Part 4: Mock Location Feature On Different Android Models
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Part 4: Mock Location Feature On Different Android Models
 
 ### Mock Location on Samsung and Motto
 
@@ -461,15 +461,18 @@ We hope that after reading the above article, you would be able to allow mock lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-subscriber-surge-strategy-on-flexible-budget-for-2024/"><u>[Updated] Subscriber Surge Strategy on Flexible Budget for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-achieving-caption-excellence-an-overview-of-premium-internet-tools/"><u>2024 Approved Achieving Caption Excellence An Overview of Premium Internet Tools</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-tips-to-effortlessly-update-amd-graphics-drivers/"><u>Essential Tips to Effortlessly Update AMD Graphics Drivers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>Identify missing or malfunctioning your hardware drivers with Windows Device Manager in Windows 11/10</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/iphone-se-data-recovery-an-infographic-to-conquer-iphone-data-loss-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone SE Data Recovery – An Infographic to Conquer iPhone Data Loss | Stellar</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/nutzung-von-nvenc-fur-effizientes-video-kodieren-mit-handbrake-erfolgreiche-implementierung-erfahren/"><u>Nutzung Von NVENC Für Effizientes Video-Kodieren Mit HandBrake – Erfolgreiche Implementierung Erfahren</u></a></li>
-<li><a href="https://review-topics.techidaily.com/reinstall-your-drivers-with-device-manager-on-windows-11-by-drivereasy-guide/"><u>Reinstall your drivers with Device Manager on Windows 11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unveiling-the-mystery-scriptwriting-for-documentaries/"><u>Unveiling the Mystery Scriptwriting for Documentaries</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Vivo V27e? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-essential-guide-sharpening-your-iphone-pics-without-paid-apps/"><u>[New] Essential Guide Sharpening Your iPhone Pics Without Paid Apps</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-unleash-speed-in-your-youtube-videography-with-rapid-techniques/"><u>[Updated] Unleash Speed in Your YouTube Videography with Rapid Techniques</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/breaking-language-barriers-elevate-your-content-with-the-best-free-video-translator-apps/"><u>Breaking Language Barriers Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-your-hands-on-the-latest-apple-pencil-2nd-generation-at-a-bargain-price-of-95-exclusive-labor-day-offer/"><u>Get Your Hands on the Latest Apple Pencil (2Nd Generation) at a Bargain Price of $95 - Exclusive Labor Day Offer!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-your-hardware-drivers-in-windows-11-and-10-by-drivereasy-guide/"><u>How to use Device Manager to reinstall your hardware drivers in Windows 11 & 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-your-drivers-on-windows-10-by-drivereasy-guide/"><u>How to use Device Manager to update your drivers on Windows 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-note-30-pro-music-recovery-recover-deleted-music-from-infinix-note-30-pro-by-fonelab-android-recover-music/"><u>Infinix Note 30 Pro Music Recovery - Recover Deleted Music from Infinix Note 30 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/iphone-12-data-recovery-an-infographic-to-conquer-iphone-data-loss-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone 12 Data Recovery – An Infographic to Conquer iPhone Data Loss | Stellar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-data-recovery-recover-lost-data-from-oppo-reno-10-pro-5g-by-fonelab-android-recover-data/"><u>Oppo Data Recovery – recover lost data from Oppo Reno 10 Pro 5G</u></a></li>
+<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-getting-windows-10-to-recognize-your-usb-devices/"><u>The Ultimate Guide to Getting Windows 10 to Recognize Your USB Devices</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ated-dj-templates-free-access-for-music-makers-for-2024/"><u>Top-Rated DJ Templates Free Access for Music Makers for 2024</u></a></li>
 </ul></div>
 

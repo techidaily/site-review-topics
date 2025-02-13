@@ -1,7 +1,7 @@
 ---
 title: "Innovative Japanese Playland: Kids Master Computing Skills Using Real CPU & Hardware"
-date: 2025-01-29T11:27:23.939Z
-updated: 2025-01-31T05:09:09.938Z
+date: 2025-02-11T20:41:50.881Z
+updated: 2025-02-12T20:57:25.826Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,20 +68,24 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-essential-manual-to-operating-streamlabs-obs/"><u>[New] 2024 Approved The Essential Manual to Operating Streamlabs OBS</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-efficiently-downloading-youtube-sections-in-minutes/"><u>[New] Efficiently Downloading YouTube Sections in Minutes</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-complete-users-manual-to-zoom-meeting-recordings/"><u>[New] In 2024, The Complete User's Manual to Zoom Meeting Recordings</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-perfecting-the-art-of-silence-increase-in-audacity/"><u>[New] Perfecting the Art of Silence Increase in Audacity</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-audience-engagement-trends-to-master-on-instagram/"><u>[Updated] Audience Engagement Trends to Master on Instagram</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-achieving-peak-zoom-resolution-effective-techniques/"><u>[Updated] In 2024, Achieving Peak Zoom Resolution Effective Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-excellent-videocameras-of-the-year-2024/"><u>[Updated] The Excellent Videocameras of the Year 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/androids-premier-music-video-experience-6-picks/"><u>Android's Premier Music Video Experience 6 Picks</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6 to other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-xr-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone XR Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-oppo-find-x7-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Oppo Find X7</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-childrens-tablets-handpicked-by-moms-and-dads-as-seen/"><u>Ultimate Guide to Children's Tablets: Handpicked by Moms and Dads, as Seen</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-unlocking-the-potential-of-onestream-live-streaming/"><u>[New] 2024 Approved Unlocking the Potential of OneStream Live Streaming</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-building-an-audience-on-ig-steps-to-reach-1k-in-one-month-for-2024/"><u>[New] Building an Audience on IG Steps to Reach 1K in One Month for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-hidden-layers-of-personal-information/"><u>[New] In 2024, Hidden Layers of Personal Information</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unveiling-the-10-best-free-os-agnostic-video-solutions-for-2024/"><u>[New] Unveiling the 10 Best Free OS-Agnostic Video Solutions for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-canon-printer-software-for-win11-8-and-7-get-the-latest-drivers/"><u>Download Canon Printer Software for Win11, 8 & 7 - Get the Latest Drivers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-plus-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Plus to other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6s-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6s to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-reno-11-pro-5g-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Reno 11 Pro 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-14-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 14 to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-6s-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 6s without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-h265-hevc-video-on-u23-pro-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on U23 Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/journey-to-blockchain-stardom-discover-the-top-7-generator-tools-for-2024/"><u>Journey to Blockchain Stardom - Discover the Top 7 Generator Tools for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-ch340g-device-management-ensuring-compatibility-with-the-newest-windows-10-driver-software/"><u>Mastering CH340G Device Management: Ensuring Compatibility with the Newest Windows 10 Driver Software</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-audacity-tutorial-boost-or-mute-your-sound-effectively/"><u>New In 2024, Audacity Tutorial Boost or Mute Your Sound Effectively</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nokia-data-retrieval-tool-restore-lost-data-from-nokia-g42-5g-by-fonelab-android-recover-data/"><u>Nokia Data Retrieval tool – restore lost data from Nokia G42 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-motorola-moto-g-stylus-5g-2023-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Motorola Moto G Stylus 5G (2023), is it possible?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-samsung-galaxy-m14-5g-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Samsung Galaxy M14 5G has been deleted.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-guide-updating-broadcoms-gigabit-ethernet-driver-on-your-windows-11-pc/"><u>Troubleshooting Guide: Updating Broadcom's Gigabit Ethernet Driver on Your Windows 11 PC</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1728481791683-4/"><u>ゴミ箱を飛び出したフォルダーを元通りにする方法：4つのテクニック</u></a></li>
 </ul></div>
 

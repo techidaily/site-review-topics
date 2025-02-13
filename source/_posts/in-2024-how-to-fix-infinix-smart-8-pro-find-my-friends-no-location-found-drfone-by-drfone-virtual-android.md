@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix Infinix Smart 8 Pro Find My Friends No Location Found? | Dr.fone
-date: 2025-01-27T13:10:39.371Z
-updated: 2025-01-31T12:03:58.932Z
+date: 2025-02-06T21:40:57.727Z
+updated: 2025-02-12T19:44:22.384Z
 tags: 
   - virtual location chang
   - location changer
@@ -27,6 +27,10 @@ Another advantage of having our phones with us all the time is that you can also
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Why does an Infinix Smart 8 Pro say "no location found"?
 
 When you are searching for your friend's current location and it shows that "no location found", there could be numerous reasons as to why that is happening. We have listed down the possible reasons why there is no location found.
@@ -44,10 +48,6 @@ _**Option #4:**_ The other user must have set up the wrong date and time. If the
 **_Option #5:_** The application might not have been enabled under "Location Services". Make sure that the application has the permission to track your current location and you can do this by following the steps below.
 
 ![no location found](https://images.wondershare.com/drfone/article/2022/06/find-my-friends-no-location-found-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - _**Step 1:**_ Go to "Settings" and then "Privacy".
 - _**Step 2:**_ You can then go to "Location Services" and make sure that the application "Find My Friends" is enabled to track your location.
@@ -67,10 +67,6 @@ _**Option #2:**_ Make sure that you or the other user is connected to the intern
 
 ![internet check](https://images.wondershare.com/drfone/article/2022/06/find-my-friends-no-location-found-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **_Option #3:_** Turn off and turn on your "Location Services". Usually, this simple troubleshooting can fix this issue, you can try this out and check if you can see their location now. They can turn it on by following the steps below.
 
 ![location services](https://images.wondershare.com/drfone/article/2022/06/find-my-friends-no-location-found-5.jpg)
@@ -79,10 +75,6 @@ _**Option #2:**_ Make sure that you or the other user is connected to the intern
 - _Step 2:_ After, you can look for "Location Services" and enable it.
 
 **_Option #4_:** Enable "Location Services" for the "Find My Friends" application. There could be instances where your "Location Services" is not enabled for the application.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to Share Your Location with Find My Friends App?
 
@@ -96,6 +88,10 @@ If you want to share your location in the "Find My Friends" application, you can
 ## Part 4: How to Share a Fake Location to Others in Find App?
 
 Sometimes we want our location to be kept secret and send a fake one to our friends and family. You can do that in our app, "[Dr. Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)" which allows you to share a fake location with your friends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -123,13 +119,13 @@ _**Step 1:**_ Download the "Dr. Fone - Virtual Location" software on your laptop
 
 ![locate yourself](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _**Step 4:**_ If you want to change your location, you will need to turn on the "Teleportation" mode by clicking on the first icon, typing the location you want, and then clicking on the "Go" icon.
 
 ![one stop teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **_Step 5:_** Click on "Move Here" and your current location will show up as the location that you typed on Your Infinix Smart 8 Pro.
 
@@ -138,6 +134,10 @@ _**Step 4:**_ If you want to change your location, you will need to turn on the 
 ## Conclusion
 
 We hope the tips we shared helped fix the "No Location Found" issue on your phone. Sometimes basic troubleshooting such as restarting your phone or turning off and on your GPS. You can also use our tip to use a fake location that you can send to your friends if you want to play a prank on them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to use Snapchat Location Spoofer to Protect Your Privacy On Infinix Smart 8 Pro?
 
@@ -148,10 +148,6 @@ People are very happy about Snapchat’s new Snap map feature. It lets you updat
 This feature was good news for people who were wondering how to share location on snapchat with their friends. But there is more to this than your eyes are seeing. Even when you don’t upload any posts to the stories, snapchat is still revealing your location to all your friends, whether you want it or not. Everytime you open the app, your location is being compromised. You just need to agree to share your location once, and Snapchat takes it as an invite to share your location every single time you send a snap or simply open the app to look at others’ snaps.
 
 This is very dangerous when you have unknown people on your snap friends list. You must have accidentally accepted requests from people who have similar names to your friends? You don’t really know the identity of the person unless they snap their faces to you. In the worst case scenario, you can also have an obsessed stalker who was just waiting for this chance to track you down.  The possibilities are endless. So, how to hide your snapchat location from the others on the internet? Our guide will teach you exactly that!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Part 1: Can we Hide Location on Snapchat?**
 
@@ -237,6 +233,10 @@ If you are wondering how to fake location on snapchat, then the Snapchat locatio
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4**: Once you’ve decided with your final virtual location to fake gps for snapchat, then click on ‘Move Here’. New location will update in your phone and Snapchat will detect it too.
 
 ![set the location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
@@ -289,10 +289,6 @@ But is it a reliable location changer? Or are there better alternatives to Hola 
 
 ![hole vpn cover](https://images.wondershare.com/drfone/article/2023/02/hola-vpn-cover.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1. Fake GPS location - Hola Overview
 
 Hola Fake GPS is a feature offered by the popular Hola VPN service that allows you to mask your actual location to a location of your choice. Since it does not have high bandwidth like the reputed VPN services, Hola Fake GPS is unsuitable for streaming Netflix or YouTube from another location.
@@ -308,7 +304,7 @@ Here's what you have to know about the Hola Fake GPS tool before choosing to use
 **Fake GPS location:** Hola is used to spoof your location and access restricted content. In short, if there is a geo-restricted website that you cannot visit, Hola Fake GPS can help you access it. Plus, you can play location-based games like Pokémon Go to navigate the roads of other corners of the world and catch Pokémon from the comfort of your home.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Key Features of Fake GPS location - Hola
@@ -347,7 +343,7 @@ Follow these simple steps to change your location using the Hola Fake GPS Androi
 That's how to use the Hola Fake GPS location application on the Android device to mask your real location.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3. Pros and Cons of Fake GPS location - Hola
@@ -423,7 +419,7 @@ This can be useful for a variety of purposes, such as testing location-based app
 | **G2 Ratings** | 4.7/5 | 2.3/5 |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. How to Spoof GPS Location on iPhone and Android Using Dr.Fone - Virtual Location?
@@ -437,12 +433,16 @@ One of the best things about [Dr.Fone - Virtual Location](https://tools.techidai
 ![select virtual location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2:** Connect your phone to the computer using its respective cable. Then, click Get Started on your computer and trust the Infinix Smart 8 Pro devices on your phone to proceed.
 
 ![click get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** On the next screen, you will see the current location of your device. Choose Center On if you cannot see your current location on the map.
 
@@ -507,24 +507,18 @@ Overall, if you are looking for the ultimate tool to spoof your GPS location, th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-essential-tech-mac-screenshoting-basics-for-2024/"><u>[New] Essential Tech Mac Screenshoting Basics for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-intro-to-using-snap-camera-effectively-in-meetings/"><u>[Updated] In 2024, Intro to Using Snap Camera Effectively in Meetings</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-data-driven-odyssey-of-youtubes-statistical-storytelling-2017/"><u>[Updated] The Data-Driven Odyssey of YouTube's Statistical Storytelling (2017)</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/guide-learn-the-easy-way-of-transferring-music-and-videos-via-airplay-technology-for-windows-or-mac-at-no-cost/"><u>Guide: Learn the Easy Way of Transferring Music and Videos via AirPlay Technology for Windows or Mac - At No Cost!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-previous-version-of-excel-2013-file-by-stellar-guide/"><u>How to Restore Previous Version of Excel 2013 File?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xr-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XR To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-motorola-edge-40-neo-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Motorola Edge 40 Neo</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Oppo Reno 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-harvesting-high-returns-ginger-valley-farming-tips/"><u>In 2024, Harvesting High Returns Ginger Valley Farming Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ipad-pro-or-regular-ipad-a-comprehensive-comparison-for-savvy-shoppers-tech-investment-tips/"><u>IPad Pro or Regular iPad: A Comprehensive Comparison for Savvy Shoppers | Tech Investment Tips</u></a></li>
-<li><a href="https://facebook.techidaily.com/leveraging-visuals-elevating-your-fb-storyline/"><u>Leveraging Visuals: Elevating Your FB Storyline</u></a></li>
-<li><a href="https://review-topics.techidaily.com/nokia-150-2023-music-recovery-recover-deleted-music-from-nokia-150-2023-by-fonelab-android-recover-music/"><u>Nokia 150 (2023) Music Recovery - Recover Deleted Music from Nokia 150 (2023)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-honor-70-lite-5g-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Honor 70 Lite 5G has been deleted.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-samsung-galaxy-s23-tactical-edition-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Samsung Galaxy S23 Tactical Edition has been deleted.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-12-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after 12 has been deleted.</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/ultimate-acceleration-manual-boosting-fb-video-speed-with-top-tools/"><u>Ultimate Acceleration Manual Boosting FB Video Speed with Top Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-elite-video-streamer-software-array/"><u>[New] In 2024, Elite Video Streamer Software Array</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-unleash-creative-energy-video-creation-tips-on-the-latest-windows-10-edition/"><u>[New] In 2024, Unleash Creative Energy Video Creation Tips on the Latest Windows 10 Edition</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-curious-case-of-instavideos-turned-sideways/"><u>[Updated] 2024 Approved The Curious Case of InstaVideos Turned Sideways</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-melodic-medium-finding-the-right-film-score/"><u>2024 Approved Melodic Medium Finding the Right Film Score</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726225946403-aviaacmovavi/"><u>無償のAviビデオファイルから直接AAC音楽形式へ、Movaviが解決!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/camera-apps-to-shoot-and-record-videos-on-iphone-and-andriod-phones-for-2024/"><u>Best Camera Apps to Shoot and Record Videos on iPhone and Andriod Phones for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-poco-x5-pro-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-candids-canvas-transforming-photos-with-editing-tips/"><u>In 2024, Candid's Canvas Transforming Photos with Editing Tips</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-unveiling-the-latest-in-sony-blu-ray-s6700/"><u>In 2024, Unveiling the Latest in Sony Blu-Ray S6700</u></a></li>
+<li><a href="https://review-topics.techidaily.com/new-iphone-7-plus-restore-from-icloud-stuck-on-time-remaining-estimating-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>New iPhone 7 Plus Restore from iCloud Stuck on Time Remaining Estimating | Stellar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-nokia-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Nokia has been deleted.</u></a></li>
 </ul></div>
 

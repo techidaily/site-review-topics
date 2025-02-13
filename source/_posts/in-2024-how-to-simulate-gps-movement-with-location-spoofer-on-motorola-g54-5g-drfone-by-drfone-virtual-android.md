@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Simulate GPS Movement With Location Spoofer On Motorola G54 5G? | Dr.fone
-date: 2025-01-27T10:46:54.520Z
-updated: 2025-01-31T08:03:37.933Z
+date: 2025-02-08T16:23:38.768Z
+updated: 2025-02-13T00:20:13.643Z
 tags: 
   - virtual location chang
   - location changer
@@ -48,7 +48,7 @@ The respective simulation starts, and you can see your position is moving on the
 ![start one stop simulation](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Part 2: Simulate Movement Along a Route (Multi-Stop Route)
@@ -106,10 +106,6 @@ One of the most frequent and completely understandable concern and question on p
 
 Answer: Location spoofing is safe and will go undetected as long as it is done sensibly and with the right mock location app on your iPhone and Android. You have nothing to worry about as long as you do not be particularly obvious about location mocking. This means that you should take care not to be hopping like a bunny from here and there in minutes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part III: Top Mock Location Apps for iPhone
 
 There are fewer mock location apps on the Apple Store due to Apple's strict policies on user privacy and security. Apple prioritizes maintaining a secure and reliable user experience, which limits the availability of apps that could potentially misuse location data. Therefore, this part will mainly introduce five softwares that need to be installed on a computer. Let’s come to the apps! Here are the top location spoofer apps for iPhone.
@@ -117,6 +113,10 @@ There are fewer mock location apps on the Apple Store due to Apple's strict poli
 #### 1\. [Dr.Fone - Virtual Location (iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 ![drfone virtual location ios](https://images.wondershare.com/drfone/article/2023/12/mock-location.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This is by far the best one out there. It is designed professionally and inspires trust, unlike some other apps that neither look as polished nor work as flawlessly. When in doubt, trust Wondershare’s Dr.Fone – Virtual Location (iOS) to do the job reliably and professionally in just a few clicks.
 
@@ -135,6 +135,10 @@ This is by far the best one out there. It is designed professionally and inspire
 #### 2\. iTools
 
 ![itools](https://images.wondershare.com/drfone/article/2023/12/mock-location-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 iTools by ThinkSkySoft is another great location spoofer you can use. It has an easy-to-understand interface and gets the job done.
 
@@ -200,11 +204,11 @@ Dr.Fone - Virtual Location can be used to effectively spoof GPS coordinates on A
 
 ![vpna for android](https://images.wondershare.com/drfone/article/2023/12/mock-location-11.jpg)
 
-VPNa - Fake GPS Location Go is a regularly updated mock location app for Android and a good thing about this app is that it does not require you to root your Motorola G54 5G!
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+VPNa - Fake GPS Location Go is a regularly updated mock location app for Android and a good thing about this app is that it does not require you to root your Motorola G54 5G!
 
 ## Part V: Steps To Mock Location on Android Or iPhone with Dr.Fone - Virtual Location
 
@@ -223,13 +227,13 @@ Step 1: Download and launch Dr.Fone on your computer and click on Virtual Locati
 
 ![drfone](https://images.wondershare.com/drfone/drfone/drfone-home.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Connect your device and click Get Started button after accepting the disclaimer.
 
 ![drfone virtual location get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Dr.Fone - Virtual Location opens. Click No Device at the top.
 
@@ -254,7 +258,7 @@ Step 5: Click another location or type it and choose from the traveling paramete
 ![drfone virtual location one stop mode](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Your device will start simulating movement as per your set parameters and the map will start moving. You can pause or cancel at any time.
@@ -272,6 +276,10 @@ Using a method that has been detected once, such as iSpoofer, is one way to land
 ## Closing Words
 
 Using a mock location app can be fun. You can use it for recreational purposes such as pranking friends. You can use it for practical purposes such as saving money on dating apps by mocking location on Android and iPhones to anywhere around the world to meet new people. You can use it to simulate movement anywhere in the world in location-based games. You can also use mock location apps to effectively change your geographical location to watch content not available in your true geographical area. Whatever your reason may be, what you need is a reliable mock location app so that you can spoof your location undetected. Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is one such app you can trust with your eyes closed. It is the most comprehensive location spoofer for Android and iPhone for consumers. Download it today and enjoy newfound freedom!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Complete Tutorial to Use GPS Joystick to Fake GPS Location On Motorola G54 5G
 
@@ -337,10 +345,6 @@ Once done, if “Find My Device” is enabled over your device, you need to get 
 
 ![Find my device](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Likewise, disable “Google Play” and uninstall all its updates as well. To remove updates, get into “Settings” followed by “Apps/Applications”. Scroll down to “Google Play Services” and hit on “Uninstall updates”.
 
 ![Uninstall updates](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-5.jpg)
@@ -357,10 +361,6 @@ Lastly, launch the “GPS JoyStick app” and navigate to “Settings” followe
 
 ![Enable Suspended Mocking](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2.2 For Android 6.0 and Above (Old Security Patch) - BEFORE March 5, 2017
 
 That was a detailed tutorial about the Android security patch level released “AFTER March 5, 2017”. But if your Android security patch level is before March 5, 2017, what would you have to do? Well, worry not, here is exactly what steps you need to follow to make use of the GPS joystick app to fake GPS location.
@@ -370,7 +370,7 @@ First, you need to navigate to the “Settings”. Then, opt for “Developer Op
 ![Select mock location app](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lastly, launch the “GPS JoyStick app” to fake GPS location and navigate to “Settings”. Thereafter, toggle on the “Indirect Mocking” switch, and you’re done.
@@ -409,6 +409,14 @@ Lastly, utilize the “Update” button after hitting on the “Privacy Mode” 
 
 ![bypass the blacklist of games](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: How to Use GPS Joystick to Fake Location on iPhone
 
 When you fake GPS Joystick location, you can double the joy in playing location-based games like Pokemon go, Ingress, Zombies, Run, Geocaching, etc. All these games make use of the phone location, and it will be quite interesting if you move on with exciting places worldwide.
@@ -423,10 +431,6 @@ Dr. Fone's specialist team presents [Dr.Fone - Virtual Location](https://tools.t
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/FfhgWxnARqo"></iframe>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Stepwise procedure to fake GPS with a joystick on iPhone
 
 **Step 1: Launch the app**
@@ -440,10 +444,6 @@ After a successful download, install the app through the guiding wizard. Click t
 On the first screen of Dr.Fone app, choose the ‘Virtual Location’ option.
 
 ![choose Virtual Location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3: Modify the location address**
 
@@ -481,19 +481,22 @@ Now use the “one-stop route” or “multi-stop route” to simulate the real-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-swift-guide-to-validate-your-tiktok-age/"><u>[New] The Swift Guide to Validate Your TikTok Age</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-virtual-explorers-toolkit-select-these-7-must-have-tech/"><u>[Updated] 2024 Approved Virtual Explorers' Toolkit - Select These 7 Must-Have Tech</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-bridge-gaps-in-distance-mastering-xbox-one-zooming/"><u>2024 Approved Bridge Gaps in Distance Mastering Xbox One Zooming</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pioneering-metaverse-brand-presence/"><u>2024 Approved Pioneering Metaverse Brand Presence</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/effective-techniques-for-performing-system-diagnostics-insights-by-yl-computing/"><u>Effective Techniques for Performing System Diagnostics - Insights by YL Computing</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 to other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-samsung-galaxy-s23-tactical-edition-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Samsung Galaxy S23 Tactical Edition?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Honor V Purse? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-honor-x50-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Honor X50</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/shifting-away-from-safari-in-macos-discover-the-alternatives-taking-over/"><u>Shifting Away From Safari in macOS? Discover the Alternatives Taking Over!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-asus-rog-phone-7-ultimate-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Asus ROG Phone 7 Ultimate FRP</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-quest-for-the-best-framerate-balancing-speed-and-clarity/"><u>The Quest for the Best Framerate - Balancing Speed & Clarity</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/top-5-vivo-y56-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Vivo Y56 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-enriching-zoom-video-clarity-essential-tips/"><u>[New] In 2024, Enriching Zoom Video Clarity Essential Tips</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-action-capture-duel-2022-gopro-hero5-versus-garmin-virb/"><u>[Updated] 2024 Approved Action Capture Duel 2022 GoPro Hero5 Versus Garmin VIRB</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-adobe-premiere-power-enhancing-your-youtube-presence/"><u>[Updated] 2024 Approved Adobe Premiere Power Enhancing Your YouTube Presence</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-how-to-create-a-channel-that-dominates-the-business-world/"><u>[Updated] 2024 Approved How to Create a Channel that Dominates the Business World</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-ultimate-trick-to-share-igtv-in-stories/"><u>[Updated] In 2024, The Ultimate Trick to Share IGTV in Stories</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-infinix-smart-7-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/evening-enchantments-in-motion-reviewing-childrens-narrative-videos-for-2024/"><u>Evening Enchantments in Motion Reviewing Children's Narrative Videos for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-11-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 11 Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-your-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Identify missing your hardware drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-iphone-15-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on iPhone 15</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-infinix-smart-8-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Infinix Smart 8? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-redmi-12-5g-converter-convert-mov-files-for-redmi-12-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Redmi 12 5G converter-convert .mov files for Redmi 12 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-lava-blaze-2-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Lava Blaze 2</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-motorola-moto-g14-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Motorola Moto G14</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-oppo-find-x7-ultra-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Oppo Find X7 Ultra has been deleted</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-motorola-edge-40-neo-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Motorola Edge 40 Neo has been deleted.</u></a></li>
 </ul></div>
 
