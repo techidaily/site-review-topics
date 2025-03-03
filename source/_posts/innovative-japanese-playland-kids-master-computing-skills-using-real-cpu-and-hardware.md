@@ -1,7 +1,7 @@
 ---
 title: "Innovative Japanese Playland: Kids Master Computing Skills Using Real CPU & Hardware"
-date: 2025-02-11T20:41:50.881Z
-updated: 2025-02-12T20:57:25.826Z
+date: 2025-02-27T19:19:16.127Z
+updated: 2025-03-03T20:09:23.726Z
 tags:
   - desktop
 categories:
@@ -41,10 +41,6 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -68,24 +64,22 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-unlocking-the-potential-of-onestream-live-streaming/"><u>[New] 2024 Approved Unlocking the Potential of OneStream Live Streaming</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-building-an-audience-on-ig-steps-to-reach-1k-in-one-month-for-2024/"><u>[New] Building an Audience on IG Steps to Reach 1K in One Month for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-hidden-layers-of-personal-information/"><u>[New] In 2024, Hidden Layers of Personal Information</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-unveiling-the-10-best-free-os-agnostic-video-solutions-for-2024/"><u>[New] Unveiling the 10 Best Free OS-Agnostic Video Solutions for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-canon-printer-software-for-win11-8-and-7-get-the-latest-drivers/"><u>Download Canon Printer Software for Win11, 8 & 7 - Get the Latest Drivers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-plus-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Plus to other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6s-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6s to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-reno-11-pro-5g-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Reno 11 Pro 5G</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-14-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 14 to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-6s-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 6s without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/issues-playing-h265-hevc-video-on-u23-pro-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on U23 Pro</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/journey-to-blockchain-stardom-discover-the-top-7-generator-tools-for-2024/"><u>Journey to Blockchain Stardom - Discover the Top 7 Generator Tools for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-ch340g-device-management-ensuring-compatibility-with-the-newest-windows-10-driver-software/"><u>Mastering CH340G Device Management: Ensuring Compatibility with the Newest Windows 10 Driver Software</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-audacity-tutorial-boost-or-mute-your-sound-effectively/"><u>New In 2024, Audacity Tutorial Boost or Mute Your Sound Effectively</u></a></li>
-<li><a href="https://review-topics.techidaily.com/nokia-data-retrieval-tool-restore-lost-data-from-nokia-g42-5g-by-fonelab-android-recover-data/"><u>Nokia Data Retrieval tool – restore lost data from Nokia G42 5G</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-motorola-moto-g-stylus-5g-2023-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Motorola Moto G Stylus 5G (2023), is it possible?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-samsung-galaxy-m14-5g-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Samsung Galaxy M14 5G has been deleted.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-guide-updating-broadcoms-gigabit-ethernet-driver-on-your-windows-11-pc/"><u>Troubleshooting Guide: Updating Broadcom's Gigabit Ethernet Driver on Your Windows 11 PC</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/1728481791683-4/"><u>ゴミ箱を飛び出したフォルダーを元通りにする方法：4つのテクニック</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/apex-creative-workspace-report-in-depth-studio-analysis-2023/"><u>Apex Creative Workspace Report In-Depth Studio Analysis, 2023</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-missing-opencl-dll-files/"><u>Dealing with Missing OpenCL DLL Files</u></a></li>
+<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-magic-5-pro-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor Magic 5 Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-realme-narzo-n53-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Realme Narzo N53 Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-honor-x50-gt-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Honor X50 GT Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-apple-iphone-12-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Fake GPS On Apple iPhone 12 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Simulate GPS Movement in AR games On Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Xiaomi 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop My Spouse from Spying on My Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-nighttime-novelties-with-vocalists-recommended-guide/"><u>In 2024, Nighttime Novelties with Vocalists Recommended Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-dynamic-duo-approach-using-two-photos-in-one-instagram-story-for-2024/"><u>The Dynamic Duo Approach Using Two Photos in One Instagram Story for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-router-security-solutions-protect-your-family/"><u>Top-Rated Router Security Solutions: Protect Your Family</u></a></li>
 </ul></div>
 
